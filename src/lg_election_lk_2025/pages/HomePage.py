@@ -7,10 +7,11 @@ log = Log("HomePage")
 
 
 class HomePage(WebPage):
-    def __init__(self):
-        super().__init__("https://results.elections.gov.lk")
+    def __init__(self, driver):
+        super().__init__("https://results.elections.gov.lk", driver)
 
     def get_results_url_list(self) -> list[str]:
+        self.open()
         results_url_list = []
         for li_district in self.driver.find_elements(
             By.XPATH,

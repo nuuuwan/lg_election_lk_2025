@@ -1,18 +1,16 @@
-from lg_election_lk_2025 import HomePage, ResultPage
+from lg_election_lk_2025 import HomePage, ResultPage, WebPage
 
 
 def main():
-    home_page = HomePage()
-    home_page.open()
+    driver = WebPage.open_driver()
+    home_page = HomePage(driver)
     results_url_list = home_page.get_results_url_list()
-    home_page.close()
 
     for url in results_url_list:
-        result_page = ResultPage(url)
-        result_page.open()
-        result_page.get_results()
-        result_page.close()
-        break
+        result_page = ResultPage(url, driver)
+        result_page.scrape_and_save()
+
+    WebPage.close_driver(driver)
 
 
 if __name__ == "__main__":
