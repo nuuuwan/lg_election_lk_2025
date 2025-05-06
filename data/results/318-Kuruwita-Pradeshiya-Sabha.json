@@ -1,0 +1,81 @@
+{
+  "district_name": "Ratnapura",
+  "lg_code": "318",
+  "lg_name": "Kuruwita Pradeshiya Sabha",
+  "time_str": "2025-05-07 01:57:00",
+  "time_ut": 1746563220.0,
+  "summary_data": {
+    "electors": 108299,
+    "polled": 67868,
+    "valid": 66598,
+    "rejected": 1270,
+    "p_turnout": 0.63,
+    "p_valid": 0.98,
+    "p_rejected": 0.02
+  },
+  "party_result_data_list": [
+    {
+      "party_name": "Jathika Jana Balawegaya",
+      "party_code": "NPP",
+      "votes": 26077,
+      "p_votes": 0.39,
+      "seats": 20
+    },
+    {
+      "party_name": "Samagi Jana Balawegaya",
+      "party_code": "SJB",
+      "votes": 15438,
+      "p_votes": 0.23,
+      "seats": 10
+    },
+    {
+      "party_name": "Sri Lanka Podujana Peramuna",
+      "party_code": "SLPP",
+      "votes": 8546,
+      "p_votes": 0.13,
+      "seats": 6
+    },
+    {
+      "party_name": "People's Alliance",
+      "party_code": "PA",
+      "votes": 4291,
+      "p_votes": 0.06,
+      "seats": 3
+    },
+    {
+      "party_name": "Independent Group 1",
+      "party_code": "IND1",
+      "votes": 3366,
+      "p_votes": 0.05,
+      "seats": 2
+    },
+    {
+      "party_name": "Independent Group 2",
+      "party_code": "IND2",
+      "votes": 3348,
+      "p_votes": 0.05,
+      "seats": 2
+    },
+    {
+      "party_name": "United National Party",
+      "party_code": "UNP",
+      "votes": 3236,
+      "p_votes": 0.05,
+      "seats": 2
+    },
+    {
+      "party_name": "Democratic Left Front",
+      "party_code": "DLF",
+      "votes": 2110,
+      "p_votes": 0.03,
+      "seats": 1
+    },
+    {
+      "party_name": "People's Struggle Alliance",
+      "party_code": "PSA",
+      "votes": 186,
+      "p_votes": 0.0,
+      "seats": 0
+    }
+  ]
+}
