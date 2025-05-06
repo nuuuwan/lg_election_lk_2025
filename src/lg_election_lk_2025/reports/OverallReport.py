@@ -33,6 +33,7 @@ class OverallReport:
             file_path = os.path.join("data", "results", file_name)
             result_data = JSONFile(file_path).read()
             result_list.append(result_data)
+        result_list.sort(key=lambda x: x["lg_code"])
         return tuple(result_list)
 
     @staticmethod
