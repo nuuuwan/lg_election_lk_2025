@@ -199,14 +199,15 @@ class OverallReport:
     @staticmethod
     def get_lg_short_name(lg_name):
         lg_type = " ".join(lg_name.split(" ")[-2:])
+        lg_type_short = "".join([x[0] for x in lg_type.split(" ")])
         lg_name_only = " ".join(lg_name.split(" ")[:-2])
 
         emoji = {
-            "Municipal Council": "🏛️",
-            "Urban Council": "🏢",
-            "Pradeshiya Sabha": "🏡",
-        }.get(lg_type, None)
-        lg_type_short = "".join([x[0] for x in lg_type.split(" ")])
+            "MC": "🏛️",
+            "UC": "🏢",
+            "PS": "🏡",
+        }.get(lg_type_short, None)
+
         if emoji is None:
             raise ValueError(f"Unknown LG type: {lg_type} in {lg_name}")
         return f"{emoji}{lg_name_only} {lg_type_short}"
