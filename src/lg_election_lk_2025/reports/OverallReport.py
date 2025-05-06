@@ -154,7 +154,7 @@ class OverallReport:
         lines = [
             "## Islandwide",
             "",
-            "| Party | Wins (>½ Seats)  | Wins (All) | Seats | % | Votes | % |",
+            "| Party | Votes | %  | Seats | % | Wins (All) | Wins (>½ Seats) |",
             "|---|--:|--:|--:|--:|--:|--:|",
         ]
         lk_summary = self.lk_summary
@@ -170,12 +170,12 @@ class OverallReport:
                 + "|".join(
                     [
                         party_code,
-                        StringX(summary["n_majority"]).int_zero_blank,
-                        StringX(summary["n_wins"]).int_zero_blank,
-                        f"{seats:,}",
-                        f"{p_seats:.0%}",
                         f"{votes:,}",
                         f"{p_votes:.0%}",
+                        f"{seats:,}",
+                        f"{p_seats:.0%}",
+                        StringX(summary["n_wins"]).int_zero_blank,
+                        StringX(summary["n_majority"]).int_zero_blank,
                     ]
                 )
                 + "|"
