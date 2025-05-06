@@ -246,8 +246,8 @@ class OverallReport:
                         "",
                         f"### {district_name}",
                         "",
-                        "|  |  |  |  |  |  |",
-                        "|---|---|---|---|---|---|",
+                        "|  |  |  |  |  |  |  |",
+                        "|---|---|---|---|---|---|---|",
                     ]
                 )
                 prev_district_name = district_name
@@ -264,11 +264,13 @@ class OverallReport:
             )
             top_seats = party_result_data_list[0]["seats"]
             line = f"| `{lg_code}` | {OverallReport.get_lg_short_name(lg_name)} ({total_seats}) |"
-
+            displayed_seats = 0
             for i in range(0, 3):
+
                 party_result_data = party_result_data_list[i]
                 party_name = party_result_data["party_name"]
                 seats = party_result_data["seats"]
+                displayed_seats += seats
                 is_majority = seats >= total_seats / 2
                 cell = (
                     OverallReport.get_party_name_annotated(
@@ -282,6 +284,8 @@ class OverallReport:
                     cell = f"{cell}🟰"
                 line += cell + "|"
             url = result["url"]
+            other_seats = total_seats - displayed_seats
+            line += f" Others ({other_seats}) |"
             line += f"[...]({url})|"
             lines.append(line)
         lines.extend(
