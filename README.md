@@ -1,6 +1,6 @@
 # Sri Lankan Local Government Elections - 2025 🇱🇰
 
-As of 2025-05-07 04:15:18
+As of 2025-05-07 04:22:24
 
 *Scraped from [results.elections.gov.lk](https://results.elections.gov.lk)*
 
@@ -8,19 +8,19 @@ As of 2025-05-07 04:15:18
 
 | Results Released | % Released (By Votes) |
 |--:|--:|
-|98/339|21.71%|
+|99/339|22.89%|
 
 ## Islandwide (Top 10 by Votes)
 
 | Party | Votes | %  | Seats | % | Wins | ≥½ ✔️ |
 |---|--:|--:|--:|--:|--:|--:|
-|🔴Jathika Jana Balawegaya|946,920|41%|941|43%|77|37|
-|🟢Samagi Jana Balawegaya|458,868|20%|399|18%|3||
-|🟣Sri Lanka Podujana Peramuna|216,365|9%|191|9%|||
-|🟩United National Party|114,620|5%|101|5%|||
+|🔴Jathika Jana Balawegaya|1,007,457|42%|967|43%|78|38|
+|🟢Samagi Jana Balawegaya|471,439|20%|404|18%|3||
+|🟣Sri Lanka Podujana Peramuna|221,041|9%|193|9%|||
+|🟩United National Party|121,287|5%|104|5%|||
 |🟡Ilankai Tamil Arasu Kadchi|97,351|4%|138|6%|16|4|
-|🟦People's Alliance|90,155|4%|81|4%|||
-|🔵Sarvajana Balaya|54,015|2%|47|2%|||
+|🟦People's Alliance|91,382|4%|82|4%|||
+|🔵Sarvajana Balaya|57,683|2%|48|2%|||
 |⚪Democratic Tamil National Alliance|31,652|1%|40|2%|||
 |⚪All Ceylon Tamil Congress|28,260|1%|45|2%|2||
 |⚪Ceylon Worker's Congress (P. Wing)|23,508|1%|20|1%|1||
@@ -33,6 +33,7 @@ As of 2025-05-07 04:15:18
 |---|---|---|---|---|---|---|
 | `002` | 🏛️Dehiwala   Mount Lavinia MC (54) |**🔴JJB (29)✔️**|🟢SJB (10)|🟩UNP (5)| Others (10) |[...](https://results.elections.gov.lk/?page=lg_result&district=COLOMBO&lg_code=002&lg_name=DEHIWALA---MOUNT-LAVINIA-MUNICIPAL-COUNCIL)|
 | `003` | 🏛️Sri Jayawardenepura Kotte MC (39) |**🔴JJB (21)✔️**|🟢SJB (7)|🟦PA (3)| Others (8) |[...](https://results.elections.gov.lk/?page=lg_result&district=COLOMBO&lg_code=003&lg_name=SRI-JAYAWARDENEPURA-KOTTE-MUNICIPAL-COUNCIL)|
+| `005` | 🏛️Kaduwela MC (47) |**🔴JJB (26)✔️**|⚫IG `005` (8)|🟢SJB (5)| Others (8) |[...](https://results.elections.gov.lk/?page=lg_result&district=COLOMBO&lg_code=005&lg_name=KADUWELA-MUNICIPAL-COUNCIL)|
 | `006` | 🏢Kollonnawa UC (19) |🔴JJB (9)|🟢SJB (6)|🟩UNP (2)| Others (2) |[...](https://results.elections.gov.lk/?page=lg_result&district=COLOMBO&lg_code=006&lg_name=KOLLONNAWA-URBAN-COUNCIL)|
 | `008` | 🏢Maharagama  UC (43) |**🔴JJB (24)✔️**|🟢SJB (6)|⚫IG1 `008` (3)| Others (10) |[...](https://results.elections.gov.lk/?page=lg_result&district=COLOMBO&lg_code=008&lg_name=MAHARAGAMA--URBAN-COUNCIL)|
 | `009` | 🏢Kesbewa UC (34) |**🔴JJB (20)✔️**|🟢SJB (5)|🟣SLPP (3)| Others (6) |[...](https://results.elections.gov.lk/?page=lg_result&district=COLOMBO&lg_code=009&lg_name=KESBEWA-URBAN-COUNCIL)|
