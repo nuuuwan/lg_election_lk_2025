@@ -149,6 +149,28 @@ class OverallReport:
         )
         return lk_party_to_summary
 
+    @staticmethod
+    def get_lk_party_to_summary_lines_row(party_code, summary, lk_summary):
+        seats = summary["seats"]
+        votes = summary["votes"]
+        p_seats = seats / lk_summary["seats"]
+        p_votes = votes / lk_summary["votes"]
+        return (
+            "|"
+            + "|".join(
+                [
+                    party_code,
+                    f"{votes:,}",
+                    f"{p_votes:.0%}",
+                    f"{seats:,}",
+                    f"{p_seats:.0%}",
+                    StringX(summary["n_wins"]).int_zero_blank,
+                    StringX(summary["n_majority"]).int_zero_blank,
+                ]
+            )
+            + "|"
+        )
+
     @property
     def lk_party_to_summary_lines(self):
         lines = [
@@ -161,25 +183,12 @@ class OverallReport:
         lk_party_to_summary = self.lk_party_to_summary
 
         for party_code, summary in lk_party_to_summary.items():
-            seats = summary["seats"]
-            votes = summary["votes"]
-            p_seats = seats / lk_summary["seats"]
-            p_votes = votes / lk_summary["votes"]
             lines.append(
-                "|"
-                + "|".join(
-                    [
-                        party_code,
-                        f"{votes:,}",
-                        f"{p_votes:.0%}",
-                        f"{seats:,}",
-                        f"{p_seats:.0%}",
-                        StringX(summary["n_wins"]).int_zero_blank,
-                        StringX(summary["n_majority"]).int_zero_blank,
-                    ]
+                OverallReport.get_lk_party_to_summary_lines_row(
+                    party_code, summary, lk_summary
                 )
-                + "|"
             )
+
         lines.extend(
             [
                 "",
