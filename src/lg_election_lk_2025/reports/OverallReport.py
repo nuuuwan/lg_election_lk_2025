@@ -37,10 +37,23 @@ class OverallReport:
 
     @staticmethod
     @cache
+    def get_party_emoji(party_name):
+        return {
+            "Jathika Jana Balawegaya": "🔴",
+            "United National Party": "🟩",
+            "Sri Lanka Podujana Peramuna": "🟣",
+            "Samagi Jana Balawegaya": "🟢",
+            "Ilankai Tamil Arasu Kadchi": "🟡",
+            "Sarvajana Balaya": "🔵",
+            "People's Alliance": "🟦",
+        }.get(party_name, "")
+
+    @staticmethod
+    @cache
     def get_party_name_annotated(party_name, lg_code):
         if party_name.startswith("Independent"):
             return f"{party_name} [{lg_code}]"
-        return party_name
+        return OverallReport.get_party_emoji(party_name) + party_name
 
     @staticmethod
     def process_result(party_to_summary, result):
@@ -130,12 +143,7 @@ class OverallReport:
         lk_party_to_summary = dict(
             sorted(
                 party_to_summary.items(),
-                key=lambda item: (
-                    item[1]["n_majority"],
-                    item[1]["n_wins"],
-                    item[1]["seats"],
-                    item[1]["votes"],
-                ),
+                key=lambda item: (item[1]["votes"],),
                 reverse=True,
             )
         )
