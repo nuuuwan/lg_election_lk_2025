@@ -1,0 +1,74 @@
+{
+  "district_name": "Mullaitivu",
+  "lg_code": "178",
+  "lg_name": "Puthukkudiyiruppu Pradeshiya Sabha",
+  "time_str": "2025-05-07 01:10:00",
+  "time_ut": 1746560400.0,
+  "summary_data": {
+    "electors": 41212,
+    "polled": 23559,
+    "valid": 23005,
+    "rejected": 554,
+    "p_turnout": 0.57,
+    "p_valid": 0.98,
+    "p_rejected": 0.02
+  },
+  "party_result_data_list": [
+    {
+      "party_name": "Ilankai Tamil Arasu Kadchi",
+      "party_code": "ITAK",
+      "votes": 10816,
+      "p_votes": 0.47,
+      "seats": 11
+    },
+    {
+      "party_name": "Jathika Jana Balawegaya",
+      "party_code": "NPP",
+      "votes": 4028,
+      "p_votes": 0.18,
+      "seats": 4
+    },
+    {
+      "party_name": "Democratic Tamil National Alliance",
+      "party_code": "DTNA",
+      "votes": 2652,
+      "p_votes": 0.12,
+      "seats": 2
+    },
+    {
+      "party_name": "Independent Group",
+      "party_code": "IND1",
+      "votes": 2491,
+      "p_votes": 0.11,
+      "seats": 2
+    },
+    {
+      "party_name": "All Ceylon Tamil Congress",
+      "party_code": "ACTC",
+      "votes": 1174,
+      "p_votes": 0.05,
+      "seats": 1
+    },
+    {
+      "party_name": "Samagi Jana Balawegaya",
+      "party_code": "SJB",
+      "votes": 1026,
+      "p_votes": 0.04,
+      "seats": 1
+    },
+    {
+      "party_name": "Sri Lanka Labour Party",
+      "party_code": "SLLP",
+      "votes": 658,
+      "p_votes": 0.03,
+      "seats": 1
+    },
+    {
+      "party_name": "People's Alliance",
+      "party_code": "PA",
+      "votes": 160,
+      "p_votes": 0.01,
+      "seats": 0
+    }
+  ]
+}
