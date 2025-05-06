@@ -1,0 +1,53 @@
+{
+  "district_name": "Trincomalee",
+  "lg_code": "217",
+  "lg_name": "Morawewa Pradeshiya Sabha",
+  "time_str": "2025-05-07 00:27:00",
+  "time_ut": 1746557820.0,
+  "summary_data": {
+    "electors": 6918,
+    "polled": 5278,
+    "valid": 5209,
+    "rejected": 69,
+    "p_turnout": 0.76,
+    "p_valid": 0.99,
+    "p_rejected": 0.01
+  },
+  "party_result_data_list": [
+    {
+      "party_name": "Jathika Jana Balawegaya",
+      "party_code": "NPP",
+      "votes": 2663,
+      "p_votes": 0.51,
+      "seats": 9
+    },
+    {
+      "party_name": "Sri Lanka Podujana Peramuna",
+      "party_code": "SLPP",
+      "votes": 1060,
+      "p_votes": 0.2,
+      "seats": 3
+    },
+    {
+      "party_name": "Samagi Jana Balawegaya",
+      "party_code": "SJB",
+      "votes": 847,
+      "p_votes": 0.16,
+      "seats": 3
+    },
+    {
+      "party_name": "All Ceylon Makkal Congress",
+      "party_code": "ACMC",
+      "votes": 427,
+      "p_votes": 0.08,
+      "seats": 1
+    },
+    {
+      "party_name": "Ilankai Tamil Arasu Kadchi",
+      "party_code": "ITAK",
+      "votes": 212,
+      "p_votes": 0.04,
+      "seats": 1
+    }
+  ]
+}

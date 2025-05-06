@@ -1,0 +1,88 @@
+{
+  "district_name": "Colombo",
+  "lg_code": "006",
+  "lg_name": "Kollonnawa Urban Council",
+  "time_str": "2025-05-07 00:25:00",
+  "time_ut": 1746557700.0,
+  "summary_data": {
+    "electors": 43470,
+    "polled": 25855,
+    "valid": 25265,
+    "rejected": 590,
+    "p_turnout": 0.59,
+    "p_valid": 0.98,
+    "p_rejected": 0.02
+  },
+  "party_result_data_list": [
+    {
+      "party_name": "Jathika Jana Balawegaya",
+      "party_code": "NPP",
+      "votes": 11099,
+      "p_votes": 0.44,
+      "seats": 9
+    },
+    {
+      "party_name": "Samagi Jana Balawegaya",
+      "party_code": "SJB",
+      "votes": 7848,
+      "p_votes": 0.31,
+      "seats": 6
+    },
+    {
+      "party_name": "United National Party",
+      "party_code": "UNP",
+      "votes": 2955,
+      "p_votes": 0.12,
+      "seats": 2
+    },
+    {
+      "party_name": "Sri Lanka Podujana Peramuna",
+      "party_code": "SLPP",
+      "votes": 1473,
+      "p_votes": 0.06,
+      "seats": 1
+    },
+    {
+      "party_name": "Sarvajana Balaya",
+      "party_code": "SB",
+      "votes": 857,
+      "p_votes": 0.03,
+      "seats": 1
+    },
+    {
+      "party_name": "People's Alliance",
+      "party_code": "PA",
+      "votes": 627,
+      "p_votes": 0.02,
+      "seats": 0
+    },
+    {
+      "party_name": "United Peace Alliance",
+      "party_code": "UPA",
+      "votes": 215,
+      "p_votes": 0.01,
+      "seats": 0
+    },
+    {
+      "party_name": "All Ceylon Makkal Congress",
+      "party_code": "ACMC",
+      "votes": 129,
+      "p_votes": 0.01,
+      "seats": 0
+    },
+    {
+      "party_name": "Jana Setha Peramuna",
+      "party_code": "JSP",
+      "votes": 38,
+      "p_votes": 0.0,
+      "seats": 0
+    },
+    {
+      "party_name": "Socialist Equality Party",
+      "party_code": "SEP",
+      "votes": 24,
+      "p_votes": 0.0,
+      "seats": 0
+    }
+  ]
+}
