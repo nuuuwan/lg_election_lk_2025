@@ -262,7 +262,7 @@ class OverallReport:
                 party_result_data["seats"]
                 for party_result_data in party_result_data_list
             )
-
+            top_seats = party_result_data_list[0]["seats"]
             line = f"| `{lg_code}` | {OverallReport.get_lg_short_name(lg_name)} ({total_seats}) |"
 
             for i in range(0, 3):
@@ -278,6 +278,8 @@ class OverallReport:
                 )
                 if is_majority:
                     cell = f"**{cell}✔️**"
+                if i > 0 and seats == top_seats:
+                    cell = f"{cell}🟰"
                 line += cell + "|"
             url = result["url"]
             line += f"[...]({url})|"
