@@ -1,0 +1,68 @@
+{
+  "district_name": "Ratnapura",
+  "lg_code": "319",
+  "lg_name": "Pelmadulla Pradeshiya Sabha",
+  "url": "https://results.elections.gov.lk/?page=lg_result&district=RATNAPURA&lg_code=319&lg_name=PELMADULLA-PRADESHIYA-SABHA",
+  "time_str": "2025-05-07 04:25:00",
+  "time_ut": 1746572100.0,
+  "summary_data": {
+    "electors": 75112,
+    "polled": 45012,
+    "valid": 44126,
+    "rejected": 886,
+    "p_turnout": 0.6,
+    "p_valid": 0.98,
+    "p_rejected": 0.02
+  },
+  "party_result_data_list": [
+    {
+      "party_name": "Jathika Jana Balawegaya",
+      "party_code": "NPP",
+      "votes": 18760,
+      "p_votes": 0.43,
+      "seats": 16
+    },
+    {
+      "party_name": "Samagi Jana Balawegaya",
+      "party_code": "SJB",
+      "votes": 13223,
+      "p_votes": 0.3,
+      "seats": 11
+    },
+    {
+      "party_name": "Sri Lanka Podujana Peramuna",
+      "party_code": "SLPP",
+      "votes": 6230,
+      "p_votes": 0.14,
+      "seats": 5
+    },
+    {
+      "party_name": "United National Party",
+      "party_code": "UNP",
+      "votes": 2757,
+      "p_votes": 0.06,
+      "seats": 2
+    },
+    {
+      "party_name": "Democratic Peoples Front",
+      "party_code": "DPF",
+      "votes": 1477,
+      "p_votes": 0.03,
+      "seats": 1
+    },
+    {
+      "party_name": "Sarvajana Balaya",
+      "party_code": "SB",
+      "votes": 1213,
+      "p_votes": 0.03,
+      "seats": 1
+    },
+    {
+      "party_name": "People's Alliance",
+      "party_code": "PA",
+      "votes": 466,
+      "p_votes": 0.01,
+      "seats": 1
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "district_name": "Colombo",
+  "lg_code": "007",
+  "lg_name": "Seethawakapura Urban Council",
+  "url": "https://results.elections.gov.lk/?page=lg_result&district=COLOMBO&lg_code=007&lg_name=SEETHAWAKAPURA-URBAN-COUNCIL",
+  "time_str": "2025-05-07 04:27:00",
+  "time_ut": 1746572220.0,
+  "summary_data": {
+    "electors": 21876,
+    "polled": 15056,
+    "valid": 14759,
+    "rejected": 297,
+    "p_turnout": 0.69,
+    "p_valid": 0.98,
+    "p_rejected": 0.02
+  },
+  "party_result_data_list": [
+    {
+      "party_name": "Jathika Jana Balawegaya",
+      "party_code": "NPP",
+      "votes": 5553,
+      "p_votes": 0.38,
+      "seats": 11
+    },
+    {
+      "party_name": "Samagi Jana Balawegaya",
+      "party_code": "SJB",
+      "votes": 4025,
+      "p_votes": 0.27,
+      "seats": 6
+    },
+    {
+      "party_name": "Independent Group 2",
+      "party_code": "IND2",
+      "votes": 2457,
+      "p_votes": 0.17,
+      "seats": 4
+    },
+    {
+      "party_name": "Sri Lanka Podujana Peramuna",
+      "party_code": "SLPP",
+      "votes": 889,
+      "p_votes": 0.06,
+      "seats": 1
+    },
+    {
+      "party_name": "United National Party",
+      "party_code": "UNP",
+      "votes": 574,
+      "p_votes": 0.04,
+      "seats": 1
+    },
+    {
+      "party_name": "Sarvajana Balaya",
+      "party_code": "SB",
+      "votes": 548,
+      "p_votes": 0.04,
+      "seats": 1
+    },
+    {
+      "party_name": "Independent Group 1",
+      "party_code": "IND1",
+      "votes": 318,
+      "p_votes": 0.02,
+      "seats": 1
+    },
+    {
+      "party_name": "People's Alliance",
+      "party_code": "PA",
+      "votes": 236,
+      "p_votes": 0.02,
+      "seats": 0
+    },
+    {
+      "party_name": "National Freedom Front",
+      "party_code": "NFF",
+      "votes": 126,
+      "p_votes": 0.01,
+      "seats": 0
+    },
+    {
+      "party_name": "People's Struggle Alliance",
+      "party_code": "PSA",
+      "votes": 33,
+      "p_votes": 0.0,
+      "seats": 0
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "district_name": "Mannar",
+  "lg_code": "168",
+  "lg_name": "Nanattan Pradeshiya Sabha",
+  "url": "https://results.elections.gov.lk/?page=lg_result&district=MANNAR&lg_code=168&lg_name=NANATTAN-PRADESHIYA-SABHA",
+  "time_str": "2025-05-07 04:28:00",
+  "time_ut": 1746572280.0,
+  "summary_data": {
+    "electors": 17858,
+    "polled": 13186,
+    "valid": 13028,
+    "rejected": 158,
+    "p_turnout": 0.74,
+    "p_valid": 0.99,
+    "p_rejected": 0.01
+  },
+  "party_result_data_list": [
+    {
+      "party_name": "Jathika Jana Balawegaya",
+      "party_code": "NPP",
+      "votes": 4518,
+      "p_votes": 0.35,
+      "seats": 6
+    },
+    {
+      "party_name": "Ilankai Tamil Arasu Kadchi",
+      "party_code": "ITAK",
+      "votes": 3006,
+      "p_votes": 0.23,
+      "seats": 4
+    },
+    {
+      "party_name": "Samagi Jana Balawegaya",
+      "party_code": "SJB",
+      "votes": 1856,
+      "p_votes": 0.14,
+      "seats": 2
+    },
+    {
+      "party_name": "Independent Group",
+      "party_code": "IND1",
+      "votes": 1380,
+      "p_votes": 0.11,
+      "seats": 2
+    },
+    {
+      "party_name": "Democratic Tamil National Alliance",
+      "party_code": "DTNA",
+      "votes": 1314,
+      "p_votes": 0.1,
+      "seats": 2
+    },
+    {
+      "party_name": "Sri Lanka Labour Party",
+      "party_code": "SLLP",
+      "votes": 747,
+      "p_votes": 0.06,
+      "seats": 1
+    },
+    {
+      "party_name": "People's Alliance",
+      "party_code": "PA",
+      "votes": 104,
+      "p_votes": 0.01,
+      "seats": 0
+    },
+    {
+      "party_name": "Eelam People's Democratic Party",
+      "party_code": "EPDP",
+      "votes": 103,
+      "p_votes": 0.01,
+      "seats": 0
+    }
+  ]
+}
