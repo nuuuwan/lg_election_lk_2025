@@ -1,0 +1,54 @@
+{
+  "district_name": "Matara",
+  "lg_code": "130",
+  "lg_name": "Devinuwara Pradeshiya Sabha",
+  "url": "https://results.elections.gov.lk/?page=lg_result&district=MATARA&lg_code=130&lg_name=DEVINUWARA-PRADESHIYA-SABHA",
+  "time_str": "2025-05-07 04:47:00",
+  "time_ut": 1746573420.0,
+  "summary_data": {
+    "electors": 40417,
+    "polled": 22588,
+    "valid": 22161,
+    "rejected": 427,
+    "p_turnout": 0.56,
+    "p_valid": 0.98,
+    "p_rejected": 0.02
+  },
+  "party_result_data_list": [
+    {
+      "party_name": "Jathika Jana Balawegaya",
+      "party_code": "NPP",
+      "votes": 11336,
+      "p_votes": 0.51,
+      "seats": 12
+    },
+    {
+      "party_name": "Samagi Jana Balawegaya",
+      "party_code": "SJB",
+      "votes": 5938,
+      "p_votes": 0.27,
+      "seats": 5
+    },
+    {
+      "party_name": "People's Alliance",
+      "party_code": "PA",
+      "votes": 1888,
+      "p_votes": 0.09,
+      "seats": 2
+    },
+    {
+      "party_name": "Sri Lanka Podujana Peramuna",
+      "party_code": "SLPP",
+      "votes": 1888,
+      "p_votes": 0.09,
+      "seats": 2
+    },
+    {
+      "party_name": "Patriotic People's Power",
+      "party_code": "PPP",
+      "votes": 1111,
+      "p_votes": 0.05,
+      "seats": 1
+    }
+  ]
+}

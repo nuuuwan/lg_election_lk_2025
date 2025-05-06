@@ -1,0 +1,96 @@
+{
+  "district_name": "Hambantota",
+  "lg_code": "136",
+  "lg_name": "Weeraketiya Pradeshiya Sabha",
+  "url": "https://results.elections.gov.lk/?page=lg_result&district=HAMBANTOTA&lg_code=136&lg_name=WEERAKETIYA-PRADESHIYA-SABHA",
+  "time_str": "2025-05-07 04:49:00",
+  "time_ut": 1746573540.0,
+  "summary_data": {
+    "electors": 72940,
+    "polled": 48323,
+    "valid": 47558,
+    "rejected": 765,
+    "p_turnout": 0.66,
+    "p_valid": 0.98,
+    "p_rejected": 0.02
+  },
+  "party_result_data_list": [
+    {
+      "party_name": "Jathika Jana Balawegaya",
+      "party_code": "NPP",
+      "votes": 21492,
+      "p_votes": 0.45,
+      "seats": 19
+    },
+    {
+      "party_name": "Samagi Jana Balawegaya",
+      "party_code": "SJB",
+      "votes": 8579,
+      "p_votes": 0.18,
+      "seats": 6
+    },
+    {
+      "party_name": "Sri Lanka Podujana Peramuna",
+      "party_code": "SLPP",
+      "votes": 8565,
+      "p_votes": 0.18,
+      "seats": 6
+    },
+    {
+      "party_name": "People's Alliance",
+      "party_code": "PA",
+      "votes": 3921,
+      "p_votes": 0.08,
+      "seats": 3
+    },
+    {
+      "party_name": "Sarvajana Balaya",
+      "party_code": "SB",
+      "votes": 1760,
+      "p_votes": 0.04,
+      "seats": 1
+    },
+    {
+      "party_name": "United National Party",
+      "party_code": "UNP",
+      "votes": 928,
+      "p_votes": 0.02,
+      "seats": 1
+    },
+    {
+      "party_name": "National Freedom Front",
+      "party_code": "NFF",
+      "votes": 688,
+      "p_votes": 0.01,
+      "seats": 1
+    },
+    {
+      "party_name": "Jana Setha Peramuna",
+      "party_code": "JSP",
+      "votes": 686,
+      "p_votes": 0.01,
+      "seats": 1
+    },
+    {
+      "party_name": "Independent Group",
+      "party_code": "IND1",
+      "votes": 379,
+      "p_votes": 0.01,
+      "seats": 0
+    },
+    {
+      "party_name": "People's Struggle Alliance",
+      "party_code": "PSA",
+      "votes": 290,
+      "p_votes": 0.01,
+      "seats": 0
+    },
+    {
+      "party_name": "Communist Party of Sri Lanka",
+      "party_code": "SLCP",
+      "votes": 270,
+      "p_votes": 0.01,
+      "seats": 0
+    }
+  ]
+}

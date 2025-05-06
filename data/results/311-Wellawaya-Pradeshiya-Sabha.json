@@ -1,0 +1,68 @@
+{
+  "district_name": "Monaragala",
+  "lg_code": "311",
+  "lg_name": "Wellawaya Pradeshiya Sabha",
+  "url": "https://results.elections.gov.lk/?page=lg_result&district=MONARAGALA&lg_code=311&lg_name=WELLAWAYA-PRADESHIYA-SABHA",
+  "time_str": "2025-05-07 04:44:00",
+  "time_ut": 1746573240.0,
+  "summary_data": {
+    "electors": 54598,
+    "polled": 34861,
+    "valid": 34135,
+    "rejected": 726,
+    "p_turnout": 0.64,
+    "p_valid": 0.98,
+    "p_rejected": 0.02
+  },
+  "party_result_data_list": [
+    {
+      "party_name": "Jathika Jana Balawegaya",
+      "party_code": "NPP",
+      "votes": 14544,
+      "p_votes": 0.43,
+      "seats": 13
+    },
+    {
+      "party_name": "Samagi Jana Balawegaya",
+      "party_code": "SJB",
+      "votes": 10254,
+      "p_votes": 0.3,
+      "seats": 7
+    },
+    {
+      "party_name": "Sri Lanka Podujana Peramuna",
+      "party_code": "SLPP",
+      "votes": 4635,
+      "p_votes": 0.14,
+      "seats": 3
+    },
+    {
+      "party_name": "People's Alliance",
+      "party_code": "PA",
+      "votes": 2224,
+      "p_votes": 0.07,
+      "seats": 1
+    },
+    {
+      "party_name": "Sarvajana Balaya",
+      "party_code": "SB",
+      "votes": 1202,
+      "p_votes": 0.04,
+      "seats": 1
+    },
+    {
+      "party_name": "United National Party",
+      "party_code": "UNP",
+      "votes": 1199,
+      "p_votes": 0.04,
+      "seats": 1
+    },
+    {
+      "party_name": "United Republican Front",
+      "party_code": "URF",
+      "votes": 77,
+      "p_votes": 0.0,
+      "seats": 0
+    }
+  ]
+}
