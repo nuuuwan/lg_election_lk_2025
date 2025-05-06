@@ -79,14 +79,14 @@ class OverallReport:
         party_result_data_list.sort(
             key=lambda x: (x["seats"], x["votes"]), reverse=True
         )
-
+        top_seats = party_result_data_list[0]["seats"]
         for i, party_result_data in enumerate(result["party_result_data_list"]):
             party_name = OverallReport.get_party_name_annotated(
                 party_result_data["party_name"], lg_code
             )
             votes = party_result_data["votes"]
             seats = party_result_data["seats"]
-            is_winner = i == 0
+            is_winner = seats == top_seats
             is_majority = seats >= total_seats / 2
             if seats > 0:
                 if party_name not in party_to_summary:
