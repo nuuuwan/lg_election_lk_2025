@@ -1,0 +1,88 @@
+{
+  "district_name": "Colombo",
+  "lg_code": "010",
+  "lg_name": "Boralesgamuwa Urban Council",
+  "time_str": "2025-05-07 01:51:00",
+  "time_ut": 1746562860.0,
+  "summary_data": {
+    "electors": 40678,
+    "polled": 23425,
+    "valid": 23004,
+    "rejected": 421,
+    "p_turnout": 0.58,
+    "p_valid": 0.98,
+    "p_rejected": 0.02
+  },
+  "party_result_data_list": [
+    {
+      "party_name": "Jathika Jana Balawegaya",
+      "party_code": "NPP",
+      "votes": 12283,
+      "p_votes": 0.53,
+      "seats": 10
+    },
+    {
+      "party_name": "Samagi Jana Balawegaya",
+      "party_code": "SJB",
+      "votes": 3349,
+      "p_votes": 0.15,
+      "seats": 2
+    },
+    {
+      "party_name": "People's Alliance",
+      "party_code": "PA",
+      "votes": 2030,
+      "p_votes": 0.09,
+      "seats": 1
+    },
+    {
+      "party_name": "Sri Lanka Podujana Peramuna",
+      "party_code": "SLPP",
+      "votes": 1647,
+      "p_votes": 0.07,
+      "seats": 1
+    },
+    {
+      "party_name": "Sarvajana Balaya",
+      "party_code": "SB",
+      "votes": 1183,
+      "p_votes": 0.05,
+      "seats": 1
+    },
+    {
+      "party_name": "Independent Group",
+      "party_code": "IND1",
+      "votes": 957,
+      "p_votes": 0.04,
+      "seats": 1
+    },
+    {
+      "party_name": "United National Party",
+      "party_code": "UNP",
+      "votes": 816,
+      "p_votes": 0.04,
+      "seats": 1
+    },
+    {
+      "party_name": "United Republican Front",
+      "party_code": "URF",
+      "votes": 498,
+      "p_votes": 0.02,
+      "seats": 0
+    },
+    {
+      "party_name": "National Freedom Front",
+      "party_code": "NFF",
+      "votes": 211,
+      "p_votes": 0.01,
+      "seats": 0
+    },
+    {
+      "party_name": "Lanka Janatha Party",
+      "party_code": "LJP",
+      "votes": 30,
+      "p_votes": 0.0,
+      "seats": 0
+    }
+  ]
+}

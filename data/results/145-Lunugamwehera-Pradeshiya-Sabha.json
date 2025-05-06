@@ -1,0 +1,67 @@
+{
+  "district_name": "Hambantota",
+  "lg_code": "145",
+  "lg_name": "Lunugamwehera Pradeshiya Sabha",
+  "time_str": "2025-05-07 01:54:00",
+  "time_ut": 1746563040.0,
+  "summary_data": {
+    "electors": 28050,
+    "polled": 18678,
+    "valid": 18398,
+    "rejected": 280,
+    "p_turnout": 0.67,
+    "p_valid": 0.99,
+    "p_rejected": 0.01
+  },
+  "party_result_data_list": [
+    {
+      "party_name": "Jathika Jana Balawegaya",
+      "party_code": "NPP",
+      "votes": 7820,
+      "p_votes": 0.42,
+      "seats": 9
+    },
+    {
+      "party_name": "Samagi Jana Balawegaya",
+      "party_code": "SJB",
+      "votes": 5509,
+      "p_votes": 0.3,
+      "seats": 5
+    },
+    {
+      "party_name": "Sri Lanka Podujana Peramuna",
+      "party_code": "SLPP",
+      "votes": 2848,
+      "p_votes": 0.15,
+      "seats": 2
+    },
+    {
+      "party_name": "Sarvajana Balaya",
+      "party_code": "SB",
+      "votes": 1309,
+      "p_votes": 0.07,
+      "seats": 1
+    },
+    {
+      "party_name": "People's Alliance",
+      "party_code": "PA",
+      "votes": 591,
+      "p_votes": 0.03,
+      "seats": 1
+    },
+    {
+      "party_name": "Communist Party of Sri Lanka",
+      "party_code": "SLCP",
+      "votes": 229,
+      "p_votes": 0.01,
+      "seats": 0
+    },
+    {
+      "party_name": "Jana Setha Peramuna",
+      "party_code": "JSP",
+      "votes": 92,
+      "p_votes": 0.01,
+      "seats": 0
+    }
+  ]
+}

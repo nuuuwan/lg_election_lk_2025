@@ -1,0 +1,74 @@
+{
+  "district_name": "Colombo",
+  "lg_code": "003",
+  "lg_name": "Sri Jayawardenepura Kotte Municipal Council",
+  "time_str": "2025-05-07 01:55:00",
+  "time_ut": 1746563100.0,
+  "summary_data": {
+    "electors": 77162,
+    "polled": 41237,
+    "valid": 40471,
+    "rejected": 766,
+    "p_turnout": 0.53,
+    "p_valid": 0.98,
+    "p_rejected": 0.02
+  },
+  "party_result_data_list": [
+    {
+      "party_name": "Jathika Jana Balawegaya",
+      "party_code": "NPP",
+      "votes": 19417,
+      "p_votes": 0.48,
+      "seats": 21
+    },
+    {
+      "party_name": "Samagi Jana Balawegaya",
+      "party_code": "SJB",
+      "votes": 8002,
+      "p_votes": 0.2,
+      "seats": 7
+    },
+    {
+      "party_name": "People's Alliance",
+      "party_code": "PA",
+      "votes": 3683,
+      "p_votes": 0.09,
+      "seats": 3
+    },
+    {
+      "party_name": "Sarvajana Balaya",
+      "party_code": "SB",
+      "votes": 2919,
+      "p_votes": 0.07,
+      "seats": 2
+    },
+    {
+      "party_name": "Sri Lanka Podujana Peramuna",
+      "party_code": "SLPP",
+      "votes": 2664,
+      "p_votes": 0.07,
+      "seats": 2
+    },
+    {
+      "party_name": "United National Party",
+      "party_code": "UNP",
+      "votes": 2223,
+      "p_votes": 0.05,
+      "seats": 2
+    },
+    {
+      "party_name": "United Republican Front",
+      "party_code": "URF",
+      "votes": 904,
+      "p_votes": 0.02,
+      "seats": 1
+    },
+    {
+      "party_name": "United National Alliance",
+      "party_code": "UNA",
+      "votes": 659,
+      "p_votes": 0.02,
+      "seats": 1
+    }
+  ]
+}

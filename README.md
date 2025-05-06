@@ -1,6 +1,6 @@
 # Sri Lankan Local Government Elections - 2025 🇱🇰
 
-As of 2025-05-07 02:02:32
+As of 2025-05-07 02:04:18
 
 *Scraped from [results.elections.gov.lk](https://results.elections.gov.lk)*
 
@@ -8,26 +8,26 @@ As of 2025-05-07 02:02:32
 
 | Results Released | % Released (By Votes) |
 |--:|--:|
-|40/339|5.99%|
+|43/339|6.83%|
 
 ## Islandwide
 
 | Party | Votes | %  | Seats | % | Wins | ≥½ ✔️ |
 |---|--:|--:|--:|--:|--:|--:|
-|🔴Jathika Jana Balawegaya|252,884|39%|315|41%|29|14|
-|🟢Samagi Jana Balawegaya|131,158|20%|145|19%|||
-|🟣Sri Lanka Podujana Peramuna|58,365|9%|65|8%|||
+|🔴Jathika Jana Balawegaya|292,404|40%|355|42%|32|17|
+|🟢Samagi Jana Balawegaya|148,018|20%|159|19%|||
+|🟣Sri Lanka Podujana Peramuna|65,524|9%|70|8%|||
 |🟡Ilankai Tamil Arasu Kadchi|47,466|7%|64|8%|7|4|
-|🟩United National Party|38,115|6%|40|5%|||
-|🟦People's Alliance|23,847|4%|27|4%|||
+|🟩United National Party|41,154|6%|43|5%|||
+|🟦People's Alliance|30,151|4%|32|4%|||
+|🔵Sarvajana Balaya|17,071|2%|20|2%|||
 |⚪Democratic Tamil National Alliance|12,880|2%|16|2%|||
-|🔵Sarvajana Balaya|11,660|2%|16|2%|||
 |⚪Sri Lanka Muslim Congress|7,292|1%|8|1%|1||
 |⚪All Ceylon Tamil Congress|6,609|1%|10|1%|||
 |⚪Ceylon Worker's Congress (P. Wing)|4,217|1%|6|1%|||
 |⚪National Congress|2,587|0%|6|1%|1|1|
-|⚪Up-Country People's Front|2,558|0%|4|1%|1||
-|⚪All Ceylon Makkal Congress|2,547|0%|4|1%|||
+|⚪Up-Country People's Front|2,558|0%|4|0%|1||
+|⚪All Ceylon Makkal Congress|2,547|0%|4|0%|||
 |⚪National Freedom Front|2,535|0%|3|0%|||
 |⚫Independent Group `178`|2,491|0%|2|0%|||
 |⚫Independent Group `114`|2,217|0%|1|0%|||
@@ -39,10 +39,13 @@ As of 2025-05-07 02:02:32
 |⚫Independent Group 1 `034`|1,131|0%|2|0%|||
 |⚫Independent Group `194`|1,129|0%|2|0%|||
 |⚫Independent Group `287`|1,038|0%|5|1%|1||
+|⚫Independent Group `010`|957|0%|1|0%|||
 |⚪Sri Lanka Labour Party|912|0%|2|0%|||
+|⚪United Republican Front|904|0%|1|0%|||
 |⚫Independent Group `035`|857|0%|1|0%|||
 |⚫Independent Group 2 `203`|823|0%|1|0%|||
 |⚫Independent Group `314`|664|0%|1|0%|||
+|⚪United National Alliance|659|0%|1|0%|||
 |⚪Nawa Lanka Nidahas Pakshaya|639|0%|1|0%|||
 |⚫Independent Group 1 `165`|632|0%|1|0%|||
 |⚫Independent Group 2 `052`|631|0%|1|0%|||
@@ -61,7 +64,9 @@ As of 2025-05-07 02:02:32
 
 |  |  |  |  |  |
 |---|---|---|---|---|
+| `003` | 🏛️Sri Jayawardenepura Kotte MC (39) |**🔴JJB (21)✔️**|🟢SJB (7)|🟦PA (3)|
 | `006` | 🏢Kollonnawa UC (19) |🔴JJB (9)|🟢SJB (6)|🟩UNP (2)|
+| `010` | 🏢Boralesgamuwa UC (17) |**🔴JJB (10)✔️**|🟢SJB (2)|🟦PA (1)|
 
 ### Kalutara
 
@@ -105,6 +110,7 @@ As of 2025-05-07 02:02:32
 | `135` | 🏢Tangalle UC (19) |🔴JJB (9)|🟢SJB (5)|🟣SLPP (3)|
 | `143` | 🏡Sooriyawewa PS (11) |**🔴JJB (6)✔️**|🟢SJB (2)|🟣SLPP (2)|
 | `144` | 🏡Hambantota PS (15) |**🔴JJB (8)✔️**|🟢SJB (4)|🟣SLPP (2)|
+| `145` | 🏡Lunugamwehera PS (18) |**🔴JJB (9)✔️**|🟢SJB (5)|🟣SLPP (2)|
 
 ### Kilinochchi
 
