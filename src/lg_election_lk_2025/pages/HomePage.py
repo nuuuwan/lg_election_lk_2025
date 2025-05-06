@@ -30,5 +30,12 @@ class HomePage(WebPage):
                 results_url_list.append(result_url)
                 log.debug(f"{len(results_url_list)}) {result_url=}")
 
+        # HACK
+        results_url_list.extend(
+            [
+                "https://results.elections.gov.lk/?page=lg_result&district=COLOMBO&lg_code=008&lg_name=MAHARAGAMA--URBAN-COUNCIL"
+            ]
+        )
+
         log.info(f"Found {len(results_url_list)} results")
         return results_url_list
