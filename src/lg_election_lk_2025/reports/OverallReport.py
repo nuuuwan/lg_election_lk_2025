@@ -46,13 +46,13 @@ class OverallReport:
             "Ilankai Tamil Arasu Kadchi": "🟡",
             "Sarvajana Balaya": "🔵",
             "People's Alliance": "🟦",
-        }.get(party_name, "")
+        }.get(party_name, "⚪")
 
     @staticmethod
     @cache
     def get_party_name_annotated(party_name, lg_code):
         if party_name.startswith("Independent"):
-            return f"{party_name} [{lg_code}]"
+            return f"⚫{party_name} [{lg_code}]"
         return OverallReport.get_party_emoji(party_name) + party_name
 
     @staticmethod
