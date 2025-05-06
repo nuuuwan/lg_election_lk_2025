@@ -1,0 +1,82 @@
+{
+  "district_name": "Ampara",
+  "lg_code": "209",
+  "lg_name": "Karaitheevu Pradeshiya Sabha",
+  "url": "https://results.elections.gov.lk/?page=lg_result&district=AMPARA&lg_code=209&lg_name=KARAITHEEVU-PRADESHIYA-SABHA",
+  "time_str": "2025-05-07 04:23:00",
+  "time_ut": 1746571980.0,
+  "summary_data": {
+    "electors": 14624,
+    "polled": 9965,
+    "valid": 9910,
+    "rejected": 55,
+    "p_turnout": 0.68,
+    "p_valid": 0.99,
+    "p_rejected": 0.01
+  },
+  "party_result_data_list": [
+    {
+      "party_name": "Ilankai Tamil Arasu Kadchi",
+      "party_code": "ITAK",
+      "votes": 3680,
+      "p_votes": 0.37,
+      "seats": 4
+    },
+    {
+      "party_name": "Jathika Jana Balawegaya",
+      "party_code": "NPP",
+      "votes": 2481,
+      "p_votes": 0.25,
+      "seats": 3
+    },
+    {
+      "party_name": "Sri Lanka Muslim Congress",
+      "party_code": "SLMC",
+      "votes": 1490,
+      "p_votes": 0.15,
+      "seats": 2
+    },
+    {
+      "party_name": "All Ceylon Makkal Congress",
+      "party_code": "ACMC",
+      "votes": 1100,
+      "p_votes": 0.11,
+      "seats": 1
+    },
+    {
+      "party_name": "Independent Group",
+      "party_code": "IND1",
+      "votes": 479,
+      "p_votes": 0.05,
+      "seats": 1
+    },
+    {
+      "party_name": "United Peace Alliance",
+      "party_code": "UPA",
+      "votes": 362,
+      "p_votes": 0.04,
+      "seats": 0
+    },
+    {
+      "party_name": "Democratic Tamil National Alliance",
+      "party_code": "DTNA",
+      "votes": 230,
+      "p_votes": 0.02,
+      "seats": 0
+    },
+    {
+      "party_name": "Samagi Jana Balawegaya",
+      "party_code": "SJB",
+      "votes": 78,
+      "p_votes": 0.01,
+      "seats": 0
+    },
+    {
+      "party_name": "People's Alliance",
+      "party_code": "PA",
+      "votes": 10,
+      "p_votes": 0.0,
+      "seats": 0
+    }
+  ]
+}

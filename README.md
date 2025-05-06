@@ -1,6 +1,6 @@
 # Sri Lankan Local Government Elections - 2025 🇱🇰
 
-As of 2025-05-07 04:22:24
+As of 2025-05-07 04:29:24
 
 *Scraped from [results.elections.gov.lk](https://results.elections.gov.lk)*
 
@@ -8,20 +8,20 @@ As of 2025-05-07 04:22:24
 
 | Results Released | % Released (By Votes) |
 |--:|--:|
-|99/339|22.89%|
+|103/339|24.50%|
 
 ## Islandwide (Top 10 by Votes)
 
 | Party | Votes | %  | Seats | % | Wins | ≥½ ✔️ |
 |---|--:|--:|--:|--:|--:|--:|
-|🔴Jathika Jana Balawegaya|1,007,457|42%|967|43%|78|38|
-|🟢Samagi Jana Balawegaya|471,439|20%|404|18%|3||
-|🟣Sri Lanka Podujana Peramuna|221,041|9%|193|9%|||
-|🟩United National Party|121,287|5%|104|5%|||
-|🟡Ilankai Tamil Arasu Kadchi|97,351|4%|138|6%|16|4|
-|🟦People's Alliance|91,382|4%|82|4%|||
-|🔵Sarvajana Balaya|57,683|2%|48|2%|||
-|⚪Democratic Tamil National Alliance|31,652|1%|40|2%|||
+|🔴Jathika Jana Balawegaya|1,084,842|42%|1,007|43%|80|39|
+|🟢Samagi Jana Balawegaya|499,155|19%|420|18%|4||
+|🟣Sri Lanka Podujana Peramuna|238,092|9%|201|9%|||
+|🟩United National Party|128,345|5%|107|5%|||
+|🟡Ilankai Tamil Arasu Kadchi|103,286|4%|146|6%|18|4|
+|🟦People's Alliance|95,253|4%|84|4%|||
+|🔵Sarvajana Balaya|62,247|2%|51|2%|||
+|⚪Democratic Tamil National Alliance|33,459|1%|42|2%|||
 |⚪All Ceylon Tamil Congress|28,260|1%|45|2%|2||
 |⚪Ceylon Worker's Congress (P. Wing)|23,508|1%|20|1%|1||
 
@@ -39,6 +39,7 @@ As of 2025-05-07 04:22:24
 | `009` | 🏢Kesbewa UC (34) |**🔴JJB (20)✔️**|🟢SJB (5)|🟣SLPP (3)| Others (6) |[...](https://results.elections.gov.lk/?page=lg_result&district=COLOMBO&lg_code=009&lg_name=KESBEWA-URBAN-COUNCIL)|
 | `010` | 🏢Boralesgamuwa UC (17) |**🔴JJB (10)✔️**|🟢SJB (2)|🟦PA (1)| Others (4) |[...](https://results.elections.gov.lk/?page=lg_result&district=COLOMBO&lg_code=010&lg_name=BORALESGAMUWA-URBAN-COUNCIL)|
 | `012` | 🏡Seethawaka PS (47) |🔴JJB (23)|🟢SJB (8)|🟣SLPP (7)| Others (9) |[...](https://results.elections.gov.lk/?page=lg_result&district=COLOMBO&lg_code=012&lg_name=SEETHAWAKA-PRADESHIYA-SABHA)|
+| `013` | 🏡Homagama PS (48) |**🔴JJB (28)✔️**|🟢SJB (7)|🟣SLPP (6)| Others (7) |[...](https://results.elections.gov.lk/?page=lg_result&district=COLOMBO&lg_code=013&lg_name=HOMAGAMA-PRADESHIYA-SABHA)|
 
 ### Kalutara
 
@@ -49,6 +50,7 @@ As of 2025-05-07 04:22:24
 | `035` | 🏛️Kalutara MC (31) |🔴JJB (12)|🟢SJB (8)|⚪SLMC (3)| Others (8) |[...](https://results.elections.gov.lk/?page=lg_result&district=KALUTARA&lg_code=035&lg_name=KALUTARA-MUNICIPAL-COUNCIL)|
 | `040` | 🏡Madurawala PS (15) |🔴JJB (5)|🟢SJB (3)|🟩UNP (3)| Others (4) |[...](https://results.elections.gov.lk/?page=lg_result&district=KALUTARA&lg_code=040&lg_name=MADURAWALA-PRADESHIYA-SABHA)|
 | `044` | 🏡Kalutara PS (32) |🔴JJB (15)|🟢SJB (6)|🟦PA (4)| Others (7) |[...](https://results.elections.gov.lk/?page=lg_result&district=KALUTARA&lg_code=044&lg_name=KALUTARA-PRADESHIYA-SABHA)|
+| `047` | 🏡Agalawaththa PS (20) |🟢SJB (6)|🔴JJB (6)🟰|⚫IG1 `047` (3)| Others (5) |[...](https://results.elections.gov.lk/?page=lg_result&district=KALUTARA&lg_code=047&lg_name=AGALAWATHTHA-PRADESHIYA-SABHA)|
 
 ### Kandy
 
@@ -133,6 +135,7 @@ As of 2025-05-07 04:22:24
 
 |  |  |  |  |  |  |  |
 |---|---|---|---|---|---|---|
+| `166` | 🏢Mannar UC (16) |🟡ITAK (4)|🔴JJB (3)|🟢SJB (3)| Others (6) |[...](https://results.elections.gov.lk/?page=lg_result&district=MANNAR&lg_code=166&lg_name=MANNAR-URBAN-COUNCIL)|
 | `167` | 🏡Mannar PS (22) |🟡ITAK (5)|🟢SJB (4)|⚪DTNA (4)| Others (9) |[...](https://results.elections.gov.lk/?page=lg_result&district=MANNAR&lg_code=167&lg_name=MANNAR-PRADESHIYA-SABHA)|
 | `169` | 🏡Musali PS (16) |🟢SJB (5)|⚪SLLP (4)|🔴JJB (3)| Others (4) |[...](https://results.elections.gov.lk/?page=lg_result&district=MANNAR&lg_code=169&lg_name=MUSALI-PRADESHIYA-SABHA)|
 | `170` | 🏡Manthai West PS (21) |🟡ITAK (5)|🟢SJB (4)|⚪DTNA (4)| Others (8) |[...](https://results.elections.gov.lk/?page=lg_result&district=MANNAR&lg_code=170&lg_name=MANTHAI-WEST-PRADESHIYA-SABHA)|
@@ -159,6 +162,7 @@ As of 2025-05-07 04:22:24
 | `203` | 🏡Irakkamam PS (13) |⚪SLMC (4)|🔴JJB (3)|⚪ACMC (2)| Others (4) |[...](https://results.elections.gov.lk/?page=lg_result&district=AMPARA&lg_code=203&lg_name=IRAKKAMAM-PRADESHIYA-SABHA)|
 | `204` | 🏡Akkaraipattu PS (9) |**⚪NC (5)✔️**|⚪SLMC (1)|🔴JJB (1)| Others (2) |[...](https://results.elections.gov.lk/?page=lg_result&district=AMPARA&lg_code=204&lg_name=AKKARAIPATTU-PRADESHIYA-SABHA)|
 | `207` | 🏡Alayadiwembu PS (16) |🟡ITAK (7)|🔴JJB (7)🟰|⚫IG `207` (2)| Others (0) |[...](https://results.elections.gov.lk/?page=lg_result&district=AMPARA&lg_code=207&lg_name=ALAYADIWEMBU-PRADESHIYA-SABHA)|
+| `209` | 🏡Karaitheevu PS (11) |🟡ITAK (4)|🔴JJB (3)|⚪SLMC (2)| Others (2) |[...](https://results.elections.gov.lk/?page=lg_result&district=AMPARA&lg_code=209&lg_name=KARAITHEEVU-PRADESHIYA-SABHA)|
 
 ### Trincomalee
 
