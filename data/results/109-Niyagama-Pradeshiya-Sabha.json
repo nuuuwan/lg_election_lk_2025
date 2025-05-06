@@ -1,0 +1,60 @@
+{
+  "district_name": "Galle",
+  "lg_code": "109",
+  "lg_name": "Niyagama Pradeshiya Sabha",
+  "time_str": "2025-05-07 00:36:00",
+  "time_ut": 1746558360.0,
+  "summary_data": {
+    "electors": 30653,
+    "polled": 20603,
+    "valid": 20234,
+    "rejected": 369,
+    "p_turnout": 0.67,
+    "p_valid": 0.98,
+    "p_rejected": 0.02
+  },
+  "party_result_data_list": [
+    {
+      "party_name": "Jathika Jana Balawegaya",
+      "party_code": "NPP",
+      "votes": 8506,
+      "p_votes": 0.42,
+      "seats": 9
+    },
+    {
+      "party_name": "Samagi Jana Balawegaya",
+      "party_code": "SJB",
+      "votes": 5013,
+      "p_votes": 0.25,
+      "seats": 4
+    },
+    {
+      "party_name": "Sri Lanka Podujana Peramuna",
+      "party_code": "SLPP",
+      "votes": 3986,
+      "p_votes": 0.2,
+      "seats": 3
+    },
+    {
+      "party_name": "United National Party",
+      "party_code": "UNP",
+      "votes": 1537,
+      "p_votes": 0.08,
+      "seats": 1
+    },
+    {
+      "party_name": "People's Alliance",
+      "party_code": "PA",
+      "votes": 981,
+      "p_votes": 0.05,
+      "seats": 1
+    },
+    {
+      "party_name": "People's Struggle Alliance",
+      "party_code": "PSA",
+      "votes": 211,
+      "p_votes": 0.01,
+      "seats": 0
+    }
+  ]
+}
