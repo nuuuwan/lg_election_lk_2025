@@ -1,0 +1,47 @@
+{
+  "district_name": "Ampara",
+  "lg_code": "207",
+  "lg_name": "Alayadiwembu Pradeshiya Sabha",
+  "url": "https://results.elections.gov.lk/?page=lg_result&district=AMPARA&lg_code=207&lg_name=ALAYADIWEMBU-PRADESHIYA-SABHA",
+  "time_str": "2025-05-07 03:06:00",
+  "time_ut": 1746567360.0,
+  "summary_data": {
+    "electors": 19888,
+    "polled": 12447,
+    "valid": 12333,
+    "rejected": 114,
+    "p_turnout": 0.63,
+    "p_valid": 0.99,
+    "p_rejected": 0.01
+  },
+  "party_result_data_list": [
+    {
+      "party_name": "Ilankai Tamil Arasu Kadchi",
+      "party_code": "ITAK",
+      "votes": 5122,
+      "p_votes": 0.42,
+      "seats": 7
+    },
+    {
+      "party_name": "Jathika Jana Balawegaya",
+      "party_code": "NPP",
+      "votes": 5070,
+      "p_votes": 0.41,
+      "seats": 7
+    },
+    {
+      "party_name": "Independent Group",
+      "party_code": "IND1",
+      "votes": 1800,
+      "p_votes": 0.15,
+      "seats": 2
+    },
+    {
+      "party_name": "Samagi Jana Balawegaya",
+      "party_code": "SJB",
+      "votes": 341,
+      "p_votes": 0.03,
+      "seats": 0
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "district_name": "Ampara",
+  "lg_code": "198",
+  "lg_name": "Mahaoya Pradeshiya Sabha",
+  "url": "https://results.elections.gov.lk/?page=lg_result&district=AMPARA&lg_code=198&lg_name=MAHAOYA-PRADESHIYA-SABHA",
+  "time_str": "2025-05-07 03:04:00",
+  "time_ut": 1746567240.0,
+  "summary_data": {
+    "electors": 18329,
+    "polled": 13127,
+    "valid": 12998,
+    "rejected": 129,
+    "p_turnout": 0.72,
+    "p_valid": 0.99,
+    "p_rejected": 0.01
+  },
+  "party_result_data_list": [
+    {
+      "party_name": "Jathika Jana Balawegaya",
+      "party_code": "NPP",
+      "votes": 4974,
+      "p_votes": 0.38,
+      "seats": 7
+    },
+    {
+      "party_name": "Samagi Jana Balawegaya",
+      "party_code": "SJB",
+      "votes": 2707,
+      "p_votes": 0.21,
+      "seats": 4
+    },
+    {
+      "party_name": "United National Party",
+      "party_code": "UNP",
+      "votes": 2516,
+      "p_votes": 0.19,
+      "seats": 3
+    },
+    {
+      "party_name": "Sri Lanka Podujana Peramuna",
+      "party_code": "SLPP",
+      "votes": 2010,
+      "p_votes": 0.15,
+      "seats": 3
+    },
+    {
+      "party_name": "Sarvajana Balaya",
+      "party_code": "SB",
+      "votes": 361,
+      "p_votes": 0.03,
+      "seats": 1
+    },
+    {
+      "party_name": "People's Alliance",
+      "party_code": "PA",
+      "votes": 348,
+      "p_votes": 0.03,
+      "seats": 0
+    },
+    {
+      "party_name": "People's Struggle Alliance",
+      "party_code": "PSA",
+      "votes": 82,
+      "p_votes": 0.01,
+      "seats": 0
+    }
+  ]
+}
