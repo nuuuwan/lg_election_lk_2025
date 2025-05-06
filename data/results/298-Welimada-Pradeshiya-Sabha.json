@@ -1,0 +1,82 @@
+{
+  "district_name": "Badulla",
+  "lg_code": "298",
+  "lg_name": "Welimada Pradeshiya Sabha",
+  "url": "https://results.elections.gov.lk/?page=lg_result&district=BADULLA&lg_code=298&lg_name=WELIMADA-PRADESHIYA-SABHA",
+  "time_str": "2025-05-07 03:20:00",
+  "time_ut": 1746568200.0,
+  "summary_data": {
+    "electors": 86131,
+    "polled": 55081,
+    "valid": 53649,
+    "rejected": 1432,
+    "p_turnout": 0.64,
+    "p_valid": 0.97,
+    "p_rejected": 0.03
+  },
+  "party_result_data_list": [
+    {
+      "party_name": "Jathika Jana Balawegaya",
+      "party_code": "NPP",
+      "votes": 24476,
+      "p_votes": 0.46,
+      "seats": 22
+    },
+    {
+      "party_name": "Samagi Jana Balawegaya",
+      "party_code": "SJB",
+      "votes": 13489,
+      "p_votes": 0.25,
+      "seats": 10
+    },
+    {
+      "party_name": "People's Alliance",
+      "party_code": "PA",
+      "votes": 4247,
+      "p_votes": 0.08,
+      "seats": 3
+    },
+    {
+      "party_name": "Sri Lanka Podujana Peramuna",
+      "party_code": "SLPP",
+      "votes": 3295,
+      "p_votes": 0.06,
+      "seats": 3
+    },
+    {
+      "party_name": "Sri Lanka Muslim Congress",
+      "party_code": "SLMC",
+      "votes": 2490,
+      "p_votes": 0.05,
+      "seats": 2
+    },
+    {
+      "party_name": "United National Party",
+      "party_code": "UNP",
+      "votes": 2242,
+      "p_votes": 0.04,
+      "seats": 2
+    },
+    {
+      "party_name": "United National Alliance",
+      "party_code": "UNA",
+      "votes": 1504,
+      "p_votes": 0.03,
+      "seats": 1
+    },
+    {
+      "party_name": "Sarvajana Balaya",
+      "party_code": "SB",
+      "votes": 1443,
+      "p_votes": 0.03,
+      "seats": 1
+    },
+    {
+      "party_name": "People's Struggle Alliance",
+      "party_code": "PSA",
+      "votes": 463,
+      "p_votes": 0.01,
+      "seats": 0
+    }
+  ]
+}
