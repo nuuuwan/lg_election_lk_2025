@@ -1,6 +1,6 @@
 # Sri Lankan Local Government Elections - 2025 🇱🇰
 
-As of 2025-05-07 02:41:42
+As of 2025-05-07 02:45:16
 
 *Scraped from [results.elections.gov.lk](https://results.elections.gov.lk)*
 
@@ -8,17 +8,17 @@ As of 2025-05-07 02:41:42
 
 | Results Released | % Released (By Votes) |
 |--:|--:|
-|57/339|11.58%|
+|59/339|12.02%|
 
 ## Islandwide
 
 | Party | Votes | %  | Seats | % | Wins | ≥½ ✔️ |
 |---|--:|--:|--:|--:|--:|--:|
-|🔴Jathika Jana Balawegaya|513,984|43%|559|45%|46|25|
-|🟢Samagi Jana Balawegaya|246,210|20%|236|19%|||
-|🟣Sri Lanka Podujana Peramuna|117,958|10%|114|9%|||
-|🟩United National Party|68,458|6%|63|5%|||
-|🟦People's Alliance|52,280|4%|52|4%|||
+|🔴Jathika Jana Balawegaya|534,067|43%|573|45%|48|26|
+|🟢Samagi Jana Balawegaya|259,858|21%|245|19%|||
+|🟣Sri Lanka Podujana Peramuna|123,045|10%|118|9%|||
+|🟩United National Party|72,807|6%|67|5%|||
+|🟦People's Alliance|53,066|4%|53|4%|||
 |🟡Ilankai Tamil Arasu Kadchi|47,466|4%|64|5%|7|4|
 |🔵Sarvajana Balaya|29,225|2%|29|2%|||
 |⚪Democratic Tamil National Alliance|12,880|1%|16|1%|||
@@ -50,6 +50,7 @@ As of 2025-05-07 02:41:42
 |⚫Independent Group 2 `008`|1,388|0%|1|0%|||
 |⚫Independent Group `316`|1,157|0%|1|0%|||
 |⚫Independent Group `313`|1,155|0%|1|0%|||
+|⚫Independent Group `040`|1,151|0%|1|0%|||
 |⚫Independent Group 1 `034`|1,131|0%|2|0%|||
 |⚫Independent Group `194`|1,129|0%|2|0%|||
 |⚫Independent Group 2 `286`|1,053|0%|1|0%|||
@@ -93,6 +94,7 @@ As of 2025-05-07 02:41:42
 | `033` | 🏢Panadura UC (18) |**🔴JJB (10)✔️**|🟢SJB (2)|🟣SLPP (2)|[...](https://results.elections.gov.lk/?page=lg_result&district=KALUTARA&lg_code=033&lg_name=PANADURA-URBAN-COUNCIL)|
 | `034` | 🏢Horana UC (13) |🔴JJB (6)|⚫IG1 `034` (2)|🟢SJB (2)|[...](https://results.elections.gov.lk/?page=lg_result&district=KALUTARA&lg_code=034&lg_name=HORANA-URBAN-COUNCIL)|
 | `035` | 🏛️Kalutara MC (31) |🔴JJB (12)|🟢SJB (8)|⚪SLMC (3)|[...](https://results.elections.gov.lk/?page=lg_result&district=KALUTARA&lg_code=035&lg_name=KALUTARA-MUNICIPAL-COUNCIL)|
+| `040` | 🏡Madurawala PS (15) |🔴JJB (5)|🟢SJB (3)|🟩UNP (3)|[...](https://results.elections.gov.lk/?page=lg_result&district=KALUTARA&lg_code=040&lg_name=MADURAWALA-PRADESHIYA-SABHA)|
 
 ### Kandy
 
@@ -180,6 +182,7 @@ As of 2025-05-07 02:41:42
 |---|---|---|---|---|---|
 | `286` | 🏛️Bandarawela MC (16) |🔴JJB (6)|⚫IG1 `286` (5)|🟢SJB (3)|[...](https://results.elections.gov.lk/?page=lg_result&district=BADULLA&lg_code=286&lg_name=BANDARAWELA-MUNICIPAL-COUNCIL)|
 | `287` | 🏢Haputhale UC (11) |⚫IG `287` (5)|🔴JJB (4)|🟢SJB (2)|[...](https://results.elections.gov.lk/?page=lg_result&district=BADULLA&lg_code=287&lg_name=HAPUTHALE-URBAN-COUNCIL)|
+| `289` | 🏡Rideemaliyadda PS (18) |**🔴JJB (9)✔️**|🟢SJB (6)|🟣SLPP (2)|[...](https://results.elections.gov.lk/?page=lg_result&district=BADULLA&lg_code=289&lg_name=RIDEEMALIYADDA-PRADESHIYA-SABHA)|
 | `290` | 🏡Soranathota PS (16) |🔴JJB (6)|🟢SJB (4)|🟦PA (2)|[...](https://results.elections.gov.lk/?page=lg_result&district=BADULLA&lg_code=290&lg_name=SORANATHOTA-PRADESHIYA-SABHA)|
 | `291` | 🏡Meegahakivula PS (19) |🔴JJB (9)|🟢SJB (4)|🟦PA (2)|[...](https://results.elections.gov.lk/?page=lg_result&district=BADULLA&lg_code=291&lg_name=MEEGAHAKIVULA-PRADESHIYA-SABHA)|
 | `292` | 🏡Kandaketiya PS (16) |🔴JJB (6)|🟢SJB (4)|🟣SLPP (2)|[...](https://results.elections.gov.lk/?page=lg_result&district=BADULLA&lg_code=292&lg_name=KANDAKETIYA-PRADESHIYA-SABHA)|
