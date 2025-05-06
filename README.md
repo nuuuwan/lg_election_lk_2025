@@ -1,6 +1,6 @@
 # Sri Lankan Local Government Elections - 2025 🇱🇰
 
-As of 2025-05-07 02:39:40
+As of 2025-05-07 02:41:42
 
 *Scraped from [results.elections.gov.lk](https://results.elections.gov.lk)*
 
@@ -8,15 +8,15 @@ As of 2025-05-07 02:39:40
 
 | Results Released | % Released (By Votes) |
 |--:|--:|
-|56/339|11.46%|
+|57/339|11.58%|
 
 ## Islandwide
 
 | Party | Votes | %  | Seats | % | Wins | ≥½ ✔️ |
 |---|--:|--:|--:|--:|--:|--:|
-|🔴Jathika Jana Balawegaya|509,059|43%|553|45%|45|25|
-|🟢Samagi Jana Balawegaya|243,502|20%|233|19%|||
-|🟣Sri Lanka Podujana Peramuna|117,695|10%|113|9%|||
+|🔴Jathika Jana Balawegaya|513,984|43%|559|45%|46|25|
+|🟢Samagi Jana Balawegaya|246,210|20%|236|19%|||
+|🟣Sri Lanka Podujana Peramuna|117,958|10%|114|9%|||
 |🟩United National Party|68,458|6%|63|5%|||
 |🟦People's Alliance|52,280|4%|52|4%|||
 |🟡Ilankai Tamil Arasu Kadchi|47,466|4%|64|5%|7|4|
@@ -26,6 +26,7 @@ As of 2025-05-07 02:39:40
 |⚪All Ceylon Tamil Congress|6,609|1%|10|1%|||
 |⚫Independent Group 1 `008`|5,627|0%|3|0%|||
 |⚪Ceylon Worker's Congress (P. Wing)|5,278|0%|7|1%|||
+|⚫Independent Group 1 `286`|4,020|0%|5|0%|||
 |⚫Independent Group 1 `318`|3,366|0%|2|0%|||
 |⚫Independent Group 2 `318`|3,348|0%|2|0%|||
 |⚫Independent Group `247`|2,949|0%|6|0%|||
@@ -51,6 +52,7 @@ As of 2025-05-07 02:39:40
 |⚫Independent Group `313`|1,155|0%|1|0%|||
 |⚫Independent Group 1 `034`|1,131|0%|2|0%|||
 |⚫Independent Group `194`|1,129|0%|2|0%|||
+|⚫Independent Group 2 `286`|1,053|0%|1|0%|||
 |⚫Independent Group `287`|1,038|0%|5|0%|1||
 |⚫Independent Group `010`|957|0%|1|0%|||
 |⚪Sri Lanka Labour Party|912|0%|2|0%|||
@@ -176,6 +178,7 @@ As of 2025-05-07 02:39:40
 
 |  |  |  |  |  |  |
 |---|---|---|---|---|---|
+| `286` | 🏛️Bandarawela MC (16) |🔴JJB (6)|⚫IG1 `286` (5)|🟢SJB (3)|[...](https://results.elections.gov.lk/?page=lg_result&district=BADULLA&lg_code=286&lg_name=BANDARAWELA-MUNICIPAL-COUNCIL)|
 | `287` | 🏢Haputhale UC (11) |⚫IG `287` (5)|🔴JJB (4)|🟢SJB (2)|[...](https://results.elections.gov.lk/?page=lg_result&district=BADULLA&lg_code=287&lg_name=HAPUTHALE-URBAN-COUNCIL)|
 | `290` | 🏡Soranathota PS (16) |🔴JJB (6)|🟢SJB (4)|🟦PA (2)|[...](https://results.elections.gov.lk/?page=lg_result&district=BADULLA&lg_code=290&lg_name=SORANATHOTA-PRADESHIYA-SABHA)|
 | `291` | 🏡Meegahakivula PS (19) |🔴JJB (9)|🟢SJB (4)|🟦PA (2)|[...](https://results.elections.gov.lk/?page=lg_result&district=BADULLA&lg_code=291&lg_name=MEEGAHAKIVULA-PRADESHIYA-SABHA)|

@@ -1,0 +1,61 @@
+{
+  "district_name": "Badulla",
+  "lg_code": "286",
+  "lg_name": "Bandarawela Municipal Council",
+  "url": "https://results.elections.gov.lk/?page=lg_result&district=BADULLA&lg_code=286&lg_name=BANDARAWELA-MUNICIPAL-COUNCIL",
+  "time_str": "2025-05-07 02:35:00",
+  "time_ut": 1746565500.0,
+  "summary_data": {
+    "electors": 20481,
+    "polled": 13371,
+    "valid": 13088,
+    "rejected": 283,
+    "p_turnout": 0.65,
+    "p_valid": 0.98,
+    "p_rejected": 0.02
+  },
+  "party_result_data_list": [
+    {
+      "party_name": "Jathika Jana Balawegaya",
+      "party_code": "NPP",
+      "votes": 4925,
+      "p_votes": 0.38,
+      "seats": 6
+    },
+    {
+      "party_name": "Independent Group 1",
+      "party_code": "IND1",
+      "votes": 4020,
+      "p_votes": 0.31,
+      "seats": 5
+    },
+    {
+      "party_name": "Samagi Jana Balawegaya",
+      "party_code": "SJB",
+      "votes": 2708,
+      "p_votes": 0.21,
+      "seats": 3
+    },
+    {
+      "party_name": "Independent Group 2",
+      "party_code": "IND2",
+      "votes": 1053,
+      "p_votes": 0.08,
+      "seats": 1
+    },
+    {
+      "party_name": "Sri Lanka Podujana Peramuna",
+      "party_code": "SLPP",
+      "votes": 263,
+      "p_votes": 0.02,
+      "seats": 1
+    },
+    {
+      "party_name": "Sarvajana Balaya",
+      "party_code": "SB",
+      "votes": 119,
+      "p_votes": 0.01,
+      "seats": 0
+    }
+  ]
+}
