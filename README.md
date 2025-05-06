@@ -1,6 +1,6 @@
 # Sri Lankan Local Government Elections - 2025 🇱🇰
 
-As of 2025-05-07 02:09:10
+As of 2025-05-07 02:17:25
 
 *Scraped from [results.elections.gov.lk](https://results.elections.gov.lk)*
 
@@ -8,23 +8,23 @@ As of 2025-05-07 02:09:10
 
 | Results Released | % Released (By Votes) |
 |--:|--:|
-|44/339|7.46%|
+|45/339|8.26%|
 
 ## Islandwide
 
 | Party | Votes | %  | Seats | % | Wins | ≥½ ✔️ |
 |---|--:|--:|--:|--:|--:|--:|
-|🔴Jathika Jana Balawegaya|318,481|40%|375|42%|33|17|
-|🟢Samagi Jana Balawegaya|163,456|21%|169|19%|||
-|🟣Sri Lanka Podujana Peramuna|74,070|9%|76|9%|||
+|🔴Jathika Jana Balawegaya|352,245|41%|404|43%|34|18|
+|🟢Samagi Jana Balawegaya|178,064|21%|179|19%|||
+|🟣Sri Lanka Podujana Peramuna|80,312|9%|80|9%|||
+|🟩United National Party|51,945|6%|50|5%|||
 |🟡Ilankai Tamil Arasu Kadchi|47,466|6%|64|7%|7|4|
-|🟩United National Party|44,390|6%|45|5%|||
-|🟦People's Alliance|34,442|4%|35|4%|||
-|🔵Sarvajana Balaya|17,071|2%|20|2%|||
-|⚪Democratic Tamil National Alliance|12,880|2%|16|2%|||
+|🟦People's Alliance|36,614|4%|37|4%|||
+|🔵Sarvajana Balaya|21,579|3%|23|2%|||
+|⚪Democratic Tamil National Alliance|12,880|1%|16|2%|||
 |⚪Sri Lanka Muslim Congress|7,292|1%|8|1%|1||
 |⚪All Ceylon Tamil Congress|6,609|1%|10|1%|||
-|⚪Ceylon Worker's Congress (P. Wing)|4,217|1%|6|1%|||
+|⚪Ceylon Worker's Congress (P. Wing)|4,217|0%|6|1%|||
 |⚫Independent Group 1 `318`|3,366|0%|2|0%|||
 |⚫Independent Group 2 `318`|3,348|0%|2|0%|||
 |⚪National Congress|2,587|0%|6|1%|1|1|
@@ -50,6 +50,7 @@ As of 2025-05-07 02:09:10
 |⚫Independent Group `314`|664|0%|1|0%|||
 |⚪United National Alliance|659|0%|1|0%|||
 |⚪Nawa Lanka Nidahas Pakshaya|639|0%|1|0%|||
+|⚫Independent Group `002`|638|0%|1|0%|||
 |⚫Independent Group 1 `165`|632|0%|1|0%|||
 |⚫Independent Group 2 `052`|631|0%|1|0%|||
 |⚫Independent Group `330`|613|0%|1|0%|||
@@ -67,6 +68,7 @@ As of 2025-05-07 02:09:10
 
 |  |  |  |  |  |
 |---|---|---|---|---|
+| `002` | 🏛️Dehiwala   Mount Lavinia MC (54) |**🔴JJB (29)✔️**|🟢SJB (10)|🟩UNP (5)|
 | `003` | 🏛️Sri Jayawardenepura Kotte MC (39) |**🔴JJB (21)✔️**|🟢SJB (7)|🟦PA (3)|
 | `006` | 🏢Kollonnawa UC (19) |🔴JJB (9)|🟢SJB (6)|🟩UNP (2)|
 | `010` | 🏢Boralesgamuwa UC (17) |**🔴JJB (10)✔️**|🟢SJB (2)|🟦PA (1)|
