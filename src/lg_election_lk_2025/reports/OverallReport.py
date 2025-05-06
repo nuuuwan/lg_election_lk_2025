@@ -196,6 +196,21 @@ class OverallReport:
         )
         return lines
 
+    @staticmethod
+    def get_lg_short_name(lg_name):
+        lg_type = " ".join(lg_name.split(" ")[-2:])
+        lg_name_only = " ".join(lg_name.split(" ")[:-2])
+
+        emoji = {
+            "Municipal Council": "🏛️",
+            "Urban Council": "🏢",
+            "Pradeshiya Sabha": "🏡",
+        }.get(lg_type, None)
+        lg_type_short = "".join([x[0] for x in lg_type.split(" ")])
+        if emoji is None:
+            raise ValueError(f"Unknown LG type: {lg_type} in {lg_name}")
+        return f"{emoji}{lg_name_only} {lg_type_short}"
+
     @property
     def result_lines(self):
         lines = [
@@ -225,7 +240,7 @@ class OverallReport:
                 "|"
                 + "|".join(
                     [
-                        lg_name,
+                        OverallReport.get_lg_short_name(lg_name),
                         OverallReport.get_party_name_annotated(
                             winning_party, lg_code
                         ),

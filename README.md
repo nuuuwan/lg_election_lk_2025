@@ -1,6 +1,6 @@
 # Sri Lankan Local Government Elections - 2025 🇱🇰
 
-As of 2025-05-07 01:06:05
+As of 2025-05-07 01:12:24
 
 *Scraped from [results.elections.gov.lk](https://results.elections.gov.lk)*
 
@@ -48,77 +48,77 @@ As of 2025-05-07 01:06:05
 
 | LG Name | Winning Party |
 |---|---|
-|Kollonnawa Urban Council|🔴Jathika Jana Balawegaya|
+|🏢Kollonnawa UC|🔴Jathika Jana Balawegaya|
 
 ### Kalutara
 
 | LG Name | Winning Party |
 |---|---|
-|Horana Urban Council|🔴Jathika Jana Balawegaya|
+|🏢Horana UC|🔴Jathika Jana Balawegaya|
 
 ### Kandy
 
 | LG Name | Winning Party |
 |---|---|
-|Wattegama Urban Council|🔴Jathika Jana Balawegaya|
-|Kadugannawa Urban Council|🔴Jathika Jana Balawegaya|
+|🏢Wattegama UC|🔴Jathika Jana Balawegaya|
+|🏢Kadugannawa UC|🔴Jathika Jana Balawegaya|
 
 ### Nuwaraeliya
 
 | LG Name | Winning Party |
 |---|---|
-|Nuwara Eliya Municipal Council|🔴Jathika Jana Balawegaya|
+|🏛️Nuwara Eliya MC|🔴Jathika Jana Balawegaya|
 
 ### Galle
 
 | LG Name | Winning Party |
 |---|---|
-|Ambalangoda Urban Council|🔴Jathika Jana Balawegaya|
-|Hikkaduwa Urban Council|🔴Jathika Jana Balawegaya|
-|Welivitiya Divithura Pradeshiya Sabha|🔴Jathika Jana Balawegaya|
-|Niyagama Pradeshiya Sabha|🔴Jathika Jana Balawegaya|
-|Bope Poddala Pradeshiya Sabha|🔴Jathika Jana Balawegaya|
+|🏢Ambalangoda UC|🔴Jathika Jana Balawegaya|
+|🏢Hikkaduwa UC|🔴Jathika Jana Balawegaya|
+|🏡Welivitiya Divithura PS|🔴Jathika Jana Balawegaya|
+|🏡Niyagama PS|🔴Jathika Jana Balawegaya|
+|🏡Bope Poddala PS|🔴Jathika Jana Balawegaya|
 
 ### Hambantota
 
 | LG Name | Winning Party |
 |---|---|
-|Hambantota Municipal Council|🔴Jathika Jana Balawegaya|
-|Tangalle Urban Council|🔴Jathika Jana Balawegaya|
-|Sooriyawewa Pradeshiya Sabha|🔴Jathika Jana Balawegaya|
-|Hambantota Pradeshiya Sabha|🔴Jathika Jana Balawegaya|
+|🏛️Hambantota MC|🔴Jathika Jana Balawegaya|
+|🏢Tangalle UC|🔴Jathika Jana Balawegaya|
+|🏡Sooriyawewa PS|🔴Jathika Jana Balawegaya|
+|🏡Hambantota PS|🔴Jathika Jana Balawegaya|
 
 ### Mullaitivu
 
 | LG Name | Winning Party |
 |---|---|
-|Manthai East Pradeshiya Sabha|🟡Ilankai Tamil Arasu Kadchi|
-|Thunukkai Pradeshiya Sabha|🟡Ilankai Tamil Arasu Kadchi|
+|🏡Manthai East PS|🟡Ilankai Tamil Arasu Kadchi|
+|🏡Thunukkai PS|🟡Ilankai Tamil Arasu Kadchi|
 
 ### Ampara
 
 | LG Name | Winning Party |
 |---|---|
-|Ampara Urban Council|🔴Jathika Jana Balawegaya|
-|Akkaraipattu Pradeshiya Sabha|⚪National Congress|
+|🏢Ampara UC|🔴Jathika Jana Balawegaya|
+|🏡Akkaraipattu PS|⚪National Congress|
 
 ### Trincomalee
 
 | LG Name | Winning Party |
 |---|---|
-|Verugal Pradeshiya Sabha|🟡Ilankai Tamil Arasu Kadchi|
-|Morawewa Pradeshiya Sabha|🔴Jathika Jana Balawegaya|
+|🏡Verugal PS|🟡Ilankai Tamil Arasu Kadchi|
+|🏡Morawewa PS|🔴Jathika Jana Balawegaya|
 
 ### Badulla
 
 | LG Name | Winning Party |
 |---|---|
-|Haputhale Urban Council|⚫Independent Group [287]|
-|Soranathota Pradeshiya Sabha|🔴Jathika Jana Balawegaya|
+|🏢Haputhale UC|⚫Independent Group [287]|
+|🏡Soranathota PS|🔴Jathika Jana Balawegaya|
 
 ### Ratnapura
 
 | LG Name | Winning Party |
 |---|---|
-|Ratnapura Municipal Council|🔴Jathika Jana Balawegaya|
-|Balangoda Urban Council|🔴Jathika Jana Balawegaya|
+|🏛️Ratnapura MC|🔴Jathika Jana Balawegaya|
+|🏢Balangoda UC|🔴Jathika Jana Balawegaya|
