@@ -50,10 +50,21 @@ class OverallReport:
 
     @staticmethod
     @cache
-    def get_party_name_annotated(party_name, lg_code):
+    def party_name_short(party_name):
+        party_name = party_name.replace("(", "")
+        return "".join([x[0] for x in party_name.split()])
+
+    @staticmethod
+    @cache
+    def get_party_name_annotated(party_name, lg_code, use_short=False):
+        party_name_short = (
+            OverallReport.party_name_short(party_name)
+            if use_short
+            else party_name
+        )
         if party_name.startswith("Independent"):
-            return f"⚫{party_name} [{lg_code}]"
-        return OverallReport.get_party_emoji(party_name) + party_name
+            return f"⚫{party_name_short}-{lg_code}"
+        return OverallReport.get_party_emoji(party_name) + party_name_short
 
     @staticmethod
     def process_result(party_to_summary, result):
@@ -176,7 +187,7 @@ class OverallReport:
         lines = [
             "## Islandwide",
             "",
-            "| Party | Votes | %  | Seats | % | Wins (All) | Wins (≥½ Seats) |",
+            "| Party | Votes | %  | Seats | % | Wins | ≥½ ✔️ |",
             "|---|--:|--:|--:|--:|--:|--:|",
         ]
         lk_summary = self.lk_summary
@@ -227,8 +238,8 @@ class OverallReport:
                         "",
                         f"### {district_name}",
                         "",
-                        "| LG Name | Winning Party |",
-                        "|---|---|",
+                        "| Local Authority | 1st | 2nd | 3rd |",
+                        "|---|---|---|---|",
                     ]
                 )
                 prev_district_name = district_name
@@ -236,30 +247,28 @@ class OverallReport:
             lg_code = result["lg_code"]
             lg_name = result["lg_name"]
             party_result_data_list = result["party_result_data_list"]
-            winner_party_result_data = party_result_data_list[0]
-            winning_party = winner_party_result_data["party_name"]
-            winner_seats = winner_party_result_data["seats"]
             total_seats = sum(
                 party_result_data["seats"]
                 for party_result_data in party_result_data_list
             )
-            is_majority = winner_seats >= total_seats / 2
-            winner_cell = (
-                OverallReport.get_party_name_annotated(winning_party, lg_code)
-                + f" ({winner_seats}/{total_seats})"
-            )
-            if is_majority:
-                winner_cell = f"**{winner_cell}**"
-            lines.append(
-                "|"
-                + "|".join(
-                    [
-                        OverallReport.get_lg_short_name(lg_name),
-                        winner_cell,
-                    ]
+
+            line = f"| {OverallReport.get_lg_short_name(lg_name)} ({total_seats}) |"
+
+            for i in range(0, 3):
+                party_result_data = party_result_data_list[i]
+                party_name = party_result_data["party_name"]
+                seats = party_result_data["seats"]
+                is_majority = seats >= total_seats / 2
+                cell = (
+                    OverallReport.get_party_name_annotated(
+                        party_name, lg_code, use_short=True
+                    )
+                    + f" ({seats})"
                 )
-                + "|"
-            )
+                if is_majority:
+                    cell = f"**{cell}✔️**"
+                line += cell + "|"
+            lines.append(line)
         lines.extend(
             [
                 "",
