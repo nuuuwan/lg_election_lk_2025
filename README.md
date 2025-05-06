@@ -1,6 +1,6 @@
 # Sri Lankan Local Government Elections - 2025 🇱🇰
 
-As of 2025-05-07 03:08:10
+As of 2025-05-07 03:11:36
 
 *Scraped from [results.elections.gov.lk](https://results.elections.gov.lk)*
 
@@ -8,19 +8,19 @@ As of 2025-05-07 03:08:10
 
 | Results Released | % Released (By Votes) |
 |--:|--:|
-|71/339|15.03%|
+|73/339|15.25%|
 
 ## Islandwide (Top 10)
 
 | Party | Votes | %  | Seats | % | Wins | ≥½ ✔️ |
 |---|--:|--:|--:|--:|--:|--:|
-|🔴Jathika Jana Balawegaya|676,811|43%|693|45%|59|31|
-|🟢Samagi Jana Balawegaya|323,123|21%|293|19%|||
-|🟣Sri Lanka Podujana Peramuna|158,846|10%|144|9%|||
-|🟩United National Party|87,776|6%|78|5%|||
+|🔴Jathika Jana Balawegaya|686,855|43%|707|45%|60|31|
+|🟢Samagi Jana Balawegaya|325,830|20%|297|19%|||
+|🟣Sri Lanka Podujana Peramuna|160,856|10%|147|9%|||
+|🟩United National Party|90,292|6%|81|5%|||
 |🟦People's Alliance|63,630|4%|62|4%|||
-|🟡Ilankai Tamil Arasu Kadchi|53,674|3%|76|5%|8|4|
-|🔵Sarvajana Balaya|41,127|3%|36|2%|||
+|🟡Ilankai Tamil Arasu Kadchi|58,796|4%|83|5%|9|4|
+|🔵Sarvajana Balaya|41,488|3%|37|2%|||
 |⚪Democratic Tamil National Alliance|15,672|1%|20|1%|||
 |⚪Sri Lanka Muslim Congress|10,474|1%|11|1%|1||
 |⚪All Ceylon Tamil Congress|9,508|1%|19|1%|1||
@@ -134,9 +134,11 @@ As of 2025-05-07 03:08:10
 | `194` | 🏢Ampara UC (17) |**🔴JJB (10)✔️**|🟢SJB (3)|⚫IG `194` (2)|[...](https://results.elections.gov.lk/?page=lg_result&district=AMPARA&lg_code=194&lg_name=AMPARA-URBAN-COUNCIL)|
 | `196` | 🏡Damana PS (18) |**🔴JJB (10)✔️**|🟢SJB (4)|🟣SLPP (2)|[...](https://results.elections.gov.lk/?page=lg_result&district=AMPARA&lg_code=196&lg_name=DAMANA-PRADESHIYA-SABHA)|
 | `197` | 🏡Uhana PS (29) |**🔴JJB (16)✔️**|🟢SJB (7)|🟣SLPP (5)|[...](https://results.elections.gov.lk/?page=lg_result&district=AMPARA&lg_code=197&lg_name=UHANA-PRADESHIYA-SABHA)|
+| `198` | 🏡Mahaoya PS (18) |🔴JJB (7)|🟢SJB (4)|🟩UNP (3)|[...](https://results.elections.gov.lk/?page=lg_result&district=AMPARA&lg_code=198&lg_name=MAHAOYA-PRADESHIYA-SABHA)|
 | `199` | 🏡Namaloya PS (16) |**🔴JJB (8)✔️**|🟢SJB (5)|🟣SLPP (2)|[...](https://results.elections.gov.lk/?page=lg_result&district=AMPARA&lg_code=199&lg_name=NAMALOYA-PRADESIYA-SABA)|
 | `203` | 🏡Irakkamam PS (13) |⚪SLMC (4)|🔴JJB (3)|⚪ACMC (2)|[...](https://results.elections.gov.lk/?page=lg_result&district=AMPARA&lg_code=203&lg_name=IRAKKAMAM-PRADESHIYA-SABHA)|
 | `204` | 🏡Akkaraipattu PS (9) |**⚪NC (5)✔️**|⚪SLMC (1)|🔴JJB (1)|[...](https://results.elections.gov.lk/?page=lg_result&district=AMPARA&lg_code=204&lg_name=AKKARAIPATTU-PRADESHIYA-SABHA)|
+| `207` | 🏡Alayadiwembu PS (16) |🟡ITAK (7)|🔴JJB (7)|⚫IG `207` (2)|[...](https://results.elections.gov.lk/?page=lg_result&district=AMPARA&lg_code=207&lg_name=ALAYADIWEMBU-PRADESHIYA-SABHA)|
 
 ### Trincomalee
 
