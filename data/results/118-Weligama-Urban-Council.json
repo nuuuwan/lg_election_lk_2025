@@ -1,0 +1,61 @@
+{
+  "district_name": "Matara",
+  "lg_code": "118",
+  "lg_name": "Weligama Urban Council",
+  "url": "https://results.elections.gov.lk/?page=lg_result&district=MATARA&lg_code=118&lg_name=WELIGAMA-URBAN-COUNCIL",
+  "time_str": "2025-05-07 03:00:00",
+  "time_ut": 1746567000.0,
+  "summary_data": {
+    "electors": 17769,
+    "polled": 12256,
+    "valid": 12043,
+    "rejected": 213,
+    "p_turnout": 0.69,
+    "p_valid": 0.98,
+    "p_rejected": 0.02
+  },
+  "party_result_data_list": [
+    {
+      "party_name": "Jathika Jana Balawegaya",
+      "party_code": "NPP",
+      "votes": 5318,
+      "p_votes": 0.44,
+      "seats": 9
+    },
+    {
+      "party_name": "Samagi Jana Balawegaya",
+      "party_code": "SJB",
+      "votes": 2371,
+      "p_votes": 0.2,
+      "seats": 3
+    },
+    {
+      "party_name": "Independent Group 1",
+      "party_code": "IND1",
+      "votes": 1960,
+      "p_votes": 0.16,
+      "seats": 3
+    },
+    {
+      "party_name": "Independent Group 2",
+      "party_code": "IND2",
+      "votes": 1577,
+      "p_votes": 0.13,
+      "seats": 2
+    },
+    {
+      "party_name": "United National Party",
+      "party_code": "UNP",
+      "votes": 411,
+      "p_votes": 0.03,
+      "seats": 1
+    },
+    {
+      "party_name": "Sri Lanka Podujana Peramuna",
+      "party_code": "SLPP",
+      "votes": 406,
+      "p_votes": 0.03,
+      "seats": 1
+    }
+  ]
+}

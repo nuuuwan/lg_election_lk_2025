@@ -1,6 +1,6 @@
 # Sri Lankan Local Government Elections - 2025 🇱🇰
 
-As of 2025-05-07 03:02:45
+As of 2025-05-07 03:08:10
 
 *Scraped from [results.elections.gov.lk](https://results.elections.gov.lk)*
 
@@ -8,75 +8,22 @@ As of 2025-05-07 03:02:45
 
 | Results Released | % Released (By Votes) |
 |--:|--:|
-|69/339|14.82%|
+|71/339|15.03%|
 
-## Islandwide
+## Islandwide (Top 10)
 
 | Party | Votes | %  | Seats | % | Wins | ≥½ ✔️ |
 |---|--:|--:|--:|--:|--:|--:|
-|🔴Jathika Jana Balawegaya|669,077|43%|680|45%|58|31|
-|🟢Samagi Jana Balawegaya|317,910|21%|286|19%|||
-|🟣Sri Lanka Podujana Peramuna|158,440|10%|143|9%|||
-|🟩United National Party|87,365|6%|77|5%|||
+|🔴Jathika Jana Balawegaya|676,811|43%|693|45%|59|31|
+|🟢Samagi Jana Balawegaya|323,123|21%|293|19%|||
+|🟣Sri Lanka Podujana Peramuna|158,846|10%|144|9%|||
+|🟩United National Party|87,776|6%|78|5%|||
 |🟦People's Alliance|63,630|4%|62|4%|||
-|🟡Ilankai Tamil Arasu Kadchi|50,456|3%|71|5%|7|4|
+|🟡Ilankai Tamil Arasu Kadchi|53,674|3%|76|5%|8|4|
 |🔵Sarvajana Balaya|41,127|3%|36|2%|||
-|⚪Democratic Tamil National Alliance|12,880|1%|16|1%|||
-|⚪Sri Lanka Muslim Congress|9,982|1%|10|1%|1||
-|⚪All Ceylon Tamil Congress|8,808|1%|18|1%|1||
-|⚪Ceylon Worker's Congress (P. Wing)|6,194|0%|9|1%|||
-|⚫Independent Group 1 `008`|5,627|0%|3|0%|||
-|⚪All Ceylon Makkal Congress|4,641|0%|6|0%|||
-|⚫Independent Group 2 `009`|4,022|0%|2|0%|||
-|⚫Independent Group 1 `286`|4,020|0%|5|0%|||
-|⚪National Freedom Front|3,876|0%|4|0%|||
-|⚫Independent Group 1 `318`|3,366|0%|2|0%|||
-|⚫Independent Group 2 `318`|3,348|0%|2|0%|||
-|⚫Independent Group `247`|2,949|0%|6|0%|||
-|⚪Democratic Left Front|2,896|0%|2|0%|||
-|⚫Independent Group `088`|2,741|0%|2|0%|||
-|⚫Independent Group 4 `008`|2,728|0%|2|0%|||
-|⚪Tamil Progressive Alliance|2,719|0%|3|0%|||
-|⚪National Congress|2,587|0%|6|0%|1|1|
-|⚫Independent Group `101`|2,583|0%|2|0%|||
-|⚪Up-Country People's Front|2,558|0%|4|0%|||
-|⚫Independent Group `178`|2,491|0%|2|0%|||
-|⚪People's Struggle Alliance|2,255|0%|3|0%|||
-|⚪Communist Party of Sri Lanka|2,218|0%|2|0%|||
-|⚫Independent Group `114`|2,217|0%|1|0%|||
-|⚫Independent Group 3 `008`|1,763|0%|1|0%|||
-|⚫Independent Group `085`|1,739|0%|3|0%|||
-|⚪Sri Lanka Mahajana Pakshaya|1,692|0%|2|0%|||
-|⚫Independent Group `164`|1,664|0%|2|0%|||
-|⚪Eelam People's Democratic Party|1,554|0%|3|0%|||
-|⚫Independent Group `295`|1,454|0%|1|0%|||
-|⚫Independent Group 2 `008`|1,388|0%|1|0%|||
-|⚫Independent Group `316`|1,157|0%|1|0%|||
-|⚫Independent Group `313`|1,155|0%|1|0%|||
-|⚫Independent Group `040`|1,151|0%|1|0%|||
-|⚫Independent Group 1 `034`|1,131|0%|2|0%|||
-|⚫Independent Group `194`|1,129|0%|2|0%|||
-|⚫Independent Group 2 `286`|1,053|0%|1|0%|||
-|⚫Independent Group `287`|1,038|0%|5|0%|1||
-|⚫Independent Group `010`|957|0%|1|0%|||
-|⚪Sri Lanka Labour Party|912|0%|2|0%|||
-|⚪United Republican Front|904|0%|1|0%|||
-|⚫Independent Group `035`|857|0%|1|0%|||
-|⚫Independent Group 2 `203`|823|0%|1|0%|||
-|⚫Independent Group `314`|664|0%|1|0%|||
-|⚪United National Alliance|659|0%|1|0%|||
-|⚪Nawa Lanka Nidahas Pakshaya|639|0%|1|0%|||
-|⚫Independent Group `002`|638|0%|1|0%|||
-|⚫Independent Group 1 `165`|632|0%|1|0%|||
-|⚫Independent Group 2 `052`|631|0%|1|0%|||
-|⚫Independent Group `330`|613|0%|1|0%|||
-|⚫Independent Group `098`|552|0%|1|0%|||
-|⚫Independent Group `204`|511|0%|1|0%|||
-|⚫Independent Group 2 `165`|486|0%|1|0%|||
-|⚫Independent Group 1 `203`|443|0%|1|0%|||
-|⚫Independent Group 1 `177`|388|0%|1|0%|||
-|⚫Independent Group 1 `052`|323|0%|1|0%|||
-|⚫Independent Group 1 `086`|304|0%|1|0%|||
+|⚪Democratic Tamil National Alliance|15,672|1%|20|1%|||
+|⚪Sri Lanka Muslim Congress|10,474|1%|11|1%|1||
+|⚪All Ceylon Tamil Congress|9,508|1%|19|1%|1||
 
 ## Results by Local Authority
 
@@ -133,6 +80,12 @@ As of 2025-05-07 03:02:45
 | `114` | 🏡Bope Poddala PS (21) |**🔴JJB (11)✔️**|🟢SJB (4)|🟣SLPP (3)|[...](https://results.elections.gov.lk/?page=lg_result&district=GALLE&lg_code=114&lg_name=BOPE-PODDALA-PRADESHIYA-SABHA)|
 | `116` | 🏡Habaraduwa PS (27) |**🔴JJB (14)✔️**|🟢SJB (6)|🟣SLPP (5)|[...](https://results.elections.gov.lk/?page=lg_result&district=GALLE&lg_code=116&lg_name=HABARADUWA-PRADESHIYA-SABHA)|
 
+### Matara
+
+|  |  |  |  |  |  |
+|---|---|---|---|---|---|
+| `118` | 🏢Weligama UC (19) |🔴JJB (9)|🟢SJB (3)|⚫IG1 `118` (3)|[...](https://results.elections.gov.lk/?page=lg_result&district=MATARA&lg_code=118&lg_name=WELIGAMA-URBAN-COUNCIL)|
+
 ### Hambantota
 
 |  |  |  |  |  |  |
@@ -159,6 +112,12 @@ As of 2025-05-07 03:02:45
 | `163` | 🏡Pachchilaippalli PS (13) |🟡ITAK (6)|⚪DTNA (3)|🔴JJB (3)|[...](https://results.elections.gov.lk/?page=lg_result&district=KILINOCHCHI&lg_code=163&lg_name=PACHCHILAIPPALLI-PRADESHIYA-SABHA)|
 | `164` | 🏡Karachchi PS (37) |**🟡ITAK (20)✔️**|🔴JJB (6)|⚪DTNA (4)|[...](https://results.elections.gov.lk/?page=lg_result&district=KILINOCHCHI&lg_code=164&lg_name=KARACHCHI-PRADESHIYA-SABHA)|
 | `165` | 🏡Poonakary PS (20) |**🟡ITAK (10)✔️**|⚪DTNA (3)|🔴JJB (3)|[...](https://results.elections.gov.lk/?page=lg_result&district=KILINOCHCHI&lg_code=165&lg_name=POONAKARY-PRADESHIYA-SABHA)|
+
+### Mannar
+
+|  |  |  |  |  |  |
+|---|---|---|---|---|---|
+| `170` | 🏡Manthai West PS (21) |🟡ITAK (5)|🟢SJB (4)|⚪DTNA (4)|[...](https://results.elections.gov.lk/?page=lg_result&district=MANNAR&lg_code=170&lg_name=MANTHAI-WEST-PRADESHIYA-SABHA)|
 
 ### Mullaitivu
 
