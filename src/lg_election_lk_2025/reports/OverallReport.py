@@ -200,11 +200,23 @@ class OverallReport:
     def result_lines(self):
         lines = [
             "## Results",
-            "",
-            "| LG Code | LG Name | Winning Party |",
-            "|---|---|--|",
         ]
+        prev_district_name = None
         for result in self.result_list:
+            district_name = result["district_name"]
+
+            if district_name != prev_district_name:
+                lines.extend(
+                    [
+                        "",
+                        f"### {district_name}",
+                        "",
+                        "| LG Name | Winning Party |",
+                        "|---|---|",
+                    ]
+                )
+                prev_district_name = district_name
+
             lg_code = result["lg_code"]
             lg_name = result["lg_name"]
             party_result_data_list = result["party_result_data_list"]
@@ -213,7 +225,6 @@ class OverallReport:
                 "|"
                 + "|".join(
                     [
-                        lg_code,
                         lg_name,
                         OverallReport.get_party_name_annotated(
                             winning_party, lg_code
