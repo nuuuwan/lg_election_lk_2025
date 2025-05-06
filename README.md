@@ -1,6 +1,6 @@
 # Sri Lankan Local Government Elections - 2025 🇱🇰
 
-As of 2025-05-07 02:59:51
+As of 2025-05-07 03:01:01
 
 *Scraped from [results.elections.gov.lk](https://results.elections.gov.lk)*
 
@@ -8,19 +8,19 @@ As of 2025-05-07 02:59:51
 
 | Results Released | % Released (By Votes) |
 |--:|--:|
-|67/339|14.29%|
+|68/339|14.57%|
 
 ## Islandwide
 
 | Party | Votes | %  | Seats | % | Wins | ≥½ ✔️ |
 |---|--:|--:|--:|--:|--:|--:|
-|🔴Jathika Jana Balawegaya|639,927|43%|654|45%|55|29|
-|🟢Samagi Jana Balawegaya|307,874|21%|279|19%|||
-|🟣Sri Lanka Podujana Peramuna|145,116|10%|133|9%|||
+|🔴Jathika Jana Balawegaya|654,861|43%|669|45%|57|30|
+|🟢Samagi Jana Balawegaya|312,916|21%|283|19%|||
+|🟣Sri Lanka Podujana Peramuna|153,500|10%|140|9%|||
 |🟩United National Party|87,365|6%|77|5%|||
-|🟦People's Alliance|58,700|4%|58|4%|||
+|🟦People's Alliance|60,928|4%|60|4%|||
 |🟡Ilankai Tamil Arasu Kadchi|50,456|3%|71|5%|7|4|
-|🔵Sarvajana Balaya|38,900|3%|34|2%|||
+|🔵Sarvajana Balaya|40,334|3%|35|2%|||
 |⚪Democratic Tamil National Alliance|12,880|1%|16|1%|||
 |⚪Sri Lanka Muslim Congress|9,982|1%|10|1%|1||
 |⚪All Ceylon Tamil Congress|8,808|1%|18|1%|1||
@@ -39,7 +39,7 @@ As of 2025-05-07 02:59:51
 |⚪Tamil Progressive Alliance|2,719|0%|3|0%|||
 |⚪National Congress|2,587|0%|6|0%|1|1|
 |⚫Independent Group `101`|2,583|0%|2|0%|||
-|⚪Up-Country People's Front|2,558|0%|4|0%|1||
+|⚪Up-Country People's Front|2,558|0%|4|0%|||
 |⚫Independent Group `178`|2,491|0%|2|0%|||
 |⚪People's Struggle Alliance|2,255|0%|3|0%|||
 |⚪Communist Party of Sri Lanka|2,218|0%|2|0%|||
@@ -139,6 +139,7 @@ As of 2025-05-07 02:59:51
 |---|---|---|---|---|---|
 | `134` | 🏛️Hambantota MC (21) |🔴JJB (8)|🟢SJB (7)|🟦PA (3)|[...](https://results.elections.gov.lk/?page=lg_result&district=HAMBANTOTA&lg_code=134&lg_name=HAMBANTOTA-MUNICIPAL-COUNCIL)|
 | `135` | 🏢Tangalle UC (19) |🔴JJB (9)|🟢SJB (5)|🟣SLPP (3)|[...](https://results.elections.gov.lk/?page=lg_result&district=HAMBANTOTA&lg_code=135&lg_name=TANGALLE-URBAN-COUNCIL)|
+| `138` | 🏡Beliatta PS (29) |**🔴JJB (15)✔️**|🟣SLPP (7)|🟢SJB (4)|[...](https://results.elections.gov.lk/?page=lg_result&district=HAMBANTOTA&lg_code=138&lg_name=BELIATTA-PRADESHIYA-SABHA)|
 | `141` | 🏡Ambalantota PS (31) |**🔴JJB (17)✔️**|🟢SJB (5)|🟣SLPP (5)|[...](https://results.elections.gov.lk/?page=lg_result&district=HAMBANTOTA&lg_code=141&lg_name=AMBALANTOTA-PRADESHIYA-SABHA)|
 | `143` | 🏡Sooriyawewa PS (11) |**🔴JJB (6)✔️**|🟢SJB (2)|🟣SLPP (2)|[...](https://results.elections.gov.lk/?page=lg_result&district=HAMBANTOTA&lg_code=143&lg_name=SOORIYAWEWA-PRADESHIYA-SABHA)|
 | `144` | 🏡Hambantota PS (15) |**🔴JJB (8)✔️**|🟢SJB (4)|🟣SLPP (2)|[...](https://results.elections.gov.lk/?page=lg_result&district=HAMBANTOTA&lg_code=144&lg_name=HAMBANTOTA-PRADESHIYA-SABHA)|

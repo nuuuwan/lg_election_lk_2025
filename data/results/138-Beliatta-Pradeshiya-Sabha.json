@@ -1,0 +1,61 @@
+{
+  "district_name": "Hambantota",
+  "lg_code": "138",
+  "lg_name": "Beliatta Pradeshiya Sabha",
+  "url": "https://results.elections.gov.lk/?page=lg_result&district=HAMBANTOTA&lg_code=138&lg_name=BELIATTA-PRADESHIYA-SABHA",
+  "time_str": "2025-05-07 02:54:00",
+  "time_ut": 1746566640.0,
+  "summary_data": {
+    "electors": 49272,
+    "polled": 32874,
+    "valid": 32305,
+    "rejected": 569,
+    "p_turnout": 0.67,
+    "p_valid": 0.98,
+    "p_rejected": 0.02
+  },
+  "party_result_data_list": [
+    {
+      "party_name": "Jathika Jana Balawegaya",
+      "party_code": "NPP",
+      "votes": 14934,
+      "p_votes": 0.46,
+      "seats": 15
+    },
+    {
+      "party_name": "Sri Lanka Podujana Peramuna",
+      "party_code": "SLPP",
+      "votes": 8384,
+      "p_votes": 0.26,
+      "seats": 7
+    },
+    {
+      "party_name": "Samagi Jana Balawegaya",
+      "party_code": "SJB",
+      "votes": 5042,
+      "p_votes": 0.16,
+      "seats": 4
+    },
+    {
+      "party_name": "People's Alliance",
+      "party_code": "PA",
+      "votes": 2228,
+      "p_votes": 0.07,
+      "seats": 2
+    },
+    {
+      "party_name": "Sarvajana Balaya",
+      "party_code": "SB",
+      "votes": 1434,
+      "p_votes": 0.04,
+      "seats": 1
+    },
+    {
+      "party_name": "People's Struggle Alliance",
+      "party_code": "PSA",
+      "votes": 283,
+      "p_votes": 0.01,
+      "seats": 0
+    }
+  ]
+}
