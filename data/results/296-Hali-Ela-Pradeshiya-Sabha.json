@@ -1,0 +1,74 @@
+{
+  "district_name": "Badulla",
+  "lg_code": "296",
+  "lg_name": "Hali Ela Pradeshiya Sabha",
+  "time_str": "2025-05-07 01:29:00",
+  "time_ut": 1746561540.0,
+  "summary_data": {
+    "electors": 79743,
+    "polled": 50909,
+    "valid": 48851,
+    "rejected": 2058,
+    "p_turnout": 0.64,
+    "p_valid": 0.96,
+    "p_rejected": 0.04
+  },
+  "party_result_data_list": [
+    {
+      "party_name": "Jathika Jana Balawegaya",
+      "party_code": "NPP",
+      "votes": 21212,
+      "p_votes": 0.43,
+      "seats": 23
+    },
+    {
+      "party_name": "Samagi Jana Balawegaya",
+      "party_code": "SJB",
+      "votes": 8691,
+      "p_votes": 0.18,
+      "seats": 7
+    },
+    {
+      "party_name": "People's Alliance",
+      "party_code": "PA",
+      "votes": 6792,
+      "p_votes": 0.14,
+      "seats": 6
+    },
+    {
+      "party_name": "United National Party",
+      "party_code": "UNP",
+      "votes": 4512,
+      "p_votes": 0.09,
+      "seats": 4
+    },
+    {
+      "party_name": "Sri Lanka Podujana Peramuna",
+      "party_code": "SLPP",
+      "votes": 2934,
+      "p_votes": 0.06,
+      "seats": 3
+    },
+    {
+      "party_name": "Ceylon Worker's Congress (P. Wing)",
+      "party_code": "CWC",
+      "votes": 2832,
+      "p_votes": 0.06,
+      "seats": 2
+    },
+    {
+      "party_name": "Up-Country People's Front",
+      "party_code": "UCPF",
+      "votes": 1535,
+      "p_votes": 0.03,
+      "seats": 1
+    },
+    {
+      "party_name": "People's Struggle Alliance",
+      "party_code": "PSA",
+      "votes": 343,
+      "p_votes": 0.01,
+      "seats": 0
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "district_name": "Ampara",
+  "lg_code": "203",
+  "lg_name": "Irakkamam Pradeshiya Sabha",
+  "time_str": "2025-05-07 01:19:00",
+  "time_ut": 1746560940.0,
+  "summary_data": {
+    "electors": 12862,
+    "polled": 9439,
+    "valid": 9380,
+    "rejected": 59,
+    "p_turnout": 0.73,
+    "p_valid": 0.99,
+    "p_rejected": 0.01
+  },
+  "party_result_data_list": [
+    {
+      "party_name": "Sri Lanka Muslim Congress",
+      "party_code": "SLMC",
+      "votes": 2838,
+      "p_votes": 0.3,
+      "seats": 4
+    },
+    {
+      "party_name": "Jathika Jana Balawegaya",
+      "party_code": "NPP",
+      "votes": 2003,
+      "p_votes": 0.21,
+      "seats": 3
+    },
+    {
+      "party_name": "All Ceylon Makkal Congress",
+      "party_code": "ACMC",
+      "votes": 1732,
+      "p_votes": 0.18,
+      "seats": 2
+    },
+    {
+      "party_name": "Independent Group 2",
+      "party_code": "IND2",
+      "votes": 823,
+      "p_votes": 0.09,
+      "seats": 1
+    },
+    {
+      "party_name": "People's Alliance",
+      "party_code": "PA",
+      "votes": 766,
+      "p_votes": 0.08,
+      "seats": 1
+    },
+    {
+      "party_name": "National Congress",
+      "party_code": "NC",
+      "votes": 506,
+      "p_votes": 0.05,
+      "seats": 1
+    },
+    {
+      "party_name": "Independent Group 1",
+      "party_code": "IND1",
+      "votes": 443,
+      "p_votes": 0.05,
+      "seats": 1
+    },
+    {
+      "party_name": "Samagi Jana Balawegaya",
+      "party_code": "SJB",
+      "votes": 188,
+      "p_votes": 0.02,
+      "seats": 0
+    },
+    {
+      "party_name": "Sri Lanka Podujana Peramuna",
+      "party_code": "SLPP",
+      "votes": 81,
+      "p_votes": 0.01,
+      "seats": 0
+    }
+  ]
+}

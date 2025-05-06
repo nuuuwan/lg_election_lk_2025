@@ -1,0 +1,74 @@
+{
+  "district_name": "Kilinochchi",
+  "lg_code": "163",
+  "lg_name": "Pachchilaippalli Pradeshiya Sabha",
+  "time_str": "2025-05-07 01:32:00",
+  "time_ut": 1746561720.0,
+  "summary_data": {
+    "electors": 10998,
+    "polled": 6975,
+    "valid": 6855,
+    "rejected": 120,
+    "p_turnout": 0.63,
+    "p_valid": 0.98,
+    "p_rejected": 0.02
+  },
+  "party_result_data_list": [
+    {
+      "party_name": "Ilankai Tamil Arasu Kadchi",
+      "party_code": "ITAK",
+      "votes": 3040,
+      "p_votes": 0.44,
+      "seats": 6
+    },
+    {
+      "party_name": "Democratic Tamil National Alliance",
+      "party_code": "DTNA",
+      "votes": 1511,
+      "p_votes": 0.22,
+      "seats": 3
+    },
+    {
+      "party_name": "Jathika Jana Balawegaya",
+      "party_code": "NPP",
+      "votes": 1349,
+      "p_votes": 0.2,
+      "seats": 3
+    },
+    {
+      "party_name": "All Ceylon Tamil Congress",
+      "party_code": "ACTC",
+      "votes": 508,
+      "p_votes": 0.07,
+      "seats": 1
+    },
+    {
+      "party_name": "Samagi Jana Balawegaya",
+      "party_code": "SJB",
+      "votes": 208,
+      "p_votes": 0.03,
+      "seats": 0
+    },
+    {
+      "party_name": "Eelam People's Democratic Party",
+      "party_code": "EPDP",
+      "votes": 123,
+      "p_votes": 0.02,
+      "seats": 0
+    },
+    {
+      "party_name": "Independent Group",
+      "party_code": "IND1",
+      "votes": 100,
+      "p_votes": 0.01,
+      "seats": 0
+    },
+    {
+      "party_name": "United National Party",
+      "party_code": "UNP",
+      "votes": 16,
+      "p_votes": 0.0,
+      "seats": 0
+    }
+  ]
+}
