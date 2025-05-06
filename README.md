@@ -1,6 +1,6 @@
 # Sri Lankan Local Government Elections - 2025 🇱🇰
 
-As of 2025-05-07 02:28:13
+As of 2025-05-07 02:29:05
 
 *Scraped from [results.elections.gov.lk](https://results.elections.gov.lk)*
 
@@ -8,15 +8,15 @@ As of 2025-05-07 02:28:13
 
 | Results Released | % Released (By Votes) |
 |--:|--:|
-|49/339|9.34%|
+|50/339|9.45%|
 
 ## Islandwide
 
 | Party | Votes | %  | Seats | % | Wins | ≥½ ✔️ |
 |---|--:|--:|--:|--:|--:|--:|
-|🔴Jathika Jana Balawegaya|409,769|42%|454|44%|38|21|
-|🟢Samagi Jana Balawegaya|205,781|21%|201|19%|||
-|🟣Sri Lanka Podujana Peramuna|98,537|10%|96|9%|||
+|🔴Jathika Jana Balawegaya|414,589|42%|463|44%|39|21|
+|🟢Samagi Jana Balawegaya|207,606|21%|205|19%|||
+|🟣Sri Lanka Podujana Peramuna|98,818|10%|97|9%|||
 |🟩United National Party|58,137|6%|54|5%|||
 |🟡Ilankai Tamil Arasu Kadchi|47,466|5%|64|6%|7|4|
 |🟦People's Alliance|39,969|4%|40|4%|||
@@ -27,6 +27,7 @@ As of 2025-05-07 02:28:13
 |⚪Ceylon Worker's Congress (P. Wing)|4,217|0%|6|1%|||
 |⚫Independent Group 1 `318`|3,366|0%|2|0%|||
 |⚫Independent Group 2 `318`|3,348|0%|2|0%|||
+|⚫Independent Group `247`|2,949|0%|6|1%|||
 |⚪National Congress|2,587|0%|6|1%|1|1|
 |⚫Independent Group `101`|2,583|0%|2|0%|||
 |⚪Up-Country People's Front|2,558|0%|4|0%|1||
@@ -154,6 +155,12 @@ As of 2025-05-07 02:28:13
 |---|---|---|---|---|---|
 | `214` | 🏡Verugal PS (13) |**🟡ITAK (8)✔️**|🔴JJB (3)|🟢SJB (2)|[...](https://results.elections.gov.lk/?page=lg_result&district=TRINCOMALEE&lg_code=214&lg_name=VERUGAL-PRADESHIYA-SABHA)|
 | `217` | 🏡Morawewa PS (17) |**🔴JJB (9)✔️**|🟣SLPP (3)|🟢SJB (3)|[...](https://results.elections.gov.lk/?page=lg_result&district=TRINCOMALEE&lg_code=217&lg_name=MORAWEWA-PRADESHIYA-SABHA)|
+
+### Puttalam
+
+|  |  |  |  |  |  |
+|---|---|---|---|---|---|
+| `247` | 🏢Chilaw UC (20) |🔴JJB (9)|⚫IG `247` (6)|🟢SJB (4)|[...](https://results.elections.gov.lk/?page=lg_result&district=PUTTALAM&lg_code=247&lg_name=CHILAW-URBAN-COUNCIL)|
 
 ### Badulla
 
