@@ -1,0 +1,82 @@
+{
+  "district_name": "Badulla",
+  "lg_code": "300",
+  "lg_name": "Ella Pradeshiya Sabha",
+  "url": "https://results.elections.gov.lk/?page=lg_result&district=BADULLA&lg_code=300&lg_name=ELLA-PRADESHIYA-SABHA",
+  "time_str": "2025-05-07 02:28:00",
+  "time_ut": 1746565080.0,
+  "summary_data": {
+    "electors": 38977,
+    "polled": 25532,
+    "valid": 24593,
+    "rejected": 939,
+    "p_turnout": 0.66,
+    "p_valid": 0.96,
+    "p_rejected": 0.04
+  },
+  "party_result_data_list": [
+    {
+      "party_name": "Jathika Jana Balawegaya",
+      "party_code": "NPP",
+      "votes": 9513,
+      "p_votes": 0.39,
+      "seats": 13
+    },
+    {
+      "party_name": "Samagi Jana Balawegaya",
+      "party_code": "SJB",
+      "votes": 6059,
+      "p_votes": 0.25,
+      "seats": 5
+    },
+    {
+      "party_name": "People's Alliance",
+      "party_code": "PA",
+      "votes": 4036,
+      "p_votes": 0.16,
+      "seats": 4
+    },
+    {
+      "party_name": "Tamil Progressive Alliance",
+      "party_code": "TPA",
+      "votes": 1356,
+      "p_votes": 0.06,
+      "seats": 1
+    },
+    {
+      "party_name": "Ceylon Worker's Congress (P. Wing)",
+      "party_code": "CWC",
+      "votes": 1061,
+      "p_votes": 0.04,
+      "seats": 1
+    },
+    {
+      "party_name": "United National Party",
+      "party_code": "UNP",
+      "votes": 1060,
+      "p_votes": 0.04,
+      "seats": 1
+    },
+    {
+      "party_name": "Sri Lanka Podujana Peramuna",
+      "party_code": "SLPP",
+      "votes": 926,
+      "p_votes": 0.04,
+      "seats": 1
+    },
+    {
+      "party_name": "Independent Group",
+      "party_code": "IND1",
+      "votes": 420,
+      "p_votes": 0.02,
+      "seats": 0
+    },
+    {
+      "party_name": "People's Struggle Alliance",
+      "party_code": "PSA",
+      "votes": 162,
+      "p_votes": 0.01,
+      "seats": 0
+    }
+  ]
+}
