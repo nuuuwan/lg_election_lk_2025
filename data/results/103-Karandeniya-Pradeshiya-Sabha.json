@@ -1,0 +1,61 @@
+{
+  "district_name": "Galle",
+  "lg_code": "103",
+  "lg_name": "Karandeniya Pradeshiya Sabha",
+  "url": "https://results.elections.gov.lk/?page=lg_result&district=GALLE&lg_code=103&lg_name=KARANDENIYA-PRADESHIYA-SABHA",
+  "time_str": "2025-05-07 02:47:00",
+  "time_ut": 1746566220.0,
+  "summary_data": {
+    "electors": 56005,
+    "polled": 32762,
+    "valid": 32395,
+    "rejected": 367,
+    "p_turnout": 0.58,
+    "p_valid": 0.99,
+    "p_rejected": 0.01
+  },
+  "party_result_data_list": [
+    {
+      "party_name": "Jathika Jana Balawegaya",
+      "party_code": "NPP",
+      "votes": 17573,
+      "p_votes": 0.54,
+      "seats": 12
+    },
+    {
+      "party_name": "Samagi Jana Balawegaya",
+      "party_code": "SJB",
+      "votes": 4870,
+      "p_votes": 0.15,
+      "seats": 3
+    },
+    {
+      "party_name": "Sri Lanka Podujana Peramuna",
+      "party_code": "SLPP",
+      "votes": 4585,
+      "p_votes": 0.14,
+      "seats": 3
+    },
+    {
+      "party_name": "United National Party",
+      "party_code": "UNP",
+      "votes": 2097,
+      "p_votes": 0.06,
+      "seats": 1
+    },
+    {
+      "party_name": "Sarvajana Balaya",
+      "party_code": "SB",
+      "votes": 1967,
+      "p_votes": 0.06,
+      "seats": 1
+    },
+    {
+      "party_name": "People's Struggle Alliance",
+      "party_code": "PSA",
+      "votes": 1303,
+      "p_votes": 0.04,
+      "seats": 1
+    }
+  ]
+}
