@@ -1,0 +1,51 @@
+{
+  "district_name": "Hambantota",
+  "lg_code": "144",
+  "lg_name": "Hambantota Pradeshiya Sabha",
+  "summary_data": {
+    "electors": 30055,
+    "polled": 19065,
+    "valid": 18816,
+    "rejected": 249,
+    "p_turnout": 0.63,
+    "p_valid": 0.99,
+    "p_rejected": 0.01
+  },
+  "party_result_data_list": [
+    {
+      "party_name": "Jathika Jana Balawegaya",
+      "party_code": "NPP",
+      "votes": 9236,
+      "p_votes": 0.49,
+      "seats": 8
+    },
+    {
+      "party_name": "Samagi Jana Balawegaya",
+      "party_code": "SJB",
+      "votes": 5349,
+      "p_votes": 0.28,
+      "seats": 4
+    },
+    {
+      "party_name": "Sri Lanka Podujana Peramuna",
+      "party_code": "SLPP",
+      "votes": 3091,
+      "p_votes": 0.16,
+      "seats": 2
+    },
+    {
+      "party_name": "Sarvajana Balaya",
+      "party_code": "SB",
+      "votes": 812,
+      "p_votes": 0.04,
+      "seats": 1
+    },
+    {
+      "party_name": "People's Alliance",
+      "party_code": "PA",
+      "votes": 328,
+      "p_votes": 0.02,
+      "seats": 0
+    }
+  ]
+}

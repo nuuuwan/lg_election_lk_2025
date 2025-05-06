@@ -1,0 +1,37 @@
+{
+  "district_name": "Badulla",
+  "lg_code": "287",
+  "lg_name": "Haputhale Urban Council",
+  "summary_data": {
+    "electors": 3051,
+    "polled": 2304,
+    "valid": 2256,
+    "rejected": 48,
+    "p_turnout": 0.76,
+    "p_valid": 0.98,
+    "p_rejected": 0.02
+  },
+  "party_result_data_list": [
+    {
+      "party_name": "Independent Group",
+      "party_code": "IND1",
+      "votes": 1038,
+      "p_votes": 0.46,
+      "seats": 5
+    },
+    {
+      "party_name": "Jathika Jana Balawegaya",
+      "party_code": "NPP",
+      "votes": 844,
+      "p_votes": 0.37,
+      "seats": 4
+    },
+    {
+      "party_name": "Samagi Jana Balawegaya",
+      "party_code": "SJB",
+      "votes": 374,
+      "p_votes": 0.17,
+      "seats": 2
+    }
+  ]
+}

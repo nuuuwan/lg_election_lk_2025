@@ -1,0 +1,72 @@
+{
+  "district_name": "Ratnapura",
+  "lg_code": "314",
+  "lg_name": "Balangoda Urban Council",
+  "summary_data": {
+    "electors": 17455,
+    "polled": 11354,
+    "valid": 11119,
+    "rejected": 235,
+    "p_turnout": 0.65,
+    "p_valid": 0.98,
+    "p_rejected": 0.02
+  },
+  "party_result_data_list": [
+    {
+      "party_name": "Jathika Jana Balawegaya",
+      "party_code": "NPP",
+      "votes": 4833,
+      "p_votes": 0.43,
+      "seats": 7
+    },
+    {
+      "party_name": "Samagi Jana Balawegaya",
+      "party_code": "SJB",
+      "votes": 3232,
+      "p_votes": 0.29,
+      "seats": 5
+    },
+    {
+      "party_name": "Sri Lanka Podujana Peramuna",
+      "party_code": "SLPP",
+      "votes": 1442,
+      "p_votes": 0.13,
+      "seats": 2
+    },
+    {
+      "party_name": "Independent Group",
+      "party_code": "IND1",
+      "votes": 664,
+      "p_votes": 0.06,
+      "seats": 1
+    },
+    {
+      "party_name": "United National Party",
+      "party_code": "UNP",
+      "votes": 458,
+      "p_votes": 0.04,
+      "seats": 1
+    },
+    {
+      "party_name": "People's Alliance",
+      "party_code": "PA",
+      "votes": 246,
+      "p_votes": 0.02,
+      "seats": 0
+    },
+    {
+      "party_name": "Sarvajana Balaya",
+      "party_code": "SB",
+      "votes": 141,
+      "p_votes": 0.01,
+      "seats": 0
+    },
+    {
+      "party_name": "National Freedom Front",
+      "party_code": "NFF",
+      "votes": 103,
+      "p_votes": 0.01,
+      "seats": 0
+    }
+  ]
+}
