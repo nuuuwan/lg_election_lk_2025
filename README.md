@@ -1,6 +1,6 @@
 # Sri Lankan Local Government Elections - 2025 🇱🇰
 
-As of 2025-05-07 04:06:46
+As of 2025-05-07 04:15:18
 
 *Scraped from [results.elections.gov.lk](https://results.elections.gov.lk)*
 
@@ -8,19 +8,19 @@ As of 2025-05-07 04:06:46
 
 | Results Released | % Released (By Votes) |
 |--:|--:|
-|97/339|21.06%|
+|98/339|21.71%|
 
 ## Islandwide (Top 10 by Votes)
 
 | Party | Votes | %  | Seats | % | Wins | ≥½ ✔️ |
 |---|--:|--:|--:|--:|--:|--:|
-|🔴Jathika Jana Balawegaya|916,670|41%|918|42%|76|37|
-|🟢Samagi Jana Balawegaya|445,598|20%|391|18%|3||
-|🟣Sri Lanka Podujana Peramuna|205,510|9%|184|9%|||
-|🟩United National Party|112,007|5%|99|5%|||
+|🔴Jathika Jana Balawegaya|946,920|41%|941|43%|77|37|
+|🟢Samagi Jana Balawegaya|458,868|20%|399|18%|3||
+|🟣Sri Lanka Podujana Peramuna|216,365|9%|191|9%|||
+|🟩United National Party|114,620|5%|101|5%|||
 |🟡Ilankai Tamil Arasu Kadchi|97,351|4%|138|6%|16|4|
-|🟦People's Alliance|89,292|4%|80|4%|||
-|🔵Sarvajana Balaya|51,166|2%|45|2%|||
+|🟦People's Alliance|90,155|4%|81|4%|||
+|🔵Sarvajana Balaya|54,015|2%|47|2%|||
 |⚪Democratic Tamil National Alliance|31,652|1%|40|2%|||
 |⚪All Ceylon Tamil Congress|28,260|1%|45|2%|2||
 |⚪Ceylon Worker's Congress (P. Wing)|23,508|1%|20|1%|1||
@@ -37,6 +37,7 @@ As of 2025-05-07 04:06:46
 | `008` | 🏢Maharagama  UC (43) |**🔴JJB (24)✔️**|🟢SJB (6)|⚫IG1 `008` (3)| Others (10) |[...](https://results.elections.gov.lk/?page=lg_result&district=COLOMBO&lg_code=008&lg_name=MAHARAGAMA--URBAN-COUNCIL)|
 | `009` | 🏢Kesbewa UC (34) |**🔴JJB (20)✔️**|🟢SJB (5)|🟣SLPP (3)| Others (6) |[...](https://results.elections.gov.lk/?page=lg_result&district=COLOMBO&lg_code=009&lg_name=KESBEWA-URBAN-COUNCIL)|
 | `010` | 🏢Boralesgamuwa UC (17) |**🔴JJB (10)✔️**|🟢SJB (2)|🟦PA (1)| Others (4) |[...](https://results.elections.gov.lk/?page=lg_result&district=COLOMBO&lg_code=010&lg_name=BORALESGAMUWA-URBAN-COUNCIL)|
+| `012` | 🏡Seethawaka PS (47) |🔴JJB (23)|🟢SJB (8)|🟣SLPP (7)| Others (9) |[...](https://results.elections.gov.lk/?page=lg_result&district=COLOMBO&lg_code=012&lg_name=SEETHAWAKA-PRADESHIYA-SABHA)|
 
 ### Kalutara
 
