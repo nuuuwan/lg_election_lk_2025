@@ -1,0 +1,67 @@
+{
+  "district_name": "Badulla",
+  "lg_code": "292",
+  "lg_name": "Kandaketiya Pradeshiya Sabha",
+  "time_str": "2025-05-07 01:46:00",
+  "time_ut": 1746562560.0,
+  "summary_data": {
+    "electors": 20843,
+    "polled": 14941,
+    "valid": 14553,
+    "rejected": 388,
+    "p_turnout": 0.72,
+    "p_valid": 0.97,
+    "p_rejected": 0.03
+  },
+  "party_result_data_list": [
+    {
+      "party_name": "Jathika Jana Balawegaya",
+      "party_code": "NPP",
+      "votes": 5043,
+      "p_votes": 0.35,
+      "seats": 6
+    },
+    {
+      "party_name": "Samagi Jana Balawegaya",
+      "party_code": "SJB",
+      "votes": 3821,
+      "p_votes": 0.26,
+      "seats": 4
+    },
+    {
+      "party_name": "Sri Lanka Podujana Peramuna",
+      "party_code": "SLPP",
+      "votes": 1957,
+      "p_votes": 0.13,
+      "seats": 2
+    },
+    {
+      "party_name": "People's Alliance",
+      "party_code": "PA",
+      "votes": 1728,
+      "p_votes": 0.12,
+      "seats": 2
+    },
+    {
+      "party_name": "Sarvajana Balaya",
+      "party_code": "SB",
+      "votes": 1001,
+      "p_votes": 0.07,
+      "seats": 1
+    },
+    {
+      "party_name": "United National Party",
+      "party_code": "UNP",
+      "votes": 533,
+      "p_votes": 0.04,
+      "seats": 1
+    },
+    {
+      "party_name": "Independent Group",
+      "party_code": "IND1",
+      "votes": 470,
+      "p_votes": 0.03,
+      "seats": 0
+    }
+  ]
+}
