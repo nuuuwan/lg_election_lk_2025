@@ -69,7 +69,7 @@ class OverallReport:
             votes = party_result_data["votes"]
             seats = party_result_data["seats"]
             is_winner = i == 0
-            is_majority = seats > total_seats / 2
+            is_majority = seats >= total_seats / 2
             if seats > 0:
                 if party_name not in party_to_summary:
                     party_to_summary[party_name] = {
@@ -176,7 +176,7 @@ class OverallReport:
         lines = [
             "## Islandwide",
             "",
-            "| Party | Votes | %  | Seats | % | Wins (All) | Wins (>½ Seats) |",
+            "| Party | Votes | %  | Seats | % | Wins (All) | Wins (≥½ Seats) |",
             "|---|--:|--:|--:|--:|--:|--:|",
         ]
         lk_summary = self.lk_summary
@@ -235,15 +235,26 @@ class OverallReport:
             lg_code = result["lg_code"]
             lg_name = result["lg_name"]
             party_result_data_list = result["party_result_data_list"]
-            winning_party = party_result_data_list[0]["party_name"]
+            winner_party_result_data = party_result_data_list[0]
+            winning_party = winner_party_result_data["party_name"]
+            winner_seats = winner_party_result_data["seats"]
+            total_seats = sum(
+                party_result_data["seats"]
+                for party_result_data in party_result_data_list
+            )
+            is_majority = winner_seats >= total_seats / 2
+            winner_cell = (
+                OverallReport.get_party_name_annotated(winning_party, lg_code)
+                + f" ({winner_seats}/{total_seats})"
+            )
+            if is_majority:
+                winner_cell = f"**{winner_cell}**"
             lines.append(
                 "|"
                 + "|".join(
                     [
                         OverallReport.get_lg_short_name(lg_name),
-                        OverallReport.get_party_name_annotated(
-                            winning_party, lg_code
-                        ),
+                        winner_cell,
                     ]
                 )
                 + "|"

@@ -1,6 +1,6 @@
 # Sri Lankan Local Government Elections - 2025 🇱🇰
 
-As of 2025-05-07 01:12:24
+As of 2025-05-07 01:16:41
 
 *Scraped from [results.elections.gov.lk](https://results.elections.gov.lk)*
 
@@ -12,9 +12,9 @@ As of 2025-05-07 01:12:24
 
 ## Islandwide
 
-| Party | Votes | %  | Seats | % | Wins (All) | Wins (>½ Seats) |
+| Party | Votes | %  | Seats | % | Wins (All) | Wins (≥½ Seats) |
 |---|--:|--:|--:|--:|--:|--:|
-|🔴Jathika Jana Balawegaya|127,815|43%|174|43%|19|5|
+|🔴Jathika Jana Balawegaya|127,815|43%|174|43%|19|8|
 |🟢Samagi Jana Balawegaya|69,622|23%|87|22%|||
 |🟣Sri Lanka Podujana Peramuna|34,428|12%|40|10%|||
 |🟩United National Party|15,862|5%|19|5%|||
@@ -48,77 +48,77 @@ As of 2025-05-07 01:12:24
 
 | LG Name | Winning Party |
 |---|---|
-|🏢Kollonnawa UC|🔴Jathika Jana Balawegaya|
+|🏢Kollonnawa UC|🔴Jathika Jana Balawegaya (9/19)|
 
 ### Kalutara
 
 | LG Name | Winning Party |
 |---|---|
-|🏢Horana UC|🔴Jathika Jana Balawegaya|
+|🏢Horana UC|🔴Jathika Jana Balawegaya (6/13)|
 
 ### Kandy
 
 | LG Name | Winning Party |
 |---|---|
-|🏢Wattegama UC|🔴Jathika Jana Balawegaya|
-|🏢Kadugannawa UC|🔴Jathika Jana Balawegaya|
+|🏢Wattegama UC|**🔴Jathika Jana Balawegaya (8/16)**|
+|🏢Kadugannawa UC|🔴Jathika Jana Balawegaya (6/15)|
 
 ### Nuwaraeliya
 
 | LG Name | Winning Party |
 |---|---|
-|🏛️Nuwara Eliya MC|🔴Jathika Jana Balawegaya|
+|🏛️Nuwara Eliya MC|🔴Jathika Jana Balawegaya (12/25)|
 
 ### Galle
 
 | LG Name | Winning Party |
 |---|---|
-|🏢Ambalangoda UC|🔴Jathika Jana Balawegaya|
-|🏢Hikkaduwa UC|🔴Jathika Jana Balawegaya|
-|🏡Welivitiya Divithura PS|🔴Jathika Jana Balawegaya|
-|🏡Niyagama PS|🔴Jathika Jana Balawegaya|
-|🏡Bope Poddala PS|🔴Jathika Jana Balawegaya|
+|🏢Ambalangoda UC|**🔴Jathika Jana Balawegaya (11/22)**|
+|🏢Hikkaduwa UC|🔴Jathika Jana Balawegaya (9/19)|
+|🏡Welivitiya Divithura PS|🔴Jathika Jana Balawegaya (7/15)|
+|🏡Niyagama PS|**🔴Jathika Jana Balawegaya (9/18)**|
+|🏡Bope Poddala PS|**🔴Jathika Jana Balawegaya (11/21)**|
 
 ### Hambantota
 
 | LG Name | Winning Party |
 |---|---|
-|🏛️Hambantota MC|🔴Jathika Jana Balawegaya|
-|🏢Tangalle UC|🔴Jathika Jana Balawegaya|
-|🏡Sooriyawewa PS|🔴Jathika Jana Balawegaya|
-|🏡Hambantota PS|🔴Jathika Jana Balawegaya|
+|🏛️Hambantota MC|🔴Jathika Jana Balawegaya (8/21)|
+|🏢Tangalle UC|🔴Jathika Jana Balawegaya (9/19)|
+|🏡Sooriyawewa PS|**🔴Jathika Jana Balawegaya (6/11)**|
+|🏡Hambantota PS|**🔴Jathika Jana Balawegaya (8/15)**|
 
 ### Mullaitivu
 
 | LG Name | Winning Party |
 |---|---|
-|🏡Manthai East PS|🟡Ilankai Tamil Arasu Kadchi|
-|🏡Thunukkai PS|🟡Ilankai Tamil Arasu Kadchi|
+|🏡Manthai East PS|🟡Ilankai Tamil Arasu Kadchi (4/13)|
+|🏡Thunukkai PS|🟡Ilankai Tamil Arasu Kadchi (4/13)|
 
 ### Ampara
 
 | LG Name | Winning Party |
 |---|---|
-|🏢Ampara UC|🔴Jathika Jana Balawegaya|
-|🏡Akkaraipattu PS|⚪National Congress|
+|🏢Ampara UC|**🔴Jathika Jana Balawegaya (10/17)**|
+|🏡Akkaraipattu PS|**⚪National Congress (5/9)**|
 
 ### Trincomalee
 
 | LG Name | Winning Party |
 |---|---|
-|🏡Verugal PS|🟡Ilankai Tamil Arasu Kadchi|
-|🏡Morawewa PS|🔴Jathika Jana Balawegaya|
+|🏡Verugal PS|**🟡Ilankai Tamil Arasu Kadchi (8/13)**|
+|🏡Morawewa PS|**🔴Jathika Jana Balawegaya (9/17)**|
 
 ### Badulla
 
 | LG Name | Winning Party |
 |---|---|
-|🏢Haputhale UC|⚫Independent Group [287]|
-|🏡Soranathota PS|🔴Jathika Jana Balawegaya|
+|🏢Haputhale UC|⚫Independent Group [287] (5/11)|
+|🏡Soranathota PS|🔴Jathika Jana Balawegaya (6/16)|
 
 ### Ratnapura
 
 | LG Name | Winning Party |
 |---|---|
-|🏛️Ratnapura MC|🔴Jathika Jana Balawegaya|
-|🏢Balangoda UC|🔴Jathika Jana Balawegaya|
+|🏛️Ratnapura MC|🔴Jathika Jana Balawegaya (12/27)|
+|🏢Balangoda UC|🔴Jathika Jana Balawegaya (7/16)|
