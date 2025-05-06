@@ -1,6 +1,6 @@
 # Sri Lankan Local Government Elections - 2025 🇱🇰
 
-As of 2025-05-07 02:22:20
+As of 2025-05-07 02:23:07
 
 *Scraped from [results.elections.gov.lk](https://results.elections.gov.lk)*
 
@@ -8,19 +8,19 @@ As of 2025-05-07 02:22:20
 
 | Results Released | % Released (By Votes) |
 |--:|--:|
-|46/339|8.39%|
+|47/339|8.69%|
 
 ## Islandwide
 
 | Party | Votes | %  | Seats | % | Wins | ≥½ ✔️ |
 |---|--:|--:|--:|--:|--:|--:|
-|🔴Jathika Jana Balawegaya|358,458|41%|410|43%|35|18|
-|🟢Samagi Jana Balawegaya|183,073|21%|184|19%|||
-|🟣Sri Lanka Podujana Peramuna|82,925|9%|83|9%|||
-|🟩United National Party|53,133|6%|51|5%|||
+|🔴Jathika Jana Balawegaya|372,458|41%|421|43%|36|19|
+|🟢Samagi Jana Balawegaya|191,295|21%|189|19%|||
+|🟣Sri Lanka Podujana Peramuna|87,704|10%|86|9%|||
+|🟩United National Party|54,984|6%|52|5%|||
 |🟡Ilankai Tamil Arasu Kadchi|47,466|5%|64|7%|7|4|
 |🟦People's Alliance|36,614|4%|37|4%|||
-|🔵Sarvajana Balaya|22,022|3%|24|3%|||
+|🔵Sarvajana Balaya|22,022|2%|24|2%|||
 |⚪Democratic Tamil National Alliance|12,880|1%|16|2%|||
 |⚪Sri Lanka Muslim Congress|7,292|1%|8|1%|1||
 |⚪All Ceylon Tamil Congress|6,609|1%|10|1%|||
@@ -28,6 +28,7 @@ As of 2025-05-07 02:22:20
 |⚫Independent Group 1 `318`|3,366|0%|2|0%|||
 |⚫Independent Group 2 `318`|3,348|0%|2|0%|||
 |⚪National Congress|2,587|0%|6|1%|1|1|
+|⚫Independent Group `101`|2,583|0%|2|0%|||
 |⚪Up-Country People's Front|2,558|0%|4|0%|1||
 |⚪All Ceylon Makkal Congress|2,547|0%|4|0%|||
 |⚪National Freedom Front|2,535|0%|3|0%|||
@@ -102,6 +103,7 @@ As of 2025-05-07 02:22:20
 | `097` | 🏛️Galle MC (36) |🔴JJB (17)|🟢SJB (9)|🟩UNP (5)|[...](https://results.elections.gov.lk/?page=lg_result&district=GALLE&lg_code=097&lg_name=GALLE-MUNICIPAL-COUNCIL)|
 | `098` | 🏢Ambalangoda UC (22) |**🔴JJB (11)✔️**|🟢SJB (5)|🟣SLPP (3)|[...](https://results.elections.gov.lk/?page=lg_result&district=GALLE&lg_code=098&lg_name=AMBALANGODA-URBAN-COUNCIL)|
 | `099` | 🏢Hikkaduwa UC (19) |🔴JJB (9)|🟢SJB (4)|🟣SLPP (2)|[...](https://results.elections.gov.lk/?page=lg_result&district=GALLE&lg_code=099&lg_name=HIKKADUWA-URBAN-COUNCIL)|
+| `101` | 🏡Ambalangoda PS (22) |**🔴JJB (11)✔️**|🟢SJB (5)|🟣SLPP (3)|[...](https://results.elections.gov.lk/?page=lg_result&district=GALLE&lg_code=101&lg_name=AMBALANGODA-PRADESHIYA-SABHA)|
 | `102` | 🏡Welivitiya Divithura PS (15) |🔴JJB (7)|🟢SJB (4)|🟣SLPP (2)|[...](https://results.elections.gov.lk/?page=lg_result&district=GALLE&lg_code=102&lg_name=WELIVITIYA-DIVITHURA-PRADESHIYA-SABHA)|
 | `106` | 🏡Neluwa PS (16) |🔴JJB (6)|🟢SJB (5)|🟣SLPP (3)|[...](https://results.elections.gov.lk/?page=lg_result&district=GALLE&lg_code=106&lg_name=NELUWA-PRADESHIYA-SABHA)|
 | `109` | 🏡Niyagama PS (18) |**🔴JJB (9)✔️**|🟢SJB (4)|🟣SLPP (3)|[...](https://results.elections.gov.lk/?page=lg_result&district=GALLE&lg_code=109&lg_name=NIYAGAMA-PRADESHIYA-SABHA)|
