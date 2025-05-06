@@ -1,6 +1,6 @@
 # Sri Lankan Local Government Elections - 2025 🇱🇰
 
-As of 2025-05-07 03:15:31
+As of 2025-05-07 03:18:21
 
 *Scraped from [results.elections.gov.lk](https://results.elections.gov.lk)*
 
@@ -8,19 +8,19 @@ As of 2025-05-07 03:15:31
 
 | Results Released | % Released (By Votes) |
 |--:|--:|
-|75/339|15.48%|
+|76/339|15.84%|
 
 ## Islandwide (Top 10 by Votes)
 
 | Party | Votes | %  | Seats | % | Wins | ≥½ ✔️ |
 |---|--:|--:|--:|--:|--:|--:|
-|🔴Jathika Jana Balawegaya|691,931|43%|713|44%|61|31|
-|🟢Samagi Jana Balawegaya|333,117|20%|306|19%|2||
-|🟣Sri Lanka Podujana Peramuna|160,856|10%|147|9%|||
-|🟩United National Party|90,292|6%|81|5%|||
-|🟦People's Alliance|63,630|4%|62|4%|||
+|🔴Jathika Jana Balawegaya|706,632|42%|727|44%|62|31|
+|🟢Samagi Jana Balawegaya|341,744|21%|312|19%|2||
+|🟣Sri Lanka Podujana Peramuna|166,654|10%|151|9%|||
+|🟩United National Party|92,802|6%|83|5%|||
+|🟦People's Alliance|64,638|4%|63|4%|||
 |🟡Ilankai Tamil Arasu Kadchi|61,373|4%|88|5%|10|4|
-|🔵Sarvajana Balaya|41,488|3%|37|2%|||
+|🔵Sarvajana Balaya|43,226|3%|38|2%|||
 |⚪Democratic Tamil National Alliance|19,623|1%|25|2%|||
 |⚪Sri Lanka Muslim Congress|14,080|1%|15|1%|1||
 |⚪All Ceylon Tamil Congress|10,154|1%|20|1%|1||
@@ -77,6 +77,7 @@ As of 2025-05-07 03:15:31
 | `106` | 🏡Neluwa PS (16) |🔴JJB (6)|🟢SJB (5)|🟣SLPP (3)|[...](https://results.elections.gov.lk/?page=lg_result&district=GALLE&lg_code=106&lg_name=NELUWA-PRADESHIYA-SABHA)|
 | `107` | 🏡Thawalama PS (20) |**🔴JJB (10)✔️**|🟢SJB (4)|🟣SLPP (3)|[...](https://results.elections.gov.lk/?page=lg_result&district=GALLE&lg_code=107&lg_name=THAWALAMA-PRADESHIYA-SABHA)|
 | `109` | 🏡Niyagama PS (18) |**🔴JJB (9)✔️**|🟢SJB (4)|🟣SLPP (3)|[...](https://results.elections.gov.lk/?page=lg_result&district=GALLE&lg_code=109&lg_name=NIYAGAMA-PRADESHIYA-SABHA)|
+| `112` | 🏡Rajgama PS (32) |🔴JJB (14)|🟢SJB (6)|🟣SLPP (4)|[...](https://results.elections.gov.lk/?page=lg_result&district=GALLE&lg_code=112&lg_name=RAJGAMA-PRADESHIYA-SABHA)|
 | `114` | 🏡Bope Poddala PS (21) |**🔴JJB (11)✔️**|🟢SJB (4)|🟣SLPP (3)|[...](https://results.elections.gov.lk/?page=lg_result&district=GALLE&lg_code=114&lg_name=BOPE-PODDALA-PRADESHIYA-SABHA)|
 | `116` | 🏡Habaraduwa PS (27) |**🔴JJB (14)✔️**|🟢SJB (6)|🟣SLPP (5)|[...](https://results.elections.gov.lk/?page=lg_result&district=GALLE&lg_code=116&lg_name=HABARADUWA-PRADESHIYA-SABHA)|
 
