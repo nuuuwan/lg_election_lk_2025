@@ -193,7 +193,7 @@ class OverallReport:
     def lk_party_to_summary_lines(self):
         N_TOP = 10
         lines = [
-            f"## Islandwide (Top {N_TOP})",
+            f"## Islandwide (Top {N_TOP} by Votes)",
             "",
             "| Party | Votes | %  | Seats | % | Wins | ≥½ ✔️ |",
             "|---|--:|--:|--:|--:|--:|--:|",
