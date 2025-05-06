@@ -1,6 +1,6 @@
 # Sri Lankan Local Government Elections - 2025 🇱🇰
 
-As of 2025-05-07 02:45:16
+As of 2025-05-07 02:46:12
 
 *Scraped from [results.elections.gov.lk](https://results.elections.gov.lk)*
 
@@ -8,16 +8,16 @@ As of 2025-05-07 02:45:16
 
 | Results Released | % Released (By Votes) |
 |--:|--:|
-|59/339|12.02%|
+|60/339|12.26%|
 
 ## Islandwide
 
 | Party | Votes | %  | Seats | % | Wins | ≥½ ✔️ |
 |---|--:|--:|--:|--:|--:|--:|
-|🔴Jathika Jana Balawegaya|534,067|43%|573|45%|48|26|
-|🟢Samagi Jana Balawegaya|259,858|21%|245|19%|||
+|🔴Jathika Jana Balawegaya|542,801|43%|580|45%|49|26|
+|🟢Samagi Jana Balawegaya|268,445|21%|251|19%|||
 |🟣Sri Lanka Podujana Peramuna|123,045|10%|118|9%|||
-|🟩United National Party|72,807|6%|67|5%|||
+|🟩United National Party|75,500|6%|69|5%|||
 |🟦People's Alliance|53,066|4%|53|4%|||
 |🟡Ilankai Tamil Arasu Kadchi|47,466|4%|64|5%|7|4|
 |🔵Sarvajana Balaya|29,225|2%|29|2%|||
@@ -31,6 +31,7 @@ As of 2025-05-07 02:45:16
 |⚫Independent Group 2 `318`|3,348|0%|2|0%|||
 |⚫Independent Group `247`|2,949|0%|6|0%|||
 |⚪Democratic Left Front|2,896|0%|2|0%|||
+|⚫Independent Group `088`|2,741|0%|2|0%|||
 |⚫Independent Group 4 `008`|2,728|0%|2|0%|||
 |⚪Tamil Progressive Alliance|2,719|0%|3|0%|||
 |⚪National Congress|2,587|0%|6|0%|1|1|
@@ -109,6 +110,7 @@ As of 2025-05-07 02:45:16
 |---|---|---|---|---|---|
 | `085` | 🏛️Nuwara Eliya MC (25) |🔴JJB (12)|🟢SJB (4)|🟩UNP (3)|[...](https://results.elections.gov.lk/?page=lg_result&district=NUWARAELIYA&lg_code=085&lg_name=NUWARA-ELIYA-MUNICIPAL-COUNCIL)|
 | `087` | 🏢Thalawakele Lindula UC (12) |⚪UPF (3)|🔴JJB (4)|🟢SJB (2)|[...](https://results.elections.gov.lk/?page=lg_result&district=NUWARAELIYA&lg_code=087&lg_name=THALAWAKELE-LINDULA-URBAN-COUNCIL)|
+| `088` | 🏡Maskeliya PS (17) |🔴JJB (7)|🟢SJB (6)|⚫IG `088` (2)|[...](https://results.elections.gov.lk/?page=lg_result&district=NUWARAELIYA&lg_code=088&lg_name=MASKELIYA-PRADESHIYA-SABHA)|
 
 ### Galle
 

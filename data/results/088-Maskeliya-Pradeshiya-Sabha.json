@@ -1,0 +1,61 @@
+{
+  "district_name": "Nuwaraeliya",
+  "lg_code": "088",
+  "lg_name": "Maskeliya Pradeshiya Sabha",
+  "url": "https://results.elections.gov.lk/?page=lg_result&district=NUWARAELIYA&lg_code=088&lg_name=MASKELIYA-PRADESHIYA-SABHA",
+  "time_str": "2025-05-07 02:41:00",
+  "time_ut": 1746565860.0,
+  "summary_data": {
+    "electors": 41462,
+    "polled": 25033,
+    "valid": 24157,
+    "rejected": 876,
+    "p_turnout": 0.6,
+    "p_valid": 0.97,
+    "p_rejected": 0.03
+  },
+  "party_result_data_list": [
+    {
+      "party_name": "Jathika Jana Balawegaya",
+      "party_code": "NPP",
+      "votes": 8734,
+      "p_votes": 0.36,
+      "seats": 7
+    },
+    {
+      "party_name": "Samagi Jana Balawegaya",
+      "party_code": "SJB",
+      "votes": 8587,
+      "p_votes": 0.36,
+      "seats": 6
+    },
+    {
+      "party_name": "Independent Group",
+      "party_code": "IND1",
+      "votes": 2741,
+      "p_votes": 0.11,
+      "seats": 2
+    },
+    {
+      "party_name": "United National Party",
+      "party_code": "UNP",
+      "votes": 2693,
+      "p_votes": 0.11,
+      "seats": 2
+    },
+    {
+      "party_name": "Communist Party of Sri Lanka",
+      "party_code": "SLCP",
+      "votes": 1018,
+      "p_votes": 0.04,
+      "seats": 0
+    },
+    {
+      "party_name": "Sri Lanka Podujana Peramuna",
+      "party_code": "SLPP",
+      "votes": 384,
+      "p_votes": 0.02,
+      "seats": 0
+    }
+  ]
+}
