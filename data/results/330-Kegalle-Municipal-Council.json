@@ -1,0 +1,74 @@
+{
+  "district_name": "Kegalle",
+  "lg_code": "330",
+  "lg_name": "Kegalle Municipal Council",
+  "time_str": "2025-05-07 01:14:00",
+  "time_ut": 1746560640.0,
+  "summary_data": {
+    "electors": 14561,
+    "polled": 9324,
+    "valid": 9137,
+    "rejected": 187,
+    "p_turnout": 0.64,
+    "p_valid": 0.98,
+    "p_rejected": 0.02
+  },
+  "party_result_data_list": [
+    {
+      "party_name": "Jathika Jana Balawegaya",
+      "party_code": "NPP",
+      "votes": 5004,
+      "p_votes": 0.55,
+      "seats": 12
+    },
+    {
+      "party_name": "Samagi Jana Balawegaya",
+      "party_code": "SJB",
+      "votes": 1444,
+      "p_votes": 0.16,
+      "seats": 3
+    },
+    {
+      "party_name": "Sri Lanka Podujana Peramuna",
+      "party_code": "SLPP",
+      "votes": 1147,
+      "p_votes": 0.13,
+      "seats": 3
+    },
+    {
+      "party_name": "Independent Group",
+      "party_code": "IND1",
+      "votes": 613,
+      "p_votes": 0.07,
+      "seats": 1
+    },
+    {
+      "party_name": "United National Party",
+      "party_code": "UNP",
+      "votes": 375,
+      "p_votes": 0.04,
+      "seats": 1
+    },
+    {
+      "party_name": "People's Struggle Alliance",
+      "party_code": "PSA",
+      "votes": 272,
+      "p_votes": 0.03,
+      "seats": 1
+    },
+    {
+      "party_name": "Sarvajana Balaya",
+      "party_code": "SB",
+      "votes": 193,
+      "p_votes": 0.02,
+      "seats": 0
+    },
+    {
+      "party_name": "People's Alliance",
+      "party_code": "PA",
+      "votes": 89,
+      "p_votes": 0.01,
+      "seats": 0
+    }
+  ]
+}

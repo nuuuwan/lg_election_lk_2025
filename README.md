@@ -1,6 +1,6 @@
 # Sri Lankan Local Government Elections - 2025 🇱🇰
 
-As of 2025-05-07 01:20:16
+As of 2025-05-07 01:22:04
 
 *Scraped from [results.elections.gov.lk](https://results.elections.gov.lk)*
 
@@ -8,16 +8,16 @@ As of 2025-05-07 01:20:16
 
 | Results Released | % Released (By Votes) |
 |--:|--:|
-|28/339|3.45%|
+|29/339|3.53%|
 
 ## Islandwide
 
 | Party | Votes | %  | Seats | % | Wins (All) | Wins (≥½ Seats) |
 |---|--:|--:|--:|--:|--:|--:|
-|🔴Jathika Jana Balawegaya|153,793|41%|202|42%|21|9|
-|🟢Samagi Jana Balawegaya|84,353|23%|103|21%|||
-|🟣Sri Lanka Podujana Peramuna|37,778|10%|44|9%|||
-|🟩United National Party|18,910|5%|22|5%|||
+|🔴Jathika Jana Balawegaya|158,797|41%|214|43%|22|10|
+|🟢Samagi Jana Balawegaya|85,797|22%|106|21%|||
+|🟣Sri Lanka Podujana Peramuna|38,925|10%|47|9%|||
+|🟩United National Party|19,285|5%|23|5%|||
 |🟡Ilankai Tamil Arasu Kadchi|18,293|5%|28|6%|4|2|
 |🟦People's Alliance|9,627|3%|13|3%|||
 |🔵Sarvajana Balaya|9,046|2%|13|3%|||
@@ -27,7 +27,7 @@ As of 2025-05-07 01:20:16
 |⚫Independent Group [178]|2,491|1%|2|0%|||
 |⚫Independent Group [114]|2,217|1%|1|0%|||
 |⚪National Congress|2,081|1%|5|1%|1|1|
-|⚪National Freedom Front|1,898|1%|2|0%|||
+|⚪National Freedom Front|1,898|0%|2|0%|||
 |⚫Independent Group [085]|1,739|0%|3|1%|||
 |⚪Ceylon Worker's Congress (P. Wing)|1,385|0%|4|1%|||
 |⚫Independent Group [313]|1,155|0%|1|0%|||
@@ -40,10 +40,12 @@ As of 2025-05-07 01:20:16
 |⚪All Ceylon Makkal Congress|815|0%|2|0%|||
 |⚫Independent Group [314]|664|0%|1|0%|||
 |⚫Independent Group 2 [052]|631|0%|1|0%|||
+|⚫Independent Group [330]|613|0%|1|0%|||
 |⚫Independent Group [098]|552|0%|1|0%|||
 |⚫Independent Group [204]|511|0%|1|0%|||
 |⚫Independent Group 1 [177]|388|0%|1|0%|||
 |⚫Independent Group 1 [052]|323|0%|1|0%|||
+|⚪People's Struggle Alliance|272|0%|1|0%|||
 
 ## Results
 
@@ -129,3 +131,9 @@ As of 2025-05-07 01:20:16
 |---|---|
 |🏛️Ratnapura MC|🔴Jathika Jana Balawegaya (12/27)|
 |🏢Balangoda UC|🔴Jathika Jana Balawegaya (7/16)|
+
+### Kegalle
+
+| LG Name | Winning Party |
+|---|---|
+|🏛️Kegalle MC|**🔴Jathika Jana Balawegaya (12/21)**|
