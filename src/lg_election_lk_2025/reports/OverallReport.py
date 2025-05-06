@@ -191,8 +191,9 @@ class OverallReport:
 
     @property
     def lk_party_to_summary_lines(self):
+        N_TOP = 10
         lines = [
-            "## Islandwide",
+            f"## Islandwide (Top {N_TOP})",
             "",
             "| Party | Votes | %  | Seats | % | Wins | ≥½ ✔️ |",
             "|---|--:|--:|--:|--:|--:|--:|",
@@ -200,7 +201,7 @@ class OverallReport:
         lk_summary = self.lk_summary
         lk_party_to_summary = self.lk_party_to_summary
 
-        for party_code, summary in lk_party_to_summary.items():
+        for party_code, summary in list(lk_party_to_summary.items())[:N_TOP]:
             lines.append(
                 OverallReport.get_lk_party_to_summary_lines_row(
                     party_code, summary, lk_summary
