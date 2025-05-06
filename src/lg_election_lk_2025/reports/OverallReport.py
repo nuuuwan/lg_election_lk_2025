@@ -101,7 +101,7 @@ class OverallReport:
             "|--:|--:|",
         ]
         lk_summary = self.lk_summary
-        log.debug(f"{lk_summary=}")
+
         lines.append(
             "|"
             + "|".join(
@@ -151,7 +151,7 @@ class OverallReport:
         ]
         lk_summary = self.lk_summary
         lk_party_to_summary = self.lk_party_to_summary
-        log.debug(f"{lk_party_to_summary=}")
+
         for party_code, summary in lk_party_to_summary.items():
             seats = summary["seats"]
             votes = summary["votes"]

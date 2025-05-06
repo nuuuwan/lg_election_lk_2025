@@ -127,7 +127,6 @@ class ResultPage(WebPage):
                 party_result_data_list=party_result_data_list,
             )
         )
-        log.debug(f"{result=}")
         return result
 
     @property
@@ -144,7 +143,6 @@ class ResultPage(WebPage):
             f"{self.file_name_prefix}.json",
         )
         if os.path.exists(file_path) and not force_parse:
-            log.debug(f"{file_path} exists.")
             return
 
         result = self.get_result()
