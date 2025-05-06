@@ -86,7 +86,7 @@ class OverallReport:
             )
             votes = party_result_data["votes"]
             seats = party_result_data["seats"]
-            is_winner = seats == top_seats
+            is_top = seats == top_seats
             is_majority = seats >= total_seats / 2
             if seats > 0:
                 if party_name not in party_to_summary:
@@ -97,7 +97,7 @@ class OverallReport:
                         "votes": 0,
                     }
                 party_to_summary[party_name]["n_majority"] += is_majority
-                party_to_summary[party_name]["n_wins"] += is_winner
+                party_to_summary[party_name]["n_wins"] += is_top
                 party_to_summary[party_name]["seats"] += seats
                 party_to_summary[party_name]["votes"] += votes
         return party_to_summary
