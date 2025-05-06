@@ -1,6 +1,6 @@
 # Sri Lankan Local Government Elections - 2025 🇱🇰
 
-As of 2025-05-07 03:33:43
+As of 2025-05-07 03:44:24
 
 *Scraped from [results.elections.gov.lk](https://results.elections.gov.lk)*
 
@@ -8,21 +8,21 @@ As of 2025-05-07 03:33:43
 
 | Results Released | % Released (By Votes) |
 |--:|--:|
-|83/339|17.82%|
+|89/339|19.30%|
 
 ## Islandwide (Top 10 by Votes)
 
 | Party | Votes | %  | Seats | % | Wins | ≥½ ✔️ |
 |---|--:|--:|--:|--:|--:|--:|
-|🔴Jathika Jana Balawegaya|792,937|42%|800|44%|68|33|
-|🟢Samagi Jana Balawegaya|391,248|21%|348|19%|2||
-|🟣Sri Lanka Podujana Peramuna|177,449|9%|160|9%|||
-|🟩United National Party|102,611|5%|90|5%|||
-|🟦People's Alliance|81,018|4%|74|4%|||
+|🔴Jathika Jana Balawegaya|865,975|42%|864|44%|73|36|
+|🟢Samagi Jana Balawegaya|425,281|21%|375|19%|2||
+|🟣Sri Lanka Podujana Peramuna|200,897|10%|180|9%|||
+|🟩United National Party|107,709|5%|94|5%|||
+|🟦People's Alliance|86,869|4%|78|4%|||
 |🟡Ilankai Tamil Arasu Kadchi|65,527|3%|93|5%|11|4|
-|🔵Sarvajana Balaya|45,422|2%|40|2%|||
+|🔵Sarvajana Balaya|51,166|3%|45|2%|||
+|⚪Sri Lanka Muslim Congress|20,603|1%|21|1%|1||
 |⚪Democratic Tamil National Alliance|19,623|1%|25|1%|||
-|⚪Sri Lanka Muslim Congress|17,645|1%|18|1%|1||
 |⚪Ceylon Worker's Congress (P. Wing)|15,376|1%|16|1%|||
 
 ## Results by Local Authority
@@ -79,6 +79,7 @@ As of 2025-05-07 03:33:43
 | `106` | 🏡Neluwa PS (16) |🔴JJB (6)|🟢SJB (5)|🟣SLPP (3)| Others (2) |[...](https://results.elections.gov.lk/?page=lg_result&district=GALLE&lg_code=106&lg_name=NELUWA-PRADESHIYA-SABHA)|
 | `107` | 🏡Thawalama PS (20) |**🔴JJB (10)✔️**|🟢SJB (4)|🟣SLPP (3)| Others (3) |[...](https://results.elections.gov.lk/?page=lg_result&district=GALLE&lg_code=107&lg_name=THAWALAMA-PRADESHIYA-SABHA)|
 | `109` | 🏡Niyagama PS (18) |**🔴JJB (9)✔️**|🟢SJB (4)|🟣SLPP (3)| Others (2) |[...](https://results.elections.gov.lk/?page=lg_result&district=GALLE&lg_code=109&lg_name=NIYAGAMA-PRADESHIYA-SABHA)|
+| `111` | 🏡Yakkalamulla PS (23) |**🔴JJB (12)✔️**|🟢SJB (5)|🟣SLPP (3)| Others (3) |[...](https://results.elections.gov.lk/?page=lg_result&district=GALLE&lg_code=111&lg_name=YAKKALAMULLA-PRADESHIYA-SABHA)|
 | `112` | 🏡Rajgama PS (32) |🔴JJB (14)|🟢SJB (6)|🟣SLPP (4)| Others (8) |[...](https://results.elections.gov.lk/?page=lg_result&district=GALLE&lg_code=112&lg_name=RAJGAMA-PRADESHIYA-SABHA)|
 | `114` | 🏡Bope Poddala PS (21) |**🔴JJB (11)✔️**|🟢SJB (4)|🟣SLPP (3)| Others (3) |[...](https://results.elections.gov.lk/?page=lg_result&district=GALLE&lg_code=114&lg_name=BOPE-PODDALA-PRADESHIYA-SABHA)|
 | `116` | 🏡Habaraduwa PS (27) |**🔴JJB (14)✔️**|🟢SJB (6)|🟣SLPP (5)| Others (2) |[...](https://results.elections.gov.lk/?page=lg_result&district=GALLE&lg_code=116&lg_name=HABARADUWA-PRADESHIYA-SABHA)|
@@ -95,9 +96,12 @@ As of 2025-05-07 03:33:43
 |---|---|---|---|---|---|---|
 | `134` | 🏛️Hambantota MC (21) |🔴JJB (8)|🟢SJB (7)|🟦PA (3)| Others (3) |[...](https://results.elections.gov.lk/?page=lg_result&district=HAMBANTOTA&lg_code=134&lg_name=HAMBANTOTA-MUNICIPAL-COUNCIL)|
 | `135` | 🏢Tangalle UC (19) |🔴JJB (9)|🟢SJB (5)|🟣SLPP (3)| Others (2) |[...](https://results.elections.gov.lk/?page=lg_result&district=HAMBANTOTA&lg_code=135&lg_name=TANGALLE-URBAN-COUNCIL)|
+| `137` | 🏡Katuwana PS (33) |🔴JJB (16)|🟣SLPP (6)|🟢SJB (5)| Others (6) |[...](https://results.elections.gov.lk/?page=lg_result&district=HAMBANTOTA&lg_code=137&lg_name=KATUWANA-PRADESHIYA-SABHA)|
 | `138` | 🏡Beliatta PS (29) |**🔴JJB (15)✔️**|🟣SLPP (7)|🟢SJB (4)| Others (3) |[...](https://results.elections.gov.lk/?page=lg_result&district=HAMBANTOTA&lg_code=138&lg_name=BELIATTA-PRADESHIYA-SABHA)|
+| `139` | 🏡Tangalle PS (27) |**🔴JJB (15)✔️**|🟢SJB (5)|🟣SLPP (4)| Others (3) |[...](https://results.elections.gov.lk/?page=lg_result&district=HAMBANTOTA&lg_code=139&lg_name=TANGALLE-PRADESHIYA-SABHA)|
 | `140` | 🏡Angunakolapelessa PS (20) |**🔴JJB (11)✔️**|🟢SJB (3)|🟣SLPP (3)| Others (3) |[...](https://results.elections.gov.lk/?page=lg_result&district=HAMBANTOTA&lg_code=140&lg_name=ANGUNAKOLAPELESSA-PRADESHIYA-SABHA)|
 | `141` | 🏡Ambalantota PS (31) |**🔴JJB (17)✔️**|🟢SJB (5)|🟣SLPP (5)| Others (4) |[...](https://results.elections.gov.lk/?page=lg_result&district=HAMBANTOTA&lg_code=141&lg_name=AMBALANTOTA-PRADESHIYA-SABHA)|
+| `142` | 🏡Thissamaharama PS (22) |**🔴JJB (13)✔️**|🟢SJB (4)|🟣SLPP (3)| Others (2) |[...](https://results.elections.gov.lk/?page=lg_result&district=HAMBANTOTA&lg_code=142&lg_name=THISSAMAHARAMA-PRADESHIYA-SABHA)|
 | `143` | 🏡Sooriyawewa PS (11) |**🔴JJB (6)✔️**|🟢SJB (2)|🟣SLPP (2)| Others (1) |[...](https://results.elections.gov.lk/?page=lg_result&district=HAMBANTOTA&lg_code=143&lg_name=SOORIYAWEWA-PRADESHIYA-SABHA)|
 | `144` | 🏡Hambantota PS (15) |**🔴JJB (8)✔️**|🟢SJB (4)|🟣SLPP (2)| Others (1) |[...](https://results.elections.gov.lk/?page=lg_result&district=HAMBANTOTA&lg_code=144&lg_name=HAMBANTOTA-PRADESHIYA-SABHA)|
 | `145` | 🏡Lunugamwehera PS (18) |**🔴JJB (9)✔️**|🟢SJB (5)|🟣SLPP (2)| Others (2) |[...](https://results.elections.gov.lk/?page=lg_result&district=HAMBANTOTA&lg_code=145&lg_name=LUNUGAMWEHERA-PRADESHIYA-SABHA)|
@@ -153,12 +157,14 @@ As of 2025-05-07 03:33:43
 | `214` | 🏡Verugal PS (13) |**🟡ITAK (8)✔️**|🔴JJB (3)|🟢SJB (2)| Others (0) |[...](https://results.elections.gov.lk/?page=lg_result&district=TRINCOMALEE&lg_code=214&lg_name=VERUGAL-PRADESHIYA-SABHA)|
 | `217` | 🏡Morawewa PS (17) |**🔴JJB (9)✔️**|🟣SLPP (3)|🟢SJB (3)| Others (2) |[...](https://results.elections.gov.lk/?page=lg_result&district=TRINCOMALEE&lg_code=217&lg_name=MORAWEWA-PRADESHIYA-SABHA)|
 | `222` | 🏡Thambalagamuwa PS (16) |🔴JJB (3)|🟢SJB (3)🟰|⚪SLMC (2)| Others (8) |[...](https://results.elections.gov.lk/?page=lg_result&district=TRINCOMALEE&lg_code=222&lg_name=THAMBALAGAMUWA-PRADESHIYA-SABHA)|
+| `224` | 🏡Kinniya PS (14) |⚪ACMC (5)|🟢SJB (3)|🔴JJB (2)| Others (4) |[...](https://results.elections.gov.lk/?page=lg_result&district=TRINCOMALEE&lg_code=224&lg_name=KINNIYA-PRADESHIYA-SABHA)|
 
 ### Puttalam
 
 |  |  |  |  |  |  |  |
 |---|---|---|---|---|---|---|
 | `247` | 🏢Chilaw UC (20) |🔴JJB (9)|⚫IG `247` (6)|🟢SJB (4)| Others (1) |[...](https://results.elections.gov.lk/?page=lg_result&district=PUTTALAM&lg_code=247&lg_name=CHILAW-URBAN-COUNCIL)|
+| `250` | 🏡Wanathawilluwa PS (18) |🔴JJB (6)|🟢SJB (5)|🟣SLPP (4)| Others (3) |[...](https://results.elections.gov.lk/?page=lg_result&district=PUTTALAM&lg_code=250&lg_name=WANATHAWILLUWA-PRADESHIYA-SABHA)|
 
 ### Badulla
 

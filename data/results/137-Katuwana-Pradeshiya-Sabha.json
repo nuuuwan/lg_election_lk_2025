@@ -1,0 +1,75 @@
+{
+  "district_name": "Hambantota",
+  "lg_code": "137",
+  "lg_name": "Katuwana Pradeshiya Sabha",
+  "url": "https://results.elections.gov.lk/?page=lg_result&district=HAMBANTOTA&lg_code=137&lg_name=KATUWANA-PRADESHIYA-SABHA",
+  "time_str": "2025-05-07 03:35:00",
+  "time_ut": 1746569100.0,
+  "summary_data": {
+    "electors": 60805,
+    "polled": 39962,
+    "valid": 39375,
+    "rejected": 587,
+    "p_turnout": 0.66,
+    "p_valid": 0.99,
+    "p_rejected": 0.01
+  },
+  "party_result_data_list": [
+    {
+      "party_name": "Jathika Jana Balawegaya",
+      "party_code": "NPP",
+      "votes": 15729,
+      "p_votes": 0.4,
+      "seats": 16
+    },
+    {
+      "party_name": "Sri Lanka Podujana Peramuna",
+      "party_code": "SLPP",
+      "votes": 7906,
+      "p_votes": 0.2,
+      "seats": 6
+    },
+    {
+      "party_name": "Samagi Jana Balawegaya",
+      "party_code": "SJB",
+      "votes": 7467,
+      "p_votes": 0.19,
+      "seats": 5
+    },
+    {
+      "party_name": "People's Alliance",
+      "party_code": "PA",
+      "votes": 2828,
+      "p_votes": 0.07,
+      "seats": 2
+    },
+    {
+      "party_name": "Sarvajana Balaya",
+      "party_code": "SB",
+      "votes": 2235,
+      "p_votes": 0.06,
+      "seats": 2
+    },
+    {
+      "party_name": "United National Party",
+      "party_code": "UNP",
+      "votes": 1961,
+      "p_votes": 0.05,
+      "seats": 1
+    },
+    {
+      "party_name": "United Republican Front",
+      "party_code": "URF",
+      "votes": 858,
+      "p_votes": 0.02,
+      "seats": 1
+    },
+    {
+      "party_name": "People's Struggle Alliance",
+      "party_code": "PSA",
+      "votes": 391,
+      "p_votes": 0.01,
+      "seats": 0
+    }
+  ]
+}

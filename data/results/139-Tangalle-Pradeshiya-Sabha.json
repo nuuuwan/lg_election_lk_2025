@@ -1,0 +1,61 @@
+{
+  "district_name": "Hambantota",
+  "lg_code": "139",
+  "lg_name": "Tangalle Pradeshiya Sabha",
+  "url": "https://results.elections.gov.lk/?page=lg_result&district=HAMBANTOTA&lg_code=139&lg_name=TANGALLE-PRADESHIYA-SABHA",
+  "time_str": "2025-05-07 03:36:00",
+  "time_ut": 1746569160.0,
+  "summary_data": {
+    "electors": 55492,
+    "polled": 36038,
+    "valid": 35391,
+    "rejected": 647,
+    "p_turnout": 0.65,
+    "p_valid": 0.98,
+    "p_rejected": 0.02
+  },
+  "party_result_data_list": [
+    {
+      "party_name": "Jathika Jana Balawegaya",
+      "party_code": "NPP",
+      "votes": 18689,
+      "p_votes": 0.53,
+      "seats": 15
+    },
+    {
+      "party_name": "Samagi Jana Balawegaya",
+      "party_code": "SJB",
+      "votes": 6587,
+      "p_votes": 0.19,
+      "seats": 5
+    },
+    {
+      "party_name": "Sri Lanka Podujana Peramuna",
+      "party_code": "SLPP",
+      "votes": 5241,
+      "p_votes": 0.15,
+      "seats": 4
+    },
+    {
+      "party_name": "People's Alliance",
+      "party_code": "PA",
+      "votes": 2213,
+      "p_votes": 0.06,
+      "seats": 1
+    },
+    {
+      "party_name": "Sarvajana Balaya",
+      "party_code": "SB",
+      "votes": 1491,
+      "p_votes": 0.04,
+      "seats": 1
+    },
+    {
+      "party_name": "United National Party",
+      "party_code": "UNP",
+      "votes": 1170,
+      "p_votes": 0.03,
+      "seats": 1
+    }
+  ]
+}

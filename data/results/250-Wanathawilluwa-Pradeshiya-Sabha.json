@@ -1,0 +1,75 @@
+{
+  "district_name": "Puttalam",
+  "lg_code": "250",
+  "lg_name": "Wanathawilluwa Pradeshiya Sabha",
+  "url": "https://results.elections.gov.lk/?page=lg_result&district=PUTTALAM&lg_code=250&lg_name=WANATHAWILLUWA-PRADESHIYA-SABHA",
+  "time_str": "2025-05-07 03:31:00",
+  "time_ut": 1746568860.0,
+  "summary_data": {
+    "electors": 15304,
+    "polled": 10947,
+    "valid": 10829,
+    "rejected": 118,
+    "p_turnout": 0.72,
+    "p_valid": 0.99,
+    "p_rejected": 0.01
+  },
+  "party_result_data_list": [
+    {
+      "party_name": "Jathika Jana Balawegaya",
+      "party_code": "NPP",
+      "votes": 3714,
+      "p_votes": 0.34,
+      "seats": 6
+    },
+    {
+      "party_name": "Samagi Jana Balawegaya",
+      "party_code": "SJB",
+      "votes": 3313,
+      "p_votes": 0.31,
+      "seats": 5
+    },
+    {
+      "party_name": "Sri Lanka Podujana Peramuna",
+      "party_code": "SLPP",
+      "votes": 2143,
+      "p_votes": 0.2,
+      "seats": 4
+    },
+    {
+      "party_name": "Sri Lanka Muslim Congress",
+      "party_code": "SLMC",
+      "votes": 551,
+      "p_votes": 0.05,
+      "seats": 1
+    },
+    {
+      "party_name": "National Freedom Front",
+      "party_code": "NFF",
+      "votes": 459,
+      "p_votes": 0.04,
+      "seats": 1
+    },
+    {
+      "party_name": "National Front for Good Governance",
+      "party_code": "NFGG",
+      "votes": 441,
+      "p_votes": 0.04,
+      "seats": 1
+    },
+    {
+      "party_name": "People's Alliance",
+      "party_code": "PA",
+      "votes": 138,
+      "p_votes": 0.01,
+      "seats": 0
+    },
+    {
+      "party_name": "Sarvajana Balaya",
+      "party_code": "SB",
+      "votes": 70,
+      "p_votes": 0.01,
+      "seats": 0
+    }
+  ]
+}

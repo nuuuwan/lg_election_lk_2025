@@ -1,0 +1,82 @@
+{
+  "district_name": "Trincomalee",
+  "lg_code": "224",
+  "lg_name": "Kinniya Pradeshiya Sabha",
+  "url": "https://results.elections.gov.lk/?page=lg_result&district=TRINCOMALEE&lg_code=224&lg_name=KINNIYA-PRADESHIYA-SABHA",
+  "time_str": "2025-05-07 03:33:00",
+  "time_ut": 1746568980.0,
+  "summary_data": {
+    "electors": 27168,
+    "polled": 18644,
+    "valid": 18467,
+    "rejected": 177,
+    "p_turnout": 0.69,
+    "p_valid": 0.99,
+    "p_rejected": 0.01
+  },
+  "party_result_data_list": [
+    {
+      "party_name": "All Ceylon Makkal Congress",
+      "party_code": "ACMC",
+      "votes": 5941,
+      "p_votes": 0.32,
+      "seats": 5
+    },
+    {
+      "party_name": "Samagi Jana Balawegaya",
+      "party_code": "SJB",
+      "votes": 3700,
+      "p_votes": 0.2,
+      "seats": 3
+    },
+    {
+      "party_name": "Jathika Jana Balawegaya",
+      "party_code": "NPP",
+      "votes": 3335,
+      "p_votes": 0.18,
+      "seats": 2
+    },
+    {
+      "party_name": "Sri Lanka Muslim Congress",
+      "party_code": "SLMC",
+      "votes": 2407,
+      "p_votes": 0.13,
+      "seats": 2
+    },
+    {
+      "party_name": "National Congress",
+      "party_code": "NC",
+      "votes": 1029,
+      "p_votes": 0.06,
+      "seats": 1
+    },
+    {
+      "party_name": "National Front for Good Governance",
+      "party_code": "NFGG",
+      "votes": 808,
+      "p_votes": 0.04,
+      "seats": 1
+    },
+    {
+      "party_name": "United National Party",
+      "party_code": "UNP",
+      "votes": 669,
+      "p_votes": 0.04,
+      "seats": 0
+    },
+    {
+      "party_name": "People's Alliance",
+      "party_code": "PA",
+      "votes": 344,
+      "p_votes": 0.02,
+      "seats": 0
+    },
+    {
+      "party_name": "Sri Lanka Podujana Peramuna",
+      "party_code": "SLPP",
+      "votes": 234,
+      "p_votes": 0.01,
+      "seats": 0
+    }
+  ]
+}

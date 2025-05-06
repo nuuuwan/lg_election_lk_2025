@@ -1,0 +1,61 @@
+{
+  "district_name": "Galle",
+  "lg_code": "111",
+  "lg_name": "Yakkalamulla Pradeshiya Sabha",
+  "url": "https://results.elections.gov.lk/?page=lg_result&district=GALLE&lg_code=111&lg_name=YAKKALAMULLA-PRADESHIYA-SABHA",
+  "time_str": "2025-05-07 03:29:00",
+  "time_ut": 1746568740.0,
+  "summary_data": {
+    "electors": 38099,
+    "polled": 25255,
+    "valid": 24789,
+    "rejected": 466,
+    "p_turnout": 0.66,
+    "p_valid": 0.98,
+    "p_rejected": 0.02
+  },
+  "party_result_data_list": [
+    {
+      "party_name": "Jathika Jana Balawegaya",
+      "party_code": "NPP",
+      "votes": 11684,
+      "p_votes": 0.47,
+      "seats": 12
+    },
+    {
+      "party_name": "Samagi Jana Balawegaya",
+      "party_code": "SJB",
+      "votes": 6853,
+      "p_votes": 0.28,
+      "seats": 5
+    },
+    {
+      "party_name": "Sri Lanka Podujana Peramuna",
+      "party_code": "SLPP",
+      "votes": 3236,
+      "p_votes": 0.13,
+      "seats": 3
+    },
+    {
+      "party_name": "United National Party",
+      "party_code": "UNP",
+      "votes": 1967,
+      "p_votes": 0.08,
+      "seats": 2
+    },
+    {
+      "party_name": "Sarvajana Balaya",
+      "party_code": "SB",
+      "votes": 889,
+      "p_votes": 0.04,
+      "seats": 1
+    },
+    {
+      "party_name": "People's Struggle Alliance",
+      "party_code": "PSA",
+      "votes": 160,
+      "p_votes": 0.01,
+      "seats": 0
+    }
+  ]
+}
