@@ -1,0 +1,82 @@
+{
+  "district_name": "Nuwaraeliya",
+  "lg_code": "093",
+  "lg_name": "Nuwaraeliya Pradeshiya Sabha",
+  "url": "https://results.elections.gov.lk/?page=lg_result&district=NUWARAELIYA&lg_code=093&lg_name=NUWARAELIYA-PRADESHIYA-SABHA",
+  "time_str": "2025-05-07 03:25:00",
+  "time_ut": 1746568500.0,
+  "summary_data": {
+    "electors": 52873,
+    "polled": 34845,
+    "valid": 33549,
+    "rejected": 1296,
+    "p_turnout": 0.66,
+    "p_valid": 0.96,
+    "p_rejected": 0.04
+  },
+  "party_result_data_list": [
+    {
+      "party_name": "Jathika Jana Balawegaya",
+      "party_code": "NPP",
+      "votes": 9301,
+      "p_votes": 0.28,
+      "seats": 7
+    },
+    {
+      "party_name": "Ceylon Worker's Congress (P. Wing)",
+      "party_code": "CWC",
+      "votes": 8389,
+      "p_votes": 0.25,
+      "seats": 6
+    },
+    {
+      "party_name": "Samagi Jana Balawegaya",
+      "party_code": "SJB",
+      "votes": 7848,
+      "p_votes": 0.23,
+      "seats": 5
+    },
+    {
+      "party_name": "Independent Group",
+      "party_code": "IND1",
+      "votes": 2280,
+      "p_votes": 0.07,
+      "seats": 2
+    },
+    {
+      "party_name": "United National Party",
+      "party_code": "UNP",
+      "votes": 2110,
+      "p_votes": 0.06,
+      "seats": 1
+    },
+    {
+      "party_name": "Sri Lanka Podujana Peramuna",
+      "party_code": "SLPP",
+      "votes": 1363,
+      "p_votes": 0.04,
+      "seats": 1
+    },
+    {
+      "party_name": "Democratic National Alliance",
+      "party_code": "DNA",
+      "votes": 874,
+      "p_votes": 0.03,
+      "seats": 1
+    },
+    {
+      "party_name": "People's Struggle Alliance",
+      "party_code": "PSA",
+      "votes": 871,
+      "p_votes": 0.03,
+      "seats": 1
+    },
+    {
+      "party_name": "Jathika Sangwardhena Peramuna",
+      "party_code": "JSWP",
+      "votes": 513,
+      "p_votes": 0.02,
+      "seats": 0
+    }
+  ]
+}
