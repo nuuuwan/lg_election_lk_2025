@@ -1,0 +1,103 @@
+{
+  "district_name": "Colombo",
+  "lg_code": "004",
+  "lg_name": "Moratuwa Municipal Council",
+  "url": "https://results.elections.gov.lk/?page=lg_result&district=COLOMBO&lg_code=004&lg_name=MORATUWA-MUNICIPAL-COUNCIL",
+  "time_str": "2025-05-07 04:36:00",
+  "time_ut": 1746572760.0,
+  "summary_data": {
+    "electors": 122567,
+    "polled": 77077,
+    "valid": 75791,
+    "rejected": 1286,
+    "p_turnout": 0.63,
+    "p_valid": 0.98,
+    "p_rejected": 0.02
+  },
+  "party_result_data_list": [
+    {
+      "party_name": "Jathika Jana Balawegaya",
+      "party_code": "NPP",
+      "votes": 34659,
+      "p_votes": 0.46,
+      "seats": 26
+    },
+    {
+      "party_name": "Samagi Jana Balawegaya",
+      "party_code": "SJB",
+      "votes": 16814,
+      "p_votes": 0.22,
+      "seats": 11
+    },
+    {
+      "party_name": "Sri Lanka Podujana Peramuna",
+      "party_code": "SLPP",
+      "votes": 9149,
+      "p_votes": 0.12,
+      "seats": 6
+    },
+    {
+      "party_name": "United National Party",
+      "party_code": "UNP",
+      "votes": 4809,
+      "p_votes": 0.06,
+      "seats": 3
+    },
+    {
+      "party_name": "Sarvajana Balaya",
+      "party_code": "SB",
+      "votes": 3640,
+      "p_votes": 0.05,
+      "seats": 2
+    },
+    {
+      "party_name": "People's Alliance",
+      "party_code": "PA",
+      "votes": 2779,
+      "p_votes": 0.04,
+      "seats": 2
+    },
+    {
+      "party_name": "Independent Group",
+      "party_code": "IND1",
+      "votes": 1522,
+      "p_votes": 0.02,
+      "seats": 1
+    },
+    {
+      "party_name": "National Freedom Front",
+      "party_code": "NFF",
+      "votes": 617,
+      "p_votes": 0.01,
+      "seats": 1
+    },
+    {
+      "party_name": "Nawa Lanka Nidahas Pakshaya",
+      "party_code": "NLNP",
+      "votes": 571,
+      "p_votes": 0.01,
+      "seats": 0
+    },
+    {
+      "party_name": "Communist Party of Sri Lanka",
+      "party_code": "SLCP",
+      "votes": 562,
+      "p_votes": 0.01,
+      "seats": 0
+    },
+    {
+      "party_name": "People's Struggle Alliance",
+      "party_code": "PSA",
+      "votes": 561,
+      "p_votes": 0.01,
+      "seats": 0
+    },
+    {
+      "party_name": "United Republican Front",
+      "party_code": "URF",
+      "votes": 108,
+      "p_votes": 0.0,
+      "seats": 0
+    }
+  ]
+}

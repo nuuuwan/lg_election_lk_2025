@@ -1,0 +1,103 @@
+{
+  "district_name": "Colombo",
+  "lg_code": "011",
+  "lg_name": "Kotikawatta Mulleriyawa Pradeshiya Sabha",
+  "url": "https://results.elections.gov.lk/?page=lg_result&district=COLOMBO&lg_code=011&lg_name=KOTIKAWATTA-MULLERIYAWA-PRADESHIYA-SABHA",
+  "time_str": "2025-05-07 04:37:00",
+  "time_ut": 1746572820.0,
+  "summary_data": {
+    "electors": 101687,
+    "polled": 59635,
+    "valid": 58423,
+    "rejected": 1212,
+    "p_turnout": 0.59,
+    "p_valid": 0.98,
+    "p_rejected": 0.02
+  },
+  "party_result_data_list": [
+    {
+      "party_name": "Jathika Jana Balawegaya",
+      "party_code": "NPP",
+      "votes": 30797,
+      "p_votes": 0.53,
+      "seats": 22
+    },
+    {
+      "party_name": "Samagi Jana Balawegaya",
+      "party_code": "SJB",
+      "votes": 10747,
+      "p_votes": 0.18,
+      "seats": 7
+    },
+    {
+      "party_name": "Sri Lanka Podujana Peramuna",
+      "party_code": "SLPP",
+      "votes": 5477,
+      "p_votes": 0.09,
+      "seats": 3
+    },
+    {
+      "party_name": "United National Party",
+      "party_code": "UNP",
+      "votes": 3745,
+      "p_votes": 0.06,
+      "seats": 2
+    },
+    {
+      "party_name": "People's Alliance",
+      "party_code": "PA",
+      "votes": 2289,
+      "p_votes": 0.04,
+      "seats": 1
+    },
+    {
+      "party_name": "Sarvajana Balaya",
+      "party_code": "SB",
+      "votes": 1330,
+      "p_votes": 0.02,
+      "seats": 1
+    },
+    {
+      "party_name": "United Peace Alliance",
+      "party_code": "UPA",
+      "votes": 1160,
+      "p_votes": 0.02,
+      "seats": 1
+    },
+    {
+      "party_name": "Sri Lanka Muslim Congress",
+      "party_code": "SLMC",
+      "votes": 908,
+      "p_votes": 0.02,
+      "seats": 1
+    },
+    {
+      "party_name": "Independent Group",
+      "party_code": "IND1",
+      "votes": 697,
+      "p_votes": 0.01,
+      "seats": 1
+    },
+    {
+      "party_name": "Lanka Janatha Party",
+      "party_code": "LJP",
+      "votes": 606,
+      "p_votes": 0.01,
+      "seats": 0
+    },
+    {
+      "party_name": "Democratic United National Front",
+      "party_code": "DUNF",
+      "votes": 419,
+      "p_votes": 0.01,
+      "seats": 0
+    },
+    {
+      "party_name": "People's Struggle Alliance",
+      "party_code": "PSA",
+      "votes": 248,
+      "p_votes": 0.0,
+      "seats": 0
+    }
+  ]
+}

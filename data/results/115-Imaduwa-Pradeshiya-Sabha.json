@@ -1,0 +1,68 @@
+{
+  "district_name": "Galle",
+  "lg_code": "115",
+  "lg_name": "Imaduwa Pradeshiya Sabha",
+  "url": "https://results.elections.gov.lk/?page=lg_result&district=GALLE&lg_code=115&lg_name=IMADUWA-PRADESHIYA-SABHA",
+  "time_str": "2025-05-07 04:42:00",
+  "time_ut": 1746573120.0,
+  "summary_data": {
+    "electors": 39240,
+    "polled": 23278,
+    "valid": 22896,
+    "rejected": 382,
+    "p_turnout": 0.59,
+    "p_valid": 0.98,
+    "p_rejected": 0.02
+  },
+  "party_result_data_list": [
+    {
+      "party_name": "Jathika Jana Balawegaya",
+      "party_code": "NPP",
+      "votes": 11177,
+      "p_votes": 0.49,
+      "seats": 10
+    },
+    {
+      "party_name": "Samagi Jana Balawegaya",
+      "party_code": "SJB",
+      "votes": 5338,
+      "p_votes": 0.23,
+      "seats": 4
+    },
+    {
+      "party_name": "Sri Lanka Podujana Peramuna",
+      "party_code": "SLPP",
+      "votes": 2961,
+      "p_votes": 0.13,
+      "seats": 2
+    },
+    {
+      "party_name": "United National Party",
+      "party_code": "UNP",
+      "votes": 1790,
+      "p_votes": 0.08,
+      "seats": 1
+    },
+    {
+      "party_name": "Communist Party of Sri Lanka",
+      "party_code": "SLCP",
+      "votes": 658,
+      "p_votes": 0.03,
+      "seats": 1
+    },
+    {
+      "party_name": "People's Alliance",
+      "party_code": "PA",
+      "votes": 492,
+      "p_votes": 0.02,
+      "seats": 0
+    },
+    {
+      "party_name": "People's Struggle Alliance",
+      "party_code": "PSA",
+      "votes": 480,
+      "p_votes": 0.02,
+      "seats": 0
+    }
+  ]
+}
