@@ -1,6 +1,6 @@
 # Sri Lankan Local Government Elections - 2025 🇱🇰
 
-As of 2025-05-07 05:15:17
+As of 2025-05-07 05:22:07
 
 *Scraped from [results.elections.gov.lk](https://results.elections.gov.lk)*
 
@@ -8,22 +8,22 @@ As of 2025-05-07 05:15:17
 
 | Results Released | % Released (By Votes) |
 |--:|--:|
-|128/339|30.82%|
+|131/339|31.47%|
 
 ## Islandwide (Top 10 by Votes)
 
 | Party | Votes | %  | Seats | % | Wins | ≥½ ✔️ |
 |---|--:|--:|--:|--:|--:|--:|
-|🔴Jathika Jana Balawegaya|1,360,745|42%|1,271|43%|100|49|
-|🟢Samagi Jana Balawegaya|646,406|20%|541|18%|4||
-|🟣Sri Lanka Podujana Peramuna|307,026|9%|255|9%|||
-|🟩United National Party|159,330|5%|130|4%|||
-|🟡Ilankai Tamil Arasu Kadchi|132,983|4%|185|6%|21|5|
-|🟦People's Alliance|119,831|4%|104|4%|||
-|🔵Sarvajana Balaya|78,585|2%|65|2%|||
+|🔴Jathika Jana Balawegaya|1,389,051|42%|1,304|43%|102|49|
+|🟢Samagi Jana Balawegaya|661,041|20%|554|18%|4||
+|🟣Sri Lanka Podujana Peramuna|315,528|10%|263|9%|||
+|🟩United National Party|162,407|5%|133|4%|||
+|🟡Ilankai Tamil Arasu Kadchi|133,957|4%|191|6%|22|5|
+|🟦People's Alliance|123,388|4%|108|4%|||
+|🔵Sarvajana Balaya|81,358|2%|68|2%|||
 |⚪Democratic Tamil National Alliance|41,538|1%|51|2%|||
 |⚪Sri Lanka Muslim Congress|36,609|1%|34|1%|1||
-|⚪All Ceylon Tamil Congress|33,517|1%|53|2%|2||
+|⚪All Ceylon Tamil Congress|33,675|1%|54|2%|2||
 
 ## Results by Local Authority
 
@@ -105,6 +105,7 @@ As of 2025-05-07 05:15:17
 | `126` | 🏡Malimbada PS (18) |**🔴JJB (9)✔️**|🟢SJB (4)|🟣SLPP (2)| Others (3) |[...](https://results.elections.gov.lk/?page=lg_result&district=MATARA&lg_code=126&lg_name=MALIMBADA-PRADESHIYA-SABHA)|
 | `130` | 🏡Devinuwara PS (22) |**🔴JJB (12)✔️**|🟢SJB (5)|🟦PA (2)| Others (3) |[...](https://results.elections.gov.lk/?page=lg_result&district=MATARA&lg_code=130&lg_name=DEVINUWARA-PRADESHIYA-SABHA)|
 | `131` | 🏡Dickwella PS (27) |**🔴JJB (15)✔️**|🟢SJB (8)|🟦PA (2)| Others (2) |[...](https://results.elections.gov.lk/?page=lg_result&district=MATARA&lg_code=131&lg_name=DICKWELLA-PRADESHIYA-SABHA)|
+| `133` | 🏡Weligama PS (45) |🔴JJB (22)|🟢SJB (9)|🟣SLPP (6)| Others (8) |[...](https://results.elections.gov.lk/?page=lg_result&district=MATARA&lg_code=133&lg_name=WELIGAMA-PRADESHIYA-SABHA)|
 
 ### Hambantota
 
@@ -130,6 +131,7 @@ As of 2025-05-07 05:15:17
 | `146` | 🏛️Jaffna MC (45) |🟡ITAK (13)|⚪ACTC (12)|🔴JJB (10)| Others (10) |[...](https://results.elections.gov.lk/?page=lg_result&district=JAFFNA&lg_code=146&lg_name=JAFFNA-MUNICIPAL-COUNCIL)|
 | `147` | 🏢Valvettithurai UC (16) |⚪ACTC (7)|🟡ITAK (5)|🔴JJB (3)| Others (1) |[...](https://results.elections.gov.lk/?page=lg_result&district=JAFFNA&lg_code=147&lg_name=VALVETTITHURAI-URBAN-COUNCIL)|
 | `149` | 🏢Chavakachcheri UC (18) |⚪ACTC (6)|🟡ITAK (6)🟰|🔴JJB (3)| Others (3) |[...](https://results.elections.gov.lk/?page=lg_result&district=JAFFNA&lg_code=149&lg_name=CHAVAKACHCHERI-URBAN-COUNCIL)|
+| `152` | 🏡Delft PS (13) |🟡ITAK (6)|⚪EPDP (4)|🔴JJB (2)| Others (1) |[...](https://results.elections.gov.lk/?page=lg_result&district=JAFFNA&lg_code=152&lg_name=DELFT-PRADESHIYA-SABHA)|
 | `153` | 🏡Velanai PS (22) |🟡ITAK (8)|🔴JJB (4)|⚪EPDP (3)| Others (7) |[...](https://results.elections.gov.lk/?page=lg_result&district=JAFFNA&lg_code=153&lg_name=VELANAI-PRADESHIYA-SABHA)|
 | `158` | 🏡Walikamam East PS (36) |🟡ITAK (11)|🔴JJB (9)|⚪ACTC (5)| Others (11) |[...](https://results.elections.gov.lk/?page=lg_result&district=JAFFNA&lg_code=158&lg_name=WALIKAMAM-EAST-PRADESHIYA-SABHA)|
 | `159` | 🏡Wadamarachchi South West PS (32) |🟡ITAK (13)|⚪ACTC (7)|🔴JJB (6)| Others (6) |[...](https://results.elections.gov.lk/?page=lg_result&district=JAFFNA&lg_code=159&lg_name=WADAMARACHCHI-SOUTH-WEST-PRADESHIYA-SABHA)|
@@ -204,6 +206,7 @@ As of 2025-05-07 05:15:17
 |---|---|---|---|---|---|---|
 | `247` | 🏢Chilaw UC (20) |🔴JJB (9)|⚫IG `247` (6)|🟢SJB (4)| Others (1) |[...](https://results.elections.gov.lk/?page=lg_result&district=PUTTALAM&lg_code=247&lg_name=CHILAW-URBAN-COUNCIL)|
 | `250` | 🏡Wanathawilluwa PS (18) |🔴JJB (6)|🟢SJB (5)|🟣SLPP (4)| Others (3) |[...](https://results.elections.gov.lk/?page=lg_result&district=PUTTALAM&lg_code=250&lg_name=WANATHAWILLUWA-PRADESHIYA-SABHA)|
+| `251` | 🏡Karuwalagaswewa PS (21) |🔴JJB (9)|🟢SJB (4)|🟦PA (3)| Others (5) |[...](https://results.elections.gov.lk/?page=lg_result&district=PUTTALAM&lg_code=251&lg_name=KARUWALAGASWEWA-PRADESHIYA-SABHA)|
 
 ### Badulla
 
