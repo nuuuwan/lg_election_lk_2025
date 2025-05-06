@@ -74,6 +74,12 @@ class OverallReport:
             party_result_data["seats"]
             for party_result_data in result["party_result_data_list"]
         )
+
+        party_result_data_list = result["party_result_data_list"]
+        party_result_data_list.sort(
+            key=lambda x: (x["seats"], x["votes"]), reverse=True
+        )
+
         for i, party_result_data in enumerate(result["party_result_data_list"]):
             party_name = OverallReport.get_party_name_annotated(
                 party_result_data["party_name"], lg_code
