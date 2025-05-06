@@ -1,6 +1,6 @@
 # Sri Lankan Local Government Elections - 2025 🇱🇰
 
-As of 2025-05-07 00:55:51
+As of 2025-05-07 00:57:50
 
 *Scraped from [results.elections.gov.lk](https://results.elections.gov.lk)*
 
@@ -41,3 +41,32 @@ As of 2025-05-07 00:55:51
 |Independent Group 1 [177]|388|0%|1|0%|||
 |Independent Group 1 [052]|323|0%|1|0%|||
 |Sri Lanka Labour Party|254|0%|1|0%|||
+
+## Results
+
+| LG Code | LG Name | Winning Party |
+|---|---|--|
+|006|Kollonnawa Urban Council|🔴Jathika Jana Balawegaya|
+|034|Horana Urban Council|🔴Jathika Jana Balawegaya|
+|051|Wattegama Urban Council|🔴Jathika Jana Balawegaya|
+|052|Kadugannawa Urban Council|🔴Jathika Jana Balawegaya|
+|085|Nuwara Eliya Municipal Council|🔴Jathika Jana Balawegaya|
+|098|Ambalangoda Urban Council|🔴Jathika Jana Balawegaya|
+|099|Hikkaduwa Urban Council|🔴Jathika Jana Balawegaya|
+|102|Welivitiya Divithura Pradeshiya Sabha|🔴Jathika Jana Balawegaya|
+|109|Niyagama Pradeshiya Sabha|🔴Jathika Jana Balawegaya|
+|114|Bope Poddala Pradeshiya Sabha|🔴Jathika Jana Balawegaya|
+|134|Hambantota Municipal Council|🔴Jathika Jana Balawegaya|
+|135|Tangalle Urban Council|🔴Jathika Jana Balawegaya|
+|143|Sooriyawewa Pradeshiya Sabha|🔴Jathika Jana Balawegaya|
+|144|Hambantota Pradeshiya Sabha|🔴Jathika Jana Balawegaya|
+|176|Manthai East Pradeshiya Sabha|🟡Ilankai Tamil Arasu Kadchi|
+|177|Thunukkai Pradeshiya Sabha|🟡Ilankai Tamil Arasu Kadchi|
+|194|Ampara Urban Council|🔴Jathika Jana Balawegaya|
+|204|Akkaraipattu Pradeshiya Sabha|National Congress|
+|214|Verugal Pradeshiya Sabha|🟡Ilankai Tamil Arasu Kadchi|
+|217|Morawewa Pradeshiya Sabha|🔴Jathika Jana Balawegaya|
+|287|Haputhale Urban Council|Independent Group [287]|
+|290|Soranathota Pradeshiya Sabha|🔴Jathika Jana Balawegaya|
+|313|Ratnapura Municipal Council|🔴Jathika Jana Balawegaya|
+|314|Balangoda Urban Council|🔴Jathika Jana Balawegaya|

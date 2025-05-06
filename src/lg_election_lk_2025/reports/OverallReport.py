@@ -197,11 +197,45 @@ class OverallReport:
         return lines
 
     @property
+    def result_lines(self):
+        lines = [
+            "## Results",
+            "",
+            "| LG Code | LG Name | Winning Party |",
+            "|---|---|--|",
+        ]
+        for result in self.result_list:
+            lg_code = result["lg_code"]
+            lg_name = result["lg_name"]
+            party_result_data_list = result["party_result_data_list"]
+            winning_party = party_result_data_list[0]["party_name"]
+            lines.append(
+                "|"
+                + "|".join(
+                    [
+                        lg_code,
+                        lg_name,
+                        OverallReport.get_party_name_annotated(
+                            winning_party, lg_code
+                        ),
+                    ]
+                )
+                + "|"
+            )
+        lines.extend(
+            [
+                "",
+            ]
+        )
+        return lines
+
+    @property
     def lines(self):
         return (
             self.header_lines
             + self.lk_summary_lines
             + self.lk_party_to_summary_lines
+            + self.result_lines
         )
 
     @property
