@@ -63,7 +63,7 @@ class OverallReport:
             else party_name
         )
         if party_name.startswith("Independent"):
-            return f"⚫{party_name_short}-{lg_code}"
+            return f"⚫{party_name_short} `{lg_code}`"
         return OverallReport.get_party_emoji(party_name) + party_name_short
 
     @staticmethod
@@ -226,7 +226,7 @@ class OverallReport:
     @property
     def result_lines(self):
         lines = [
-            "## Results",
+            "## Results by Local Authority",
         ]
         prev_district_name = None
         for result in self.result_list:
@@ -238,8 +238,8 @@ class OverallReport:
                         "",
                         f"### {district_name}",
                         "",
-                        "| Local Authority | 1st | 2nd | 3rd |",
-                        "|---|---|---|---|",
+                        "|  |  |  |  |  |",
+                        "|---|---|---|---|---|",
                     ]
                 )
                 prev_district_name = district_name
@@ -252,7 +252,7 @@ class OverallReport:
                 for party_result_data in party_result_data_list
             )
 
-            line = f"| {OverallReport.get_lg_short_name(lg_name)} ({total_seats}) |"
+            line = f"| `{lg_code}` | {OverallReport.get_lg_short_name(lg_name)} ({total_seats}) |"
 
             for i in range(0, 3):
                 party_result_data = party_result_data_list[i]
