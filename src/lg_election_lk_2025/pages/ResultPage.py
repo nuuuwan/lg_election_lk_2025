@@ -24,6 +24,7 @@ class ResultPage(WebPage):
             district_name=district_name,
             lg_code=lg_code,
             lg_name=lg_name,
+            url=self.url,
         )
 
         return url_data
