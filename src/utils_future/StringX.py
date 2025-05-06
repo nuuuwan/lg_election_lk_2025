@@ -17,3 +17,8 @@ class StringX:
         return round(
             StringX(self.x[:-1]).get_float(ndigits + 2) / 100.0, ndigits
         )
+
+    @property
+    def int_zero_blank(self) -> int:
+        assert isinstance(self.x, int)
+        return f"{self.x:,}" if self.x else ""

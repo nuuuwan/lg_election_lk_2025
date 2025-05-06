@@ -1,9 +1,11 @@
 import os
 from urllib.parse import parse_qs, urlparse
+
 from selenium.webdriver.common.by import By
-from utils import Log, JSONFile
-from utils_future import StringX
+from utils import JSONFile, Log, TimeFormat
+
 from lg_election_lk_2025.pages.WebPage import WebPage
+from utils_future import StringX
 
 log = Log("ResultsPage")
 
@@ -52,6 +54,19 @@ class ResultPage(WebPage):
             votes=votes,
             p_votes=p_votes,
             seats=seats,
+        )
+
+    def get_result_time_data(self) -> dict:
+        # 06 May 2025 09:32 PM
+        time_str = self.driver.find_element(
+            By.XPATH, "//small[contains(@class, 'text-white-50')]"
+        ).text.strip()
+        t = TimeFormat("%d %B %Y %I:%M %p").parse(time_str)
+        time_ut = t.ut
+        time_str = TimeFormat.TIME.format(t)
+        return dict(
+            time_str=time_str,
+            time_ut=time_ut,
         )
 
     def get_summary_data(self) -> dict:
@@ -104,9 +119,13 @@ class ResultPage(WebPage):
         self.open()
         party_result_data_list = self.get_party_result_data_list()
         summary_data = self.get_summary_data()
-        result = self.get_url_data() | dict(
-            summary_data=summary_data,
-            party_result_data_list=party_result_data_list,
+        result = (
+            self.get_url_data()
+            | self.get_result_time_data()
+            | dict(
+                summary_data=summary_data,
+                party_result_data_list=party_result_data_list,
+            )
         )
         log.debug(f"{result=}")
         return result

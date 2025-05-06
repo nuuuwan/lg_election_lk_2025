@@ -1,0 +1,60 @@
+{
+  "district_name": "Hambantota",
+  "lg_code": "143",
+  "lg_name": "Sooriyawewa Pradeshiya Sabha",
+  "time_str": "2025-05-06 23:48:00",
+  "time_ut": 1746555480.0,
+  "summary_data": {
+    "electors": 38355,
+    "polled": 22628,
+    "valid": 22328,
+    "rejected": 300,
+    "p_turnout": 0.59,
+    "p_valid": 0.99,
+    "p_rejected": 0.01
+  },
+  "party_result_data_list": [
+    {
+      "party_name": "Jathika Jana Balawegaya",
+      "party_code": "NPP",
+      "votes": 11451,
+      "p_votes": 0.51,
+      "seats": 6
+    },
+    {
+      "party_name": "Samagi Jana Balawegaya",
+      "party_code": "SJB",
+      "votes": 5308,
+      "p_votes": 0.24,
+      "seats": 2
+    },
+    {
+      "party_name": "Sri Lanka Podujana Peramuna",
+      "party_code": "SLPP",
+      "votes": 3136,
+      "p_votes": 0.14,
+      "seats": 2
+    },
+    {
+      "party_name": "People's Alliance",
+      "party_code": "PA",
+      "votes": 1744,
+      "p_votes": 0.08,
+      "seats": 1
+    },
+    {
+      "party_name": "Sarvajana Balaya",
+      "party_code": "SB",
+      "votes": 534,
+      "p_votes": 0.02,
+      "seats": 0
+    },
+    {
+      "party_name": "People's Struggle Alliance",
+      "party_code": "PSA",
+      "votes": 155,
+      "p_votes": 0.01,
+      "seats": 0
+    }
+  ]
+}

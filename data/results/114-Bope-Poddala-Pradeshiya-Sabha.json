@@ -1,15 +1,15 @@
 {
   "district_name": "Galle",
-  "lg_code": "098",
-  "lg_name": "Ambalangoda Urban Council",
-  "time_str": "2025-05-06 20:14:00",
-  "time_ut": 1746542640.0,
+  "lg_code": "114",
+  "lg_name": "Bope Poddala Pradeshiya Sabha",
+  "time_str": "2025-05-06 23:20:00",
+  "time_ut": 1746553800.0,
   "summary_data": {
-    "electors": 18804,
-    "polled": 12562,
-    "valid": 12287,
-    "rejected": 275,
-    "p_turnout": 0.67,
+    "electors": 56671,
+    "polled": 34240,
+    "valid": 33546,
+    "rejected": 694,
+    "p_turnout": 0.6,
     "p_valid": 0.98,
     "p_rejected": 0.02
   },
@@ -17,49 +17,42 @@
     {
       "party_name": "Jathika Jana Balawegaya",
       "party_code": "NPP",
-      "votes": 5736,
-      "p_votes": 0.47,
+      "votes": 16828,
+      "p_votes": 0.5,
       "seats": 11
     },
     {
       "party_name": "Samagi Jana Balawegaya",
       "party_code": "SJB",
-      "votes": 2934,
-      "p_votes": 0.24,
-      "seats": 5
+      "votes": 7297,
+      "p_votes": 0.22,
+      "seats": 4
     },
     {
       "party_name": "Sri Lanka Podujana Peramuna",
       "party_code": "SLPP",
-      "votes": 1928,
-      "p_votes": 0.16,
+      "votes": 4444,
+      "p_votes": 0.13,
       "seats": 3
     },
     {
       "party_name": "United National Party",
       "party_code": "UNP",
-      "votes": 553,
-      "p_votes": 0.04,
-      "seats": 1
+      "votes": 2511,
+      "p_votes": 0.07,
+      "seats": 2
     },
     {
       "party_name": "Independent Group",
       "party_code": "IND0",
-      "votes": 552,
-      "p_votes": 0.04,
-      "seats": 1
-    },
-    {
-      "party_name": "Sarvajana Balaya",
-      "party_code": "SB",
-      "votes": 447,
-      "p_votes": 0.04,
+      "votes": 2217,
+      "p_votes": 0.07,
       "seats": 1
     },
     {
       "party_name": "People's Struggle Alliance",
       "party_code": "PSA",
-      "votes": 137,
+      "votes": 249,
       "p_votes": 0.01,
       "seats": 0
     }

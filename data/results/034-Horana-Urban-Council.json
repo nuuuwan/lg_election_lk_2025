@@ -1,0 +1,67 @@
+{
+  "district_name": "Kalutara",
+  "lg_code": "034",
+  "lg_name": "Horana Urban Council",
+  "time_str": "2025-05-06 23:46:00",
+  "time_ut": 1746555360.0,
+  "summary_data": {
+    "electors": 7819,
+    "polled": 5655,
+    "valid": 5519,
+    "rejected": 136,
+    "p_turnout": 0.72,
+    "p_valid": 0.98,
+    "p_rejected": 0.02
+  },
+  "party_result_data_list": [
+    {
+      "party_name": "Jathika Jana Balawegaya",
+      "party_code": "NPP",
+      "votes": 2131,
+      "p_votes": 0.39,
+      "seats": 6
+    },
+    {
+      "party_name": "Independent Group 1",
+      "party_code": "IND1",
+      "votes": 1131,
+      "p_votes": 0.2,
+      "seats": 2
+    },
+    {
+      "party_name": "Samagi Jana Balawegaya",
+      "party_code": "SJB",
+      "votes": 913,
+      "p_votes": 0.17,
+      "seats": 2
+    },
+    {
+      "party_name": "United National Party",
+      "party_code": "UNP",
+      "votes": 854,
+      "p_votes": 0.15,
+      "seats": 2
+    },
+    {
+      "party_name": "Sri Lanka Podujana Peramuna",
+      "party_code": "SLPP",
+      "votes": 271,
+      "p_votes": 0.05,
+      "seats": 1
+    },
+    {
+      "party_name": "Sarvajana Balaya",
+      "party_code": "SB",
+      "votes": 154,
+      "p_votes": 0.03,
+      "seats": 0
+    },
+    {
+      "party_name": "Independent Group 2",
+      "party_code": "IND2",
+      "votes": 65,
+      "p_votes": 0.01,
+      "seats": 0
+    }
+  ]
+}

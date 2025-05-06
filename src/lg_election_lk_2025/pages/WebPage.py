@@ -9,12 +9,6 @@ log = Log("WebPage")
 class WebPage:
 
     @staticmethod
-    def get_options() -> webdriver.ChromeOptions:
-        options = webdriver.FirefoxOptions()
-        options.add_argument("--headless")
-        return options
-
-    @staticmethod
     def open_driver() -> webdriver.Firefox:
         options = webdriver.FirefoxOptions()
         options.add_argument("--headless")
