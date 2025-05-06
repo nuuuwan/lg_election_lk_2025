@@ -1,6 +1,6 @@
 # Sri Lankan Local Government Elections - 2025 🇱🇰
 
-As of 2025-05-07 02:49:26
+As of 2025-05-07 02:52:30
 
 *Scraped from [results.elections.gov.lk](https://results.elections.gov.lk)*
 
@@ -8,24 +8,25 @@ As of 2025-05-07 02:49:26
 
 | Results Released | % Released (By Votes) |
 |--:|--:|
-|62/339|12.48%|
+|63/339|12.62%|
 
 ## Islandwide
 
 | Party | Votes | %  | Seats | % | Wins | ≥½ ✔️ |
 |---|--:|--:|--:|--:|--:|--:|
-|🔴Jathika Jana Balawegaya|552,047|42%|596|45%|51|27|
-|🟢Samagi Jana Balawegaya|274,883|21%|260|19%|||
-|🟣Sri Lanka Podujana Peramuna|126,073|10%|121|9%|||
-|🟩United National Party|77,320|6%|71|5%|||
-|🟦People's Alliance|53,066|4%|53|4%|||
-|🟡Ilankai Tamil Arasu Kadchi|47,466|4%|64|5%|7|4|
+|🔴Jathika Jana Balawegaya|555,627|42%|599|44%|52|27|
+|🟢Samagi Jana Balawegaya|278,316|21%|263|19%|||
+|🟣Sri Lanka Podujana Peramuna|127,115|10%|122|9%|||
+|🟩United National Party|77,979|6%|72|5%|||
+|🟦People's Alliance|53,697|4%|54|4%|||
+|🟡Ilankai Tamil Arasu Kadchi|49,157|4%|66|5%|7|4|
 |🔵Sarvajana Balaya|31,614|2%|31|2%|||
 |⚪Democratic Tamil National Alliance|12,880|1%|16|1%|||
-|⚪Sri Lanka Muslim Congress|7,292|1%|8|1%|1||
-|⚪All Ceylon Tamil Congress|6,609|1%|10|1%|||
+|⚪Sri Lanka Muslim Congress|9,982|1%|10|1%|1||
+|⚪All Ceylon Tamil Congress|7,250|1%|11|1%|||
 |⚪Ceylon Worker's Congress (P. Wing)|6,194|0%|9|1%|||
 |⚫Independent Group 1 `008`|5,627|0%|3|0%|||
+|⚪All Ceylon Makkal Congress|4,641|0%|6|0%|||
 |⚫Independent Group 1 `286`|4,020|0%|5|0%|||
 |⚫Independent Group 1 `318`|3,366|0%|2|0%|||
 |⚫Independent Group 2 `318`|3,348|0%|2|0%|||
@@ -37,7 +38,6 @@ As of 2025-05-07 02:49:26
 |⚪National Congress|2,587|0%|6|0%|1|1|
 |⚫Independent Group `101`|2,583|0%|2|0%|||
 |⚪Up-Country People's Front|2,558|0%|4|0%|1||
-|⚪All Ceylon Makkal Congress|2,547|0%|4|0%|||
 |⚪National Freedom Front|2,535|0%|3|0%|||
 |⚫Independent Group `178`|2,491|0%|2|0%|||
 |⚪Communist Party of Sri Lanka|2,218|0%|2|0%|||
@@ -174,6 +174,7 @@ As of 2025-05-07 02:49:26
 |---|---|---|---|---|---|
 | `214` | 🏡Verugal PS (13) |**🟡ITAK (8)✔️**|🔴JJB (3)|🟢SJB (2)|[...](https://results.elections.gov.lk/?page=lg_result&district=TRINCOMALEE&lg_code=214&lg_name=VERUGAL-PRADESHIYA-SABHA)|
 | `217` | 🏡Morawewa PS (17) |**🔴JJB (9)✔️**|🟣SLPP (3)|🟢SJB (3)|[...](https://results.elections.gov.lk/?page=lg_result&district=TRINCOMALEE&lg_code=217&lg_name=MORAWEWA-PRADESHIYA-SABHA)|
+| `222` | 🏡Thambalagamuwa PS (16) |🔴JJB (3)|🟢SJB (3)|⚪SLMC (2)|[...](https://results.elections.gov.lk/?page=lg_result&district=TRINCOMALEE&lg_code=222&lg_name=THAMBALAGAMUWA-PRADESHIYA-SABHA)|
 
 ### Puttalam
 
