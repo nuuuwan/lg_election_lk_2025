@@ -95,10 +95,10 @@ class OverallReport:
     @property
     def lk_summary_lines(self):
         lines = [
-            "## Overall",
+            "## Progress",
             "",
-            "| Results Released | Total Seats | Total Valid Votes | % Released (By Votes) |",
-            "|--:|--:|--:|--:|",
+            "| Results Released | % Released (By Votes) |",
+            "|--:|--:|",
         ]
         lk_summary = self.lk_summary
         log.debug(f"{lk_summary=}")
@@ -107,8 +107,6 @@ class OverallReport:
             + "|".join(
                 [
                     f'{lk_summary["results"]:,}/{self.TOTAL_RESULTS}',
-                    f'{lk_summary["seats"]:,}',
-                    f'{lk_summary["votes"]:,}',
                     f'{lk_summary["electors"] / self.TOTAL_ELECTORS:.2%}',
                 ]
             )
@@ -146,7 +144,7 @@ class OverallReport:
     @property
     def lk_party_to_summary_lines(self):
         lines = [
-            "## Overall By Party",
+            "## Islandwide",
             "",
             "| Party | Wins (>½ Seats)  | Wins (All) | Seats | % | Votes | % |",
             "|---|--:|--:|--:|--:|--:|--:|",
