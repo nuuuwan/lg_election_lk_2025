@@ -1,0 +1,103 @@
+{
+  "district_name": "Colombo",
+  "lg_code": "009",
+  "lg_name": "Kesbewa Urban Council",
+  "url": "https://results.elections.gov.lk/?page=lg_result&district=COLOMBO&lg_code=009&lg_name=KESBEWA-URBAN-COUNCIL",
+  "time_str": "2025-05-07 02:52:00",
+  "time_ut": 1746566520.0,
+  "summary_data": {
+    "electors": 154494,
+    "polled": 88200,
+    "valid": 86387,
+    "rejected": 1813,
+    "p_turnout": 0.57,
+    "p_valid": 0.98,
+    "p_rejected": 0.02
+  },
+  "party_result_data_list": [
+    {
+      "party_name": "Jathika Jana Balawegaya",
+      "party_code": "NPP",
+      "votes": 48485,
+      "p_votes": 0.56,
+      "seats": 20
+    },
+    {
+      "party_name": "Samagi Jana Balawegaya",
+      "party_code": "SJB",
+      "votes": 14395,
+      "p_votes": 0.17,
+      "seats": 5
+    },
+    {
+      "party_name": "Sri Lanka Podujana Peramuna",
+      "party_code": "SLPP",
+      "votes": 7544,
+      "p_votes": 0.09,
+      "seats": 3
+    },
+    {
+      "party_name": "Independent Group 2",
+      "party_code": "IND2",
+      "votes": 4022,
+      "p_votes": 0.05,
+      "seats": 2
+    },
+    {
+      "party_name": "Sarvajana Balaya",
+      "party_code": "SB",
+      "votes": 3490,
+      "p_votes": 0.04,
+      "seats": 1
+    },
+    {
+      "party_name": "United National Party",
+      "party_code": "UNP",
+      "votes": 3035,
+      "p_votes": 0.04,
+      "seats": 1
+    },
+    {
+      "party_name": "People's Alliance",
+      "party_code": "PA",
+      "votes": 1800,
+      "p_votes": 0.02,
+      "seats": 1
+    },
+    {
+      "party_name": "National Freedom Front",
+      "party_code": "NFF",
+      "votes": 1341,
+      "p_votes": 0.02,
+      "seats": 1
+    },
+    {
+      "party_name": "Independent Group 3",
+      "party_code": "IND3",
+      "votes": 1270,
+      "p_votes": 0.01,
+      "seats": 0
+    },
+    {
+      "party_name": "Independent Group 1",
+      "party_code": "IND1",
+      "votes": 463,
+      "p_votes": 0.01,
+      "seats": 0
+    },
+    {
+      "party_name": "People's Struggle Alliance",
+      "party_code": "PSA",
+      "votes": 283,
+      "p_votes": 0.0,
+      "seats": 0
+    },
+    {
+      "party_name": "National Peoples Party",
+      "party_code": "NPPT",
+      "votes": 259,
+      "p_votes": 0.0,
+      "seats": 0
+    }
+  ]
+}

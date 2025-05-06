@@ -1,0 +1,68 @@
+{
+  "district_name": "Badulla",
+  "lg_code": "297",
+  "lg_name": "Uva Paranagama Pradeshiya Sabha",
+  "url": "https://results.elections.gov.lk/?page=lg_result&district=BADULLA&lg_code=297&lg_name=UVA-PARANAGAMA-PRADESHIYA-SABHA",
+  "time_str": "2025-05-07 02:49:00",
+  "time_ut": 1746566340.0,
+  "summary_data": {
+    "electors": 70065,
+    "polled": 45010,
+    "valid": 43697,
+    "rejected": 1313,
+    "p_turnout": 0.64,
+    "p_valid": 0.97,
+    "p_rejected": 0.03
+  },
+  "party_result_data_list": [
+    {
+      "party_name": "Jathika Jana Balawegaya",
+      "party_code": "NPP",
+      "votes": 17566,
+      "p_votes": 0.4,
+      "seats": 20
+    },
+    {
+      "party_name": "Samagi Jana Balawegaya",
+      "party_code": "SJB",
+      "votes": 10293,
+      "p_votes": 0.24,
+      "seats": 8
+    },
+    {
+      "party_name": "Sri Lanka Podujana Peramuna",
+      "party_code": "SLPP",
+      "votes": 5872,
+      "p_votes": 0.13,
+      "seats": 5
+    },
+    {
+      "party_name": "United National Party",
+      "party_code": "UNP",
+      "votes": 4254,
+      "p_votes": 0.1,
+      "seats": 3
+    },
+    {
+      "party_name": "People's Alliance",
+      "party_code": "PA",
+      "votes": 3203,
+      "p_votes": 0.07,
+      "seats": 3
+    },
+    {
+      "party_name": "Sarvajana Balaya",
+      "party_code": "SB",
+      "votes": 1829,
+      "p_votes": 0.04,
+      "seats": 1
+    },
+    {
+      "party_name": "People's Struggle Alliance",
+      "party_code": "PSA",
+      "votes": 680,
+      "p_votes": 0.02,
+      "seats": 1
+    }
+  ]
+}
