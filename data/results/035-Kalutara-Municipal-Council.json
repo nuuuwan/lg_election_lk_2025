@@ -1,0 +1,95 @@
+{
+  "district_name": "Kalutara",
+  "lg_code": "035",
+  "lg_name": "Kalutara Municipal Council",
+  "time_str": "2025-05-07 01:07:00",
+  "time_ut": 1746560220.0,
+  "summary_data": {
+    "electors": 56280,
+    "polled": 36090,
+    "valid": 35548,
+    "rejected": 542,
+    "p_turnout": 0.64,
+    "p_valid": 0.98,
+    "p_rejected": 0.02
+  },
+  "party_result_data_list": [
+    {
+      "party_name": "Jathika Jana Balawegaya",
+      "party_code": "NPP",
+      "votes": 13945,
+      "p_votes": 0.39,
+      "seats": 12
+    },
+    {
+      "party_name": "Samagi Jana Balawegaya",
+      "party_code": "SJB",
+      "votes": 9290,
+      "p_votes": 0.26,
+      "seats": 8
+    },
+    {
+      "party_name": "Sri Lanka Muslim Congress",
+      "party_code": "SLMC",
+      "votes": 3562,
+      "p_votes": 0.1,
+      "seats": 3
+    },
+    {
+      "party_name": "United National Party",
+      "party_code": "UNP",
+      "votes": 3048,
+      "p_votes": 0.09,
+      "seats": 3
+    },
+    {
+      "party_name": "Sri Lanka Podujana Peramuna",
+      "party_code": "SLPP",
+      "votes": 1550,
+      "p_votes": 0.04,
+      "seats": 1
+    },
+    {
+      "party_name": "People's Alliance",
+      "party_code": "PA",
+      "votes": 1417,
+      "p_votes": 0.04,
+      "seats": 1
+    },
+    {
+      "party_name": "National Freedom Front",
+      "party_code": "NFF",
+      "votes": 905,
+      "p_votes": 0.03,
+      "seats": 1
+    },
+    {
+      "party_name": "Independent Group",
+      "party_code": "IND1",
+      "votes": 857,
+      "p_votes": 0.02,
+      "seats": 1
+    },
+    {
+      "party_name": "Sarvajana Balaya",
+      "party_code": "SB",
+      "votes": 574,
+      "p_votes": 0.02,
+      "seats": 1
+    },
+    {
+      "party_name": "People's Struggle Alliance",
+      "party_code": "PSA",
+      "votes": 293,
+      "p_votes": 0.01,
+      "seats": 0
+    },
+    {
+      "party_name": "Nawa Lanka Nidahas Pakshaya",
+      "party_code": "NLNP",
+      "votes": 107,
+      "p_votes": 0.0,
+      "seats": 0
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "district_name": "Nuwaraeliya",
+  "lg_code": "087",
+  "lg_name": "Thalawakele Lindula Urban Council",
+  "time_str": "2025-05-07 01:04:00",
+  "time_ut": 1746560040.0,
+  "summary_data": {
+    "electors": 4319,
+    "polled": 3209,
+    "valid": 3171,
+    "rejected": 38,
+    "p_turnout": 0.74,
+    "p_valid": 0.99,
+    "p_rejected": 0.01
+  },
+  "party_result_data_list": [
+    {
+      "party_name": "Up-Country People's Front",
+      "party_code": "UCPF",
+      "votes": 1023,
+      "p_votes": 0.32,
+      "seats": 3
+    },
+    {
+      "party_name": "Jathika Jana Balawegaya",
+      "party_code": "NPP",
+      "votes": 866,
+      "p_votes": 0.27,
+      "seats": 4
+    },
+    {
+      "party_name": "Samagi Jana Balawegaya",
+      "party_code": "SJB",
+      "votes": 610,
+      "p_votes": 0.19,
+      "seats": 2
+    },
+    {
+      "party_name": "Ceylon Worker's Congress (P. Wing)",
+      "party_code": "CWC",
+      "votes": 476,
+      "p_votes": 0.15,
+      "seats": 2
+    },
+    {
+      "party_name": "Sri Lanka Podujana Peramuna",
+      "party_code": "SLPP",
+      "votes": 159,
+      "p_votes": 0.05,
+      "seats": 1
+    },
+    {
+      "party_name": "Democratic National Alliance",
+      "party_code": "DNA",
+      "votes": 37,
+      "p_votes": 0.01,
+      "seats": 0
+    }
+  ]
+}
