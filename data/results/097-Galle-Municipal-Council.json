@@ -1,0 +1,60 @@
+{
+  "district_name": "Galle",
+  "lg_code": "097",
+  "lg_name": "Galle Municipal Council",
+  "time_str": "2025-05-07 01:35:00",
+  "time_ut": 1746561900.0,
+  "summary_data": {
+    "electors": 75429,
+    "polled": 46488,
+    "valid": 45717,
+    "rejected": 771,
+    "p_turnout": 0.62,
+    "p_valid": 0.98,
+    "p_rejected": 0.02
+  },
+  "party_result_data_list": [
+    {
+      "party_name": "Jathika Jana Balawegaya",
+      "party_code": "NPP",
+      "votes": 20330,
+      "p_votes": 0.44,
+      "seats": 17
+    },
+    {
+      "party_name": "Samagi Jana Balawegaya",
+      "party_code": "SJB",
+      "votes": 12308,
+      "p_votes": 0.27,
+      "seats": 9
+    },
+    {
+      "party_name": "United National Party",
+      "party_code": "UNP",
+      "votes": 7106,
+      "p_votes": 0.16,
+      "seats": 5
+    },
+    {
+      "party_name": "Sri Lanka Podujana Peramuna",
+      "party_code": "SLPP",
+      "votes": 3725,
+      "p_votes": 0.08,
+      "seats": 3
+    },
+    {
+      "party_name": "People's Alliance",
+      "party_code": "PA",
+      "votes": 1887,
+      "p_votes": 0.04,
+      "seats": 2
+    },
+    {
+      "party_name": "People's Struggle Alliance",
+      "party_code": "PSA",
+      "votes": 361,
+      "p_votes": 0.01,
+      "seats": 0
+    }
+  ]
+}
