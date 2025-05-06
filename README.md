@@ -1,6 +1,6 @@
 # Sri Lankan Local Government Elections - 2025 🇱🇰
 
-As of 2025-05-07 03:56:21
+As of 2025-05-07 04:06:46
 
 *Scraped from [results.elections.gov.lk](https://results.elections.gov.lk)*
 
@@ -8,22 +8,22 @@ As of 2025-05-07 03:56:21
 
 | Results Released | % Released (By Votes) |
 |--:|--:|
-|95/339|20.47%|
+|97/339|21.06%|
 
 ## Islandwide (Top 10 by Votes)
 
 | Party | Votes | %  | Seats | % | Wins | ≥½ ✔️ |
 |---|--:|--:|--:|--:|--:|--:|
-|🔴Jathika Jana Balawegaya|898,734|42%|899|43%|75|37|
-|🟢Samagi Jana Balawegaya|439,490|20%|386|18%|3||
-|🟣Sri Lanka Podujana Peramuna|203,638|9%|182|9%|||
-|🟩United National Party|110,430|5%|98|5%|||
-|🟦People's Alliance|87,475|4%|79|4%|||
-|🟡Ilankai Tamil Arasu Kadchi|87,470|4%|127|6%|15|4|
+|🔴Jathika Jana Balawegaya|916,670|41%|918|42%|76|37|
+|🟢Samagi Jana Balawegaya|445,598|20%|391|18%|3||
+|🟣Sri Lanka Podujana Peramuna|205,510|9%|184|9%|||
+|🟩United National Party|112,007|5%|99|5%|||
+|🟡Ilankai Tamil Arasu Kadchi|97,351|4%|138|6%|16|4|
+|🟦People's Alliance|89,292|4%|80|4%|||
 |🔵Sarvajana Balaya|51,166|2%|45|2%|||
-|⚪Democratic Tamil National Alliance|27,109|1%|35|2%|||
+|⚪Democratic Tamil National Alliance|31,652|1%|40|2%|||
+|⚪All Ceylon Tamil Congress|28,260|1%|45|2%|2||
 |⚪Ceylon Worker's Congress (P. Wing)|23,508|1%|20|1%|1||
-|⚪All Ceylon Tamil Congress|23,213|1%|40|2%|2||
 
 ## Results by Local Authority
 
@@ -77,6 +77,7 @@ As of 2025-05-07 03:56:21
 | `101` | 🏡Ambalangoda PS (22) |**🔴JJB (11)✔️**|🟢SJB (5)|🟣SLPP (3)| Others (3) |[...](https://results.elections.gov.lk/?page=lg_result&district=GALLE&lg_code=101&lg_name=AMBALANGODA-PRADESHIYA-SABHA)|
 | `102` | 🏡Welivitiya Divithura PS (15) |🔴JJB (7)|🟢SJB (4)|🟣SLPP (2)| Others (2) |[...](https://results.elections.gov.lk/?page=lg_result&district=GALLE&lg_code=102&lg_name=WELIVITIYA-DIVITHURA-PRADESHIYA-SABHA)|
 | `103` | 🏡Karandeniya PS (21) |**🔴JJB (12)✔️**|🟢SJB (3)|🟣SLPP (3)| Others (3) |[...](https://results.elections.gov.lk/?page=lg_result&district=GALLE&lg_code=103&lg_name=KARANDENIYA-PRADESHIYA-SABHA)|
+| `104` | 🏡Bentota PS (23) |🔴JJB (10)|🟢SJB (5)|⚫IG2 `104` (2)| Others (6) |[...](https://results.elections.gov.lk/?page=lg_result&district=GALLE&lg_code=104&lg_name=BENTOTA-PRADESHIYA-SABHA)|
 | `106` | 🏡Neluwa PS (16) |🔴JJB (6)|🟢SJB (5)|🟣SLPP (3)| Others (2) |[...](https://results.elections.gov.lk/?page=lg_result&district=GALLE&lg_code=106&lg_name=NELUWA-PRADESHIYA-SABHA)|
 | `107` | 🏡Thawalama PS (20) |**🔴JJB (10)✔️**|🟢SJB (4)|🟣SLPP (3)| Others (3) |[...](https://results.elections.gov.lk/?page=lg_result&district=GALLE&lg_code=107&lg_name=THAWALAMA-PRADESHIYA-SABHA)|
 | `109` | 🏡Niyagama PS (18) |**🔴JJB (9)✔️**|🟢SJB (4)|🟣SLPP (3)| Others (2) |[...](https://results.elections.gov.lk/?page=lg_result&district=GALLE&lg_code=109&lg_name=NIYAGAMA-PRADESHIYA-SABHA)|
@@ -116,6 +117,7 @@ As of 2025-05-07 03:56:21
 | `147` | 🏢Valvettithurai UC (16) |⚪ACTC (7)|🟡ITAK (5)|🔴JJB (3)| Others (1) |[...](https://results.elections.gov.lk/?page=lg_result&district=JAFFNA&lg_code=147&lg_name=VALVETTITHURAI-URBAN-COUNCIL)|
 | `149` | 🏢Chavakachcheri UC (18) |⚪ACTC (6)|🟡ITAK (6)🟰|🔴JJB (3)| Others (3) |[...](https://results.elections.gov.lk/?page=lg_result&district=JAFFNA&lg_code=149&lg_name=CHAVAKACHCHERI-URBAN-COUNCIL)|
 | `153` | 🏡Velanai PS (22) |🟡ITAK (8)|🔴JJB (4)|⚪EPDP (3)| Others (7) |[...](https://results.elections.gov.lk/?page=lg_result&district=JAFFNA&lg_code=153&lg_name=VELANAI-PRADESHIYA-SABHA)|
+| `158` | 🏡Walikamam East PS (36) |🟡ITAK (11)|🔴JJB (9)|⚪ACTC (5)| Others (11) |[...](https://results.elections.gov.lk/?page=lg_result&district=JAFFNA&lg_code=158&lg_name=WALIKAMAM-EAST-PRADESHIYA-SABHA)|
 
 ### Kilinochchi
 

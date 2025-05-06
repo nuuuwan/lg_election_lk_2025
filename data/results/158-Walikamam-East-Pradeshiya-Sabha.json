@@ -1,0 +1,82 @@
+{
+  "district_name": "Jaffna",
+  "lg_code": "158",
+  "lg_name": "Walikamam East Pradeshiya Sabha",
+  "url": "https://results.elections.gov.lk/?page=lg_result&district=JAFFNA&lg_code=158&lg_name=WALIKAMAM-EAST-PRADESHIYA-SABHA",
+  "time_str": "2025-05-07 03:52:00",
+  "time_ut": 1746570120.0,
+  "summary_data": {
+    "electors": 60074,
+    "polled": 33271,
+    "valid": 32564,
+    "rejected": 707,
+    "p_turnout": 0.55,
+    "p_valid": 0.98,
+    "p_rejected": 0.02
+  },
+  "party_result_data_list": [
+    {
+      "party_name": "Ilankai Tamil Arasu Kadchi",
+      "party_code": "ITAK",
+      "votes": 9881,
+      "p_votes": 0.3,
+      "seats": 11
+    },
+    {
+      "party_name": "Jathika Jana Balawegaya",
+      "party_code": "NPP",
+      "votes": 7908,
+      "p_votes": 0.24,
+      "seats": 9
+    },
+    {
+      "party_name": "All Ceylon Tamil Congress",
+      "party_code": "ACTC",
+      "votes": 5047,
+      "p_votes": 0.15,
+      "seats": 5
+    },
+    {
+      "party_name": "Democratic Tamil National Alliance",
+      "party_code": "DTNA",
+      "votes": 4543,
+      "p_votes": 0.14,
+      "seats": 5
+    },
+    {
+      "party_name": "Independent Group 1",
+      "party_code": "IND1",
+      "votes": 1910,
+      "p_votes": 0.06,
+      "seats": 2
+    },
+    {
+      "party_name": "Thamizh Makkal Koottani",
+      "party_code": "TMK",
+      "votes": 1662,
+      "p_votes": 0.05,
+      "seats": 2
+    },
+    {
+      "party_name": "Eelam People's Democratic Party",
+      "party_code": "EPDP",
+      "votes": 946,
+      "p_votes": 0.03,
+      "seats": 1
+    },
+    {
+      "party_name": "Independent Group 2",
+      "party_code": "IND2",
+      "votes": 531,
+      "p_votes": 0.02,
+      "seats": 1
+    },
+    {
+      "party_name": "United National Party",
+      "party_code": "UNP",
+      "votes": 136,
+      "p_votes": 0.0,
+      "seats": 0
+    }
+  ]
+}
