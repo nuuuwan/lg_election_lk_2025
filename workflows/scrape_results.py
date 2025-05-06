@@ -8,7 +8,7 @@ def main():
 
     for url in results_url_list:
         result_page = ResultPage(url, driver)
-        result_page.scrape_and_save()
+        result_page.scrape_and_save(force_parse=False)
 
     WebPage.close_driver(driver)
 

@@ -239,8 +239,8 @@ class OverallReport:
                         "",
                         f"### {district_name}",
                         "",
-                        "|  |  |  |  |  |",
-                        "|---|---|---|---|---|",
+                        "|  |  |  |  |  |  |",
+                        "|---|---|---|---|---|---|",
                     ]
                 )
                 prev_district_name = district_name
@@ -269,6 +269,8 @@ class OverallReport:
                 if is_majority:
                     cell = f"**{cell}✔️**"
                 line += cell + "|"
+            url = result["url"]
+            line += f"[...]({url})|"
             lines.append(line)
         lines.extend(
             [
