@@ -1,5 +1,6 @@
 from selenium.webdriver.common.by import By
 from utils import Log
+
 from lg_election_lk_2025.pages.WebPage import WebPage
 
 log = Log("HomePage")
@@ -29,14 +30,3 @@ class HomePage(WebPage):
 
         log.info(f"Found {len(results_url_list)} results")
         return results_url_list
-
-
-def main():
-    home_page = HomePage()
-    home_page.open()
-    home_page.get_results_url_list()
-    home_page.close()
-
-
-if __name__ == "__main__":
-    main()

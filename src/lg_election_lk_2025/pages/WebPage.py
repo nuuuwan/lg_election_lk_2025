@@ -1,6 +1,6 @@
 import time
-from selenium import webdriver
 
+from selenium import webdriver
 from utils import Log
 
 log = Log("WebPage")
