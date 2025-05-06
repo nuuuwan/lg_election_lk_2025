@@ -1,0 +1,68 @@
+{
+  "district_name": "Batticaloa",
+  "lg_code": "189",
+  "lg_name": "Manmunai West Pradeshiya Sabha",
+  "url": "https://results.elections.gov.lk/?page=lg_result&district=BATTICALOA&lg_code=189&lg_name=MANMUNAI-WEST-PRADESHIYA-SABHA",
+  "time_str": "2025-05-07 05:01:00",
+  "time_ut": 1746574260.0,
+  "summary_data": {
+    "electors": 25723,
+    "polled": 16185,
+    "valid": 15893,
+    "rejected": 292,
+    "p_turnout": 0.63,
+    "p_valid": 0.98,
+    "p_rejected": 0.02
+  },
+  "party_result_data_list": [
+    {
+      "party_name": "Ilankai Tamil Arasu Kadchi",
+      "party_code": "ITAK",
+      "votes": 7400,
+      "p_votes": 0.47,
+      "seats": 10
+    },
+    {
+      "party_name": "Thamil Makkal Viduthalai Pulikal",
+      "party_code": "TMVP",
+      "votes": 2630,
+      "p_votes": 0.17,
+      "seats": 3
+    },
+    {
+      "party_name": "Jathika Jana Balawegaya",
+      "party_code": "NPP",
+      "votes": 2497,
+      "p_votes": 0.16,
+      "seats": 3
+    },
+    {
+      "party_name": "Democratic Tamil National Alliance",
+      "party_code": "DTNA",
+      "votes": 1217,
+      "p_votes": 0.08,
+      "seats": 1
+    },
+    {
+      "party_name": "All Ceylon Tamil Congress",
+      "party_code": "ACTC",
+      "votes": 1002,
+      "p_votes": 0.06,
+      "seats": 1
+    },
+    {
+      "party_name": "Samagi Jana Balawegaya",
+      "party_code": "SJB",
+      "votes": 963,
+      "p_votes": 0.06,
+      "seats": 1
+    },
+    {
+      "party_name": "Eelam People's Democratic Party",
+      "party_code": "EPDP",
+      "votes": 184,
+      "p_votes": 0.01,
+      "seats": 0
+    }
+  ]
+}

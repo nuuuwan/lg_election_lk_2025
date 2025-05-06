@@ -1,6 +1,6 @@
 # Sri Lankan Local Government Elections - 2025 🇱🇰
 
-As of 2025-05-07 05:08:26
+As of 2025-05-07 05:15:17
 
 *Scraped from [results.elections.gov.lk](https://results.elections.gov.lk)*
 
@@ -8,22 +8,22 @@ As of 2025-05-07 05:08:26
 
 | Results Released | % Released (By Votes) |
 |--:|--:|
-|125/339|30.42%|
+|128/339|30.82%|
 
 ## Islandwide (Top 10 by Votes)
 
 | Party | Votes | %  | Seats | % | Wins | ≥½ ✔️ |
 |---|--:|--:|--:|--:|--:|--:|
-|🔴Jathika Jana Balawegaya|1,345,253|42%|1,253|43%|98|49|
-|🟢Samagi Jana Balawegaya|637,678|20%|533|18%|4||
-|🟣Sri Lanka Podujana Peramuna|304,964|10%|253|9%|||
-|🟩United National Party|158,413|5%|129|4%|||
-|🟡Ilankai Tamil Arasu Kadchi|124,879|4%|174|6%|20|4|
-|🟦People's Alliance|117,332|4%|102|4%|||
-|🔵Sarvajana Balaya|77,092|2%|63|2%|||
-|⚪Democratic Tamil National Alliance|40,321|1%|50|2%|||
-|⚪Sri Lanka Muslim Congress|36,200|1%|33|1%|1||
-|⚪All Ceylon Tamil Congress|32,515|1%|52|2%|2||
+|🔴Jathika Jana Balawegaya|1,360,745|42%|1,271|43%|100|49|
+|🟢Samagi Jana Balawegaya|646,406|20%|541|18%|4||
+|🟣Sri Lanka Podujana Peramuna|307,026|9%|255|9%|||
+|🟩United National Party|159,330|5%|130|4%|||
+|🟡Ilankai Tamil Arasu Kadchi|132,983|4%|185|6%|21|5|
+|🟦People's Alliance|119,831|4%|104|4%|||
+|🔵Sarvajana Balaya|78,585|2%|65|2%|||
+|⚪Democratic Tamil National Alliance|41,538|1%|51|2%|||
+|⚪Sri Lanka Muslim Congress|36,609|1%|34|1%|1||
+|⚪All Ceylon Tamil Congress|33,517|1%|53|2%|2||
 
 ## Results by Local Authority
 
@@ -161,6 +161,12 @@ As of 2025-05-07 05:08:26
 | `178` | 🏡Puthukkudiyiruppu PS (22) |**🟡ITAK (11)✔️**|🔴JJB (4)|⚪DTNA (2)| Others (5) |[...](https://results.elections.gov.lk/?page=lg_result&district=MULLAITIVU&lg_code=178&lg_name=PUTHUKKUDIYIRUPPU-PRADESHIYA-SABHA)|
 | `179` | 🏡Maritime Pattu PS (21) |🟡ITAK (7)|🔴JJB (5)|⚪DTNA (4)| Others (5) |[...](https://results.elections.gov.lk/?page=lg_result&district=MULLAITIVU&lg_code=179&lg_name=MARITIME-PATTU-PRADESHIYA-SABHA)|
 
+### Batticaloa
+
+|  |  |  |  |  |  |  |
+|---|---|---|---|---|---|---|
+| `189` | 🏡Manmunai West PS (19) |**🟡ITAK (10)✔️**|⚪TMVP (3)|🔴JJB (3)| Others (3) |[...](https://results.elections.gov.lk/?page=lg_result&district=BATTICALOA&lg_code=189&lg_name=MANMUNAI-WEST-PRADESHIYA-SABHA)|
+
 ### Ampara
 
 |  |  |  |  |  |  |  |
@@ -184,6 +190,7 @@ As of 2025-05-07 05:08:26
 |  |  |  |  |  |  |  |
 |---|---|---|---|---|---|---|
 | `214` | 🏡Verugal PS (13) |**🟡ITAK (8)✔️**|🔴JJB (3)|🟢SJB (2)| Others (0) |[...](https://results.elections.gov.lk/?page=lg_result&district=TRINCOMALEE&lg_code=214&lg_name=VERUGAL-PRADESHIYA-SABHA)|
+| `215` | 🏡Seruwila PS (16) |🔴JJB (7)|🟢SJB (3)|🟡ITAK (1)| Others (5) |[...](https://results.elections.gov.lk/?page=lg_result&district=TRINCOMALEE&lg_code=215&lg_name=SERUWILA-PRADESHIYA-SABHA)|
 | `216` | 🏡Kanthale PS (21) |🔴JJB (10)|🟢SJB (6)|🟣SLPP (2)| Others (3) |[...](https://results.elections.gov.lk/?page=lg_result&district=TRINCOMALEE&lg_code=216&lg_name=KANTHALE-PRADESHIYA-SABHA)|
 | `217` | 🏡Morawewa PS (17) |**🔴JJB (9)✔️**|🟣SLPP (3)|🟢SJB (3)| Others (2) |[...](https://results.elections.gov.lk/?page=lg_result&district=TRINCOMALEE&lg_code=217&lg_name=MORAWEWA-PRADESHIYA-SABHA)|
 | `219` | 🏡Padavi Sri Pura PS (17) |**🔴JJB (9)✔️**|🟢SJB (3)|🟣SLPP (2)| Others (3) |[...](https://results.elections.gov.lk/?page=lg_result&district=TRINCOMALEE&lg_code=219&lg_name=PADAVI-SRI-PURA-PRADESHIYA-SABHA)|
@@ -222,6 +229,7 @@ As of 2025-05-07 05:08:26
 
 |  |  |  |  |  |  |  |
 |---|---|---|---|---|---|---|
+| `304` | 🏡Medagama PS (17) |🔴JJB (8)|🟢SJB (4)|🟦PA (2)| Others (3) |[...](https://results.elections.gov.lk/?page=lg_result&district=MONARAGALA&lg_code=304&lg_name=MEDAGAMA-PRADESHIYA-SABHA)|
 | `309` | 🏡Buttala PS (18) |🔴JJB (8)|🟢SJB (6)|🟣SLPP (2)| Others (2) |[...](https://results.elections.gov.lk/?page=lg_result&district=MONARAGALA&lg_code=309&lg_name=BUTTALA-PRADESHIYA-SABHA)|
 | `311` | 🏡Wellawaya PS (26) |**🔴JJB (13)✔️**|🟢SJB (7)|🟣SLPP (3)| Others (3) |[...](https://results.elections.gov.lk/?page=lg_result&district=MONARAGALA&lg_code=311&lg_name=WELLAWAYA-PRADESHIYA-SABHA)|
 

@@ -1,0 +1,75 @@
+{
+  "district_name": "Monaragala",
+  "lg_code": "304",
+  "lg_name": "Medagama Pradeshiya Sabha",
+  "url": "https://results.elections.gov.lk/?page=lg_result&district=MONARAGALA&lg_code=304&lg_name=MEDAGAMA-PRADESHIYA-SABHA",
+  "time_str": "2025-05-07 05:04:00",
+  "time_ut": 1746574440.0,
+  "summary_data": {
+    "electors": 33055,
+    "polled": 22841,
+    "valid": 22346,
+    "rejected": 495,
+    "p_turnout": 0.69,
+    "p_valid": 0.98,
+    "p_rejected": 0.02
+  },
+  "party_result_data_list": [
+    {
+      "party_name": "Jathika Jana Balawegaya",
+      "party_code": "NPP",
+      "votes": 9556,
+      "p_votes": 0.43,
+      "seats": 8
+    },
+    {
+      "party_name": "Samagi Jana Balawegaya",
+      "party_code": "SJB",
+      "votes": 6421,
+      "p_votes": 0.29,
+      "seats": 4
+    },
+    {
+      "party_name": "People's Alliance",
+      "party_code": "PA",
+      "votes": 2499,
+      "p_votes": 0.11,
+      "seats": 2
+    },
+    {
+      "party_name": "Sri Lanka Podujana Peramuna",
+      "party_code": "SLPP",
+      "votes": 1519,
+      "p_votes": 0.07,
+      "seats": 1
+    },
+    {
+      "party_name": "Sarvajana Balaya",
+      "party_code": "SB",
+      "votes": 953,
+      "p_votes": 0.04,
+      "seats": 1
+    },
+    {
+      "party_name": "United National Party",
+      "party_code": "UNP",
+      "votes": 917,
+      "p_votes": 0.04,
+      "seats": 1
+    },
+    {
+      "party_name": "National Freedom Front",
+      "party_code": "NFF",
+      "votes": 393,
+      "p_votes": 0.02,
+      "seats": 0
+    },
+    {
+      "party_name": "People's Struggle Alliance",
+      "party_code": "PSA",
+      "votes": 88,
+      "p_votes": 0.0,
+      "seats": 0
+    }
+  ]
+}
