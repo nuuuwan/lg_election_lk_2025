@@ -1,0 +1,96 @@
+{
+  "district_name": "Ratnapura",
+  "lg_code": "316",
+  "lg_name": "Eheliyagoda Pradeshiya Sabha",
+  "url": "https://results.elections.gov.lk/?page=lg_result&district=RATNAPURA&lg_code=316&lg_name=EHELIYAGODA-PRADESHIYA-SABHA",
+  "time_str": "2025-05-07 02:30:00",
+  "time_ut": 1746565200.0,
+  "summary_data": {
+    "electors": 60330,
+    "polled": 37061,
+    "valid": 36262,
+    "rejected": 799,
+    "p_turnout": 0.61,
+    "p_valid": 0.98,
+    "p_rejected": 0.02
+  },
+  "party_result_data_list": [
+    {
+      "party_name": "Jathika Jana Balawegaya",
+      "party_code": "NPP",
+      "votes": 15449,
+      "p_votes": 0.43,
+      "seats": 18
+    },
+    {
+      "party_name": "Samagi Jana Balawegaya",
+      "party_code": "SJB",
+      "votes": 6081,
+      "p_votes": 0.17,
+      "seats": 5
+    },
+    {
+      "party_name": "Sri Lanka Podujana Peramuna",
+      "party_code": "SLPP",
+      "votes": 3969,
+      "p_votes": 0.11,
+      "seats": 3
+    },
+    {
+      "party_name": "People's Alliance",
+      "party_code": "PA",
+      "votes": 3260,
+      "p_votes": 0.09,
+      "seats": 3
+    },
+    {
+      "party_name": "United National Party",
+      "party_code": "UNP",
+      "votes": 1957,
+      "p_votes": 0.05,
+      "seats": 2
+    },
+    {
+      "party_name": "Sri Lanka Mahajana Pakshaya",
+      "party_code": "SLMP",
+      "votes": 1692,
+      "p_votes": 0.05,
+      "seats": 2
+    },
+    {
+      "party_name": "Sarvajana Balaya",
+      "party_code": "SB",
+      "votes": 1323,
+      "p_votes": 0.04,
+      "seats": 1
+    },
+    {
+      "party_name": "Independent Group",
+      "party_code": "IND1",
+      "votes": 1157,
+      "p_votes": 0.03,
+      "seats": 1
+    },
+    {
+      "party_name": "Democratic Left Front",
+      "party_code": "DLF",
+      "votes": 786,
+      "p_votes": 0.02,
+      "seats": 1
+    },
+    {
+      "party_name": "Liberal Democratic Party",
+      "party_code": "LDP",
+      "votes": 296,
+      "p_votes": 0.01,
+      "seats": 0
+    },
+    {
+      "party_name": "National Freedom Front",
+      "party_code": "NFF",
+      "votes": 292,
+      "p_votes": 0.01,
+      "seats": 0
+    }
+  ]
+}

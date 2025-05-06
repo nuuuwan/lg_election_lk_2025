@@ -1,0 +1,61 @@
+{
+  "district_name": "Galle",
+  "lg_code": "100",
+  "lg_name": "Balapitiya Pradeshiya Sabha",
+  "url": "https://results.elections.gov.lk/?page=lg_result&district=GALLE&lg_code=100&lg_name=BALAPITIYA-PRADESHIYA-SABHA",
+  "time_str": "2025-05-07 02:34:00",
+  "time_ut": 1746565440.0,
+  "summary_data": {
+    "electors": 57861,
+    "polled": 35323,
+    "valid": 34775,
+    "rejected": 548,
+    "p_turnout": 0.61,
+    "p_valid": 0.98,
+    "p_rejected": 0.02
+  },
+  "party_result_data_list": [
+    {
+      "party_name": "Jathika Jana Balawegaya",
+      "party_code": "NPP",
+      "votes": 15278,
+      "p_votes": 0.44,
+      "seats": 16
+    },
+    {
+      "party_name": "Sri Lanka Podujana Peramuna",
+      "party_code": "SLPP",
+      "votes": 6539,
+      "p_votes": 0.19,
+      "seats": 6
+    },
+    {
+      "party_name": "Samagi Jana Balawegaya",
+      "party_code": "SJB",
+      "votes": 5518,
+      "p_votes": 0.16,
+      "seats": 5
+    },
+    {
+      "party_name": "United National Party",
+      "party_code": "UNP",
+      "votes": 4137,
+      "p_votes": 0.12,
+      "seats": 4
+    },
+    {
+      "party_name": "Communist Party of Sri Lanka",
+      "party_code": "SLCP",
+      "votes": 2218,
+      "p_votes": 0.06,
+      "seats": 2
+    },
+    {
+      "party_name": "People's Alliance",
+      "party_code": "PA",
+      "votes": 1085,
+      "p_votes": 0.03,
+      "seats": 1
+    }
+  ]
+}
