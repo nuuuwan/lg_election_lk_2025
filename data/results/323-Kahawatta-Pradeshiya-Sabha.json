@@ -1,0 +1,82 @@
+{
+  "district_name": "Ratnapura",
+  "lg_code": "323",
+  "lg_name": "Kahawatta Pradeshiya Sabha",
+  "url": "https://results.elections.gov.lk/?page=lg_result&district=RATNAPURA&lg_code=323&lg_name=KAHAWATTA-PRADESHIYA-SABHA",
+  "time_str": "2025-05-07 05:22:00",
+  "time_ut": 1746575520.0,
+  "summary_data": {
+    "electors": 35865,
+    "polled": 21842,
+    "valid": 21307,
+    "rejected": 535,
+    "p_turnout": 0.61,
+    "p_valid": 0.98,
+    "p_rejected": 0.02
+  },
+  "party_result_data_list": [
+    {
+      "party_name": "Jathika Jana Balawegaya",
+      "party_code": "NPP",
+      "votes": 7431,
+      "p_votes": 0.35,
+      "seats": 6
+    },
+    {
+      "party_name": "Samagi Jana Balawegaya",
+      "party_code": "SJB",
+      "votes": 5621,
+      "p_votes": 0.26,
+      "seats": 4
+    },
+    {
+      "party_name": "Sri Lanka Podujana Peramuna",
+      "party_code": "SLPP",
+      "votes": 3089,
+      "p_votes": 0.14,
+      "seats": 2
+    },
+    {
+      "party_name": "United National Party",
+      "party_code": "UNP",
+      "votes": 1588,
+      "p_votes": 0.07,
+      "seats": 1
+    },
+    {
+      "party_name": "Democratic Peoples Front",
+      "party_code": "DPF",
+      "votes": 1352,
+      "p_votes": 0.06,
+      "seats": 1
+    },
+    {
+      "party_name": "People's Alliance",
+      "party_code": "PA",
+      "votes": 1098,
+      "p_votes": 0.05,
+      "seats": 1
+    },
+    {
+      "party_name": "Ceylon Worker's Congress (P. Wing)",
+      "party_code": "CWC",
+      "votes": 583,
+      "p_votes": 0.03,
+      "seats": 1
+    },
+    {
+      "party_name": "Sarvajana Balaya",
+      "party_code": "SB",
+      "votes": 419,
+      "p_votes": 0.02,
+      "seats": 0
+    },
+    {
+      "party_name": "People's Struggle Alliance",
+      "party_code": "PSA",
+      "votes": 126,
+      "p_votes": 0.01,
+      "seats": 0
+    }
+  ]
+}

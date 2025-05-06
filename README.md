@@ -1,6 +1,6 @@
 # Sri Lankan Local Government Elections - 2025 🇱🇰
 
-As of 2025-05-07 05:22:07
+As of 2025-05-07 05:28:45
 
 *Scraped from [results.elections.gov.lk](https://results.elections.gov.lk)*
 
@@ -8,18 +8,18 @@ As of 2025-05-07 05:22:07
 
 | Results Released | % Released (By Votes) |
 |--:|--:|
-|131/339|31.47%|
+|133/339|32.03%|
 
 ## Islandwide (Top 10 by Votes)
 
 | Party | Votes | %  | Seats | % | Wins | ≥½ ✔️ |
 |---|--:|--:|--:|--:|--:|--:|
-|🔴Jathika Jana Balawegaya|1,389,051|42%|1,304|43%|102|49|
-|🟢Samagi Jana Balawegaya|661,041|20%|554|18%|4||
-|🟣Sri Lanka Podujana Peramuna|315,528|10%|263|9%|||
-|🟩United National Party|162,407|5%|133|4%|||
+|🔴Jathika Jana Balawegaya|1,411,130|42%|1,326|43%|104|49|
+|🟢Samagi Jana Balawegaya|676,394|20%|567|18%|4||
+|🟣Sri Lanka Podujana Peramuna|325,468|10%|271|9%|||
+|🟩United National Party|166,219|5%|136|4%|||
 |🟡Ilankai Tamil Arasu Kadchi|133,957|4%|191|6%|22|5|
-|🟦People's Alliance|123,388|4%|108|4%|||
+|🟦People's Alliance|127,360|4%|112|4%|||
 |🔵Sarvajana Balaya|81,358|2%|68|2%|||
 |⚪Democratic Tamil National Alliance|41,538|1%|51|2%|||
 |⚪Sri Lanka Muslim Congress|36,609|1%|34|1%|1||
@@ -243,8 +243,10 @@ As of 2025-05-07 05:22:07
 | `313` | 🏛️Ratnapura MC (27) |🔴JJB (12)|🟢SJB (5)|🟣SLPP (5)| Others (5) |[...](https://results.elections.gov.lk/?page=lg_result&district=RATNAPURA&lg_code=313&lg_name=RATNAPURA-MUNICIPAL-COUNCIL)|
 | `314` | 🏢Balangoda UC (16) |🔴JJB (7)|🟢SJB (5)|🟣SLPP (2)| Others (2) |[...](https://results.elections.gov.lk/?page=lg_result&district=RATNAPURA&lg_code=314&lg_name=BALANGODA-URBAN-COUNCIL)|
 | `316` | 🏡Eheliyagoda PS (36) |**🔴JJB (18)✔️**|🟢SJB (5)|🟣SLPP (3)| Others (10) |[...](https://results.elections.gov.lk/?page=lg_result&district=RATNAPURA&lg_code=316&lg_name=EHELIYAGODA-PRADESHIYA-SABHA)|
+| `317` | 🏡Ratnapura PS (39) |🔴JJB (16)|🟢SJB (9)|🟣SLPP (6)| Others (8) |[...](https://results.elections.gov.lk/?page=lg_result&district=RATNAPURA&lg_code=317&lg_name=RATNAPURA-PRADESHIYA-SABHA)|
 | `318` | 🏡Kuruwita PS (46) |🔴JJB (20)|🟢SJB (10)|🟣SLPP (6)| Others (10) |[...](https://results.elections.gov.lk/?page=lg_result&district=RATNAPURA&lg_code=318&lg_name=KURUWITA-PRADESHIYA-SABHA)|
 | `319` | 🏡Pelmadulla PS (37) |🔴JJB (16)|🟢SJB (11)|🟣SLPP (5)| Others (5) |[...](https://results.elections.gov.lk/?page=lg_result&district=RATNAPURA&lg_code=319&lg_name=PELMADULLA-PRADESHIYA-SABHA)|
+| `323` | 🏡Kahawatta PS (16) |🔴JJB (6)|🟢SJB (4)|🟣SLPP (2)| Others (4) |[...](https://results.elections.gov.lk/?page=lg_result&district=RATNAPURA&lg_code=323&lg_name=KAHAWATTA-PRADESHIYA-SABHA)|
 | `327` | 🏡Kalawana PS (19) |**🔴JJB (10)✔️**|🟢SJB (3)|🟣SLPP (2)| Others (4) |[...](https://results.elections.gov.lk/?page=lg_result&district=RATNAPURA&lg_code=327&lg_name=KALAWANA-PRADESHIYA-SABHA)|
 
 ### Kegalle
