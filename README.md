@@ -1,6 +1,6 @@
 # Sri Lankan Local Government Elections - 2025 🇱🇰
 
-As of 2025-05-07 02:04:18
+As of 2025-05-07 02:09:10
 
 *Scraped from [results.elections.gov.lk](https://results.elections.gov.lk)*
 
@@ -8,29 +8,32 @@ As of 2025-05-07 02:04:18
 
 | Results Released | % Released (By Votes) |
 |--:|--:|
-|43/339|6.83%|
+|44/339|7.46%|
 
 ## Islandwide
 
 | Party | Votes | %  | Seats | % | Wins | ≥½ ✔️ |
 |---|--:|--:|--:|--:|--:|--:|
-|🔴Jathika Jana Balawegaya|292,404|40%|355|42%|32|17|
-|🟢Samagi Jana Balawegaya|148,018|20%|159|19%|||
-|🟣Sri Lanka Podujana Peramuna|65,524|9%|70|8%|||
-|🟡Ilankai Tamil Arasu Kadchi|47,466|7%|64|8%|7|4|
-|🟩United National Party|41,154|6%|43|5%|||
-|🟦People's Alliance|30,151|4%|32|4%|||
+|🔴Jathika Jana Balawegaya|318,481|40%|375|42%|33|17|
+|🟢Samagi Jana Balawegaya|163,456|21%|169|19%|||
+|🟣Sri Lanka Podujana Peramuna|74,070|9%|76|9%|||
+|🟡Ilankai Tamil Arasu Kadchi|47,466|6%|64|7%|7|4|
+|🟩United National Party|44,390|6%|45|5%|||
+|🟦People's Alliance|34,442|4%|35|4%|||
 |🔵Sarvajana Balaya|17,071|2%|20|2%|||
 |⚪Democratic Tamil National Alliance|12,880|2%|16|2%|||
 |⚪Sri Lanka Muslim Congress|7,292|1%|8|1%|1||
 |⚪All Ceylon Tamil Congress|6,609|1%|10|1%|||
 |⚪Ceylon Worker's Congress (P. Wing)|4,217|1%|6|1%|||
+|⚫Independent Group 1 `318`|3,366|0%|2|0%|||
+|⚫Independent Group 2 `318`|3,348|0%|2|0%|||
 |⚪National Congress|2,587|0%|6|1%|1|1|
 |⚪Up-Country People's Front|2,558|0%|4|0%|1||
 |⚪All Ceylon Makkal Congress|2,547|0%|4|0%|||
 |⚪National Freedom Front|2,535|0%|3|0%|||
 |⚫Independent Group `178`|2,491|0%|2|0%|||
 |⚫Independent Group `114`|2,217|0%|1|0%|||
+|⚪Democratic Left Front|2,110|0%|1|0%|||
 |⚫Independent Group `085`|1,739|0%|3|0%|||
 |⚫Independent Group `164`|1,664|0%|2|0%|||
 |⚪Eelam People's Democratic Party|1,464|0%|2|0%|||
@@ -161,6 +164,7 @@ As of 2025-05-07 02:04:18
 |---|---|---|---|---|
 | `313` | 🏛️Ratnapura MC (27) |🔴JJB (12)|🟢SJB (5)|🟣SLPP (5)|
 | `314` | 🏢Balangoda UC (16) |🔴JJB (7)|🟢SJB (5)|🟣SLPP (2)|
+| `318` | 🏡Kuruwita PS (46) |🔴JJB (20)|🟢SJB (10)|🟣SLPP (6)|
 
 ### Kegalle
 
