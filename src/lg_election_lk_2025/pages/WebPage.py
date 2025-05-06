@@ -20,14 +20,12 @@ class WebPage:
     def __init__(self, url: str):
         self.url = url
         self.driver = webdriver.Firefox(options=WebPage.get_options())
-        self.wait(5)
-        log.debug("Opened Browser")
 
     def open(self):
         self.driver.get(self.url)
-        log.debug(f"Opened {self.url}")
+        self.wait(5)
+        log.debug(f"🌏 {self.url}")
         return self.driver
 
     def close(self) -> None:
         self.driver.quit()
-        log.debug("Closed Browser")

@@ -25,6 +25,7 @@ class HomePage(WebPage):
             ):
                 a_result = li.find_element(By.XPATH, ".//a")
                 result_url = a_result.get_attribute("href")
+
                 results_url_list.append(result_url)
                 log.debug(f"{len(results_url_list)}) {result_url=}")
 
