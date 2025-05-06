@@ -248,6 +248,9 @@ class OverallReport:
             lg_code = result["lg_code"]
             lg_name = result["lg_name"]
             party_result_data_list = result["party_result_data_list"]
+            party_result_data_list.sort(
+                key=lambda x: (x["seats"], x["votes"]), reverse=True
+            )
             total_seats = sum(
                 party_result_data["seats"]
                 for party_result_data in party_result_data_list
