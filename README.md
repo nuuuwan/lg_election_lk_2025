@@ -1,6 +1,6 @@
 # Sri Lankan Local Government Elections - 2025 🇱🇰
 
-As of 2025-05-07 02:29:46
+As of 2025-05-07 02:31:58
 
 *Scraped from [results.elections.gov.lk](https://results.elections.gov.lk)*
 
@@ -8,20 +8,20 @@ As of 2025-05-07 02:29:46
 
 | Results Released | % Released (By Votes) |
 |--:|--:|
-|50/339|9.45%|
+|52/339|9.72%|
 
 ## Islandwide
 
 | Party | Votes | %  | Seats | % | Wins | ≥½ ✔️ |
 |---|--:|--:|--:|--:|--:|--:|
-|🔴Jathika Jana Balawegaya|414,589|42%|463|44%|39|21|
-|🟢Samagi Jana Balawegaya|207,606|21%|205|19%|||
-|🟣Sri Lanka Podujana Peramuna|98,818|10%|97|9%|||
-|🟩United National Party|58,137|6%|54|5%|||
+|🔴Jathika Jana Balawegaya|427,929|42%|482|44%|41|22|
+|🟢Samagi Jana Balawegaya|213,844|21%|212|19%|||
+|🟣Sri Lanka Podujana Peramuna|101,014|10%|100|9%|||
+|🟩United National Party|58,759|6%|55|5%|||
 |🟡Ilankai Tamil Arasu Kadchi|47,466|5%|64|6%|7|4|
-|🟦People's Alliance|39,969|4%|40|4%|||
-|🔵Sarvajana Balaya|22,022|2%|24|2%|||
-|⚪Democratic Tamil National Alliance|12,880|1%|16|2%|||
+|🟦People's Alliance|43,899|4%|44|4%|||
+|🔵Sarvajana Balaya|23,669|2%|26|2%|||
+|⚪Democratic Tamil National Alliance|12,880|1%|16|1%|||
 |⚪Sri Lanka Muslim Congress|7,292|1%|8|1%|1||
 |⚪All Ceylon Tamil Congress|6,609|1%|10|1%|||
 |⚪Ceylon Worker's Congress (P. Wing)|4,217|0%|6|1%|||
@@ -39,6 +39,7 @@ As of 2025-05-07 02:29:46
 |⚫Independent Group `085`|1,739|0%|3|0%|||
 |⚫Independent Group `164`|1,664|0%|2|0%|||
 |⚪Eelam People's Democratic Party|1,464|0%|2|0%|||
+|⚫Independent Group `295`|1,454|0%|1|0%|||
 |⚪Tamil Progressive Alliance|1,363|0%|2|0%|||
 |⚫Independent Group `313`|1,155|0%|1|0%|||
 |⚫Independent Group 1 `034`|1,131|0%|2|0%|||
@@ -168,8 +169,10 @@ As of 2025-05-07 02:29:46
 |---|---|---|---|---|---|
 | `287` | 🏢Haputhale UC (11) |⚫IG `287` (5)|🔴JJB (4)|🟢SJB (2)|[...](https://results.elections.gov.lk/?page=lg_result&district=BADULLA&lg_code=287&lg_name=HAPUTHALE-URBAN-COUNCIL)|
 | `290` | 🏡Soranathota PS (16) |🔴JJB (6)|🟢SJB (4)|🟦PA (2)|[...](https://results.elections.gov.lk/?page=lg_result&district=BADULLA&lg_code=290&lg_name=SORANATHOTA-PRADESHIYA-SABHA)|
+| `291` | 🏡Meegahakivula PS (19) |🔴JJB (9)|🟢SJB (4)|🟦PA (2)|[...](https://results.elections.gov.lk/?page=lg_result&district=BADULLA&lg_code=291&lg_name=MEEGAHAKIVULA-PRADESHIYA-SABHA)|
 | `292` | 🏡Kandaketiya PS (16) |🔴JJB (6)|🟢SJB (4)|🟣SLPP (2)|[...](https://results.elections.gov.lk/?page=lg_result&district=BADULLA&lg_code=292&lg_name=KANDAKETIYA-PRADESHIYA-SABHA)|
 | `294` | 🏡Lunugala PS (20) |🔴JJB (6)|🟢SJB (5)|🟦PA (3)|[...](https://results.elections.gov.lk/?page=lg_result&district=BADULLA&lg_code=294&lg_name=LUNUGALA-PRADESHIYA-SABHA)|
+| `295` | 🏡Badulla PS (18) |**🔴JJB (10)✔️**|🟢SJB (3)|🟦PA (2)|[...](https://results.elections.gov.lk/?page=lg_result&district=BADULLA&lg_code=295&lg_name=BADULLA-PRADESHIYA-SABHA)|
 | `296` | 🏡Hali Ela PS (46) |**🔴JJB (23)✔️**|🟢SJB (7)|🟦PA (6)|[...](https://results.elections.gov.lk/?page=lg_result&district=BADULLA&lg_code=296&lg_name=HALI-ELA-PRADESHIYA-SABHA)|
 
 ### Ratnapura

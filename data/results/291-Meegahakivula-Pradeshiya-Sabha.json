@@ -1,0 +1,68 @@
+{
+  "district_name": "Badulla",
+  "lg_code": "291",
+  "lg_name": "Meegahakivula Pradeshiya Sabha",
+  "url": "https://results.elections.gov.lk/?page=lg_result&district=BADULLA&lg_code=291&lg_name=MEEGAHAKIVULA-PRADESHIYA-SABHA",
+  "time_str": "2025-05-07 02:25:00",
+  "time_ut": 1746564900.0,
+  "summary_data": {
+    "electors": 17908,
+    "polled": 12058,
+    "valid": 11725,
+    "rejected": 333,
+    "p_turnout": 0.67,
+    "p_valid": 0.97,
+    "p_rejected": 0.03
+  },
+  "party_result_data_list": [
+    {
+      "party_name": "Jathika Jana Balawegaya",
+      "party_code": "NPP",
+      "votes": 4718,
+      "p_votes": 0.4,
+      "seats": 9
+    },
+    {
+      "party_name": "Samagi Jana Balawegaya",
+      "party_code": "SJB",
+      "votes": 2889,
+      "p_votes": 0.25,
+      "seats": 4
+    },
+    {
+      "party_name": "People's Alliance",
+      "party_code": "PA",
+      "votes": 1465,
+      "p_votes": 0.12,
+      "seats": 2
+    },
+    {
+      "party_name": "Sri Lanka Podujana Peramuna",
+      "party_code": "SLPP",
+      "votes": 1061,
+      "p_votes": 0.09,
+      "seats": 2
+    },
+    {
+      "party_name": "Sarvajana Balaya",
+      "party_code": "SB",
+      "votes": 834,
+      "p_votes": 0.07,
+      "seats": 1
+    },
+    {
+      "party_name": "United National Party",
+      "party_code": "UNP",
+      "votes": 622,
+      "p_votes": 0.05,
+      "seats": 1
+    },
+    {
+      "party_name": "Ceylon Worker's Congress (P. Wing)",
+      "party_code": "CWC",
+      "votes": 136,
+      "p_votes": 0.01,
+      "seats": 0
+    }
+  ]
+}
