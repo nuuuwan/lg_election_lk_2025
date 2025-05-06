@@ -1,0 +1,89 @@
+{
+  "district_name": "Nuwaraeliya",
+  "lg_code": "086",
+  "lg_name": "Hatton   Dickoya Urban Council",
+  "url": "https://results.elections.gov.lk/?page=lg_result&district=NUWARAELIYA&lg_code=086&lg_name=HATTON---DICKOYA-URBAN-COUNCIL",
+  "time_str": "2025-05-07 02:44:00",
+  "time_ut": 1746566040.0,
+  "summary_data": {
+    "electors": 11108,
+    "polled": 7159,
+    "valid": 7036,
+    "rejected": 123,
+    "p_turnout": 0.64,
+    "p_valid": 0.98,
+    "p_rejected": 0.02
+  },
+  "party_result_data_list": [
+    {
+      "party_name": "Jathika Jana Balawegaya",
+      "party_code": "NPP",
+      "votes": 2606,
+      "p_votes": 0.37,
+      "seats": 6
+    },
+    {
+      "party_name": "Samagi Jana Balawegaya",
+      "party_code": "SJB",
+      "votes": 2372,
+      "p_votes": 0.34,
+      "seats": 5
+    },
+    {
+      "party_name": "Ceylon Worker's Congress (P. Wing)",
+      "party_code": "CWC",
+      "votes": 916,
+      "p_votes": 0.13,
+      "seats": 2
+    },
+    {
+      "party_name": "Independent Group 1",
+      "party_code": "IND1",
+      "votes": 304,
+      "p_votes": 0.04,
+      "seats": 1
+    },
+    {
+      "party_name": "United National Party",
+      "party_code": "UNP",
+      "votes": 208,
+      "p_votes": 0.03,
+      "seats": 1
+    },
+    {
+      "party_name": "Democratic United National Front",
+      "party_code": "DUNF",
+      "votes": 200,
+      "p_votes": 0.03,
+      "seats": 0
+    },
+    {
+      "party_name": "Sri Lanka Podujana Peramuna",
+      "party_code": "SLPP",
+      "votes": 147,
+      "p_votes": 0.02,
+      "seats": 0
+    },
+    {
+      "party_name": "Independent Group 2",
+      "party_code": "IND2",
+      "votes": 129,
+      "p_votes": 0.02,
+      "seats": 0
+    },
+    {
+      "party_name": "Sarvajana Balaya",
+      "party_code": "SB",
+      "votes": 89,
+      "p_votes": 0.01,
+      "seats": 0
+    },
+    {
+      "party_name": "National Freedom Front",
+      "party_code": "NFF",
+      "votes": 65,
+      "p_votes": 0.01,
+      "seats": 0
+    }
+  ]
+}

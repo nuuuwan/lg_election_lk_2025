@@ -1,6 +1,6 @@
 # Sri Lankan Local Government Elections - 2025 🇱🇰
 
-As of 2025-05-07 02:46:12
+As of 2025-05-07 02:49:26
 
 *Scraped from [results.elections.gov.lk](https://results.elections.gov.lk)*
 
@@ -8,24 +8,24 @@ As of 2025-05-07 02:46:12
 
 | Results Released | % Released (By Votes) |
 |--:|--:|
-|60/339|12.26%|
+|62/339|12.48%|
 
 ## Islandwide
 
 | Party | Votes | %  | Seats | % | Wins | ≥½ ✔️ |
 |---|--:|--:|--:|--:|--:|--:|
-|🔴Jathika Jana Balawegaya|542,801|43%|580|45%|49|26|
-|🟢Samagi Jana Balawegaya|268,445|21%|251|19%|||
-|🟣Sri Lanka Podujana Peramuna|123,045|10%|118|9%|||
-|🟩United National Party|75,500|6%|69|5%|||
+|🔴Jathika Jana Balawegaya|552,047|42%|596|45%|51|27|
+|🟢Samagi Jana Balawegaya|274,883|21%|260|19%|||
+|🟣Sri Lanka Podujana Peramuna|126,073|10%|121|9%|||
+|🟩United National Party|77,320|6%|71|5%|||
 |🟦People's Alliance|53,066|4%|53|4%|||
 |🟡Ilankai Tamil Arasu Kadchi|47,466|4%|64|5%|7|4|
-|🔵Sarvajana Balaya|29,225|2%|29|2%|||
+|🔵Sarvajana Balaya|31,614|2%|31|2%|||
 |⚪Democratic Tamil National Alliance|12,880|1%|16|1%|||
 |⚪Sri Lanka Muslim Congress|7,292|1%|8|1%|1||
 |⚪All Ceylon Tamil Congress|6,609|1%|10|1%|||
+|⚪Ceylon Worker's Congress (P. Wing)|6,194|0%|9|1%|||
 |⚫Independent Group 1 `008`|5,627|0%|3|0%|||
-|⚪Ceylon Worker's Congress (P. Wing)|5,278|0%|7|1%|||
 |⚫Independent Group 1 `286`|4,020|0%|5|0%|||
 |⚫Independent Group 1 `318`|3,366|0%|2|0%|||
 |⚫Independent Group 2 `318`|3,348|0%|2|0%|||
@@ -74,6 +74,7 @@ As of 2025-05-07 02:46:12
 |⚫Independent Group 1 `203`|443|0%|1|0%|||
 |⚫Independent Group 1 `177`|388|0%|1|0%|||
 |⚫Independent Group 1 `052`|323|0%|1|0%|||
+|⚫Independent Group 1 `086`|304|0%|1|0%|||
 |⚪People's Struggle Alliance|272|0%|1|0%|||
 
 ## Results by Local Authority
@@ -109,6 +110,7 @@ As of 2025-05-07 02:46:12
 |  |  |  |  |  |  |
 |---|---|---|---|---|---|
 | `085` | 🏛️Nuwara Eliya MC (25) |🔴JJB (12)|🟢SJB (4)|🟩UNP (3)|[...](https://results.elections.gov.lk/?page=lg_result&district=NUWARAELIYA&lg_code=085&lg_name=NUWARA-ELIYA-MUNICIPAL-COUNCIL)|
+| `086` | 🏢Hatton   Dickoya UC (15) |🔴JJB (6)|🟢SJB (5)|⚪CWCPW (2)|[...](https://results.elections.gov.lk/?page=lg_result&district=NUWARAELIYA&lg_code=086&lg_name=HATTON---DICKOYA-URBAN-COUNCIL)|
 | `087` | 🏢Thalawakele Lindula UC (12) |⚪UPF (3)|🔴JJB (4)|🟢SJB (2)|[...](https://results.elections.gov.lk/?page=lg_result&district=NUWARAELIYA&lg_code=087&lg_name=THALAWAKELE-LINDULA-URBAN-COUNCIL)|
 | `088` | 🏡Maskeliya PS (17) |🔴JJB (7)|🟢SJB (6)|⚫IG `088` (2)|[...](https://results.elections.gov.lk/?page=lg_result&district=NUWARAELIYA&lg_code=088&lg_name=MASKELIYA-PRADESHIYA-SABHA)|
 
@@ -123,6 +125,7 @@ As of 2025-05-07 02:46:12
 | `101` | 🏡Ambalangoda PS (22) |**🔴JJB (11)✔️**|🟢SJB (5)|🟣SLPP (3)|[...](https://results.elections.gov.lk/?page=lg_result&district=GALLE&lg_code=101&lg_name=AMBALANGODA-PRADESHIYA-SABHA)|
 | `102` | 🏡Welivitiya Divithura PS (15) |🔴JJB (7)|🟢SJB (4)|🟣SLPP (2)|[...](https://results.elections.gov.lk/?page=lg_result&district=GALLE&lg_code=102&lg_name=WELIVITIYA-DIVITHURA-PRADESHIYA-SABHA)|
 | `106` | 🏡Neluwa PS (16) |🔴JJB (6)|🟢SJB (5)|🟣SLPP (3)|[...](https://results.elections.gov.lk/?page=lg_result&district=GALLE&lg_code=106&lg_name=NELUWA-PRADESHIYA-SABHA)|
+| `107` | 🏡Thawalama PS (20) |**🔴JJB (10)✔️**|🟢SJB (4)|🟣SLPP (3)|[...](https://results.elections.gov.lk/?page=lg_result&district=GALLE&lg_code=107&lg_name=THAWALAMA-PRADESHIYA-SABHA)|
 | `109` | 🏡Niyagama PS (18) |**🔴JJB (9)✔️**|🟢SJB (4)|🟣SLPP (3)|[...](https://results.elections.gov.lk/?page=lg_result&district=GALLE&lg_code=109&lg_name=NIYAGAMA-PRADESHIYA-SABHA)|
 | `114` | 🏡Bope Poddala PS (21) |**🔴JJB (11)✔️**|🟢SJB (4)|🟣SLPP (3)|[...](https://results.elections.gov.lk/?page=lg_result&district=GALLE&lg_code=114&lg_name=BOPE-PODDALA-PRADESHIYA-SABHA)|
 | `116` | 🏡Habaraduwa PS (27) |**🔴JJB (14)✔️**|🟢SJB (6)|🟣SLPP (5)|[...](https://results.elections.gov.lk/?page=lg_result&district=GALLE&lg_code=116&lg_name=HABARADUWA-PRADESHIYA-SABHA)|

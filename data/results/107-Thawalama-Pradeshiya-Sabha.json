@@ -1,0 +1,54 @@
+{
+  "district_name": "Galle",
+  "lg_code": "107",
+  "lg_name": "Thawalama Pradeshiya Sabha",
+  "url": "https://results.elections.gov.lk/?page=lg_result&district=GALLE&lg_code=107&lg_name=THAWALAMA-PRADESHIYA-SABHA",
+  "time_str": "2025-05-07 02:42:00",
+  "time_ut": 1746565920.0,
+  "summary_data": {
+    "electors": 27025,
+    "polled": 18096,
+    "valid": 17735,
+    "rejected": 361,
+    "p_turnout": 0.67,
+    "p_valid": 0.98,
+    "p_rejected": 0.02
+  },
+  "party_result_data_list": [
+    {
+      "party_name": "Jathika Jana Balawegaya",
+      "party_code": "NPP",
+      "votes": 6640,
+      "p_votes": 0.37,
+      "seats": 10
+    },
+    {
+      "party_name": "Samagi Jana Balawegaya",
+      "party_code": "SJB",
+      "votes": 4066,
+      "p_votes": 0.23,
+      "seats": 4
+    },
+    {
+      "party_name": "Sri Lanka Podujana Peramuna",
+      "party_code": "SLPP",
+      "votes": 3028,
+      "p_votes": 0.17,
+      "seats": 3
+    },
+    {
+      "party_name": "Sarvajana Balaya",
+      "party_code": "SB",
+      "votes": 2389,
+      "p_votes": 0.13,
+      "seats": 2
+    },
+    {
+      "party_name": "United National Party",
+      "party_code": "UNP",
+      "votes": 1612,
+      "p_votes": 0.09,
+      "seats": 1
+    }
+  ]
+}
