@@ -1,0 +1,89 @@
+{
+  "district_name": "Mullaitivu",
+  "lg_code": "179",
+  "lg_name": "Maritime Pattu Pradeshiya Sabha",
+  "url": "https://results.elections.gov.lk/?page=lg_result&district=MULLAITIVU&lg_code=179&lg_name=MARITIME-PATTU-PRADESHIYA-SABHA",
+  "time_str": "2025-05-07 03:46:00",
+  "time_ut": 1746569760.0,
+  "summary_data": {
+    "electors": 31574,
+    "polled": 20316,
+    "valid": 20022,
+    "rejected": 294,
+    "p_turnout": 0.64,
+    "p_valid": 0.99,
+    "p_rejected": 0.01
+  },
+  "party_result_data_list": [
+    {
+      "party_name": "Ilankai Tamil Arasu Kadchi",
+      "party_code": "ITAK",
+      "votes": 6306,
+      "p_votes": 0.32,
+      "seats": 7
+    },
+    {
+      "party_name": "Jathika Jana Balawegaya",
+      "party_code": "NPP",
+      "votes": 4407,
+      "p_votes": 0.22,
+      "seats": 5
+    },
+    {
+      "party_name": "Democratic Tamil National Alliance",
+      "party_code": "DTNA",
+      "votes": 3672,
+      "p_votes": 0.18,
+      "seats": 4
+    },
+    {
+      "party_name": "Samagi Jana Balawegaya",
+      "party_code": "SJB",
+      "votes": 1962,
+      "p_votes": 0.1,
+      "seats": 2
+    },
+    {
+      "party_name": "Independent Group 2",
+      "party_code": "IND2",
+      "votes": 1392,
+      "p_votes": 0.07,
+      "seats": 1
+    },
+    {
+      "party_name": "Sri Lanka Labour Party",
+      "party_code": "SLLP",
+      "votes": 624,
+      "p_votes": 0.03,
+      "seats": 1
+    },
+    {
+      "party_name": "United National Alliance",
+      "party_code": "UNA",
+      "votes": 548,
+      "p_votes": 0.03,
+      "seats": 1
+    },
+    {
+      "party_name": "Independent Group 1",
+      "party_code": "IND1",
+      "votes": 465,
+      "p_votes": 0.02,
+      "seats": 0
+    },
+    {
+      "party_name": "Sri Lanka Podujana Peramuna",
+      "party_code": "SLPP",
+      "votes": 329,
+      "p_votes": 0.02,
+      "seats": 0
+    },
+    {
+      "party_name": "All Ceylon Tamil Congress",
+      "party_code": "ACTC",
+      "votes": 317,
+      "p_votes": 0.02,
+      "seats": 0
+    }
+  ]
+}

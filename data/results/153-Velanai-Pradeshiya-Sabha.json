@@ -1,0 +1,89 @@
+{
+  "district_name": "Jaffna",
+  "lg_code": "153",
+  "lg_name": "Velanai Pradeshiya Sabha",
+  "url": "https://results.elections.gov.lk/?page=lg_result&district=JAFFNA&lg_code=153&lg_name=VELANAI-PRADESHIYA-SABHA",
+  "time_str": "2025-05-07 03:50:00",
+  "time_ut": 1746570000.0,
+  "summary_data": {
+    "electors": 13918,
+    "polled": 8820,
+    "valid": 8601,
+    "rejected": 219,
+    "p_turnout": 0.63,
+    "p_valid": 0.98,
+    "p_rejected": 0.02
+  },
+  "party_result_data_list": [
+    {
+      "party_name": "Ilankai Tamil Arasu Kadchi",
+      "party_code": "ITAK",
+      "votes": 2673,
+      "p_votes": 0.31,
+      "seats": 8
+    },
+    {
+      "party_name": "Jathika Jana Balawegaya",
+      "party_code": "NPP",
+      "votes": 1840,
+      "p_votes": 0.21,
+      "seats": 4
+    },
+    {
+      "party_name": "Eelam People's Democratic Party",
+      "party_code": "EPDP",
+      "votes": 1313,
+      "p_votes": 0.15,
+      "seats": 3
+    },
+    {
+      "party_name": "All Ceylon Tamil Congress",
+      "party_code": "ACTC",
+      "votes": 976,
+      "p_votes": 0.11,
+      "seats": 2
+    },
+    {
+      "party_name": "Independent Group 1",
+      "party_code": "IND1",
+      "votes": 492,
+      "p_votes": 0.06,
+      "seats": 1
+    },
+    {
+      "party_name": "Thamizh Makkal Koottani",
+      "party_code": "TMK",
+      "votes": 450,
+      "p_votes": 0.05,
+      "seats": 1
+    },
+    {
+      "party_name": "Independent Group 2",
+      "party_code": "IND2",
+      "votes": 318,
+      "p_votes": 0.04,
+      "seats": 1
+    },
+    {
+      "party_name": "United National Party",
+      "party_code": "UNP",
+      "votes": 314,
+      "p_votes": 0.04,
+      "seats": 1
+    },
+    {
+      "party_name": "Independent Group 3",
+      "party_code": "IND3",
+      "votes": 198,
+      "p_votes": 0.02,
+      "seats": 1
+    },
+    {
+      "party_name": "Samagi Jana Balawegaya",
+      "party_code": "SJB",
+      "votes": 27,
+      "p_votes": 0.0,
+      "seats": 0
+    }
+  ]
+}

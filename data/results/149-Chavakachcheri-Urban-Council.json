@@ -1,0 +1,75 @@
+{
+  "district_name": "Jaffna",
+  "lg_code": "149",
+  "lg_name": "Chavakachcheri Urban Council",
+  "url": "https://results.elections.gov.lk/?page=lg_result&district=JAFFNA&lg_code=149&lg_name=CHAVAKACHCHERI-URBAN-COUNCIL",
+  "time_str": "2025-05-07 03:48:00",
+  "time_ut": 1746569880.0,
+  "summary_data": {
+    "electors": 13996,
+    "polled": 8647,
+    "valid": 8539,
+    "rejected": 108,
+    "p_turnout": 0.62,
+    "p_valid": 0.99,
+    "p_rejected": 0.01
+  },
+  "party_result_data_list": [
+    {
+      "party_name": "All Ceylon Tamil Congress",
+      "party_code": "ACTC",
+      "votes": 2959,
+      "p_votes": 0.35,
+      "seats": 6
+    },
+    {
+      "party_name": "Ilankai Tamil Arasu Kadchi",
+      "party_code": "ITAK",
+      "votes": 2594,
+      "p_votes": 0.3,
+      "seats": 6
+    },
+    {
+      "party_name": "Jathika Jana Balawegaya",
+      "party_code": "NPP",
+      "votes": 1445,
+      "p_votes": 0.17,
+      "seats": 3
+    },
+    {
+      "party_name": "Democratic Tamil National Alliance",
+      "party_code": "DTNA",
+      "votes": 738,
+      "p_votes": 0.09,
+      "seats": 2
+    },
+    {
+      "party_name": "Eelam People's Democratic Party",
+      "party_code": "EPDP",
+      "votes": 535,
+      "p_votes": 0.06,
+      "seats": 1
+    },
+    {
+      "party_name": "Independent Group",
+      "party_code": "IND0",
+      "votes": 203,
+      "p_votes": 0.02,
+      "seats": 0
+    },
+    {
+      "party_name": "Samagi Jana Balawegaya",
+      "party_code": "SJB",
+      "votes": 45,
+      "p_votes": 0.01,
+      "seats": 0
+    },
+    {
+      "party_name": "United National Party",
+      "party_code": "UNP",
+      "votes": 20,
+      "p_votes": 0.0,
+      "seats": 0
+    }
+  ]
+}

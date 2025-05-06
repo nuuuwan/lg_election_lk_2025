@@ -1,6 +1,6 @@
 # Sri Lankan Local Government Elections - 2025 🇱🇰
 
-As of 2025-05-07 03:44:24
+As of 2025-05-07 03:56:21
 
 *Scraped from [results.elections.gov.lk](https://results.elections.gov.lk)*
 
@@ -8,22 +8,22 @@ As of 2025-05-07 03:44:24
 
 | Results Released | % Released (By Votes) |
 |--:|--:|
-|89/339|19.30%|
+|95/339|20.47%|
 
 ## Islandwide (Top 10 by Votes)
 
 | Party | Votes | %  | Seats | % | Wins | ≥½ ✔️ |
 |---|--:|--:|--:|--:|--:|--:|
-|🔴Jathika Jana Balawegaya|865,975|42%|864|44%|73|36|
-|🟢Samagi Jana Balawegaya|425,281|21%|375|19%|2||
-|🟣Sri Lanka Podujana Peramuna|200,897|10%|180|9%|||
-|🟩United National Party|107,709|5%|94|5%|||
-|🟦People's Alliance|86,869|4%|78|4%|||
-|🟡Ilankai Tamil Arasu Kadchi|65,527|3%|93|5%|11|4|
-|🔵Sarvajana Balaya|51,166|3%|45|2%|||
-|⚪Sri Lanka Muslim Congress|20,603|1%|21|1%|1||
-|⚪Democratic Tamil National Alliance|19,623|1%|25|1%|||
-|⚪Ceylon Worker's Congress (P. Wing)|15,376|1%|16|1%|||
+|🔴Jathika Jana Balawegaya|898,734|42%|899|43%|75|37|
+|🟢Samagi Jana Balawegaya|439,490|20%|386|18%|3||
+|🟣Sri Lanka Podujana Peramuna|203,638|9%|182|9%|||
+|🟩United National Party|110,430|5%|98|5%|||
+|🟦People's Alliance|87,475|4%|79|4%|||
+|🟡Ilankai Tamil Arasu Kadchi|87,470|4%|127|6%|15|4|
+|🔵Sarvajana Balaya|51,166|2%|45|2%|||
+|⚪Democratic Tamil National Alliance|27,109|1%|35|2%|||
+|⚪Ceylon Worker's Congress (P. Wing)|23,508|1%|20|1%|1||
+|⚪All Ceylon Tamil Congress|23,213|1%|40|2%|2||
 
 ## Results by Local Authority
 
@@ -63,6 +63,7 @@ As of 2025-05-07 03:44:24
 | `086` | 🏢Hatton   Dickoya UC (15) |🔴JJB (6)|🟢SJB (5)|⚪CWCPW (2)| Others (2) |[...](https://results.elections.gov.lk/?page=lg_result&district=NUWARAELIYA&lg_code=086&lg_name=HATTON---DICKOYA-URBAN-COUNCIL)|
 | `087` | 🏢Thalawakele Lindula UC (12) |🔴JJB (4)|⚪UPF (3)|🟢SJB (2)| Others (3) |[...](https://results.elections.gov.lk/?page=lg_result&district=NUWARAELIYA&lg_code=087&lg_name=THALAWAKELE-LINDULA-URBAN-COUNCIL)|
 | `088` | 🏡Maskeliya PS (17) |🔴JJB (7)|🟢SJB (6)|⚫IG `088` (2)| Others (2) |[...](https://results.elections.gov.lk/?page=lg_result&district=NUWARAELIYA&lg_code=088&lg_name=MASKELIYA-PRADESHIYA-SABHA)|
+| `091` | 🏡Agarapathana PS (15) |🔴JJB (4)|⚪CWCPW (4)🟰|🟢SJB (4)🟰| Others (3) |[...](https://results.elections.gov.lk/?page=lg_result&district=NUWARAELIYA&lg_code=091&lg_name=AGARAPATHANA-PRADESHIYA-SABHA)|
 | `093` | 🏡Nuwaraeliya PS (24) |🔴JJB (7)|⚪CWCPW (6)|🟢SJB (5)| Others (6) |[...](https://results.elections.gov.lk/?page=lg_result&district=NUWARAELIYA&lg_code=093&lg_name=NUWARAELIYA-PRADESHIYA-SABHA)|
 
 ### Galle
@@ -89,6 +90,7 @@ As of 2025-05-07 03:44:24
 |  |  |  |  |  |  |  |
 |---|---|---|---|---|---|---|
 | `118` | 🏢Weligama UC (19) |🔴JJB (9)|🟢SJB (3)|⚫IG1 `118` (3)| Others (4) |[...](https://results.elections.gov.lk/?page=lg_result&district=MATARA&lg_code=118&lg_name=WELIGAMA-URBAN-COUNCIL)|
+| `126` | 🏡Malimbada PS (18) |**🔴JJB (9)✔️**|🟢SJB (4)|🟣SLPP (2)| Others (3) |[...](https://results.elections.gov.lk/?page=lg_result&district=MATARA&lg_code=126&lg_name=MALIMBADA-PRADESHIYA-SABHA)|
 
 ### Hambantota
 
@@ -110,7 +112,10 @@ As of 2025-05-07 03:44:24
 
 |  |  |  |  |  |  |  |
 |---|---|---|---|---|---|---|
+| `146` | 🏛️Jaffna MC (45) |🟡ITAK (13)|⚪ACTC (12)|🔴JJB (10)| Others (10) |[...](https://results.elections.gov.lk/?page=lg_result&district=JAFFNA&lg_code=146&lg_name=JAFFNA-MUNICIPAL-COUNCIL)|
 | `147` | 🏢Valvettithurai UC (16) |⚪ACTC (7)|🟡ITAK (5)|🔴JJB (3)| Others (1) |[...](https://results.elections.gov.lk/?page=lg_result&district=JAFFNA&lg_code=147&lg_name=VALVETTITHURAI-URBAN-COUNCIL)|
+| `149` | 🏢Chavakachcheri UC (18) |⚪ACTC (6)|🟡ITAK (6)🟰|🔴JJB (3)| Others (3) |[...](https://results.elections.gov.lk/?page=lg_result&district=JAFFNA&lg_code=149&lg_name=CHAVAKACHCHERI-URBAN-COUNCIL)|
+| `153` | 🏡Velanai PS (22) |🟡ITAK (8)|🔴JJB (4)|⚪EPDP (3)| Others (7) |[...](https://results.elections.gov.lk/?page=lg_result&district=JAFFNA&lg_code=153&lg_name=VELANAI-PRADESHIYA-SABHA)|
 
 ### Kilinochchi
 
@@ -135,6 +140,7 @@ As of 2025-05-07 03:44:24
 | `176` | 🏡Manthai East PS (13) |🟡ITAK (4)|🟢SJB (3)|⚪ACTC (2)| Others (4) |[...](https://results.elections.gov.lk/?page=lg_result&district=MULLAITIVU&lg_code=176&lg_name=MANTHAI-EAST-PRADESHIYA-SABHA)|
 | `177` | 🏡Thunukkai PS (13) |🟡ITAK (4)|⚪ACTC (3)|⚪DTNA (2)| Others (4) |[...](https://results.elections.gov.lk/?page=lg_result&district=MULLAITIVU&lg_code=177&lg_name=THUNUKKAI-PRADESHIYA-SABHA)|
 | `178` | 🏡Puthukkudiyiruppu PS (22) |**🟡ITAK (11)✔️**|🔴JJB (4)|⚪DTNA (2)| Others (5) |[...](https://results.elections.gov.lk/?page=lg_result&district=MULLAITIVU&lg_code=178&lg_name=PUTHUKKUDIYIRUPPU-PRADESHIYA-SABHA)|
+| `179` | 🏡Maritime Pattu PS (21) |🟡ITAK (7)|🔴JJB (5)|⚪DTNA (4)| Others (5) |[...](https://results.elections.gov.lk/?page=lg_result&district=MULLAITIVU&lg_code=179&lg_name=MARITIME-PATTU-PRADESHIYA-SABHA)|
 
 ### Ampara
 
