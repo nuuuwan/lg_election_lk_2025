@@ -1,0 +1,68 @@
+{
+  "district_name": "Ampara",
+  "lg_code": "211",
+  "lg_name": "Thirukkovil Pradeshiya Sabha",
+  "url": "https://results.elections.gov.lk/?page=lg_result&district=AMPARA&lg_code=211&lg_name=THIRUKKOVIL-PRADESHIYA-SABHA",
+  "time_str": "2025-05-07 04:51:00",
+  "time_ut": 1746573660.0,
+  "summary_data": {
+    "electors": 22926,
+    "polled": 15747,
+    "valid": 15579,
+    "rejected": 168,
+    "p_turnout": 0.69,
+    "p_valid": 0.99,
+    "p_rejected": 0.01
+  },
+  "party_result_data_list": [
+    {
+      "party_name": "Independent Group 1",
+      "party_code": "IND1",
+      "votes": 7829,
+      "p_votes": 0.5,
+      "seats": 8
+    },
+    {
+      "party_name": "Ilankai Tamil Arasu Kadchi",
+      "party_code": "ITAK",
+      "votes": 5666,
+      "p_votes": 0.36,
+      "seats": 6
+    },
+    {
+      "party_name": "Jathika Jana Balawegaya",
+      "party_code": "NPP",
+      "votes": 1068,
+      "p_votes": 0.07,
+      "seats": 1
+    },
+    {
+      "party_name": "Independent Group 2",
+      "party_code": "IND2",
+      "votes": 504,
+      "p_votes": 0.03,
+      "seats": 1
+    },
+    {
+      "party_name": "People's Alliance",
+      "party_code": "PA",
+      "votes": 230,
+      "p_votes": 0.01,
+      "seats": 0
+    },
+    {
+      "party_name": "All Ceylon Tamil Congress",
+      "party_code": "ACTC",
+      "votes": 151,
+      "p_votes": 0.01,
+      "seats": 0
+    },
+    {
+      "party_name": "Samagi Jana Balawegaya",
+      "party_code": "SJB",
+      "votes": 131,
+      "p_votes": 0.01,
+      "seats": 0
+    }
+  ]
+}

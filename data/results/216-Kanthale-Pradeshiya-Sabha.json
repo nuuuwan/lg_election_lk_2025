@@ -1,0 +1,82 @@
+{
+  "district_name": "Trincomalee",
+  "lg_code": "216",
+  "lg_name": "Kanthale Pradeshiya Sabha",
+  "url": "https://results.elections.gov.lk/?page=lg_result&district=TRINCOMALEE&lg_code=216&lg_name=KANTHALE-PRADESHIYA-SABHA",
+  "time_str": "2025-05-07 04:55:00",
+  "time_ut": 1746573900.0,
+  "summary_data": {
+    "electors": 39124,
+    "polled": 25973,
+    "valid": 25508,
+    "rejected": 465,
+    "p_turnout": 0.66,
+    "p_valid": 0.98,
+    "p_rejected": 0.02
+  },
+  "party_result_data_list": [
+    {
+      "party_name": "Jathika Jana Balawegaya",
+      "party_code": "NPP",
+      "votes": 11815,
+      "p_votes": 0.46,
+      "seats": 10
+    },
+    {
+      "party_name": "Samagi Jana Balawegaya",
+      "party_code": "SJB",
+      "votes": 7585,
+      "p_votes": 0.3,
+      "seats": 6
+    },
+    {
+      "party_name": "Sri Lanka Podujana Peramuna",
+      "party_code": "SLPP",
+      "votes": 1929,
+      "p_votes": 0.08,
+      "seats": 2
+    },
+    {
+      "party_name": "United National Party",
+      "party_code": "UNP",
+      "votes": 1087,
+      "p_votes": 0.04,
+      "seats": 1
+    },
+    {
+      "party_name": "People's Alliance",
+      "party_code": "PA",
+      "votes": 816,
+      "p_votes": 0.03,
+      "seats": 1
+    },
+    {
+      "party_name": "Sri Lanka Muslim Congress",
+      "party_code": "SLMC",
+      "votes": 682,
+      "p_votes": 0.03,
+      "seats": 1
+    },
+    {
+      "party_name": "All Ceylon Makkal Congress",
+      "party_code": "ACMC",
+      "votes": 552,
+      "p_votes": 0.02,
+      "seats": 0
+    },
+    {
+      "party_name": "People's Struggle Alliance",
+      "party_code": "PSA",
+      "votes": 527,
+      "p_votes": 0.02,
+      "seats": 0
+    },
+    {
+      "party_name": "National Congress",
+      "party_code": "NC",
+      "votes": 515,
+      "p_votes": 0.02,
+      "seats": 0
+    }
+  ]
+}
