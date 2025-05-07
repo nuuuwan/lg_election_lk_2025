@@ -1,14 +1,14 @@
 # Sri Lankan Local Government Elections - 2025 🇱🇰
 
-As of 2025-05-07 07:01:00
+As of 2025-05-07 07:10:51
 
 *Scraped from [results.elections.gov.lk](https://results.elections.gov.lk)*
 
 ## Progress
 
-| Results Released | % Released (By Votes) |
-|--:|--:|
-|193/339|54.58%|
+| Results Released | % Released (By Votes) | % Turnout | % Rejected |
+|--:|--:|--:|--:|
+|193/339|54.6%|61.2%|1.96%|
 
 ## Islandwide (Top 10 by Votes)
 

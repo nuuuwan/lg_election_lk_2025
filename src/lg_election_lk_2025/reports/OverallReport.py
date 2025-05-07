@@ -108,6 +108,9 @@ class OverallReport:
         seats = 0
         votes = 0
         electors = 0
+        polled = 0
+        valid = 0
+        rejected = 0
         for result in self.result_list:
             results += 1
             seats += sum(
@@ -116,11 +119,16 @@ class OverallReport:
             )
             votes += result["summary_data"]["valid"]
             electors += result["summary_data"]["electors"]
+            polled += result["summary_data"]["polled"]
+            valid += result["summary_data"]["valid"]
+            rejected += result["summary_data"]["rejected"]
         return dict(
             results=results,
             seats=seats,
             votes=votes,
             electors=electors,
+            p_turnout=polled / electors,
+            p_rejected=rejected / valid,
         )
 
     @property
@@ -128,8 +136,8 @@ class OverallReport:
         lines = [
             "## Progress",
             "",
-            "| Results Released | % Released (By Votes) |",
-            "|--:|--:|",
+            "| Results Released | % Released (By Votes) | % Turnout | % Rejected |",
+            "|--:|--:|--:|--:|",
         ]
         lk_summary = self.lk_summary
 
@@ -138,7 +146,9 @@ class OverallReport:
             + "|".join(
                 [
                     f'{lk_summary["results"]:,}/{self.TOTAL_RESULTS}',
-                    f'{lk_summary["electors"] / self.TOTAL_ELECTORS:.2%}',
+                    f'{lk_summary["electors"] / self.TOTAL_ELECTORS:.1%}',
+                    f'{lk_summary["p_turnout"]:.1%}',
+                    f'{lk_summary["p_rejected"] :.2%}',
                 ]
             )
             + "|"
@@ -148,6 +158,7 @@ class OverallReport:
                 "",
             ]
         )
+
         return lines
 
     @cached_property
