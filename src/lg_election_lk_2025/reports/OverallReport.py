@@ -87,14 +87,14 @@ class OverallReport:
         party_result_data_list.sort(
             key=lambda x: (x["seats"], x["votes"]), reverse=True
         )
-        top_seats = party_result_data_list[0]["seats"]
+
         for i, party_result_data in enumerate(result["party_result_data_list"]):
             party_name = OverallReport.get_party_name_annotated(
                 party_result_data["party_name"], lg_code
             )
             votes = party_result_data["votes"]
             seats = party_result_data["seats"]
-            is_top = seats == top_seats
+            is_top = i == 0
             is_majority = seats * 2 > total_seats
             if seats > 0:
                 if party_name not in party_to_summary:
@@ -180,7 +180,7 @@ class OverallReport:
         lk_party_to_summary = dict(
             sorted(
                 party_to_summary.items(),
-                key=lambda item: (item[1]["votes"],),
+                key=lambda item: (item[1]["seats"], item[1]["votes"]),
                 reverse=True,
             )
         )
@@ -197,10 +197,10 @@ class OverallReport:
             + "|".join(
                 [
                     party_code,
-                    f"{votes:,}",
-                    f"{p_votes:.0%}",
                     f"*{seats:,}*",
                     f"*{p_seats:.0%}*",
+                    f"{votes:,}",
+                    f"{p_votes:.0%}",
                     StringX(summary["n_wins"]).int_zero_blank,
                     (
                         "**"
@@ -218,10 +218,10 @@ class OverallReport:
     def lk_party_to_summary_lines(self):
         N_TOP = 10
         lines = [
-            f"## Islandwide (Top {N_TOP} by Votes)",
+            f"## Islandwide (Top {N_TOP} by Seats)",
             "",
-            "| Party | Votes | %  | *Seats* | *%* |"
-            + " LG's with<br>Most Seats<br>(Incl. Ties) "
+            "| Party |  *Seats* | *%* | Votes | %  |"
+            + " LG's with<br>Most Votes "
             + "| **LGs with<br>>50% Seats** |",
             "|---|--:|--:|--:|--:|--:|--:|",
         ]
