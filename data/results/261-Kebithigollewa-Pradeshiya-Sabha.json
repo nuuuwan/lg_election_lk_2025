@@ -1,0 +1,61 @@
+{
+  "district_name": "Anuradhapura",
+  "lg_code": "261",
+  "lg_name": "Kebithigollewa Pradeshiya Sabha",
+  "url": "https://results.elections.gov.lk/?page=lg_result&district=ANURADHAPURA&lg_code=261&lg_name=KEBITHIGOLLEWA-PRADESHIYA-SABHA",
+  "time_str": "2025-05-07 10:47:00",
+  "time_ut": 1746595020.0,
+  "summary_data": {
+    "electors": 20734,
+    "polled": 15426,
+    "valid": 15215,
+    "rejected": 211,
+    "p_turnout": 0.74,
+    "p_valid": 0.99,
+    "p_rejected": 0.01
+  },
+  "party_result_data_list": [
+    {
+      "party_name": "Jathika Jana Balawegaya",
+      "party_code": "NPP",
+      "votes": 5698,
+      "p_votes": 0.37,
+      "seats": 7
+    },
+    {
+      "party_name": "Samagi Jana Balawegaya",
+      "party_code": "SJB",
+      "votes": 4932,
+      "p_votes": 0.32,
+      "seats": 6
+    },
+    {
+      "party_name": "Sri Lanka Podujana Peramuna",
+      "party_code": "SLPP",
+      "votes": 2315,
+      "p_votes": 0.15,
+      "seats": 3
+    },
+    {
+      "party_name": "People's Alliance",
+      "party_code": "PA",
+      "votes": 1373,
+      "p_votes": 0.09,
+      "seats": 1
+    },
+    {
+      "party_name": "Independent Group",
+      "party_code": "IND1",
+      "votes": 567,
+      "p_votes": 0.04,
+      "seats": 1
+    },
+    {
+      "party_name": "Sarvajana Balaya",
+      "party_code": "SB",
+      "votes": 330,
+      "p_votes": 0.02,
+      "seats": 0
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "district_name": "Anuradhapura",
+  "lg_code": "258",
+  "lg_name": "Anuradhapura Municipal Council",
+  "url": "https://results.elections.gov.lk/?page=lg_result&district=ANURADHAPURA&lg_code=258&lg_name=ANURADHAPURA-MUNICIPAL-COUNCIL",
+  "time_str": "2025-05-07 10:51:00",
+  "time_ut": 1746595260.0,
+  "summary_data": {
+    "electors": 38188,
+    "polled": 24834,
+    "valid": 24368,
+    "rejected": 466,
+    "p_turnout": 0.65,
+    "p_valid": 0.98,
+    "p_rejected": 0.02
+  },
+  "party_result_data_list": [
+    {
+      "party_name": "Jathika Jana Balawegaya",
+      "party_code": "NPP",
+      "votes": 13428,
+      "p_votes": 0.55,
+      "seats": 15
+    },
+    {
+      "party_name": "Samagi Jana Balawegaya",
+      "party_code": "SJB",
+      "votes": 4769,
+      "p_votes": 0.2,
+      "seats": 5
+    },
+    {
+      "party_name": "United National Party",
+      "party_code": "UNP",
+      "votes": 1779,
+      "p_votes": 0.07,
+      "seats": 2
+    },
+    {
+      "party_name": "Sri Lanka Podujana Peramuna",
+      "party_code": "SLPP",
+      "votes": 1417,
+      "p_votes": 0.06,
+      "seats": 1
+    },
+    {
+      "party_name": "People's Alliance",
+      "party_code": "PA",
+      "votes": 1011,
+      "p_votes": 0.04,
+      "seats": 1
+    },
+    {
+      "party_name": "Sarvajana Balaya",
+      "party_code": "SB",
+      "votes": 849,
+      "p_votes": 0.03,
+      "seats": 1
+    },
+    {
+      "party_name": "Independent Group 2",
+      "party_code": "IND2",
+      "votes": 512,
+      "p_votes": 0.02,
+      "seats": 1
+    },
+    {
+      "party_name": "Independent Group 1",
+      "party_code": "IND1",
+      "votes": 232,
+      "p_votes": 0.01,
+      "seats": 0
+    },
+    {
+      "party_name": "People's Struggle Alliance",
+      "party_code": "PSA",
+      "votes": 140,
+      "p_votes": 0.01,
+      "seats": 0
+    },
+    {
+      "party_name": "Democratic Left Front",
+      "party_code": "DLF",
+      "votes": 126,
+      "p_votes": 0.01,
+      "seats": 0
+    },
+    {
+      "party_name": "Arunalu Peoples Alliance",
+      "party_code": "APP",
+      "votes": 105,
+      "p_votes": 0.0,
+      "seats": 0
+    }
+  ]
+}
