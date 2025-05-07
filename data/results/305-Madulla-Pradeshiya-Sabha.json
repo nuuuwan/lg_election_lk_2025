@@ -1,0 +1,68 @@
+{
+  "district_name": "Monaragala",
+  "lg_code": "305",
+  "lg_name": "Madulla Pradeshiya Sabha",
+  "url": "https://results.elections.gov.lk/?page=lg_result&district=MONARAGALA&lg_code=305&lg_name=MADULLA-PRADESHIYA-SABHA",
+  "time_str": "2025-05-07 07:08:00",
+  "time_ut": 1746581880.0,
+  "summary_data": {
+    "electors": 27739,
+    "polled": 19744,
+    "valid": 19319,
+    "rejected": 425,
+    "p_turnout": 0.71,
+    "p_valid": 0.98,
+    "p_rejected": 0.02
+  },
+  "party_result_data_list": [
+    {
+      "party_name": "Jathika Jana Balawegaya",
+      "party_code": "NPP",
+      "votes": 9025,
+      "p_votes": 0.47,
+      "seats": 11
+    },
+    {
+      "party_name": "Samagi Jana Balawegaya",
+      "party_code": "SJB",
+      "votes": 4506,
+      "p_votes": 0.23,
+      "seats": 4
+    },
+    {
+      "party_name": "Sri Lanka Podujana Peramuna",
+      "party_code": "SLPP",
+      "votes": 2597,
+      "p_votes": 0.13,
+      "seats": 3
+    },
+    {
+      "party_name": "United National Party",
+      "party_code": "UNP",
+      "votes": 1362,
+      "p_votes": 0.07,
+      "seats": 1
+    },
+    {
+      "party_name": "People's Alliance",
+      "party_code": "PA",
+      "votes": 1078,
+      "p_votes": 0.06,
+      "seats": 1
+    },
+    {
+      "party_name": "Sarvajana Balaya",
+      "party_code": "SB",
+      "votes": 498,
+      "p_votes": 0.03,
+      "seats": 1
+    },
+    {
+      "party_name": "People's Struggle Alliance",
+      "party_code": "PSA",
+      "votes": 253,
+      "p_votes": 0.01,
+      "seats": 0
+    }
+  ]
+}

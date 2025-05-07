@@ -1,0 +1,68 @@
+{
+  "district_name": "Jaffna",
+  "lg_code": "160",
+  "lg_name": "Point Pedro Pradeshiya Sabha",
+  "url": "https://results.elections.gov.lk/?page=lg_result&district=JAFFNA&lg_code=160&lg_name=POINT-PEDRO-PRADESHIYA-SABHA",
+  "time_str": "2025-05-07 07:05:00",
+  "time_ut": 1746581700.0,
+  "summary_data": {
+    "electors": 33089,
+    "polled": 18148,
+    "valid": 17839,
+    "rejected": 309,
+    "p_turnout": 0.55,
+    "p_valid": 0.98,
+    "p_rejected": 0.02
+  },
+  "party_result_data_list": [
+    {
+      "party_name": "Ilankai Tamil Arasu Kadchi",
+      "party_code": "ITAK",
+      "votes": 7490,
+      "p_votes": 0.42,
+      "seats": 9
+    },
+    {
+      "party_name": "Jathika Jana Balawegaya",
+      "party_code": "NPP",
+      "votes": 3892,
+      "p_votes": 0.22,
+      "seats": 4
+    },
+    {
+      "party_name": "Democratic Tamil National Alliance",
+      "party_code": "DTNA",
+      "votes": 3684,
+      "p_votes": 0.21,
+      "seats": 4
+    },
+    {
+      "party_name": "Independent Group",
+      "party_code": "IND0",
+      "votes": 1363,
+      "p_votes": 0.08,
+      "seats": 2
+    },
+    {
+      "party_name": "Eelam People's Democratic Party",
+      "party_code": "EPDP",
+      "votes": 924,
+      "p_votes": 0.05,
+      "seats": 1
+    },
+    {
+      "party_name": "Samagi Jana Balawegaya",
+      "party_code": "SJB",
+      "votes": 257,
+      "p_votes": 0.01,
+      "seats": 0
+    },
+    {
+      "party_name": "United National Party",
+      "party_code": "UNP",
+      "votes": 229,
+      "p_votes": 0.01,
+      "seats": 0
+    }
+  ]
+}

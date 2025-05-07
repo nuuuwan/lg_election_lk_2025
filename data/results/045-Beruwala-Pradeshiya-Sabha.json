@@ -1,0 +1,82 @@
+{
+  "district_name": "Kalutara",
+  "lg_code": "045",
+  "lg_name": "Beruwala Pradeshiya Sabha",
+  "url": "https://results.elections.gov.lk/?page=lg_result&district=KALUTARA&lg_code=045&lg_name=BERUWALA-PRADESHIYA-SABHA",
+  "time_str": "2025-05-07 07:06:00",
+  "time_ut": 1746581760.0,
+  "summary_data": {
+    "electors": 104043,
+    "polled": 66796,
+    "valid": 65518,
+    "rejected": 1278,
+    "p_turnout": 0.64,
+    "p_valid": 0.98,
+    "p_rejected": 0.02
+  },
+  "party_result_data_list": [
+    {
+      "party_name": "Jathika Jana Balawegaya",
+      "party_code": "NPP",
+      "votes": 29231,
+      "p_votes": 0.45,
+      "seats": 20
+    },
+    {
+      "party_name": "Samagi Jana Balawegaya",
+      "party_code": "SJB",
+      "votes": 15859,
+      "p_votes": 0.24,
+      "seats": 10
+    },
+    {
+      "party_name": "Sri Lanka Podujana Peramuna",
+      "party_code": "SLPP",
+      "votes": 7607,
+      "p_votes": 0.12,
+      "seats": 5
+    },
+    {
+      "party_name": "People's Alliance",
+      "party_code": "PA",
+      "votes": 4564,
+      "p_votes": 0.07,
+      "seats": 3
+    },
+    {
+      "party_name": "United National Party",
+      "party_code": "UNP",
+      "votes": 4277,
+      "p_votes": 0.07,
+      "seats": 3
+    },
+    {
+      "party_name": "Nawa Lanka Nidahas Pakshaya",
+      "party_code": "NLNP",
+      "votes": 1486,
+      "p_votes": 0.02,
+      "seats": 1
+    },
+    {
+      "party_name": "National Freedom Front",
+      "party_code": "NFF",
+      "votes": 1018,
+      "p_votes": 0.02,
+      "seats": 1
+    },
+    {
+      "party_name": "Sarvajana Balaya",
+      "party_code": "SB",
+      "votes": 1010,
+      "p_votes": 0.02,
+      "seats": 0
+    },
+    {
+      "party_name": "People's Struggle Alliance",
+      "party_code": "PSA",
+      "votes": 466,
+      "p_votes": 0.01,
+      "seats": 0
+    }
+  ]
+}

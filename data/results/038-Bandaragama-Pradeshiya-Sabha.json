@@ -1,0 +1,82 @@
+{
+  "district_name": "Kalutara",
+  "lg_code": "038",
+  "lg_name": "Bandaragama Pradeshiya Sabha",
+  "url": "https://results.elections.gov.lk/?page=lg_result&district=KALUTARA&lg_code=038&lg_name=BANDARAGAMA-PRADESHIYA-SABHA",
+  "time_str": "2025-05-07 07:07:00",
+  "time_ut": 1746581820.0,
+  "summary_data": {
+    "electors": 94983,
+    "polled": 60126,
+    "valid": 59026,
+    "rejected": 1100,
+    "p_turnout": 0.63,
+    "p_valid": 0.98,
+    "p_rejected": 0.02
+  },
+  "party_result_data_list": [
+    {
+      "party_name": "Jathika Jana Balawegaya",
+      "party_code": "NPP",
+      "votes": 27445,
+      "p_votes": 0.47,
+      "seats": 16
+    },
+    {
+      "party_name": "Samagi Jana Balawegaya",
+      "party_code": "SJB",
+      "votes": 12619,
+      "p_votes": 0.21,
+      "seats": 7
+    },
+    {
+      "party_name": "People's Alliance",
+      "party_code": "PA",
+      "votes": 7675,
+      "p_votes": 0.13,
+      "seats": 4
+    },
+    {
+      "party_name": "Sri Lanka Podujana Peramuna",
+      "party_code": "SLPP",
+      "votes": 4726,
+      "p_votes": 0.08,
+      "seats": 3
+    },
+    {
+      "party_name": "United National Party",
+      "party_code": "UNP",
+      "votes": 2651,
+      "p_votes": 0.04,
+      "seats": 2
+    },
+    {
+      "party_name": "National Freedom Front",
+      "party_code": "NFF",
+      "votes": 2113,
+      "p_votes": 0.04,
+      "seats": 1
+    },
+    {
+      "party_name": "All Ceylon Makkal Congress",
+      "party_code": "ACMC",
+      "votes": 1222,
+      "p_votes": 0.02,
+      "seats": 1
+    },
+    {
+      "party_name": "People's Struggle Alliance",
+      "party_code": "PSA",
+      "votes": 372,
+      "p_votes": 0.01,
+      "seats": 0
+    },
+    {
+      "party_name": "Jana Setha Peramuna",
+      "party_code": "JSP",
+      "votes": 203,
+      "p_votes": 0.0,
+      "seats": 0
+    }
+  ]
+}
