@@ -1,0 +1,75 @@
+{
+  "district_name": "Jaffna",
+  "lg_code": "161",
+  "lg_name": "Chawakachcheri Pradeshiya Sabha",
+  "url": "https://results.elections.gov.lk/?page=lg_result&district=JAFFNA&lg_code=161&lg_name=CHAWAKACHCHERI-PRADESHIYA-SABHA",
+  "time_str": "2025-05-07 07:13:00",
+  "time_ut": 1746582180.0,
+  "summary_data": {
+    "electors": 45076,
+    "polled": 25079,
+    "valid": 24650,
+    "rejected": 429,
+    "p_turnout": 0.56,
+    "p_valid": 0.98,
+    "p_rejected": 0.02
+  },
+  "party_result_data_list": [
+    {
+      "party_name": "Ilankai Tamil Arasu Kadchi",
+      "party_code": "ITAK",
+      "votes": 6938,
+      "p_votes": 0.28,
+      "seats": 8
+    },
+    {
+      "party_name": "All Ceylon Tamil Congress",
+      "party_code": "ACTC",
+      "votes": 5916,
+      "p_votes": 0.24,
+      "seats": 7
+    },
+    {
+      "party_name": "Jathika Jana Balawegaya",
+      "party_code": "NPP",
+      "votes": 5234,
+      "p_votes": 0.21,
+      "seats": 6
+    },
+    {
+      "party_name": "Democratic Tamil National Alliance",
+      "party_code": "DTNA",
+      "votes": 4310,
+      "p_votes": 0.17,
+      "seats": 5
+    },
+    {
+      "party_name": "Thamizh Makkal Koottani",
+      "party_code": "TMK",
+      "votes": 1414,
+      "p_votes": 0.06,
+      "seats": 1
+    },
+    {
+      "party_name": "Eelam People's Democratic Party",
+      "party_code": "EPDP",
+      "votes": 650,
+      "p_votes": 0.03,
+      "seats": 1
+    },
+    {
+      "party_name": "Samagi Jana Balawegaya",
+      "party_code": "SJB",
+      "votes": 130,
+      "p_votes": 0.01,
+      "seats": 0
+    },
+    {
+      "party_name": "United National Party",
+      "party_code": "UNP",
+      "votes": 58,
+      "p_votes": 0.0,
+      "seats": 0
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "district_name": "Monaragala",
+  "lg_code": "308",
+  "lg_name": "Badalkumbura Pradeshiya Sabha",
+  "url": "https://results.elections.gov.lk/?page=lg_result&district=MONARAGALA&lg_code=308&lg_name=BADALKUMBURA-PRADESHIYA-SABHA",
+  "time_str": "2025-05-07 07:12:00",
+  "time_ut": 1746582120.0,
+  "summary_data": {
+    "electors": 36523,
+    "polled": 23947,
+    "valid": 23317,
+    "rejected": 630,
+    "p_turnout": 0.66,
+    "p_valid": 0.97,
+    "p_rejected": 0.03
+  },
+  "party_result_data_list": [
+    {
+      "party_name": "Jathika Jana Balawegaya",
+      "party_code": "NPP",
+      "votes": 9971,
+      "p_votes": 0.43,
+      "seats": 10
+    },
+    {
+      "party_name": "Samagi Jana Balawegaya",
+      "party_code": "SJB",
+      "votes": 6411,
+      "p_votes": 0.27,
+      "seats": 5
+    },
+    {
+      "party_name": "Sri Lanka Podujana Peramuna",
+      "party_code": "SLPP",
+      "votes": 3453,
+      "p_votes": 0.15,
+      "seats": 3
+    },
+    {
+      "party_name": "People's Alliance",
+      "party_code": "PA",
+      "votes": 2048,
+      "p_votes": 0.09,
+      "seats": 1
+    },
+    {
+      "party_name": "United National Party",
+      "party_code": "UNP",
+      "votes": 900,
+      "p_votes": 0.04,
+      "seats": 1
+    },
+    {
+      "party_name": "Sarvajana Balaya",
+      "party_code": "SB",
+      "votes": 534,
+      "p_votes": 0.02,
+      "seats": 0
+    }
+  ]
+}
