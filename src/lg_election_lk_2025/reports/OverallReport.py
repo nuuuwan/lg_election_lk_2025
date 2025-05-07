@@ -283,7 +283,7 @@ class OverallReport:
             line = (
                 f"| {lg_code} | "
                 + f"{OverallReport.get_lg_short_name(lg_name)} "
-                + "f({total_seats}) |"
+                + f"({total_seats}) |"
             )
 
             seats_to_data_list = {}
