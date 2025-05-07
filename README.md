@@ -1,6 +1,6 @@
 # Sri Lankan Local Government Elections - 2025 🇱🇰
 
-As of 2025-05-07 08:56:36
+As of 2025-05-07 08:57:11
 
 *Scraped from [results.elections.gov.lk](https://results.elections.gov.lk)*
 
@@ -12,7 +12,7 @@ As of 2025-05-07 08:56:36
 
 ## Islandwide (Top 10 by Votes)
 
-| Party | Votes | %  | *Seats* | *%* | LG's with<br>Won | **LGs with<br>≥50% Seats** |
+| Party | Votes | %  | *Seats* | *%* | LG's with<br>Most Seats<br>(Incl. Ties) | **LGs with<br>≥50% Seats** |
 |---|--:|--:|--:|--:|--:|--:|
 |🔴Jathika Jana Balawegaya|3,477,919|44%|*3,062*|*45%*|222|**121**|
 |🟢Samagi Jana Balawegaya|1,680,044|21%|*1,332*|*19%*|12||
