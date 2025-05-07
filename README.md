@@ -1,6 +1,6 @@
 # Sri Lankan Local Government Elections - 2025 🇱🇰
 
-As of 2025-05-07 08:53:58
+As of 2025-05-07 08:56:36
 
 *Scraped from [results.elections.gov.lk](https://results.elections.gov.lk)*
 
@@ -8,19 +8,19 @@ As of 2025-05-07 08:53:58
 
 | Results Released | % Released (By Votes) | % Turnout | % Rejected |
 |--:|--:|--:|--:|
-|269/339|75.9%|61.7%|1.99%|
+|270/339|76.1%|61.7%|1.99%|
 
 ## Islandwide (Top 10 by Votes)
 
 | Party | Votes | %  | *Seats* | *%* | LG's with<br>Won | **LGs with<br>≥50% Seats** |
 |---|--:|--:|--:|--:|--:|--:|
-|🔴Jathika Jana Balawegaya|3,470,443|44%|*3,052*|*45%*|221|**121**|
-|🟢Samagi Jana Balawegaya|1,674,473|21%|*1,326*|*19%*|12||
-|🟣Sri Lanka Podujana Peramuna|763,680|10%|*596*|*9%*|||
-|🟩United National Party|353,762|4%|*288*|*4%*|1||
+|🔴Jathika Jana Balawegaya|3,477,919|44%|*3,062*|*45%*|222|**121**|
+|🟢Samagi Jana Balawegaya|1,680,044|21%|*1,332*|*19%*|12||
+|🟣Sri Lanka Podujana Peramuna|764,483|10%|*597*|*9%*|||
+|🟩United National Party|354,337|4%|*289*|*4%*|1||
 |🟦People's Alliance|288,461|4%|*238*|*3%*|||
 |🟡Ilankai Tamil Arasu Kadchi|236,731|3%|*310*|*5%*|33|**6**|
-|🔵Sarvajana Balaya|203,023|3%|*170*|*2%*|||
+|🔵Sarvajana Balaya|204,334|3%|*171*|*3%*|||
 |⚪Sri Lanka Muslim Congress|83,926|1%|*70*|*1%*|2||
 |⚪Democratic Tamil National Alliance|80,258|1%|*97*|*1%*|1||
 |⚪All Ceylon Tamil Congress|59,785|1%|*92*|*1%*|4||
@@ -108,6 +108,7 @@ As of 2025-05-07 08:53:58
 
 |  |  |  |  |  |  |  |
 |---|---|---|---|---|---|---|
+| 073 | 🏛️Matale MC·22|🔴JJB·*10*<br>|🟢SJB·*6*<br>|⚪CWCPW·*2*<br>| Others·4 |[...](https://results.elections.gov.lk/?page=lg_result&district=MATALE&lg_code=073&lg_name=MATALE-MUNICIPAL-COUNCIL)|
 | 074 | 🏡Pallepola PS·17|**🔴JJB·*9***<br>|🟢SJB·*3*<br>|🟣SLPP·*2*<br>| Others·3 |[...](https://results.elections.gov.lk/?page=lg_result&district=MATALE&lg_code=074&lg_name=PALLEPOLA-PRADESHIYA-SABHA)|
 | 075 | 🏡Galewela PS·29|🔴JJB·*14*<br>|🟢SJB·*7*<br>|🟣SLPP·*3*<br>🟩UNP·*3*<br>| Others·2 |[...](https://results.elections.gov.lk/?page=lg_result&district=MATALE&lg_code=075&lg_name=GALEWELA-PRADESHIYA-SABHA)|
 | 076 | 🏡Dambulla PS·27|🔴JJB·*13*<br>|🟢SJB·*6*<br>|🟣SLPP·*3*<br>🟦PA·*3*<br>| Others·2 |[...](https://results.elections.gov.lk/?page=lg_result&district=MATALE&lg_code=076&lg_name=DAMBULLA-PRADESHIYA-SABHA)|
