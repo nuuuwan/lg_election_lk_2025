@@ -197,8 +197,8 @@ class OverallReport:
                     party_code,
                     f"{votes:,}",
                     f"{p_votes:.0%}",
-                    f"{seats:,}",
-                    f"{p_seats:.0%}",
+                    f"*{seats:,}*",
+                    f"*{p_seats:.0%}*",
                     StringX(summary["n_wins"]).int_zero_blank,
                     StringX(summary["n_majority"]).int_zero_blank,
                 ]
@@ -212,7 +212,7 @@ class OverallReport:
         lines = [
             f"## Islandwide (Top {N_TOP} by Votes)",
             "",
-            "| Party | Votes | %  | Seats | % | LG's with<br>Won "
+            "| Party | Votes | %  | *Seats* | *%* | LG's with<br>Won "
             + "| LGs with<br>≥50% Seats (✔️) |",
             "|---|--:|--:|--:|--:|--:|--:|",
         ]
