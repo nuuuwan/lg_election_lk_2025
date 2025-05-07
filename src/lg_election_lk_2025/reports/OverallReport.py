@@ -292,7 +292,7 @@ class OverallReport:
                         OverallReport.get_party_name_annotated(
                             party_name, "", use_short=True
                         )
-                        + f"·{seats}<br>"
+                        + f"·*{seats}*<br>"
                     )
                 line += cell + "|"
                 display_seats += seats
@@ -303,7 +303,7 @@ class OverallReport:
             )
             other_seats = total_seats - display_seats
             if other_seats > 0:
-                line += f"Others·{other_seats}"
+                line += f"Others·*{other_seats}*"
             line += "|"
             lines.append(line)
         lines.append("")
