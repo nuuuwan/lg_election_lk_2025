@@ -65,12 +65,12 @@ class OverallReport:
             else party_name
         )
         if party_name.startswith("Independent"):
-            return f"⚫`{party_name_short} {lg_code}`"
+            return f"⚫{party_name_short} {lg_code}"
         return (
-            "`"
+            ""
             + OverallReport.get_party_emoji(party_name)
             + party_name_short
-            + "`"
+            + ""
         )
 
     @staticmethod
@@ -246,7 +246,7 @@ class OverallReport:
 
         if emoji is None:
             raise ValueError(f"Unknown LG type: {lg_type} in {lg_name}")
-        return f"{emoji}`{lg_name_only} {lg_type_short}`"
+        return f"{emoji}{lg_name_only} {lg_type_short}"
 
     @property
     def result_lines(self):
@@ -281,7 +281,7 @@ class OverallReport:
             )
             top_seats = party_result_data_list[0]["seats"]
 
-            line = f"| `{lg_code}` | {OverallReport.get_lg_short_name(lg_name)} ({total_seats}) |"
+            line = f"| {lg_code} | {OverallReport.get_lg_short_name(lg_name)} ({total_seats}) |"
 
             seats_to_data_list = {}
             for party_result_data in party_result_data_list:
