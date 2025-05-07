@@ -322,7 +322,7 @@ class OverallReport:
                     if is_majority:
                         cell_inner = f"**{cell_inner}✔️**"
 
-                    cell += cell_inner + " "
+                    cell += cell_inner + "<br>"
                 line += cell + "|"
             url = result["url"]
             other_seats = total_seats - displayed_seats
