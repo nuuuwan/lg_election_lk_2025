@@ -1,0 +1,61 @@
+{
+  "district_name": "Puttalam",
+  "lg_code": "257",
+  "lg_name": "Wennappuwa Pradeshiya Sabha",
+  "url": "https://results.elections.gov.lk/?page=lg_result&district=PUTTALAM&lg_code=257&lg_name=WENNAPPUWA-PRADESHIYA-SABHA",
+  "time_str": "2025-05-07 06:38:00",
+  "time_ut": 1746580080.0,
+  "summary_data": {
+    "electors": 119207,
+    "polled": 58180,
+    "valid": 57248,
+    "rejected": 932,
+    "p_turnout": 0.49,
+    "p_valid": 0.98,
+    "p_rejected": 0.02
+  },
+  "party_result_data_list": [
+    {
+      "party_name": "Jathika Jana Balawegaya",
+      "party_code": "NPP",
+      "votes": 29964,
+      "p_votes": 0.52,
+      "seats": 25
+    },
+    {
+      "party_name": "Samagi Jana Balawegaya",
+      "party_code": "SJB",
+      "votes": 11410,
+      "p_votes": 0.2,
+      "seats": 8
+    },
+    {
+      "party_name": "Sri Lanka Podujana Peramuna",
+      "party_code": "SLPP",
+      "votes": 10991,
+      "p_votes": 0.19,
+      "seats": 8
+    },
+    {
+      "party_name": "United National Party",
+      "party_code": "UNP",
+      "votes": 3011,
+      "p_votes": 0.05,
+      "seats": 2
+    },
+    {
+      "party_name": "Sarvajana Balaya",
+      "party_code": "SB",
+      "votes": 1687,
+      "p_votes": 0.03,
+      "seats": 1
+    },
+    {
+      "party_name": "People's Struggle Alliance",
+      "party_code": "PSA",
+      "votes": 185,
+      "p_votes": 0.0,
+      "seats": 0
+    }
+  ]
+}

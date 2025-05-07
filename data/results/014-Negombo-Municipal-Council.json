@@ -1,0 +1,145 @@
+{
+  "district_name": "Gampaha",
+  "lg_code": "014",
+  "lg_name": "Negombo Municipal Council",
+  "url": "https://results.elections.gov.lk/?page=lg_result&district=GAMPAHA&lg_code=014&lg_name=NEGOMBO-MUNICIPAL-COUNCIL",
+  "time_str": "2025-05-07 06:46:00",
+  "time_ut": 1746580560.0,
+  "summary_data": {
+    "electors": 117756,
+    "polled": 66704,
+    "valid": 65424,
+    "rejected": 1280,
+    "p_turnout": 0.57,
+    "p_valid": 0.98,
+    "p_rejected": 0.02
+  },
+  "party_result_data_list": [
+    {
+      "party_name": "Jathika Jana Balawegaya",
+      "party_code": "NPP",
+      "votes": 34949,
+      "p_votes": 0.53,
+      "seats": 27
+    },
+    {
+      "party_name": "Samagi Jana Balawegaya",
+      "party_code": "SJB",
+      "votes": 12718,
+      "p_votes": 0.19,
+      "seats": 9
+    },
+    {
+      "party_name": "Independent Group 10",
+      "party_code": "IND10",
+      "votes": 2437,
+      "p_votes": 0.04,
+      "seats": 2
+    },
+    {
+      "party_name": "Independent Group 4",
+      "party_code": "IND4",
+      "votes": 2398,
+      "p_votes": 0.04,
+      "seats": 2
+    },
+    {
+      "party_name": "Sri Lanka Podujana Peramuna",
+      "party_code": "SLPP",
+      "votes": 1904,
+      "p_votes": 0.03,
+      "seats": 1
+    },
+    {
+      "party_name": "Independent Group 5",
+      "party_code": "IND5",
+      "votes": 1642,
+      "p_votes": 0.03,
+      "seats": 1
+    },
+    {
+      "party_name": "Sri Lanka Muslim Congress",
+      "party_code": "SLMC",
+      "votes": 1600,
+      "p_votes": 0.02,
+      "seats": 1
+    },
+    {
+      "party_name": "Independent Group 8",
+      "party_code": "IND8",
+      "votes": 1124,
+      "p_votes": 0.02,
+      "seats": 1
+    },
+    {
+      "party_name": "Independent Group 9",
+      "party_code": "IND9",
+      "votes": 1065,
+      "p_votes": 0.02,
+      "seats": 1
+    },
+    {
+      "party_name": "Independent Group 7",
+      "party_code": "IND7",
+      "votes": 939,
+      "p_votes": 0.01,
+      "seats": 1
+    },
+    {
+      "party_name": "People's Alliance",
+      "party_code": "PA",
+      "votes": 902,
+      "p_votes": 0.01,
+      "seats": 1
+    },
+    {
+      "party_name": "Independent Group 2",
+      "party_code": "IND2",
+      "votes": 782,
+      "p_votes": 0.01,
+      "seats": 1
+    },
+    {
+      "party_name": "Independent Group 1",
+      "party_code": "IND1",
+      "votes": 702,
+      "p_votes": 0.01,
+      "seats": 1
+    },
+    {
+      "party_name": "National Freedom Front",
+      "party_code": "NFF",
+      "votes": 614,
+      "p_votes": 0.01,
+      "seats": 0
+    },
+    {
+      "party_name": "People's Struggle Alliance",
+      "party_code": "PSA",
+      "votes": 570,
+      "p_votes": 0.01,
+      "seats": 0
+    },
+    {
+      "party_name": "Independent Group 6",
+      "party_code": "IND6",
+      "votes": 456,
+      "p_votes": 0.01,
+      "seats": 0
+    },
+    {
+      "party_name": "Independent Group 3",
+      "party_code": "IND3",
+      "votes": 335,
+      "p_votes": 0.01,
+      "seats": 0
+    },
+    {
+      "party_name": "Independent Group 11",
+      "party_code": "IND11",
+      "votes": 287,
+      "p_votes": 0.0,
+      "seats": 0
+    }
+  ]
+}

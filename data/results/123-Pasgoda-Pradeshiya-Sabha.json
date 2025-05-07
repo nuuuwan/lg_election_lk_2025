@@ -1,0 +1,47 @@
+{
+  "district_name": "Matara",
+  "lg_code": "123",
+  "lg_name": "Pasgoda Pradeshiya Sabha",
+  "url": "https://results.elections.gov.lk/?page=lg_result&district=MATARA&lg_code=123&lg_name=PASGODA-PRADESHIYA-SABHA",
+  "time_str": "2025-05-07 06:53:00",
+  "time_ut": 1746580980.0,
+  "summary_data": {
+    "electors": 51395,
+    "polled": 29541,
+    "valid": 28887,
+    "rejected": 654,
+    "p_turnout": 0.57,
+    "p_valid": 0.98,
+    "p_rejected": 0.02
+  },
+  "party_result_data_list": [
+    {
+      "party_name": "Jathika Jana Balawegaya",
+      "party_code": "NPP",
+      "votes": 13839,
+      "p_votes": 0.48,
+      "seats": 16
+    },
+    {
+      "party_name": "Samagi Jana Balawegaya",
+      "party_code": "SJB",
+      "votes": 7744,
+      "p_votes": 0.27,
+      "seats": 7
+    },
+    {
+      "party_name": "Sri Lanka Podujana Peramuna",
+      "party_code": "SLPP",
+      "votes": 6157,
+      "p_votes": 0.21,
+      "seats": 6
+    },
+    {
+      "party_name": "Sarvajana Balaya",
+      "party_code": "SB",
+      "votes": 1147,
+      "p_votes": 0.04,
+      "seats": 1
+    }
+  ]
+}

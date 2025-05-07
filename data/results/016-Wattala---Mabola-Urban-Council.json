@@ -1,0 +1,61 @@
+{
+  "district_name": "Gampaha",
+  "lg_code": "016",
+  "lg_name": "Wattala   Mabola Urban Council",
+  "url": "https://results.elections.gov.lk/?page=lg_result&district=GAMPAHA&lg_code=016&lg_name=WATTALA---MABOLA-URBAN-COUNCIL",
+  "time_str": "2025-05-07 06:47:00",
+  "time_ut": 1746580620.0,
+  "summary_data": {
+    "electors": 21374,
+    "polled": 13170,
+    "valid": 12959,
+    "rejected": 211,
+    "p_turnout": 0.62,
+    "p_valid": 0.98,
+    "p_rejected": 0.02
+  },
+  "party_result_data_list": [
+    {
+      "party_name": "Jathika Jana Balawegaya",
+      "party_code": "NPP",
+      "votes": 4638,
+      "p_votes": 0.36,
+      "seats": 6
+    },
+    {
+      "party_name": "Samagi Jana Balawegaya",
+      "party_code": "SJB",
+      "votes": 4481,
+      "p_votes": 0.35,
+      "seats": 6
+    },
+    {
+      "party_name": "United National Party",
+      "party_code": "UNP",
+      "votes": 3248,
+      "p_votes": 0.25,
+      "seats": 4
+    },
+    {
+      "party_name": "People's Alliance",
+      "party_code": "PA",
+      "votes": 323,
+      "p_votes": 0.02,
+      "seats": 0
+    },
+    {
+      "party_name": "Sarvajana Balaya",
+      "party_code": "SB",
+      "votes": 238,
+      "p_votes": 0.02,
+      "seats": 0
+    },
+    {
+      "party_name": "Jana Setha Peramuna",
+      "party_code": "JSP",
+      "votes": 31,
+      "p_votes": 0.0,
+      "seats": 0
+    }
+  ]
+}
