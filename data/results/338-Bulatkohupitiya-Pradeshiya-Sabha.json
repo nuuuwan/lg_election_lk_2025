@@ -1,0 +1,75 @@
+{
+  "district_name": "Kegalle",
+  "lg_code": "338",
+  "lg_name": "Bulatkohupitiya Pradeshiya Sabha",
+  "url": "https://results.elections.gov.lk/?page=lg_result&district=KEGALLE&lg_code=338&lg_name=BULATKOHUPITIYA-PRADESHIYA-SABHA",
+  "time_str": "2025-05-07 07:35:00",
+  "time_ut": 1746583500.0,
+  "summary_data": {
+    "electors": 38991,
+    "polled": 25149,
+    "valid": 24531,
+    "rejected": 618,
+    "p_turnout": 0.64,
+    "p_valid": 0.98,
+    "p_rejected": 0.02
+  },
+  "party_result_data_list": [
+    {
+      "party_name": "Jathika Jana Balawegaya",
+      "party_code": "NPP",
+      "votes": 9370,
+      "p_votes": 0.38,
+      "seats": 8
+    },
+    {
+      "party_name": "Samagi Jana Balawegaya",
+      "party_code": "SJB",
+      "votes": 7106,
+      "p_votes": 0.29,
+      "seats": 5
+    },
+    {
+      "party_name": "Sri Lanka Podujana Peramuna",
+      "party_code": "SLPP",
+      "votes": 3391,
+      "p_votes": 0.14,
+      "seats": 3
+    },
+    {
+      "party_name": "Sarvajana Balaya",
+      "party_code": "SB",
+      "votes": 2320,
+      "p_votes": 0.09,
+      "seats": 2
+    },
+    {
+      "party_name": "People's Alliance",
+      "party_code": "PA",
+      "votes": 976,
+      "p_votes": 0.04,
+      "seats": 1
+    },
+    {
+      "party_name": "National Freedom Front",
+      "party_code": "NFF",
+      "votes": 628,
+      "p_votes": 0.03,
+      "seats": 0
+    },
+    {
+      "party_name": "Independent Group",
+      "party_code": "IND0",
+      "votes": 424,
+      "p_votes": 0.02,
+      "seats": 0
+    },
+    {
+      "party_name": "Democratic Peoples Front",
+      "party_code": "DPF",
+      "votes": 316,
+      "p_votes": 0.01,
+      "seats": 0
+    }
+  ]
+}

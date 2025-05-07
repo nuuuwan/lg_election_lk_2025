@@ -1,0 +1,75 @@
+{
+  "district_name": "Jaffna",
+  "lg_code": "154",
+  "lg_name": "Valikamam West Pradeshiya Sabha",
+  "url": "https://results.elections.gov.lk/?page=lg_result&district=JAFFNA&lg_code=154&lg_name=VALIKAMAM-WEST-PRADESHIYA-SABHA",
+  "time_str": "2025-05-07 07:20:00",
+  "time_ut": 1746582600.0,
+  "summary_data": {
+    "electors": 38756,
+    "polled": 21681,
+    "valid": 21175,
+    "rejected": 506,
+    "p_turnout": 0.56,
+    "p_valid": 0.98,
+    "p_rejected": 0.02
+  },
+  "party_result_data_list": [
+    {
+      "party_name": "Ilankai Tamil Arasu Kadchi",
+      "party_code": "ITAK",
+      "votes": 7364,
+      "p_votes": 0.35,
+      "seats": 10
+    },
+    {
+      "party_name": "All Ceylon Tamil Congress",
+      "party_code": "ACTC",
+      "votes": 4982,
+      "p_votes": 0.24,
+      "seats": 6
+    },
+    {
+      "party_name": "Jathika Jana Balawegaya",
+      "party_code": "NPP",
+      "votes": 3407,
+      "p_votes": 0.16,
+      "seats": 4
+    },
+    {
+      "party_name": "Democratic Tamil National Alliance",
+      "party_code": "DTNA",
+      "votes": 2026,
+      "p_votes": 0.1,
+      "seats": 2
+    },
+    {
+      "party_name": "Eelam People's Democratic Party",
+      "party_code": "EPDP",
+      "votes": 1386,
+      "p_votes": 0.07,
+      "seats": 2
+    },
+    {
+      "party_name": "United National Party",
+      "party_code": "UNP",
+      "votes": 809,
+      "p_votes": 0.04,
+      "seats": 1
+    },
+    {
+      "party_name": "Independent Group",
+      "party_code": "IND0",
+      "votes": 702,
+      "p_votes": 0.03,
+      "seats": 1
+    },
+    {
+      "party_name": "Samagi Jana Balawegaya",
+      "party_code": "SJB",
+      "votes": 499,
+      "p_votes": 0.02,
+      "seats": 0
+    }
+  ]
+}

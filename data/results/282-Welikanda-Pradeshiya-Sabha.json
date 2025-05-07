@@ -1,0 +1,54 @@
+{
+  "district_name": "Polonnaruwa",
+  "lg_code": "282",
+  "lg_name": "Welikanda Pradeshiya Sabha",
+  "url": "https://results.elections.gov.lk/?page=lg_result&district=POLONNARUWA&lg_code=282&lg_name=WELIKANDA-PRADESHIYA-SABHA",
+  "time_str": "2025-05-07 07:39:00",
+  "time_ut": 1746583740.0,
+  "summary_data": {
+    "electors": 29186,
+    "polled": 18951,
+    "valid": 18580,
+    "rejected": 371,
+    "p_turnout": 0.65,
+    "p_valid": 0.98,
+    "p_rejected": 0.02
+  },
+  "party_result_data_list": [
+    {
+      "party_name": "Jathika Jana Balawegaya",
+      "party_code": "NPP",
+      "votes": 8259,
+      "p_votes": 0.44,
+      "seats": 8
+    },
+    {
+      "party_name": "Samagi Jana Balawegaya",
+      "party_code": "SJB",
+      "votes": 4919,
+      "p_votes": 0.26,
+      "seats": 4
+    },
+    {
+      "party_name": "Sri Lanka Podujana Peramuna",
+      "party_code": "SLPP",
+      "votes": 1972,
+      "p_votes": 0.11,
+      "seats": 2
+    },
+    {
+      "party_name": "People's Alliance",
+      "party_code": "PA",
+      "votes": 1940,
+      "p_votes": 0.1,
+      "seats": 2
+    },
+    {
+      "party_name": "United National Party",
+      "party_code": "UNP",
+      "votes": 1490,
+      "p_votes": 0.08,
+      "seats": 1
+    }
+  ]
+}

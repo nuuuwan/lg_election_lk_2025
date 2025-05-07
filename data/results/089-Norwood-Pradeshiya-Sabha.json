@@ -1,0 +1,68 @@
+{
+  "district_name": "Nuwaraeliya",
+  "lg_code": "089",
+  "lg_name": "Norwood Pradeshiya Sabha",
+  "url": "https://results.elections.gov.lk/?page=lg_result&district=NUWARAELIYA&lg_code=089&lg_name=NORWOOD-PRADESHIYA-SABHA",
+  "time_str": "2025-05-07 07:44:00",
+  "time_ut": 1746584040.0,
+  "summary_data": {
+    "electors": 66826,
+    "polled": 42983,
+    "valid": 41916,
+    "rejected": 1067,
+    "p_turnout": 0.64,
+    "p_valid": 0.98,
+    "p_rejected": 0.02
+  },
+  "party_result_data_list": [
+    {
+      "party_name": "Ceylon Worker's Congress (P. Wing)",
+      "party_code": "CWC",
+      "votes": 13040,
+      "p_votes": 0.31,
+      "seats": 6
+    },
+    {
+      "party_name": "Jathika Jana Balawegaya",
+      "party_code": "NPP",
+      "votes": 12200,
+      "p_votes": 0.29,
+      "seats": 6
+    },
+    {
+      "party_name": "Samagi Jana Balawegaya",
+      "party_code": "SJB",
+      "votes": 10181,
+      "p_votes": 0.24,
+      "seats": 5
+    },
+    {
+      "party_name": "United National Party",
+      "party_code": "UNP",
+      "votes": 2438,
+      "p_votes": 0.06,
+      "seats": 1
+    },
+    {
+      "party_name": "Democratic National Alliance",
+      "party_code": "DNA",
+      "votes": 2147,
+      "p_votes": 0.05,
+      "seats": 1
+    },
+    {
+      "party_name": "Independent Group",
+      "party_code": "IND1",
+      "votes": 1050,
+      "p_votes": 0.03,
+      "seats": 1
+    },
+    {
+      "party_name": "Sarvajana Balaya",
+      "party_code": "SB",
+      "votes": 860,
+      "p_votes": 0.02,
+      "seats": 0
+    }
+  ]
+}

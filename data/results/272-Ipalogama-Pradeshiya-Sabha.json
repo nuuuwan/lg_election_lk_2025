@@ -1,0 +1,61 @@
+{
+  "district_name": "Anuradhapura",
+  "lg_code": "272",
+  "lg_name": "Ipalogama Pradeshiya Sabha",
+  "url": "https://results.elections.gov.lk/?page=lg_result&district=ANURADHAPURA&lg_code=272&lg_name=IPALOGAMA-PRADESHIYA-SABHA",
+  "time_str": "2025-05-07 07:30:00",
+  "time_ut": 1746583200.0,
+  "summary_data": {
+    "electors": 34448,
+    "polled": 21679,
+    "valid": 21340,
+    "rejected": 339,
+    "p_turnout": 0.63,
+    "p_valid": 0.98,
+    "p_rejected": 0.02
+  },
+  "party_result_data_list": [
+    {
+      "party_name": "Jathika Jana Balawegaya",
+      "party_code": "NPP",
+      "votes": 10817,
+      "p_votes": 0.51,
+      "seats": 8
+    },
+    {
+      "party_name": "Samagi Jana Balawegaya",
+      "party_code": "SJB",
+      "votes": 6283,
+      "p_votes": 0.29,
+      "seats": 5
+    },
+    {
+      "party_name": "United National Party",
+      "party_code": "UNP",
+      "votes": 1811,
+      "p_votes": 0.08,
+      "seats": 1
+    },
+    {
+      "party_name": "Sri Lanka Podujana Peramuna",
+      "party_code": "SLPP",
+      "votes": 1092,
+      "p_votes": 0.05,
+      "seats": 1
+    },
+    {
+      "party_name": "Sarvajana Balaya",
+      "party_code": "SB",
+      "votes": 741,
+      "p_votes": 0.03,
+      "seats": 1
+    },
+    {
+      "party_name": "People's Alliance",
+      "party_code": "PA",
+      "votes": 596,
+      "p_votes": 0.03,
+      "seats": 0
+    }
+  ]
+}

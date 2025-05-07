@@ -1,0 +1,82 @@
+{
+  "district_name": "Kegalle",
+  "lg_code": "339",
+  "lg_name": "Ruwanwella Pradeshiya Sabha",
+  "url": "https://results.elections.gov.lk/?page=lg_result&district=KEGALLE&lg_code=339&lg_name=RUWANWELLA-PRADESHIYA-SABHA",
+  "time_str": "2025-05-07 07:27:00",
+  "time_ut": 1746583020.0,
+  "summary_data": {
+    "electors": 53561,
+    "polled": 34016,
+    "valid": 33286,
+    "rejected": 730,
+    "p_turnout": 0.64,
+    "p_valid": 0.98,
+    "p_rejected": 0.02
+  },
+  "party_result_data_list": [
+    {
+      "party_name": "Jathika Jana Balawegaya",
+      "party_code": "NPP",
+      "votes": 15245,
+      "p_votes": 0.46,
+      "seats": 17
+    },
+    {
+      "party_name": "Samagi Jana Balawegaya",
+      "party_code": "SJB",
+      "votes": 9328,
+      "p_votes": 0.28,
+      "seats": 8
+    },
+    {
+      "party_name": "Sri Lanka Podujana Peramuna",
+      "party_code": "SLPP",
+      "votes": 3230,
+      "p_votes": 0.1,
+      "seats": 3
+    },
+    {
+      "party_name": "Independent Group",
+      "party_code": "IND1",
+      "votes": 1623,
+      "p_votes": 0.05,
+      "seats": 1
+    },
+    {
+      "party_name": "United National Party",
+      "party_code": "UNP",
+      "votes": 1448,
+      "p_votes": 0.04,
+      "seats": 1
+    },
+    {
+      "party_name": "People's Alliance",
+      "party_code": "PA",
+      "votes": 939,
+      "p_votes": 0.03,
+      "seats": 1
+    },
+    {
+      "party_name": "Sarvajana Balaya",
+      "party_code": "SB",
+      "votes": 674,
+      "p_votes": 0.02,
+      "seats": 1
+    },
+    {
+      "party_name": "National Freedom Front",
+      "party_code": "NFF",
+      "votes": 458,
+      "p_votes": 0.01,
+      "seats": 0
+    },
+    {
+      "party_name": "People's Struggle Alliance",
+      "party_code": "PSA",
+      "votes": 341,
+      "p_votes": 0.01,
+      "seats": 0
+    }
+  ]
+}

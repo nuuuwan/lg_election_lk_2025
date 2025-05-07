@@ -1,0 +1,82 @@
+{
+  "district_name": "Polonnaruwa",
+  "lg_code": "278",
+  "lg_name": "Elahera Pradeshiya Sabha",
+  "url": "https://results.elections.gov.lk/?page=lg_result&district=POLONNARUWA&lg_code=278&lg_name=ELAHERA-PRADESHIYA-SABHA",
+  "time_str": "2025-05-07 07:46:00",
+  "time_ut": 1746584160.0,
+  "summary_data": {
+    "electors": 39865,
+    "polled": 24795,
+    "valid": 24329,
+    "rejected": 466,
+    "p_turnout": 0.62,
+    "p_valid": 0.98,
+    "p_rejected": 0.02
+  },
+  "party_result_data_list": [
+    {
+      "party_name": "Jathika Jana Balawegaya",
+      "party_code": "NPP",
+      "votes": 12344,
+      "p_votes": 0.51,
+      "seats": 10
+    },
+    {
+      "party_name": "Samagi Jana Balawegaya",
+      "party_code": "SJB",
+      "votes": 5846,
+      "p_votes": 0.24,
+      "seats": 4
+    },
+    {
+      "party_name": "Sri Lanka Podujana Peramuna",
+      "party_code": "SLPP",
+      "votes": 2088,
+      "p_votes": 0.09,
+      "seats": 1
+    },
+    {
+      "party_name": "Independent Group 2",
+      "party_code": "IND2",
+      "votes": 1450,
+      "p_votes": 0.06,
+      "seats": 1
+    },
+    {
+      "party_name": "People's Alliance",
+      "party_code": "PA",
+      "votes": 874,
+      "p_votes": 0.04,
+      "seats": 1
+    },
+    {
+      "party_name": "United National Party",
+      "party_code": "UNP",
+      "votes": 726,
+      "p_votes": 0.03,
+      "seats": 1
+    },
+    {
+      "party_name": "Independent Group 1",
+      "party_code": "IND1",
+      "votes": 419,
+      "p_votes": 0.02,
+      "seats": 0
+    },
+    {
+      "party_name": "People's Struggle Alliance",
+      "party_code": "PSA",
+      "votes": 360,
+      "p_votes": 0.01,
+      "seats": 0
+    },
+    {
+      "party_name": "Independent Group 3",
+      "party_code": "IND3",
+      "votes": 222,
+      "p_votes": 0.01,
+      "seats": 0
+    }
+  ]
+}

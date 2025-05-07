@@ -1,0 +1,54 @@
+{
+  "district_name": "Jaffna",
+  "lg_code": "157",
+  "lg_name": "Walikamam South Pradeshiya Sabha",
+  "url": "https://results.elections.gov.lk/?page=lg_result&district=JAFFNA&lg_code=157&lg_name=WALIKAMAM-SOUTH-PRADESHIYA-SABHA",
+  "time_str": "2025-05-07 07:25:00",
+  "time_ut": 1746582900.0,
+  "summary_data": {
+    "electors": 40408,
+    "polled": 23753,
+    "valid": 23374,
+    "rejected": 379,
+    "p_turnout": 0.59,
+    "p_valid": 0.98,
+    "p_rejected": 0.02
+  },
+  "party_result_data_list": [
+    {
+      "party_name": "Ilankai Tamil Arasu Kadchi",
+      "party_code": "ITAK",
+      "votes": 9216,
+      "p_votes": 0.39,
+      "seats": 13
+    },
+    {
+      "party_name": "Democratic Tamil National Alliance",
+      "party_code": "DTNA",
+      "votes": 5171,
+      "p_votes": 0.22,
+      "seats": 6
+    },
+    {
+      "party_name": "All Ceylon Tamil Congress",
+      "party_code": "ACTC",
+      "votes": 4471,
+      "p_votes": 0.19,
+      "seats": 6
+    },
+    {
+      "party_name": "Jathika Jana Balawegaya",
+      "party_code": "NPP",
+      "votes": 3956,
+      "p_votes": 0.17,
+      "seats": 5
+    },
+    {
+      "party_name": "Eelam People's Democratic Party",
+      "party_code": "EPDP",
+      "votes": 560,
+      "p_votes": 0.02,
+      "seats": 1
+    }
+  ]
+}

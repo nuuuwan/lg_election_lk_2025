@@ -1,0 +1,68 @@
+{
+  "district_name": "Ratnapura",
+  "lg_code": "325",
+  "lg_name": "Niwitigala Pradeshiya Sabha",
+  "url": "https://results.elections.gov.lk/?page=lg_result&district=RATNAPURA&lg_code=325&lg_name=NIWITIGALA-PRADESHIYA-SABHA",
+  "time_str": "2025-05-07 07:22:00",
+  "time_ut": 1746582720.0,
+  "summary_data": {
+    "electors": 81056,
+    "polled": 50257,
+    "valid": 49186,
+    "rejected": 1071,
+    "p_turnout": 0.62,
+    "p_valid": 0.98,
+    "p_rejected": 0.02
+  },
+  "party_result_data_list": [
+    {
+      "party_name": "Jathika Jana Balawegaya",
+      "party_code": "NPP",
+      "votes": 17889,
+      "p_votes": 0.36,
+      "seats": 9
+    },
+    {
+      "party_name": "Samagi Jana Balawegaya",
+      "party_code": "SJB",
+      "votes": 15016,
+      "p_votes": 0.31,
+      "seats": 7
+    },
+    {
+      "party_name": "Sri Lanka Podujana Peramuna",
+      "party_code": "SLPP",
+      "votes": 8343,
+      "p_votes": 0.17,
+      "seats": 4
+    },
+    {
+      "party_name": "United National Party",
+      "party_code": "UNP",
+      "votes": 3974,
+      "p_votes": 0.08,
+      "seats": 2
+    },
+    {
+      "party_name": "People's Alliance",
+      "party_code": "PA",
+      "votes": 2021,
+      "p_votes": 0.04,
+      "seats": 1
+    },
+    {
+      "party_name": "National Freedom Front",
+      "party_code": "NFF",
+      "votes": 1170,
+      "p_votes": 0.02,
+      "seats": 1
+    },
+    {
+      "party_name": "Sarvajana Balaya",
+      "party_code": "SB",
+      "votes": 773,
+      "p_votes": 0.02,
+      "seats": 0
+    }
+  ]
+}

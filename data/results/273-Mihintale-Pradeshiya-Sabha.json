@@ -1,0 +1,68 @@
+{
+  "district_name": "Anuradhapura",
+  "lg_code": "273",
+  "lg_name": "Mihintale Pradeshiya Sabha",
+  "url": "https://results.elections.gov.lk/?page=lg_result&district=ANURADHAPURA&lg_code=273&lg_name=MIHINTALE-PRADESHIYA-SABHA",
+  "time_str": "2025-05-07 07:32:00",
+  "time_ut": 1746583320.0,
+  "summary_data": {
+    "electors": 28425,
+    "polled": 19393,
+    "valid": 19075,
+    "rejected": 318,
+    "p_turnout": 0.68,
+    "p_valid": 0.98,
+    "p_rejected": 0.02
+  },
+  "party_result_data_list": [
+    {
+      "party_name": "Jathika Jana Balawegaya",
+      "party_code": "NPP",
+      "votes": 9472,
+      "p_votes": 0.5,
+      "seats": 10
+    },
+    {
+      "party_name": "Samagi Jana Balawegaya",
+      "party_code": "SJB",
+      "votes": 3834,
+      "p_votes": 0.2,
+      "seats": 3
+    },
+    {
+      "party_name": "Sri Lanka Podujana Peramuna",
+      "party_code": "SLPP",
+      "votes": 1735,
+      "p_votes": 0.09,
+      "seats": 1
+    },
+    {
+      "party_name": "People's Alliance",
+      "party_code": "PA",
+      "votes": 1609,
+      "p_votes": 0.08,
+      "seats": 1
+    },
+    {
+      "party_name": "United National Party",
+      "party_code": "UNP",
+      "votes": 1186,
+      "p_votes": 0.06,
+      "seats": 1
+    },
+    {
+      "party_name": "Independent Group",
+      "party_code": "IND7",
+      "votes": 666,
+      "p_votes": 0.03,
+      "seats": 1
+    },
+    {
+      "party_name": "Sarvajana Balaya",
+      "party_code": "SB",
+      "votes": 573,
+      "p_votes": 0.03,
+      "seats": 1
+    }
+  ]
+}

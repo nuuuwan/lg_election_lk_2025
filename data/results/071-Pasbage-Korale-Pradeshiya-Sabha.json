@@ -1,0 +1,89 @@
+{
+  "district_name": "Kandy",
+  "lg_code": "071",
+  "lg_name": "Pasbage Korale Pradeshiya Sabha",
+  "url": "https://results.elections.gov.lk/?page=lg_result&district=KANDY&lg_code=071&lg_name=PASBAGE-KORALE-PRADESHIYA-SABHA",
+  "time_str": "2025-05-07 07:33:00",
+  "time_ut": 1746583380.0,
+  "summary_data": {
+    "electors": 42191,
+    "polled": 26760,
+    "valid": 25805,
+    "rejected": 955,
+    "p_turnout": 0.63,
+    "p_valid": 0.96,
+    "p_rejected": 0.04
+  },
+  "party_result_data_list": [
+    {
+      "party_name": "Jathika Jana Balawegaya",
+      "party_code": "NPP",
+      "votes": 11946,
+      "p_votes": 0.46,
+      "seats": 10
+    },
+    {
+      "party_name": "Samagi Jana Balawegaya",
+      "party_code": "SJB",
+      "votes": 3764,
+      "p_votes": 0.15,
+      "seats": 3
+    },
+    {
+      "party_name": "Independent Group 1",
+      "party_code": "IND1",
+      "votes": 3473,
+      "p_votes": 0.13,
+      "seats": 3
+    },
+    {
+      "party_name": "Independent Group 2",
+      "party_code": "IND2",
+      "votes": 2271,
+      "p_votes": 0.09,
+      "seats": 2
+    },
+    {
+      "party_name": "United National Alliance",
+      "party_code": "UNA",
+      "votes": 946,
+      "p_votes": 0.04,
+      "seats": 1
+    },
+    {
+      "party_name": "United National Party",
+      "party_code": "UNP",
+      "votes": 911,
+      "p_votes": 0.04,
+      "seats": 1
+    },
+    {
+      "party_name": "Sri Lanka Podujana Peramuna",
+      "party_code": "SLPP",
+      "votes": 846,
+      "p_votes": 0.03,
+      "seats": 1
+    },
+    {
+      "party_name": "Sarvajana Balaya",
+      "party_code": "SB",
+      "votes": 617,
+      "p_votes": 0.02,
+      "seats": 0
+    },
+    {
+      "party_name": "Ceylon Worker's Congress (P. Wing)",
+      "party_code": "CWC",
+      "votes": 547,
+      "p_votes": 0.02,
+      "seats": 0
+    },
+    {
+      "party_name": "People's Alliance",
+      "party_code": "PA",
+      "votes": 484,
+      "p_votes": 0.02,
+      "seats": 0
+    }
+  ]
+}
