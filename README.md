@@ -1,6 +1,6 @@
 # Sri Lankan Local Government Elections - 2025 🇱🇰
 
-As of 2025-05-07 10:18:22
+As of 2025-05-07 10:20:04
 
 *Scraped from [results.elections.gov.lk](https://results.elections.gov.lk)*
 
@@ -8,19 +8,19 @@ As of 2025-05-07 10:18:22
 
 | Results Released | % Released (By Votes) | % Turnout | % Rejected |
 |--:|--:|--:|--:|
-|314/339|88.6%|61.9%|1.97%|
+|315/339|89.1%|61.9%|1.97%|
 
 ## Islandwide (Top 10 by Seats)
 
 | Party |  *Seats* | *%* | Votes | %  | LG's with<br>Most Votes | **LGs with<br>>50% Seats** |
 |---|--:|--:|--:|--:|--:|--:|
-|🔴Jathika Jana Balawegaya|*3,550*|*45%*|4,033,645|43%|246|**111**|
-|🟢Samagi Jana Balawegaya|*1,579*|*20%*|1,995,194|21%|11||
-|🟣Sri Lanka Podujana Peramuna|*688*|*9%*|879,723|9%|||
-|🟡Ilankai Tamil Arasu Kadchi|*360*|*5%*|287,814|3%|35|**3**|
-|🟩United National Party|*339*|*4%*|417,419|4%|||
-|🟦People's Alliance|*273*|*3%*|330,940|4%|||
-|🔵Sarvajana Balaya|*201*|*3%*|241,433|3%|||
+|🔴Jathika Jana Balawegaya|*3,571*|*45%*|4,058,167|43%|247|**112**|
+|🟢Samagi Jana Balawegaya|*1,587*|*20%*|2,005,810|21%|11||
+|🟣Sri Lanka Podujana Peramuna|*691*|*9%*|884,450|9%|||
+|🟡Ilankai Tamil Arasu Kadchi|*360*|*4%*|287,814|3%|35|**3**|
+|🟩United National Party|*342*|*4%*|421,540|5%|||
+|🟦People's Alliance|*274*|*3%*|332,341|4%|||
+|🔵Sarvajana Balaya|*202*|*3%*|242,364|3%|||
 |⚪Sri Lanka Muslim Congress|*102*|*1%*|118,652|1%|5|**1**|
 |⚪Democratic Tamil National Alliance|*100*|*1%*|82,178|1%|1||
 |⚪All Ceylon Tamil Congress|*96*|*1%*|62,668|1%|3||
@@ -68,7 +68,7 @@ As of 2025-05-07 10:18:22
 |Batticaloa|🟡ITAK·*36%*<br>|🔴JJB·*17%*<br>|⚪TMVP·*16%*<br>|Others·*31%*|
 |Ampara|🔴JJB·*31%*<br>|🟢SJB·*13%*<br>|⚪SLMC·*11%*<br>|Others·*45%*|
 |Trincomalee|🔴JJB·*31%*<br>|🟡ITAK·*17%*<br>|🟢SJB·*15%*<br>|Others·*37%*|
-|Kurunegala|🔴JJB·*50%*<br>|🟢SJB·*25%*<br>|🟣SLPP·*12%*<br>|Others·*13%*|
+|Kurunegala|🔴JJB·*50%*<br>|🟢SJB·*25%*<br>|🟣SLPP·*11%*<br>|Others·*14%*|
 |Puttalam|🔴JJB·*45%*<br>|🟢SJB·*22%*<br>|🟣SLPP·*11%*<br>|Others·*22%*|
 |Anuradhapura|🔴JJB·*54%*<br>|🟢SJB·*22%*<br>|🟣SLPP·*9%*<br>|Others·*15%*|
 |Polonnaruwa|🔴JJB·*55%*<br>|🟢SJB·*23%*<br>|🟣SLPP·*7%*<br>|Others·*15%*|
@@ -392,6 +392,7 @@ As of 2025-05-07 10:18:22
 | [240](https://results.elections.gov.lk/?page=lg_result&district=KURUNEGALA&lg_code=240&lg_name=ALAWWA-PRADESHIYA-SABHA) | 🏡Alawwa PS·*26*|🔴JJB·*13*<br>|🟢SJB·*5*<br>|🟣SLPP·*3*<br>|Others·*5*|
 | [243](https://results.elections.gov.lk/?page=lg_result&district=KURUNEGALA&lg_code=243&lg_name=KURUNEGALA-PRADESHIYA-SABHA) | 🏡Kurunegala PS·*42*|**🔴JJB·*24***<br>|🟢SJB·*10*<br>|🟣SLPP·*3*<br>⚫IG-243·*3*<br>|Others·*2*|
 | [244](https://results.elections.gov.lk/?page=lg_result&district=KURUNEGALA&lg_code=244&lg_name=MAWATHAGAMA-PRADESHIYA-SABHA) | 🏡Mawathagama PS·*26*|🔴JJB·*12*<br>|🟢SJB·*8*<br>|🟣SLPP·*4*<br>|Others·*2*|
+| [245](https://results.elections.gov.lk/?page=lg_result&district=KURUNEGALA&lg_code=245&lg_name=RIDEEGAMA-PRADESHIYA-SABHA) | 🏡Rideegama PS·*39*|**🔴JJB·*21***<br>|🟢SJB·*8*<br>|🟣SLPP·*3*<br>🟩UNP·*3*<br>|Others·*4*|
 
 ### Puttalam
 
