@@ -32,7 +32,8 @@ class HomePage(WebPage):
         # HACK
         results_url_list.extend(
             [
-                "https://results.elections.gov.lk/?page=lg_result&district=COLOMBO&lg_code=008&lg_name=MAHARAGAMA--URBAN-COUNCIL"
+                "https://results.elections.gov.lk/?page=lg_result&district=COLOMBO&lg_code=008&lg_name=MAHARAGAMA--URBAN-COUNCIL",
+                "https://results.elections.gov.lk/index.php?page=lg_result&district=TRINCOMALEE&lg_code=213&lg_name=KINNIYA-URBAN-COUNCIL",
             ]
         )
 
