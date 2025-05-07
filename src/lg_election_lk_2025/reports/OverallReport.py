@@ -65,7 +65,7 @@ class OverallReport:
             else party_name
         )
         if party_name.startswith("Independent"):
-            return f"⚫{party_name_short} {lg_code}"
+            return f"⚫{party_name_short}-{lg_code}"
         return (
             ""
             + OverallReport.get_party_emoji(party_name)
