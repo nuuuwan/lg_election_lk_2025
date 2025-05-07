@@ -27,11 +27,45 @@ class OverallReport:
 
         return lines
 
+    @staticmethod
+    def hypothetical_hack(result_data):
+        idx = {}
+        for party_result_data in result_data["party_result_data_list"]:
+            new_party_name = party_result_data["party_name"]
+            # if new_party_name in [
+            #     "Samagi Jana Balawegaya",
+            #     "United National Party",
+            # ]:
+            #     new_party_name = "Blue Green Alliance "
+
+            # if new_party_name in [
+            #     "Sri Lanka Podujana Peramuna",
+            #     "Sarvajana Balaya",
+            #     "People's Alliance",
+            # ]:
+            #     new_party_name = "Blue Green Alliance "
+
+            if new_party_name not in idx:
+                idx[new_party_name] = {
+                    "party_name": new_party_name,
+                    "seats": 0,
+                    "votes": 0,
+                }
+            idx[new_party_name]["seats"] += party_result_data["seats"]
+            idx[new_party_name]["votes"] += party_result_data["votes"]
+
+        result_data["party_result_data_list"] = list(idx.values())
+        result_data["party_result_data_list"].sort(
+            key=lambda x: (x["seats"], x["votes"]), reverse=True
+        )
+        return result_data
+
     def get_result_list(self, n_latest=None):
         result_list = []
         for file_name in os.listdir(os.path.join("data", "results")):
             file_path = os.path.join("data", "results", file_name)
             result_data = JSONFile(file_path).read()
+            result_data = OverallReport.hypothetical_hack(result_data)
             result_list.append(result_data)
         if n_latest is not None:
             result_list.sort(key=lambda x: x["time_ut"], reverse=True)
@@ -70,8 +104,10 @@ class OverallReport:
             if use_short
             else party_name
         )
+
         if party_name.startswith("Independent"):
             return f"⚫{party_name_short}-{lg_code}"
+
         return (
             ""
             + OverallReport.get_party_emoji(party_name)
