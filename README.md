@@ -1,6 +1,6 @@
 # Sri Lankan Local Government Elections - 2025 🇱🇰
 
-As of 2025-05-07 11:08:53
+As of 2025-05-07 11:10:20
 
 *Scraped from [results.elections.gov.lk](https://results.elections.gov.lk)*
 
