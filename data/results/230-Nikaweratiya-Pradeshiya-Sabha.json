@@ -1,0 +1,54 @@
+{
+  "district_name": "Kurunegala",
+  "lg_code": "230",
+  "lg_name": "Nikaweratiya Pradeshiya Sabha",
+  "url": "https://results.elections.gov.lk/?page=lg_result&district=KURUNEGALA&lg_code=230&lg_name=NIKAWERATIYA-PRADESHIYA-SABHA",
+  "time_str": "2025-05-07 08:40:00",
+  "time_ut": 1746587400.0,
+  "summary_data": {
+    "electors": 75947,
+    "polled": 46327,
+    "valid": 45744,
+    "rejected": 583,
+    "p_turnout": 0.61,
+    "p_valid": 0.99,
+    "p_rejected": 0.01
+  },
+  "party_result_data_list": [
+    {
+      "party_name": "Jathika Jana Balawegaya",
+      "party_code": "NPP",
+      "votes": 22619,
+      "p_votes": 0.49,
+      "seats": 21
+    },
+    {
+      "party_name": "Samagi Jana Balawegaya",
+      "party_code": "SJB",
+      "votes": 12280,
+      "p_votes": 0.27,
+      "seats": 9
+    },
+    {
+      "party_name": "Sri Lanka Podujana Peramuna",
+      "party_code": "SLPP",
+      "votes": 7348,
+      "p_votes": 0.16,
+      "seats": 6
+    },
+    {
+      "party_name": "United National Party",
+      "party_code": "UNP",
+      "votes": 2058,
+      "p_votes": 0.04,
+      "seats": 2
+    },
+    {
+      "party_name": "Sarvajana Balaya",
+      "party_code": "SB",
+      "votes": 1439,
+      "p_votes": 0.03,
+      "seats": 1
+    }
+  ]
+}
