@@ -1,0 +1,61 @@
+{
+  "district_name": "Kurunegala",
+  "lg_code": "226",
+  "lg_name": "Kuliyapitiya Urban Council",
+  "url": "https://results.elections.gov.lk/?page=lg_result&district=KURUNEGALA&lg_code=226&lg_name=KULIYAPITIYA-URBAN-COUNCIL",
+  "time_str": "2025-05-07 11:25:00",
+  "time_ut": 1746597300.0,
+  "summary_data": {
+    "electors": 4049,
+    "polled": 3000,
+    "valid": 2951,
+    "rejected": 49,
+    "p_turnout": 0.74,
+    "p_valid": 0.98,
+    "p_rejected": 0.02
+  },
+  "party_result_data_list": [
+    {
+      "party_name": "Jathika Jana Balawegaya",
+      "party_code": "NPP",
+      "votes": 1107,
+      "p_votes": 0.38,
+      "seats": 6
+    },
+    {
+      "party_name": "Samagi Jana Balawegaya",
+      "party_code": "SJB",
+      "votes": 877,
+      "p_votes": 0.3,
+      "seats": 5
+    },
+    {
+      "party_name": "United National Party",
+      "party_code": "UNP",
+      "votes": 625,
+      "p_votes": 0.21,
+      "seats": 3
+    },
+    {
+      "party_name": "Sri Lanka Podujana Peramuna",
+      "party_code": "SLPP",
+      "votes": 208,
+      "p_votes": 0.07,
+      "seats": 1
+    },
+    {
+      "party_name": "People's Alliance",
+      "party_code": "PA",
+      "votes": 114,
+      "p_votes": 0.04,
+      "seats": 1
+    },
+    {
+      "party_name": "Sarvajana Balaya",
+      "party_code": "SB",
+      "votes": 20,
+      "p_votes": 0.01,
+      "seats": 0
+    }
+  ]
+}

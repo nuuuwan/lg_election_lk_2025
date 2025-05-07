@@ -1,0 +1,82 @@
+{
+  "district_name": "Kurunegala",
+  "lg_code": "232",
+  "lg_name": "Mahawa Pradeshiya Sabha",
+  "url": "https://results.elections.gov.lk/?page=lg_result&district=KURUNEGALA&lg_code=232&lg_name=MAHAWA-PRADESHIYA-SABHA",
+  "time_str": "2025-05-07 11:24:00",
+  "time_ut": 1746597240.0,
+  "summary_data": {
+    "electors": 74136,
+    "polled": 46092,
+    "valid": 45434,
+    "rejected": 658,
+    "p_turnout": 0.62,
+    "p_valid": 0.99,
+    "p_rejected": 0.01
+  },
+  "party_result_data_list": [
+    {
+      "party_name": "Jathika Jana Balawegaya",
+      "party_code": "NPP",
+      "votes": 21249,
+      "p_votes": 0.47,
+      "seats": 19
+    },
+    {
+      "party_name": "Samagi Jana Balawegaya",
+      "party_code": "SJB",
+      "votes": 10714,
+      "p_votes": 0.24,
+      "seats": 8
+    },
+    {
+      "party_name": "Sri Lanka Podujana Peramuna",
+      "party_code": "SLPP",
+      "votes": 4795,
+      "p_votes": 0.11,
+      "seats": 3
+    },
+    {
+      "party_name": "Freedom Peoples Front",
+      "party_code": "FPF",
+      "votes": 2456,
+      "p_votes": 0.05,
+      "seats": 2
+    },
+    {
+      "party_name": "United National Party",
+      "party_code": "UNP",
+      "votes": 2174,
+      "p_votes": 0.05,
+      "seats": 2
+    },
+    {
+      "party_name": "Independent Group",
+      "party_code": "IND0",
+      "votes": 1655,
+      "p_votes": 0.04,
+      "seats": 1
+    },
+    {
+      "party_name": "Sri Lanka Mahajana Pakshaya",
+      "party_code": "SLMP",
+      "votes": 1379,
+      "p_votes": 0.03,
+      "seats": 1
+    },
+    {
+      "party_name": "Sarvajana Balaya",
+      "party_code": "SB",
+      "votes": 731,
+      "p_votes": 0.02,
+      "seats": 1
+    },
+    {
+      "party_name": "People's Struggle Alliance",
+      "party_code": "PSA",
+      "votes": 281,
+      "p_votes": 0.01,
+      "seats": 0
+    }
+  ]
+}
