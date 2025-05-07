@@ -279,9 +279,12 @@ class OverallReport:
                 party_result_data["seats"]
                 for party_result_data in party_result_data_list
             )
-            top_seats = party_result_data_list[0]["seats"]
 
-            line = f"| {lg_code} | {OverallReport.get_lg_short_name(lg_name)} ({total_seats}) |"
+            line = (
+                f"| {lg_code} | "
+                + f"{OverallReport.get_lg_short_name(lg_name)} "
+                + "f({total_seats}) |"
+            )
 
             seats_to_data_list = {}
             for party_result_data in party_result_data_list:
@@ -298,6 +301,8 @@ class OverallReport:
 
             displayed_seats = 0
             for i in range(0, 3):
+                if len(seats_and_data_list) <= i:
+                    break
                 seats, party_result_data_list_for_seats = seats_and_data_list[i]
                 if seats == 0:
                     break

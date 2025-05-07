@@ -147,6 +147,13 @@ class ResultPage(WebPage):
             return
 
         result = self.get_result()
+        lg_name = result["lg_name"]
+        cmd = (
+            'powershell -c "Add-Type –AssemblyName System.Speech; '
+            + "(New-Object System.Speech.Synthesis.SpeechSynthesizer)"
+            + f".Speak('{lg_name}')\""
+        )
+        os.system(cmd)
 
         JSONFile(file_path).write(result)
         log.info(f"Saved result to {file_path}")
