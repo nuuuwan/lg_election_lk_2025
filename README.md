@@ -1,6 +1,6 @@
 # Sri Lankan Local Government Elections - 2025 🇱🇰
 
-As of 2025-05-07 09:19:41
+As of 2025-05-07 09:21:21
 
 *Scraped from [results.elections.gov.lk](https://results.elections.gov.lk)*
 
@@ -8,17 +8,17 @@ As of 2025-05-07 09:19:41
 
 | Results Released | % Released (By Votes) | % Turnout | % Rejected |
 |--:|--:|--:|--:|
-|282/339|79.8%|61.8%|1.99%|
+|283/339|80.0%|61.8%|1.99%|
 
 ## Islandwide (Top 10 by Votes)
 
 | Party | Votes | %  | *Seats* | *%* | LG's with<br>Most Seats<br>(Incl. Ties) | **LGs with<br>>50% Seats** |
 |---|--:|--:|--:|--:|--:|--:|
-|🔴Jathika Jana Balawegaya|3,654,102|44%|*3,216*|*45%*|232|**100**|
-|🟢Samagi Jana Balawegaya|1,777,276|21%|*1,409*|*20%*|12||
-|🟣Sri Lanka Podujana Peramuna|801,721|10%|*625*|*9%*|||
-|🟩United National Party|379,076|5%|*310*|*4%*|1||
-|🟦People's Alliance|304,203|4%|*251*|*3%*|||
+|🔴Jathika Jana Balawegaya|3,664,088|44%|*3,225*|*45%*|233|**101**|
+|🟢Samagi Jana Balawegaya|1,783,074|21%|*1,413*|*20%*|12||
+|🟣Sri Lanka Podujana Peramuna|804,083|10%|*627*|*9%*|||
+|🟩United National Party|380,278|5%|*311*|*4%*|1||
+|🟦People's Alliance|304,974|4%|*252*|*4%*|||
 |🟡Ilankai Tamil Arasu Kadchi|241,589|3%|*317*|*4%*|33|**3**|
 |🔵Sarvajana Balaya|215,106|3%|*179*|*2%*|||
 |⚪Sri Lanka Muslim Congress|91,521|1%|*79*|*1%*|3||
@@ -351,6 +351,7 @@ As of 2025-05-07 09:19:41
 | [272](https://results.elections.gov.lk/?page=lg_result&district=ANURADHAPURA&lg_code=272&lg_name=IPALOGAMA-PRADESHIYA-SABHA) | 🏡Ipalogama PS·*16*|🔴JJB·*8*<br>|🟢SJB·*5*<br>|🟩UNP·*1*<br>🟣SLPP·*1*<br>🔵SB·*1*<br>||
 | [273](https://results.elections.gov.lk/?page=lg_result&district=ANURADHAPURA&lg_code=273&lg_name=MIHINTALE-PRADESHIYA-SABHA) | 🏡Mihintale PS·*18*|**🔴JJB·*10***<br>|🟢SJB·*3*<br>|🟣SLPP·*1*<br>🟦PA·*1*<br>🟩UNP·*1*<br>⚫IG-273·*1*<br>🔵SB·*1*<br>||
 | [274](https://results.elections.gov.lk/?page=lg_result&district=ANURADHAPURA&lg_code=274&lg_name=THIRAPPANE-PRADESHIYA-SABHA) | 🏡Thirappane PS·*17*|**🔴JJB·*9***<br>|🟢SJB·*4*<br>|🟦PA·*1*<br>🟩UNP·*1*<br>🟣SLPP·*1*<br>🔵SB·*1*<br>||
+| [276](https://results.elections.gov.lk/?page=lg_result&district=ANURADHAPURA&lg_code=276&lg_name=PALAGALA-PRADESHIYA-SABHA) | 🏡Palagala PS·*17*|**🔴JJB·*9***<br>|🟢SJB·*4*<br>|🟣SLPP·*2*<br>|Others·*2*|
 
 ### Polonnaruwa
 
