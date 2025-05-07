@@ -1,0 +1,68 @@
+{
+  "district_name": "Kalutara",
+  "lg_code": "039",
+  "lg_name": "Horana Pradeshiya Sabha",
+  "url": "https://results.elections.gov.lk/?page=lg_result&district=KALUTARA&lg_code=039&lg_name=HORANA-PRADESHIYA-SABHA",
+  "time_str": "2025-05-07 05:38:00",
+  "time_ut": 1746576480.0,
+  "summary_data": {
+    "electors": 139731,
+    "polled": 81172,
+    "valid": 79355,
+    "rejected": 1817,
+    "p_turnout": 0.58,
+    "p_valid": 0.98,
+    "p_rejected": 0.02
+  },
+  "party_result_data_list": [
+    {
+      "party_name": "Jathika Jana Balawegaya",
+      "party_code": "NPP",
+      "votes": 39638,
+      "p_votes": 0.5,
+      "seats": 30
+    },
+    {
+      "party_name": "Samagi Jana Balawegaya",
+      "party_code": "SJB",
+      "votes": 13256,
+      "p_votes": 0.17,
+      "seats": 9
+    },
+    {
+      "party_name": "Sri Lanka Podujana Peramuna",
+      "party_code": "SLPP",
+      "votes": 8287,
+      "p_votes": 0.1,
+      "seats": 5
+    },
+    {
+      "party_name": "United National Party",
+      "party_code": "UNP",
+      "votes": 6800,
+      "p_votes": 0.09,
+      "seats": 4
+    },
+    {
+      "party_name": "Sarvajana Balaya",
+      "party_code": "SB",
+      "votes": 6696,
+      "p_votes": 0.08,
+      "seats": 4
+    },
+    {
+      "party_name": "Independent Group",
+      "party_code": "IND1",
+      "votes": 4431,
+      "p_votes": 0.06,
+      "seats": 3
+    },
+    {
+      "party_name": "People's Struggle Alliance",
+      "party_code": "PSA",
+      "votes": 247,
+      "p_votes": 0.0,
+      "seats": 0
+    }
+  ]
+}

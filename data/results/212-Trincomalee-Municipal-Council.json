@@ -1,0 +1,103 @@
+{
+  "district_name": "Trincomalee",
+  "lg_code": "212",
+  "lg_name": "Trincomalee Municipal Council",
+  "url": "https://results.elections.gov.lk/?page=lg_result&district=TRINCOMALEE&lg_code=212&lg_name=TRINCOMALEE-MUNICIPAL-COUNCIL",
+  "time_str": "2025-05-07 05:35:00",
+  "time_ut": 1746576300.0,
+  "summary_data": {
+    "electors": 38338,
+    "polled": 23827,
+    "valid": 23421,
+    "rejected": 406,
+    "p_turnout": 0.62,
+    "p_valid": 0.98,
+    "p_rejected": 0.02
+  },
+  "party_result_data_list": [
+    {
+      "party_name": "Ilankai Tamil Arasu Kadchi",
+      "party_code": "ITAK",
+      "votes": 8495,
+      "p_votes": 0.36,
+      "seats": 9
+    },
+    {
+      "party_name": "Jathika Jana Balawegaya",
+      "party_code": "NPP",
+      "votes": 5825,
+      "p_votes": 0.25,
+      "seats": 6
+    },
+    {
+      "party_name": "Democratic Tamil National Alliance",
+      "party_code": "DTNA",
+      "votes": 3500,
+      "p_votes": 0.15,
+      "seats": 4
+    },
+    {
+      "party_name": "Sri Lanka Muslim Congress",
+      "party_code": "SLMC",
+      "votes": 2435,
+      "p_votes": 0.1,
+      "seats": 3
+    },
+    {
+      "party_name": "Independent Group 2",
+      "party_code": "IND2",
+      "votes": 747,
+      "p_votes": 0.03,
+      "seats": 1
+    },
+    {
+      "party_name": "Independent Group 3",
+      "party_code": "IND3",
+      "votes": 514,
+      "p_votes": 0.02,
+      "seats": 1
+    },
+    {
+      "party_name": "United National Party",
+      "party_code": "UNP",
+      "votes": 503,
+      "p_votes": 0.02,
+      "seats": 1
+    },
+    {
+      "party_name": "Sarvajana Balaya",
+      "party_code": "SB",
+      "votes": 394,
+      "p_votes": 0.02,
+      "seats": 0
+    },
+    {
+      "party_name": "All Ceylon Tamil Congress",
+      "party_code": "ACTC",
+      "votes": 391,
+      "p_votes": 0.02,
+      "seats": 0
+    },
+    {
+      "party_name": "All Ceylon Makkal Congress",
+      "party_code": "ACMC",
+      "votes": 365,
+      "p_votes": 0.02,
+      "seats": 0
+    },
+    {
+      "party_name": "Independent Group 1",
+      "party_code": "IND1",
+      "votes": 128,
+      "p_votes": 0.01,
+      "seats": 0
+    },
+    {
+      "party_name": "People's Alliance",
+      "party_code": "PA",
+      "votes": 124,
+      "p_votes": 0.01,
+      "seats": 0
+    }
+  ]
+}

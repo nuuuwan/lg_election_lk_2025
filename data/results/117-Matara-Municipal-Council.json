@@ -1,0 +1,75 @@
+{
+  "district_name": "Matara",
+  "lg_code": "117",
+  "lg_name": "Matara Municipal Council",
+  "url": "https://results.elections.gov.lk/?page=lg_result&district=MATARA&lg_code=117&lg_name=MATARA-MUNICIPAL-COUNCIL",
+  "time_str": "2025-05-07 05:32:00",
+  "time_ut": 1746576120.0,
+  "summary_data": {
+    "electors": 60976,
+    "polled": 37403,
+    "valid": 36654,
+    "rejected": 749,
+    "p_turnout": 0.61,
+    "p_valid": 0.98,
+    "p_rejected": 0.02
+  },
+  "party_result_data_list": [
+    {
+      "party_name": "Jathika Jana Balawegaya",
+      "party_code": "NPP",
+      "votes": 19682,
+      "p_votes": 0.54,
+      "seats": 17
+    },
+    {
+      "party_name": "Samagi Jana Balawegaya",
+      "party_code": "SJB",
+      "votes": 5390,
+      "p_votes": 0.15,
+      "seats": 4
+    },
+    {
+      "party_name": "Independent Group",
+      "party_code": "IND1",
+      "votes": 3815,
+      "p_votes": 0.1,
+      "seats": 3
+    },
+    {
+      "party_name": "Sri Lanka Podujana Peramuna",
+      "party_code": "SLPP",
+      "votes": 2972,
+      "p_votes": 0.08,
+      "seats": 2
+    },
+    {
+      "party_name": "Communist Party of Sri Lanka",
+      "party_code": "SLCP",
+      "votes": 1942,
+      "p_votes": 0.05,
+      "seats": 2
+    },
+    {
+      "party_name": "United National Party",
+      "party_code": "UNP",
+      "votes": 1800,
+      "p_votes": 0.05,
+      "seats": 1
+    },
+    {
+      "party_name": "People's Alliance",
+      "party_code": "PA",
+      "votes": 923,
+      "p_votes": 0.03,
+      "seats": 1
+    },
+    {
+      "party_name": "People's Struggle Alliance",
+      "party_code": "PSA",
+      "votes": 130,
+      "p_votes": 0.0,
+      "seats": 0
+    }
+  ]
+}

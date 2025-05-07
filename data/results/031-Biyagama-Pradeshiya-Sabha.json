@@ -1,0 +1,89 @@
+{
+  "district_name": "Gampaha",
+  "lg_code": "031",
+  "lg_name": "Biyagama Pradeshiya Sabha",
+  "url": "https://results.elections.gov.lk/?page=lg_result&district=GAMPAHA&lg_code=031&lg_name=BIYAGAMA-PRADESHIYA-SABHA",
+  "time_str": "2025-05-07 05:53:00",
+  "time_ut": 1746577380.0,
+  "summary_data": {
+    "electors": 142813,
+    "polled": 87693,
+    "valid": 86137,
+    "rejected": 1556,
+    "p_turnout": 0.61,
+    "p_valid": 0.98,
+    "p_rejected": 0.02
+  },
+  "party_result_data_list": [
+    {
+      "party_name": "Jathika Jana Balawegaya",
+      "party_code": "NPP",
+      "votes": 45227,
+      "p_votes": 0.53,
+      "seats": 32
+    },
+    {
+      "party_name": "Samagi Jana Balawegaya",
+      "party_code": "SJB",
+      "votes": 13341,
+      "p_votes": 0.15,
+      "seats": 8
+    },
+    {
+      "party_name": "Sri Lanka Podujana Peramuna",
+      "party_code": "SLPP",
+      "votes": 11972,
+      "p_votes": 0.14,
+      "seats": 7
+    },
+    {
+      "party_name": "United National Party",
+      "party_code": "UNP",
+      "votes": 7491,
+      "p_votes": 0.09,
+      "seats": 5
+    },
+    {
+      "party_name": "Sarvajana Balaya",
+      "party_code": "SB",
+      "votes": 3590,
+      "p_votes": 0.04,
+      "seats": 2
+    },
+    {
+      "party_name": "Sri Lanka Muslim Congress",
+      "party_code": "SLMC",
+      "votes": 1579,
+      "p_votes": 0.02,
+      "seats": 1
+    },
+    {
+      "party_name": "National Freedom Front",
+      "party_code": "NFF",
+      "votes": 866,
+      "p_votes": 0.01,
+      "seats": 1
+    },
+    {
+      "party_name": "Sri Lanka Labour Party",
+      "party_code": "SLLP",
+      "votes": 862,
+      "p_votes": 0.01,
+      "seats": 1
+    },
+    {
+      "party_name": "People's Alliance",
+      "party_code": "PA",
+      "votes": 778,
+      "p_votes": 0.01,
+      "seats": 0
+    },
+    {
+      "party_name": "People's Struggle Alliance",
+      "party_code": "PSA",
+      "votes": 431,
+      "p_votes": 0.01,
+      "seats": 0
+    }
+  ]
+}

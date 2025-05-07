@@ -1,0 +1,89 @@
+{
+  "district_name": "Ratnapura",
+  "lg_code": "315",
+  "lg_name": "Embilipitiya Urban Council",
+  "url": "https://results.elections.gov.lk/?page=lg_result&district=RATNAPURA&lg_code=315&lg_name=EMBILIPITIYA-URBAN-COUNCIL",
+  "time_str": "2025-05-07 05:49:00",
+  "time_ut": 1746577140.0,
+  "summary_data": {
+    "electors": 32567,
+    "polled": 19363,
+    "valid": 19092,
+    "rejected": 271,
+    "p_turnout": 0.59,
+    "p_valid": 0.99,
+    "p_rejected": 0.01
+  },
+  "party_result_data_list": [
+    {
+      "party_name": "Jathika Jana Balawegaya",
+      "party_code": "NPP",
+      "votes": 10193,
+      "p_votes": 0.53,
+      "seats": 8
+    },
+    {
+      "party_name": "Samagi Jana Balawegaya",
+      "party_code": "SJB",
+      "votes": 4150,
+      "p_votes": 0.22,
+      "seats": 3
+    },
+    {
+      "party_name": "Sri Lanka Podujana Peramuna",
+      "party_code": "SLPP",
+      "votes": 1486,
+      "p_votes": 0.08,
+      "seats": 1
+    },
+    {
+      "party_name": "United National Party",
+      "party_code": "UNP",
+      "votes": 1162,
+      "p_votes": 0.06,
+      "seats": 1
+    },
+    {
+      "party_name": "Sarvajana Balaya",
+      "party_code": "SB",
+      "votes": 687,
+      "p_votes": 0.04,
+      "seats": 1
+    },
+    {
+      "party_name": "Democratic Left Front",
+      "party_code": "DLF",
+      "votes": 470,
+      "p_votes": 0.02,
+      "seats": 0
+    },
+    {
+      "party_name": "People's Alliance",
+      "party_code": "PA",
+      "votes": 296,
+      "p_votes": 0.02,
+      "seats": 0
+    },
+    {
+      "party_name": "People's Struggle Alliance",
+      "party_code": "PSA",
+      "votes": 275,
+      "p_votes": 0.01,
+      "seats": 0
+    },
+    {
+      "party_name": "National Freedom Front",
+      "party_code": "NFF",
+      "votes": 224,
+      "p_votes": 0.01,
+      "seats": 0
+    },
+    {
+      "party_name": "United Republican Front",
+      "party_code": "URF",
+      "votes": 149,
+      "p_votes": 0.01,
+      "seats": 0
+    }
+  ]
+}

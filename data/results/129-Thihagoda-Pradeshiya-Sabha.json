@@ -1,0 +1,54 @@
+{
+  "district_name": "Matara",
+  "lg_code": "129",
+  "lg_name": "Thihagoda Pradeshiya Sabha",
+  "url": "https://results.elections.gov.lk/?page=lg_result&district=MATARA&lg_code=129&lg_name=THIHAGODA-PRADESHIYA-SABHA",
+  "time_str": "2025-05-07 05:42:00",
+  "time_ut": 1746576720.0,
+  "summary_data": {
+    "electors": 29321,
+    "polled": 19281,
+    "valid": 18821,
+    "rejected": 460,
+    "p_turnout": 0.66,
+    "p_valid": 0.98,
+    "p_rejected": 0.02
+  },
+  "party_result_data_list": [
+    {
+      "party_name": "Jathika Jana Balawegaya",
+      "party_code": "NPP",
+      "votes": 9926,
+      "p_votes": 0.53,
+      "seats": 9
+    },
+    {
+      "party_name": "Samagi Jana Balawegaya",
+      "party_code": "SJB",
+      "votes": 3958,
+      "p_votes": 0.21,
+      "seats": 3
+    },
+    {
+      "party_name": "Patriotic People's Power",
+      "party_code": "PPP",
+      "votes": 2537,
+      "p_votes": 0.13,
+      "seats": 2
+    },
+    {
+      "party_name": "Sri Lanka Podujana Peramuna",
+      "party_code": "SLPP",
+      "votes": 1872,
+      "p_votes": 0.1,
+      "seats": 2
+    },
+    {
+      "party_name": "People's Alliance",
+      "party_code": "PA",
+      "votes": 528,
+      "p_votes": 0.03,
+      "seats": 1
+    }
+  ]
+}

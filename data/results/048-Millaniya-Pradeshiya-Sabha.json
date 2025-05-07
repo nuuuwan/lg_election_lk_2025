@@ -1,0 +1,82 @@
+{
+  "district_name": "Kalutara",
+  "lg_code": "048",
+  "lg_name": "Millaniya Pradeshiya Sabha",
+  "url": "https://results.elections.gov.lk/?page=lg_result&district=KALUTARA&lg_code=048&lg_name=MILLANIYA-PRADESHIYA-SABHA",
+  "time_str": "2025-05-07 05:28:00",
+  "time_ut": 1746575880.0,
+  "summary_data": {
+    "electors": 45727,
+    "polled": 30214,
+    "valid": 29650,
+    "rejected": 564,
+    "p_turnout": 0.66,
+    "p_valid": 0.98,
+    "p_rejected": 0.02
+  },
+  "party_result_data_list": [
+    {
+      "party_name": "Jathika Jana Balawegaya",
+      "party_code": "NPP",
+      "votes": 11125,
+      "p_votes": 0.38,
+      "seats": 9
+    },
+    {
+      "party_name": "Samagi Jana Balawegaya",
+      "party_code": "SJB",
+      "votes": 6976,
+      "p_votes": 0.24,
+      "seats": 5
+    },
+    {
+      "party_name": "People's Alliance",
+      "party_code": "PA",
+      "votes": 4807,
+      "p_votes": 0.16,
+      "seats": 3
+    },
+    {
+      "party_name": "Sri Lanka Podujana Peramuna",
+      "party_code": "SLPP",
+      "votes": 3853,
+      "p_votes": 0.13,
+      "seats": 3
+    },
+    {
+      "party_name": "National Peoples Party",
+      "party_code": "NPPT",
+      "votes": 1198,
+      "p_votes": 0.04,
+      "seats": 1
+    },
+    {
+      "party_name": "United National Party",
+      "party_code": "UNP",
+      "votes": 642,
+      "p_votes": 0.02,
+      "seats": 0
+    },
+    {
+      "party_name": "National Freedom Front",
+      "party_code": "NFF",
+      "votes": 470,
+      "p_votes": 0.02,
+      "seats": 0
+    },
+    {
+      "party_name": "Nawa Lanka Nidahas Pakshaya",
+      "party_code": "NLNP",
+      "votes": 358,
+      "p_votes": 0.01,
+      "seats": 0
+    },
+    {
+      "party_name": "People's Struggle Alliance",
+      "party_code": "PSA",
+      "votes": 221,
+      "p_votes": 0.01,
+      "seats": 0
+    }
+  ]
+}

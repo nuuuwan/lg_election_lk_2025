@@ -1,0 +1,124 @@
+{
+  "district_name": "Trincomalee",
+  "lg_code": "220",
+  "lg_name": "Trincomalee Town And Gravets Pradeshiya Sabha",
+  "url": "https://results.elections.gov.lk/?page=lg_result&district=TRINCOMALEE&lg_code=220&lg_name=TRINCOMALEE-TOWN-AND-GRAVETS-PRADESHIYA-SABHA",
+  "time_str": "2025-05-07 05:33:00",
+  "time_ut": 1746576180.0,
+  "summary_data": {
+    "electors": 35617,
+    "polled": 22966,
+    "valid": 22468,
+    "rejected": 498,
+    "p_turnout": 0.64,
+    "p_valid": 0.98,
+    "p_rejected": 0.02
+  },
+  "party_result_data_list": [
+    {
+      "party_name": "Ilankai Tamil Arasu Kadchi",
+      "party_code": "ITAK",
+      "votes": 5482,
+      "p_votes": 0.24,
+      "seats": 6
+    },
+    {
+      "party_name": "Jathika Jana Balawegaya",
+      "party_code": "NPP",
+      "votes": 4874,
+      "p_votes": 0.22,
+      "seats": 4
+    },
+    {
+      "party_name": "Democratic Tamil National Alliance",
+      "party_code": "DTNA",
+      "votes": 3273,
+      "p_votes": 0.15,
+      "seats": 3
+    },
+    {
+      "party_name": "Samagi Jana Balawegaya",
+      "party_code": "SJB",
+      "votes": 2340,
+      "p_votes": 0.1,
+      "seats": 2
+    },
+    {
+      "party_name": "Independent Group 4",
+      "party_code": "IND4",
+      "votes": 1608,
+      "p_votes": 0.07,
+      "seats": 1
+    },
+    {
+      "party_name": "Sri Lanka Muslim Congress",
+      "party_code": "SLMC",
+      "votes": 922,
+      "p_votes": 0.04,
+      "seats": 1
+    },
+    {
+      "party_name": "Independent Group 5",
+      "party_code": "IND5",
+      "votes": 894,
+      "p_votes": 0.04,
+      "seats": 1
+    },
+    {
+      "party_name": "Independent Group 1",
+      "party_code": "IND1",
+      "votes": 705,
+      "p_votes": 0.03,
+      "seats": 1
+    },
+    {
+      "party_name": "All Ceylon Makkal Congress",
+      "party_code": "ACMC",
+      "votes": 652,
+      "p_votes": 0.03,
+      "seats": 1
+    },
+    {
+      "party_name": "Independent Group 2",
+      "party_code": "IND2",
+      "votes": 491,
+      "p_votes": 0.02,
+      "seats": 0
+    },
+    {
+      "party_name": "United National Party",
+      "party_code": "UNP",
+      "votes": 450,
+      "p_votes": 0.02,
+      "seats": 0
+    },
+    {
+      "party_name": "All Ceylon Tamil Congress",
+      "party_code": "ACTC",
+      "votes": 368,
+      "p_votes": 0.02,
+      "seats": 0
+    },
+    {
+      "party_name": "Independent Group 3",
+      "party_code": "IND3",
+      "votes": 253,
+      "p_votes": 0.01,
+      "seats": 0
+    },
+    {
+      "party_name": "Eelam People's Democratic Party",
+      "party_code": "EPDP",
+      "votes": 101,
+      "p_votes": 0.0,
+      "seats": 0
+    },
+    {
+      "party_name": "People's Struggle Alliance",
+      "party_code": "PSA",
+      "votes": 55,
+      "p_votes": 0.0,
+      "seats": 0
+    }
+  ]
+}

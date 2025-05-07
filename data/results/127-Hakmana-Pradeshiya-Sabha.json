@@ -1,0 +1,61 @@
+{
+  "district_name": "Matara",
+  "lg_code": "127",
+  "lg_name": "Hakmana Pradeshiya Sabha",
+  "url": "https://results.elections.gov.lk/?page=lg_result&district=MATARA&lg_code=127&lg_name=HAKMANA-PRADESHIYA-SABHA",
+  "time_str": "2025-05-07 05:50:00",
+  "time_ut": 1746577200.0,
+  "summary_data": {
+    "electors": 27616,
+    "polled": 17927,
+    "valid": 17537,
+    "rejected": 390,
+    "p_turnout": 0.65,
+    "p_valid": 0.98,
+    "p_rejected": 0.02
+  },
+  "party_result_data_list": [
+    {
+      "party_name": "Jathika Jana Balawegaya",
+      "party_code": "NPP",
+      "votes": 7844,
+      "p_votes": 0.45,
+      "seats": 10
+    },
+    {
+      "party_name": "Sri Lanka Podujana Peramuna",
+      "party_code": "SLPP",
+      "votes": 3441,
+      "p_votes": 0.2,
+      "seats": 3
+    },
+    {
+      "party_name": "Samagi Jana Balawegaya",
+      "party_code": "SJB",
+      "votes": 3392,
+      "p_votes": 0.19,
+      "seats": 3
+    },
+    {
+      "party_name": "Patriotic People's Power",
+      "party_code": "PPP",
+      "votes": 1861,
+      "p_votes": 0.11,
+      "seats": 2
+    },
+    {
+      "party_name": "People's Alliance",
+      "party_code": "PA",
+      "votes": 576,
+      "p_votes": 0.03,
+      "seats": 1
+    },
+    {
+      "party_name": "National Freedom Front",
+      "party_code": "NFF",
+      "votes": 423,
+      "p_votes": 0.02,
+      "seats": 0
+    }
+  ]
+}
