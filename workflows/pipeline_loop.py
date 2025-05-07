@@ -1,6 +1,6 @@
 import time
 import os
-from utils import Log
+from utils import Log, TimeFormat, Time
 from workflows.scrape_results import main as scrape_results_main
 from workflows.write_reports import main as write_reports_main
 
@@ -11,15 +11,17 @@ T_SLEEP = 30
 def main():
     while True:
         log.info("-" * 40)
-        log.info("pipeline_loop")
         os.system("git pull origin main")
         scrape_results_main()
         write_reports_main()
 
+        ts = TimeFormat.TIME.format(Time.now())
+        log.info(f"{ts=}")
+
         for cmd in [
             "git add data/*",
             "git add README.md",
-            'git commit -m "pipeline_loop"',
+            f'git commit -m "[pipeline_loop] {ts}"',
             "git push origin main",
         ]:
             os.system(cmd)
