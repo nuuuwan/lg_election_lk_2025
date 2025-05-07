@@ -1,0 +1,68 @@
+{
+  "district_name": "Matale",
+  "lg_code": "075",
+  "lg_name": "Galewela Pradeshiya Sabha",
+  "url": "https://results.elections.gov.lk/?page=lg_result&district=MATALE&lg_code=075&lg_name=GALEWELA-PRADESHIYA-SABHA",
+  "time_str": "2025-05-07 07:57:00",
+  "time_ut": 1746584820.0,
+  "summary_data": {
+    "electors": 63263,
+    "polled": 40425,
+    "valid": 39760,
+    "rejected": 665,
+    "p_turnout": 0.64,
+    "p_valid": 0.98,
+    "p_rejected": 0.02
+  },
+  "party_result_data_list": [
+    {
+      "party_name": "Jathika Jana Balawegaya",
+      "party_code": "NPP",
+      "votes": 18741,
+      "p_votes": 0.47,
+      "seats": 14
+    },
+    {
+      "party_name": "Samagi Jana Balawegaya",
+      "party_code": "SJB",
+      "votes": 9155,
+      "p_votes": 0.23,
+      "seats": 7
+    },
+    {
+      "party_name": "Sri Lanka Podujana Peramuna",
+      "party_code": "SLPP",
+      "votes": 4271,
+      "p_votes": 0.11,
+      "seats": 3
+    },
+    {
+      "party_name": "United National Party",
+      "party_code": "UNP",
+      "votes": 3722,
+      "p_votes": 0.09,
+      "seats": 3
+    },
+    {
+      "party_name": "Sarvajana Balaya",
+      "party_code": "SB",
+      "votes": 2000,
+      "p_votes": 0.05,
+      "seats": 1
+    },
+    {
+      "party_name": "Independent Group 1",
+      "party_code": "IND1",
+      "votes": 1655,
+      "p_votes": 0.04,
+      "seats": 1
+    },
+    {
+      "party_name": "Independent Group 2",
+      "party_code": "IND2",
+      "votes": 216,
+      "p_votes": 0.01,
+      "seats": 0
+    }
+  ]
+}

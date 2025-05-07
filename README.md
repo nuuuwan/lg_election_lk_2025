@@ -1,6 +1,6 @@
 # Sri Lankan Local Government Elections - 2025 🇱🇰
 
-As of 2025-05-07 08:18:23
+As of 2025-05-07 08:21:31
 
 *Scraped from [results.elections.gov.lk](https://results.elections.gov.lk)*
 
@@ -8,19 +8,19 @@ As of 2025-05-07 08:18:23
 
 | Results Released | % Released (By Votes) | % Turnout | % Rejected |
 |--:|--:|--:|--:|
-|251/339|71.7%|61.6%|1.99%|
+|253/339|72.3%|61.6%|1.99%|
 
 ## Islandwide (Top 10 by Votes)
 
 | Party | Votes | %  | Seats | % | Most Seats | ≥½ Seats (✔️) |
 |---|--:|--:|--:|--:|--:|--:|
-|🔴Jathika Jana Balawegaya|3,274,628|44%|2,849|45%|205|111|
-|🟢Samagi Jana Balawegaya|1,573,276|21%|1,234|19%|11||
-|🟣Sri Lanka Podujana Peramuna|721,054|10%|557|9%|||
-|🟩United National Party|322,530|4%|259|4%|1||
+|🔴Jathika Jana Balawegaya|3,303,594|44%|2,874|45%|207|111|
+|🟢Samagi Jana Balawegaya|1,588,513|21%|1,246|19%|11||
+|🟣Sri Lanka Podujana Peramuna|727,986|10%|562|9%|||
+|🟩United National Party|330,467|4%|266|4%|1||
 |🟦People's Alliance|276,089|4%|227|4%|||
 |🟡Ilankai Tamil Arasu Kadchi|226,443|3%|302|5%|32|5|
-|🔵Sarvajana Balaya|183,334|2%|149|2%|||
+|🔵Sarvajana Balaya|186,305|2%|151|2%|||
 |⚪Sri Lanka Muslim Congress|80,793|1%|67|1%|2||
 |⚪Democratic Tamil National Alliance|80,258|1%|97|2%|1||
 |⚪All Ceylon Tamil Congress|59,785|1%|92|1%|4||
@@ -107,7 +107,9 @@ As of 2025-05-07 08:18:23
 
 |  |  |  |  |  |  |  |
 |---|---|---|---|---|---|---|
+| 075 | 🏡Galewela PS f({total_seats}) |🔴JJB (14) |🟢SJB (7) |🟣SLPP (3) 🟩UNP (3) | Others (2) |[...](https://results.elections.gov.lk/?page=lg_result&district=MATALE&lg_code=075&lg_name=GALEWELA-PRADESHIYA-SABHA)|
 | 077 | 🏡Ambanganga Korale PS f({total_seats}) |🟢SJB (8) |🔴JJB (5) |🟣SLPP (2) | Others (3) |[...](https://results.elections.gov.lk/?page=lg_result&district=MATALE&lg_code=077&lg_name=AMBANGANGA-KORALE-PRADESHIYA-SABHA)|
+| 084 | 🏡Rattota PS f({total_seats}) |🔴JJB (11) |🟢SJB (5) |🟩UNP (4) | Others (7) |[...](https://results.elections.gov.lk/?page=lg_result&district=MATALE&lg_code=084&lg_name=RATTOTA-PRADESHIYA-SABHA)|
 
 ### Nuwaraeliya
 
