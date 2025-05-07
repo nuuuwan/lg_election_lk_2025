@@ -335,7 +335,7 @@ class OverallReport:
             url = result["url"]
             other_seats = total_seats - displayed_seats
             if other_seats > 0:
-                line += f" Others·{other_seats} |"
+                line += f"Others·*{other_seats}*|"
             else:
                 line += "|"
             line += f"[...]({url})|"
