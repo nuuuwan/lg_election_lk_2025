@@ -1,6 +1,6 @@
 # Sri Lankan Local Government Elections - 2025 🇱🇰
 
-As of 2025-05-07 09:03:17
+As of 2025-05-07 09:04:57
 
 *Scraped from [results.elections.gov.lk](https://results.elections.gov.lk)*
 
@@ -8,17 +8,17 @@ As of 2025-05-07 09:03:17
 
 | Results Released | % Released (By Votes) | % Turnout | % Rejected |
 |--:|--:|--:|--:|
-|273/339|77.6%|61.7%|1.98%|
+|274/339|77.9%|61.7%|1.98%|
 
 ## Islandwide (Top 10 by Votes)
 
 | Party | Votes | %  | *Seats* | *%* | LG's with<br>Most Seats<br>(Incl. Ties) | **LGs with<br>≥50% Seats** |
 |---|--:|--:|--:|--:|--:|--:|
-|🔴Jathika Jana Balawegaya|3,551,285|44%|*3,116*|*45%*|225|**122**|
-|🟢Samagi Jana Balawegaya|1,719,503|21%|*1,357*|*20%*|12||
-|🟣Sri Lanka Podujana Peramuna|782,987|10%|*609*|*9%*|||
-|🟩United National Party|365,746|5%|*297*|*4%*|1||
-|🟦People's Alliance|294,930|4%|*242*|*3%*|||
+|🔴Jathika Jana Balawegaya|3,566,809|44%|*3,131*|*45%*|226|**123**|
+|🟢Samagi Jana Balawegaya|1,728,136|21%|*1,365*|*20%*|12||
+|🟣Sri Lanka Podujana Peramuna|785,241|10%|*611*|*9%*|||
+|🟩United National Party|365,746|4%|*297*|*4%*|1||
+|🟦People's Alliance|296,798|4%|*244*|*3%*|||
 |🟡Ilankai Tamil Arasu Kadchi|236,731|3%|*310*|*4%*|33|**6**|
 |🔵Sarvajana Balaya|210,988|3%|*175*|*3%*|||
 |⚪Sri Lanka Muslim Congress|83,926|1%|*70*|*1%*|2||
@@ -98,6 +98,7 @@ As of 2025-05-07 09:03:17
 | 054 | 🏢Nawalapitiya UC·*15*|🔴JJB·*5*<br>⚫IG2-054·*5*<br>|🟢SJB·*2*<br>⚫IG1-054·*2*<br>|⚪UNA·*1*<br>||[...](https://results.elections.gov.lk/?page=lg_result&district=KANDY&lg_code=054&lg_name=NAWALAPITIYA-URBAN-COUNCIL)|
 | 055 | 🏡Thumpane PS·*32*|**🔴JJB·*17***<br>|🟢SJB·*7*<br>|🟣SLPP·*2*<br>🔵SB·*2*<br>⚪UNA·*2*<br>| Others·2 |[...](https://results.elections.gov.lk/?page=lg_result&district=KANDY&lg_code=055&lg_name=THUMPANE-PRADESHIYA-SABHA)|
 | 056 | 🏡Harispattuwa PS·*37*|**🔴JJB·*20***<br>|🟢SJB·*8*<br>|🔵SB·*3*<br>🟣SLPP·*3*<br>| Others·3 |[...](https://results.elections.gov.lk/?page=lg_result&district=KANDY&lg_code=056&lg_name=HARISPATTUWA-PRADESHIYA-SABHA)|
+| 058 | 🏡Poojapitiya PS·*29*|**🔴JJB·*15***<br>|🟢SJB·*8*<br>|🟣SLPP·*2*<br>🟦PA·*2*<br>| Others·2 |[...](https://results.elections.gov.lk/?page=lg_result&district=KANDY&lg_code=058&lg_name=POOJAPITIYA-PRADESHIYA-SABHA)|
 | 059 | 🏡Pathadumbara PS·*31*|**🔴JJB·*16***<br>|🟢SJB·*8*<br>|🟣SLPP·*4*<br>| Others·3 |[...](https://results.elections.gov.lk/?page=lg_result&district=KANDY&lg_code=059&lg_name=PATHADUMBARA-PRADESHIYA-SABHA)|
 | 061 | 🏡Udadumbara PS·*16*|🟢SJB·*6*<br>🔴JJB·*6*<br>|🔵SB·*1*<br>🟣SLPP·*1*<br>⚫IG-061·*1*<br>🟩UNP·*1*<br>||[...](https://results.elections.gov.lk/?page=lg_result&district=KANDY&lg_code=061&lg_name=UDADUMBARA-PRADESHIYA-SABHA)|
 | 064 | 🏡Kundasale PS·*44*|**🔴JJB·*24***<br>|🟢SJB·*9*<br>|🟩UNP·*3*<br>| Others·8 |[...](https://results.elections.gov.lk/?page=lg_result&district=KANDY&lg_code=064&lg_name=KUNDASALE-PRADESHIYA-SABHA)|
