@@ -480,7 +480,7 @@ class OverallReport:
     @property
     def missing_results_lines(self):
         lines = [
-            "## Missing Results",
+            "## Results Not Released",
             "",
         ]
 
@@ -521,6 +521,7 @@ class OverallReport:
             + self.get_x_summary_lines(OverallReport.get_province, "Province")
             + self.get_x_summary_lines(lambda x: x["district_name"], "District")
             + self.get_result_lines(None)
+            + self.missing_results_lines
         )
 
     @property
