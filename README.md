@@ -1,6 +1,6 @@
 # Sri Lankan Local Government Elections - 2025 🇱🇰
 
-As of 2025-05-07 11:25:50
+As of 2025-05-07 11:26:23
 
 *Scraped from [results.elections.gov.lk](https://results.elections.gov.lk)*
 
@@ -547,21 +547,3 @@ As of 2025-05-07 11:25:50
 | [339](https://results.elections.gov.lk/?page=lg_result&district=KEGALLE&lg_code=339&lg_name=RUWANWELLA-PRADESHIYA-SABHA) | 🏡Ruwanwella PS·*32*|**🔴JJB·*17***<br>|🟢SJB·*8*<br>|🟣SLPP·*3*<br>|Others·*4*|
 | [340](https://results.elections.gov.lk/?page=lg_result&district=KEGALLE&lg_code=340&lg_name=DERANIYAGALA-PRADESHIYA-SABHA) | 🏡Deraniyagala PS·*21*|🔴JJB·*8*<br>|🟢SJB·*7*<br>|🟦PA·*2*<br>🟣SLPP·*2*<br>|Others·*2*|
 | [341](https://results.elections.gov.lk/?page=lg_result&district=KEGALLE&lg_code=341&lg_name=DEHIOWITA-PRADESHIYA-SABHA) | 🏡Dehiowita PS·*36*|🔴JJB·*16*<br>|🟢SJB·*9*<br>|🟣SLPP·*3*<br>|Others·*8*|
-
-## Results Not Released
-
-All LGs: 341
-Released LGs: 329
-Missing LGs: 12
-- Kinniya UC (LG-53010)
-- Kuliyapitiya UC (LG-61017)
-- Polgahawela PS (LG-61015)
-- Pannala PS (LG-61019)
-- Thalawa PS (LG-71015)
-- Medawachchiya PS (LG-71003)
-- Valikamam South-West PS (LG-41004)
-- Elpitiya PS (LG-31004)
-- Kalmunai MC (LG-52009)
-- Maho PS (LG-61003)
-- Koralai Pattu West PS (LG-51002)
-- Narammala PS (LG-61020)
