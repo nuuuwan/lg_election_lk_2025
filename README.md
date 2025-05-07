@@ -1,6 +1,6 @@
 # Sri Lankan Local Government Elections - 2025 🇱🇰
 
-As of 2025-05-07 09:44:42
+As of 2025-05-07 09:46:23
 
 *Scraped from [results.elections.gov.lk](https://results.elections.gov.lk)*
 
@@ -8,21 +8,21 @@ As of 2025-05-07 09:44:42
 
 | Results Released | % Released (By Votes) | % Turnout | % Rejected |
 |--:|--:|--:|--:|
-|298/339|84.0%|61.9%|1.97%|
+|299/339|84.4%|61.9%|1.97%|
 
 ## Islandwide (Top 10 by Votes)
 
 | Party | Votes | %  | *Seats* | *%* | LG's with<br>Most Seats<br>(Incl. Ties) | **LGs with<br>>50% Seats** |
 |---|--:|--:|--:|--:|--:|--:|
-|🔴Jathika Jana Balawegaya|3,839,392|44%|*3,383*|*45%*|244|**108**|
-|🟢Samagi Jana Balawegaya|1,884,454|21%|*1,492*|*20%*|13||
+|🔴Jathika Jana Balawegaya|3,845,624|43%|*3,388*|*45%*|244|**108**|
+|🟢Samagi Jana Balawegaya|1,885,259|21%|*1,493*|*20%*|13||
 |🟣Sri Lanka Podujana Peramuna|844,272|10%|*660*|*9%*|||
-|🟩United National Party|394,401|4%|*322*|*4%*|1||
+|🟩United National Party|397,363|4%|*324*|*4%*|1||
 |🟦People's Alliance|317,883|4%|*262*|*3%*|||
-|🟡Ilankai Tamil Arasu Kadchi|266,028|3%|*339*|*4%*|34|**3**|
-|🔵Sarvajana Balaya|226,440|3%|*189*|*3%*|||
-|⚪Sri Lanka Muslim Congress|104,652|1%|*90*|*1%*|4||
-|⚪Democratic Tamil National Alliance|80,793|1%|*98*|*1%*|1||
+|🟡Ilankai Tamil Arasu Kadchi|280,970|3%|*352*|*5%*|35|**3**|
+|🔵Sarvajana Balaya|226,440|3%|*189*|*2%*|||
+|⚪Sri Lanka Muslim Congress|107,550|1%|*92*|*1%*|4||
+|⚪Democratic Tamil National Alliance|81,793|1%|*99*|*1%*|1||
 |⚪All Ceylon Makkal Congress|62,510|1%|*53*|*1%*|3||
 
 ## Seats by District
@@ -43,7 +43,7 @@ As of 2025-05-07 09:44:42
 |Mannar|🔴JJB·*19*<br>|🟡ITAK·*18*<br>🟢SJB·*18*<br>|⚪DTNA·*13*<br>|Others·*42*|
 |Vavuniya|🔴JJB·*26*<br>|🟡ITAK·*16*<br>|🟢SJB·*15*<br>|Others·*49*|
 |Mullaitivu|🟡ITAK·*26*<br>|🔴JJB·*12*<br>|⚪DTNA·*10*<br>|Others·*21*|
-|Batticaloa|🟡ITAK·*57*<br>|🔴JJB·*27*<br>|⚪TMVP·*25*<br>|Others·*39*|
+|Batticaloa|🟡ITAK·*70*<br>|🔴JJB·*32*<br>|⚪TMVP·*29*<br>|Others·*49*|
 |Ampara|🔴JJB·*95*<br>|🟢SJB·*41*<br>|⚪SLMC·*33*<br>|Others·*141*|
 |Trincomalee|🔴JJB·*66*<br>|🟡ITAK·*36*<br>|🟢SJB·*32*<br>|Others·*81*|
 |Kurunegala|🔴JJB·*176*<br>|🟢SJB·*86*<br>|🟣SLPP·*40*<br>|Others·*44*|
@@ -296,6 +296,7 @@ As of 2025-05-07 09:44:42
 |---|---|---|---|---|---|
 | [180](https://results.elections.gov.lk/?page=lg_result&district=BATTICALOA&lg_code=180&lg_name=BATTICALOA-MUNICIPAL-COUNCIL) | 🏛️Batticaloa MC·*34*|🟡ITAK·*16*<br>|🔴JJB·*9*<br>|⚫IG-180·*4*<br>|Others·*5*|
 | [181](https://results.elections.gov.lk/?page=lg_result&district=BATTICALOA&lg_code=181&lg_name=ERAVUR-URBAN-COUNCIL) | 🏢Eravur UC·*17*|⚪SLMC·*7*<br>|🟩UNP·*4*<br>|⚪TMVP·*2*<br>|Others·*4*|
+| [183](https://results.elections.gov.lk/?page=lg_result&district=BATTICALOA&lg_code=183&lg_name=ERAVUR-PATTU-PRADESHIYA-SABHA) | 🏡Eravur Pattu PS·*32*|🟡ITAK·*13*<br>|🔴JJB·*5*<br>|⚪TMVP·*4*<br>|Others·*10*|
 | [184](https://results.elections.gov.lk/?page=lg_result&district=BATTICALOA&lg_code=184&lg_name=KORALAI-PATTU-PRADESHIYA-SABHA) | 🏡Koralai Pattu PS·*26*|🟡ITAK·*10*<br>|🔴JJB·*4*<br>⚪TMVP·*4*<br>⚪SLMC·*4*<br>|🟢SJB·*3*<br>|Others·*1*|
 | [186](https://results.elections.gov.lk/?page=lg_result&district=BATTICALOA&lg_code=186&lg_name=KORALAI-PATTU-NORTH-PRADESHIYA-SABHA) | 🏡Koralai Pattu North PS·*19*|⚪TMVP·*7*<br>|🟡ITAK·*6*<br>|🔴JJB·*3*<br>|Others·*3*|
 | [188](https://results.elections.gov.lk/?page=lg_result&district=BATTICALOA&lg_code=188&lg_name=MANMUNAI-PATTU-PRADESHIYA-SABHA) | 🏡Manmunai Pattu PS·*17*|🟡ITAK·*6*<br>|🔴JJB·*4*<br>|🟢SJB·*1*<br>⚪UNA·*1*<br>⚪NFGG·*1*<br>⚪DTNA·*1*<br>⚪TMVP·*1*<br>⚫IG2-188·*1*<br>⚫IG3-188·*1*<br>||
