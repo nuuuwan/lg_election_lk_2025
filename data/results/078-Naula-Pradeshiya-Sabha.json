@@ -1,0 +1,68 @@
+{
+  "district_name": "Matale",
+  "lg_code": "078",
+  "lg_name": "Naula Pradeshiya Sabha",
+  "url": "https://results.elections.gov.lk/?page=lg_result&district=MATALE&lg_code=078&lg_name=NAULA-PRADESHIYA-SABHA",
+  "time_str": "2025-05-07 08:02:00",
+  "time_ut": 1746585120.0,
+  "summary_data": {
+    "electors": 25071,
+    "polled": 16423,
+    "valid": 16040,
+    "rejected": 383,
+    "p_turnout": 0.66,
+    "p_valid": 0.98,
+    "p_rejected": 0.02
+  },
+  "party_result_data_list": [
+    {
+      "party_name": "Jathika Jana Balawegaya",
+      "party_code": "NPP",
+      "votes": 7312,
+      "p_votes": 0.46,
+      "seats": 9
+    },
+    {
+      "party_name": "Samagi Jana Balawegaya",
+      "party_code": "SJB",
+      "votes": 3964,
+      "p_votes": 0.25,
+      "seats": 4
+    },
+    {
+      "party_name": "Sri Lanka Podujana Peramuna",
+      "party_code": "SLPP",
+      "votes": 2314,
+      "p_votes": 0.14,
+      "seats": 2
+    },
+    {
+      "party_name": "Sarvajana Balaya",
+      "party_code": "SB",
+      "votes": 1080,
+      "p_votes": 0.07,
+      "seats": 1
+    },
+    {
+      "party_name": "United National Party",
+      "party_code": "UNP",
+      "votes": 623,
+      "p_votes": 0.04,
+      "seats": 1
+    },
+    {
+      "party_name": "United Republican Front",
+      "party_code": "URF",
+      "votes": 527,
+      "p_votes": 0.03,
+      "seats": 1
+    },
+    {
+      "party_name": "United National Freedom Front",
+      "party_code": "UNFF",
+      "votes": 220,
+      "p_votes": 0.01,
+      "seats": 0
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 # Sri Lankan Local Government Elections - 2025 🇱🇰
 
-As of 2025-05-07 08:26:55
+As of 2025-05-07 08:28:38
 
 *Scraped from [results.elections.gov.lk](https://results.elections.gov.lk)*
 
@@ -8,19 +8,19 @@ As of 2025-05-07 08:26:55
 
 | Results Released | % Released (By Votes) | % Turnout | % Rejected |
 |--:|--:|--:|--:|
-|256/339|72.9%|61.6%|1.99%|
+|259/339|73.3%|61.7%|1.99%|
 
 ## Islandwide (Top 10 by Votes)
 
 | Party | Votes | %  | Seats | % | Most Seats | ≥½ Seats (✔️) |
 |---|--:|--:|--:|--:|--:|--:|
-|🔴Jathika Jana Balawegaya|3,331,409|44%|2,905|45%|210|113|
-|🟢Samagi Jana Balawegaya|1,604,600|21%|1,260|19%|11||
-|🟣Sri Lanka Podujana Peramuna|735,895|10%|569|9%|||
-|🟩United National Party|335,116|4%|270|4%|1||
-|🟦People's Alliance|278,443|4%|229|4%|||
+|🔴Jathika Jana Balawegaya|3,352,537|44%|2,930|45%|213|115|
+|🟢Samagi Jana Balawegaya|1,617,160|21%|1,274|19%|11||
+|🟣Sri Lanka Podujana Peramuna|741,200|10%|575|9%|||
+|🟩United National Party|337,259|4%|273|4%|1||
+|🟦People's Alliance|280,249|4%|231|4%|||
 |🟡Ilankai Tamil Arasu Kadchi|226,443|3%|302|5%|32|5|
-|🔵Sarvajana Balaya|189,319|2%|154|2%|||
+|🔵Sarvajana Balaya|192,294|3%|158|2%|||
 |⚪Sri Lanka Muslim Congress|80,793|1%|67|1%|2||
 |⚪Democratic Tamil National Alliance|80,258|1%|97|1%|1||
 |⚪All Ceylon Tamil Congress|59,785|1%|92|1%|4||
@@ -109,6 +109,7 @@ As of 2025-05-07 08:26:55
 |---|---|---|---|---|---|---|
 | 075 | 🏡Galewela PS f({total_seats}) |🔴JJB (14) |🟢SJB (7) |🟣SLPP (3) 🟩UNP (3) | Others (2) |[...](https://results.elections.gov.lk/?page=lg_result&district=MATALE&lg_code=075&lg_name=GALEWELA-PRADESHIYA-SABHA)|
 | 077 | 🏡Ambanganga Korale PS f({total_seats}) |🟢SJB (8) |🔴JJB (5) |🟣SLPP (2) | Others (3) |[...](https://results.elections.gov.lk/?page=lg_result&district=MATALE&lg_code=077&lg_name=AMBANGANGA-KORALE-PRADESHIYA-SABHA)|
+| 078 | 🏡Naula PS f({total_seats}) |**🔴JJB (9)✔️** |🟢SJB (4) |🟣SLPP (2) | Others (3) |[...](https://results.elections.gov.lk/?page=lg_result&district=MATALE&lg_code=078&lg_name=NAULA-PRADESHIYA-SABHA)|
 | 080 | 🏡Wilgamuwa PS f({total_seats}) |**🔴JJB (10)✔️** |🟢SJB (3) 🟣SLPP (3) |🟦PA (1) 🔵SB (1) 🟩UNP (1) | Others (0) |[...](https://results.elections.gov.lk/?page=lg_result&district=MATALE&lg_code=080&lg_name=WILGAMUWA-PRADESHIYA-SABHA)|
 | 083 | 🏡Ukuwela PS f({total_seats}) |🔴JJB (11) |🟢SJB (7) |🟩UNP (3) | Others (6) |[...](https://results.elections.gov.lk/?page=lg_result&district=MATALE&lg_code=083&lg_name=UKUWELA-PRADESHIYA-SABHA)|
 | 084 | 🏡Rattota PS f({total_seats}) |🔴JJB (11) |🟢SJB (5) |🟩UNP (4) | Others (7) |[...](https://results.elections.gov.lk/?page=lg_result&district=MATALE&lg_code=084&lg_name=RATTOTA-PRADESHIYA-SABHA)|
@@ -264,6 +265,7 @@ As of 2025-05-07 08:26:55
 | 197 | 🏡Uhana PS f({total_seats}) |**🔴JJB (16)✔️** |🟢SJB (7) |🟣SLPP (5) | Others (1) |[...](https://results.elections.gov.lk/?page=lg_result&district=AMPARA&lg_code=197&lg_name=UHANA-PRADESHIYA-SABHA)|
 | 198 | 🏡Mahaoya PS f({total_seats}) |🔴JJB (7) |🟢SJB (4) |🟩UNP (3) 🟣SLPP (3) | Others (1) |[...](https://results.elections.gov.lk/?page=lg_result&district=AMPARA&lg_code=198&lg_name=MAHAOYA-PRADESHIYA-SABHA)|
 | 199 | 🏡Namaloya PS f({total_seats}) |**🔴JJB (8)✔️** |🟢SJB (5) |🟣SLPP (2) | Others (1) |[...](https://results.elections.gov.lk/?page=lg_result&district=AMPARA&lg_code=199&lg_name=NAMALOYA-PRADESIYA-SABA)|
+| 200 | 🏡Padiyathalawa PS f({total_seats}) |🔴JJB (7) |🟢SJB (6) |🟣SLPP (3) | Others (4) |[...](https://results.elections.gov.lk/?page=lg_result&district=AMPARA&lg_code=200&lg_name=PADIYATHALAWA-PRADESHIYA-SABHA)|
 | 201 | 🏡Navithanveli PS f({total_seats}) |🟡ITAK (5) |⚫IG4 201 (2) ⚫IG1 201 (2) |⚫IG3 201 (1) ⚪SLMC (1) ⚪ACMC (1) 🔴JJB (1) | Others (0) |[...](https://results.elections.gov.lk/?page=lg_result&district=AMPARA&lg_code=201&lg_name=NAVITHANVELI-PRADESHIYA-SABHA)|
 | 202 | 🏡Sammanthurai PS f({total_seats}) |⚪ACMC (9) |⚪SLMC (5) |🔴JJB (2) 🟢SJB (2) | Others (5) |[...](https://results.elections.gov.lk/?page=lg_result&district=AMPARA&lg_code=202&lg_name=SAMMANTHURAI-PRADESHIYA-SABHA)|
 | 203 | 🏡Irakkamam PS f({total_seats}) |⚪SLMC (4) |🔴JJB (3) |⚪ACMC (2) | Others (4) |[...](https://results.elections.gov.lk/?page=lg_result&district=AMPARA&lg_code=203&lg_name=IRAKKAMAM-PRADESHIYA-SABHA)|
@@ -329,6 +331,7 @@ As of 2025-05-07 08:26:55
 | 271 | 🏡Galnewa PS f({total_seats}) |**🔴JJB (10)✔️** |🟢SJB (3) |🟣SLPP (1) 🟩UNP (1) 🔵SB (1) 🟦PA (1) | Others (0) |[...](https://results.elections.gov.lk/?page=lg_result&district=ANURADHAPURA&lg_code=271&lg_name=GALNEWA-PRADESHIYA-SABHA)|
 | 272 | 🏡Ipalogama PS f({total_seats}) |**🔴JJB (8)✔️** |🟢SJB (5) |🟩UNP (1) 🟣SLPP (1) 🔵SB (1) | Others (0) |[...](https://results.elections.gov.lk/?page=lg_result&district=ANURADHAPURA&lg_code=272&lg_name=IPALOGAMA-PRADESHIYA-SABHA)|
 | 273 | 🏡Mihintale PS f({total_seats}) |**🔴JJB (10)✔️** |🟢SJB (3) |🟣SLPP (1) 🟦PA (1) 🟩UNP (1) ⚫IG 273 (1) 🔵SB (1) | Others (0) |[...](https://results.elections.gov.lk/?page=lg_result&district=ANURADHAPURA&lg_code=273&lg_name=MIHINTALE-PRADESHIYA-SABHA)|
+| 274 | 🏡Thirappane PS f({total_seats}) |**🔴JJB (9)✔️** |🟢SJB (4) |🟦PA (1) 🟩UNP (1) 🟣SLPP (1) 🔵SB (1) | Others (0) |[...](https://results.elections.gov.lk/?page=lg_result&district=ANURADHAPURA&lg_code=274&lg_name=THIRAPPANE-PRADESHIYA-SABHA)|
 
 ### Polonnaruwa
 

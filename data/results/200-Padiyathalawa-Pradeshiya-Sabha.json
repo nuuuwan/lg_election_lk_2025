@@ -1,0 +1,68 @@
+{
+  "district_name": "Ampara",
+  "lg_code": "200",
+  "lg_name": "Padiyathalawa Pradeshiya Sabha",
+  "url": "https://results.elections.gov.lk/?page=lg_result&district=AMPARA&lg_code=200&lg_name=PADIYATHALAWA-PRADESHIYA-SABHA",
+  "time_str": "2025-05-07 08:00:00",
+  "time_ut": 1746585000.0,
+  "summary_data": {
+    "electors": 16440,
+    "polled": 12189,
+    "valid": 12029,
+    "rejected": 160,
+    "p_turnout": 0.74,
+    "p_valid": 0.99,
+    "p_rejected": 0.01
+  },
+  "party_result_data_list": [
+    {
+      "party_name": "Jathika Jana Balawegaya",
+      "party_code": "NPP",
+      "votes": 4432,
+      "p_votes": 0.37,
+      "seats": 7
+    },
+    {
+      "party_name": "Samagi Jana Balawegaya",
+      "party_code": "SJB",
+      "votes": 3574,
+      "p_votes": 0.3,
+      "seats": 6
+    },
+    {
+      "party_name": "Sri Lanka Podujana Peramuna",
+      "party_code": "SLPP",
+      "votes": 1881,
+      "p_votes": 0.16,
+      "seats": 3
+    },
+    {
+      "party_name": "Sarvajana Balaya",
+      "party_code": "SB",
+      "votes": 1131,
+      "p_votes": 0.09,
+      "seats": 2
+    },
+    {
+      "party_name": "People's Alliance",
+      "party_code": "PA",
+      "votes": 511,
+      "p_votes": 0.04,
+      "seats": 1
+    },
+    {
+      "party_name": "United National Party",
+      "party_code": "UNP",
+      "votes": 375,
+      "p_votes": 0.03,
+      "seats": 1
+    },
+    {
+      "party_name": "People's Struggle Alliance",
+      "party_code": "PSA",
+      "votes": 125,
+      "p_votes": 0.01,
+      "seats": 0
+    }
+  ]
+}
