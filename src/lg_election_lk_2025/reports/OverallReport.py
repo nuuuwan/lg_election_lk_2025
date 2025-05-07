@@ -195,7 +195,7 @@ class OverallReport:
         lines = [
             f"## Islandwide (Top {N_TOP} by Votes)",
             "",
-            "| Party | Votes | %  | Seats | % | Wins | ≥½ ✔️ |",
+            "| Party | Votes | %  | Seats | % | Most Seats | ≥½ Seats (✔️) |",
             "|---|--:|--:|--:|--:|--:|--:|",
         ]
         lk_summary = self.lk_summary
