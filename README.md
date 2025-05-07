@@ -1,6 +1,6 @@
 # Sri Lankan Local Government Elections - 2025 🇱🇰
 
-As of 2025-05-07 07:32:39
+As of 2025-05-07 07:33:39
 
 *Scraped from [results.elections.gov.lk](https://results.elections.gov.lk)*
 
@@ -8,22 +8,22 @@ As of 2025-05-07 07:32:39
 
 | Results Released | % Released (By Votes) | % Turnout | % Rejected |
 |--:|--:|--:|--:|
-|213/339|60.4%|61.4%|1.96%|
+|216/339|61.1%|61.4%|1.96%|
 
 ## Islandwide (Top 10 by Votes)
 
 | Party | Votes | %  | Seats | % | Most Seats | ≥½ Seats (✔️) |
 |---|--:|--:|--:|--:|--:|--:|
-|🔴Jathika Jana Balawegaya|2,740,233|44%|2,398|45%|174|92|
-|🟢Samagi Jana Balawegaya|1,286,218|20%|1,010|19%|7||
-|🟣Sri Lanka Podujana Peramuna|615,592|10%|477|9%|||
-|🟩United National Party|275,556|4%|221|4%|1||
+|🔴Jathika Jana Balawegaya|2,770,600|44%|2,422|44%|176|92|
+|🟢Samagi Jana Balawegaya|1,307,165|21%|1,026|19%|7||
+|🟣Sri Lanka Podujana Peramuna|623,819|10%|483|9%|||
+|🟩United National Party|278,400|4%|223|4%|1||
 |🟦People's Alliance|228,145|4%|188|3%|||
-|🟡Ilankai Tamil Arasu Kadchi|208,345|3%|275|5%|30|5|
+|🟡Ilankai Tamil Arasu Kadchi|209,863|3%|279|5%|30|5|
 |🔵Sarvajana Balaya|154,897|2%|124|2%|||
-|⚪Democratic Tamil National Alliance|72,396|1%|87|2%|1||
+|⚪Democratic Tamil National Alliance|73,061|1%|89|2%|1||
 |⚪Sri Lanka Muslim Congress|68,183|1%|58|1%|1||
-|⚪All Ceylon Tamil Congress|48,287|1%|75|1%|3||
+|⚪All Ceylon Tamil Congress|50,332|1%|80|1%|4||
 
 ## Results by Local Authority
 
@@ -78,6 +78,8 @@ As of 2025-05-07 07:32:39
 | 038 | 🏡Bandaragama PS (34) |🔴JJB (16) |🟢SJB (7) |🟦PA (4) | Others (7) |[...](https://results.elections.gov.lk/?page=lg_result&district=KALUTARA&lg_code=038&lg_name=BANDARAGAMA-PRADESHIYA-SABHA)|
 | 039 | 🏡Horana PS (55) |**🔴JJB (30)✔️** |🟢SJB (9) |🟣SLPP (5) | Others (11) |[...](https://results.elections.gov.lk/?page=lg_result&district=KALUTARA&lg_code=039&lg_name=HORANA-PRADESHIYA-SABHA)|
 | 040 | 🏡Madurawala PS (15) |🔴JJB (5) |🟢SJB (3) 🟩UNP (3) |🟣SLPP (2) | Others (2) |[...](https://results.elections.gov.lk/?page=lg_result&district=KALUTARA&lg_code=040&lg_name=MADURAWALA-PRADESHIYA-SABHA)|
+| 041 | 🏡Bulathsinhala PS (25) |🔴JJB (9) |🟢SJB (6) ⚫IG2 041 (6) |🟣SLPP (3) | Others (1) |[...](https://results.elections.gov.lk/?page=lg_result&district=KALUTARA&lg_code=041&lg_name=BULATHSINHALA-PRADESHIYA-SABHA)|
+| 042 | 🏡Mathugama PS (33) |🔴JJB (13) |🟢SJB (10) |⚫IG 042 (4) | Others (6) |[...](https://results.elections.gov.lk/?page=lg_result&district=KALUTARA&lg_code=042&lg_name=MATHUGAMA-PRADESHIYA-SABHA)|
 | 044 | 🏡Kalutara PS (32) |🔴JJB (15) |🟢SJB (6) |🟦PA (4) | Others (7) |[...](https://results.elections.gov.lk/?page=lg_result&district=KALUTARA&lg_code=044&lg_name=KALUTARA-PRADESHIYA-SABHA)|
 | 045 | 🏡Beruwala PS (43) |🔴JJB (20) |🟢SJB (10) |🟣SLPP (5) | Others (8) |[...](https://results.elections.gov.lk/?page=lg_result&district=KALUTARA&lg_code=045&lg_name=BERUWALA-PRADESHIYA-SABHA)|
 | 047 | 🏡Agalawaththa PS (20) |🟢SJB (6) 🔴JJB (6) |⚫IG1 047 (3) |🟣SLPP (2) | Others (3) |[...](https://results.elections.gov.lk/?page=lg_result&district=KALUTARA&lg_code=047&lg_name=AGALAWATHTHA-PRADESHIYA-SABHA)|
@@ -172,6 +174,7 @@ As of 2025-05-07 07:32:39
 |---|---|---|---|---|---|---|
 | 146 | 🏛️Jaffna MC (45) |🟡ITAK (13) |⚪ACTC (12) |🔴JJB (10) | Others (10) |[...](https://results.elections.gov.lk/?page=lg_result&district=JAFFNA&lg_code=146&lg_name=JAFFNA-MUNICIPAL-COUNCIL)|
 | 147 | 🏢Valvettithurai UC (16) |⚪ACTC (7) |🟡ITAK (5) |🔴JJB (3) | Others (1) |[...](https://results.elections.gov.lk/?page=lg_result&district=JAFFNA&lg_code=147&lg_name=VALVETTITHURAI-URBAN-COUNCIL)|
+| 148 | 🏢Point Pedro UC (15) |⚪ACTC (5) |🟡ITAK (4) |🔴JJB (2) ⚪DTNA (2) | Others (2) |[...](https://results.elections.gov.lk/?page=lg_result&district=JAFFNA&lg_code=148&lg_name=POINT-PEDRO-URBAN-COUNCIL)|
 | 149 | 🏢Chavakachcheri UC (18) |⚪ACTC (6) 🟡ITAK (6) |🔴JJB (3) |⚪DTNA (2) | Others (1) |[...](https://results.elections.gov.lk/?page=lg_result&district=JAFFNA&lg_code=149&lg_name=CHAVAKACHCHERI-URBAN-COUNCIL)|
 | 150 | 🏡Karainagar PS (11) |⚫IG 150 (2) 🔴JJB (2) ⚪TMK (2) ⚪ACTC (2) 🟩UNP (2) |🟡ITAK (1) | Others (0) |[...](https://results.elections.gov.lk/?page=lg_result&district=JAFFNA&lg_code=150&lg_name=KARAINAGAR-PRADESHIYA-SABHA)|
 | 152 | 🏡Delft PS (13) |🟡ITAK (6) |⚪EPDP (4) |🔴JJB (2) | Others (1) |[...](https://results.elections.gov.lk/?page=lg_result&district=JAFFNA&lg_code=152&lg_name=DELFT-PRADESHIYA-SABHA)|
