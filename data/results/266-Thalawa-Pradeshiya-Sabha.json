@@ -1,0 +1,68 @@
+{
+  "district_name": "Anuradhapura",
+  "lg_code": "266",
+  "lg_name": "Thalawa Pradeshiya Sabha",
+  "url": "https://results.elections.gov.lk/?page=lg_result&district=ANURADHAPURA&lg_code=266&lg_name=THALAWA-PRADESHIYA-SABHA",
+  "time_str": "2025-05-07 08:37:00",
+  "time_ut": 1746587220.0,
+  "summary_data": {
+    "electors": 81710,
+    "polled": 51313,
+    "valid": 50447,
+    "rejected": 866,
+    "p_turnout": 0.63,
+    "p_valid": 0.98,
+    "p_rejected": 0.02
+  },
+  "party_result_data_list": [
+    {
+      "party_name": "Jathika Jana Balawegaya",
+      "party_code": "NPP",
+      "votes": 28656,
+      "p_votes": 0.57,
+      "seats": 20
+    },
+    {
+      "party_name": "Samagi Jana Balawegaya",
+      "party_code": "SJB",
+      "votes": 9332,
+      "p_votes": 0.18,
+      "seats": 6
+    },
+    {
+      "party_name": "People's Alliance",
+      "party_code": "PA",
+      "votes": 4336,
+      "p_votes": 0.09,
+      "seats": 3
+    },
+    {
+      "party_name": "Sri Lanka Podujana Peramuna",
+      "party_code": "SLPP",
+      "votes": 3508,
+      "p_votes": 0.07,
+      "seats": 2
+    },
+    {
+      "party_name": "United National Party",
+      "party_code": "UNP",
+      "votes": 2392,
+      "p_votes": 0.05,
+      "seats": 2
+    },
+    {
+      "party_name": "Sarvajana Balaya",
+      "party_code": "SB",
+      "votes": 1625,
+      "p_votes": 0.03,
+      "seats": 1
+    },
+    {
+      "party_name": "Arunalu Peoples Alliance",
+      "party_code": "APP",
+      "votes": 598,
+      "p_votes": 0.01,
+      "seats": 0
+    }
+  ]
+}

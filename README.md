@@ -1,6 +1,6 @@
 # Sri Lankan Local Government Elections - 2025 🇱🇰
 
-As of 2025-05-07 11:57:21
+As of 2025-05-07 11:58:42
 
 *Scraped from [results.elections.gov.lk](https://results.elections.gov.lk)*
 
@@ -8,19 +8,19 @@ As of 2025-05-07 11:57:21
 
 | Results Released | % Released (By Votes) | % Turnout | % Rejected |
 |--:|--:|--:|--:|
-|337/339|99.2%|61.8%|1.98%|
+|339/339|99.9%|61.8%|1.97%|
 
 ## Islandwide (Top 10 by Seats)
 
 | Party |  *Seats* | *%* | Votes | %  | LG's with<br>Most Votes | **LGs with<br>>50% Seats** |
 |---|--:|--:|--:|--:|--:|--:|
-|🔴Jathika Jana Balawegaya|*3,918*|*45%*|4,502,161|43%|265|**120**|
-|🟢Samagi Jana Balawegaya|*1,753*|*20%*|2,244,147|22%|12||
-|🟣Sri Lanka Podujana Peramuna|*741*|*8%*|949,523|9%|||
-|🟩United National Party|*379*|*4%*|478,829|5%|||
+|🔴Jathika Jana Balawegaya|*3,948*|*45%*|4,543,045|43%|267|**121**|
+|🟢Samagi Jana Balawegaya|*1,765*|*20%*|2,261,308|22%|12||
+|🟣Sri Lanka Podujana Peramuna|*745*|*8%*|956,398|9%|||
+|🟩United National Party|*381*|*4%*|481,221|5%|||
 |🟡Ilankai Tamil Arasu Kadchi|*376*|*4%*|306,691|3%|37|**3**|
-|🟦People's Alliance|*296*|*3%*|365,139|4%|||
-|🔵Sarvajana Balaya|*225*|*3%*|273,752|3%|||
+|🟦People's Alliance|*300*|*3%*|370,990|4%|||
+|🔵Sarvajana Balaya|*228*|*3%*|277,721|3%|||
 |⚪Sri Lanka Muslim Congress|*110*|*1%*|133,894|1%|5|**1**|
 |⚪Democratic Tamil National Alliance|*106*|*1%*|88,304|1%|1||
 |⚪All Ceylon Tamil Congress|*101*|*1%*|67,003|1%|3||
@@ -85,7 +85,7 @@ As of 2025-05-07 11:57:21
 |Trincomalee|🔴JJB·*30%*<br>|🟡ITAK·*16%*<br>🟢SJB·*16%*<br>|⚪SLMC·*10%*<br>|Others·*44%*|
 |Kurunegala|🔴JJB·*50%*<br>|🟢SJB·*25%*<br>|🟣SLPP·*11%*<br>|Others·*14%*|
 |Puttalam|🔴JJB·*45%*<br>|🟢SJB·*22%*<br>|🟣SLPP·*11%*<br>|Others·*22%*|
-|Anuradhapura|🔴JJB·*53%*<br>|🟢SJB·*22%*<br>|🟣SLPP·*9%*<br>|Others·*16%*|
+|Anuradhapura|🔴JJB·*54%*<br>|🟢SJB·*22%*<br>|🟣SLPP·*8%*<br>|Others·*16%*|
 |Polonnaruwa|🔴JJB·*55%*<br>|🟢SJB·*23%*<br>|🟣SLPP·*7%*<br>|Others·*15%*|
 |Badulla|🔴JJB·*47%*<br>|🟢SJB·*22%*<br>|🟦PA·*9%*<br>|Others·*22%*|
 |Monaragala|🔴JJB·*50%*<br>|🟢SJB·*25%*<br>|🟣SLPP·*11%*<br>|Others·*14%*|
@@ -449,12 +449,14 @@ As of 2025-05-07 11:57:21
 |  |  |  |  |  |  |
 |---|---|---|---|---|---|
 | [258](https://results.elections.gov.lk/?page=lg_result&district=ANURADHAPURA&lg_code=258&lg_name=ANURADHAPURA-MUNICIPAL-COUNCIL) | 🏛️Anuradhapura MC·*26*|**🔴JJB·*15***<br>|🟢SJB·*5*<br>|🟩UNP·*2*<br>|Others·*4*|
+| [259](https://results.elections.gov.lk/?page=lg_result&district=ANURADHAPURA&lg_code=259&lg_name=MEDAWACHCHIYA-PRADESHIYA-SABHA) | 🏡Medawachchiya PS·*21*|🔴JJB·*10*<br>|🟢SJB·*6*<br>|🟣SLPP·*2*<br>🔵SB·*2*<br>|Others·*1*|
 | [260](https://results.elections.gov.lk/?page=lg_result&district=ANURADHAPURA&lg_code=260&lg_name=RAMBEWA-PRADESHIYA-SABHA) | 🏡Rambewa PS·*20*|**🔴JJB·*11***<br>|🟢SJB·*5*<br>|🟣SLPP·*2*<br>|Others·*2*|
 | [261](https://results.elections.gov.lk/?page=lg_result&district=ANURADHAPURA&lg_code=261&lg_name=KEBITHIGOLLEWA-PRADESHIYA-SABHA) | 🏡Kebithigollewa PS·*18*|🔴JJB·*7*<br>|🟢SJB·*6*<br>|🟣SLPP·*3*<br>|Others·*2*|
 | [262](https://results.elections.gov.lk/?page=lg_result&district=ANURADHAPURA&lg_code=262&lg_name=PADAVIYA-PRADESHIYA-SABHA) | 🏡Padaviya PS·*17*|**🔴JJB·*10***<br>|🟢SJB·*4*<br>|🟣SLPP·*2*<br>|Others·*1*|
 | [263](https://results.elections.gov.lk/?page=lg_result&district=ANURADHAPURA&lg_code=263&lg_name=KAHATAGASDIGILIYA-PRADESHIYA-SABHA) | 🏡Kahatagasdigiliya PS·*18*|**🔴JJB·*10***<br>|🟢SJB·*4*<br>|🟣SLPP·*2*<br>|Others·*2*|
 | [264](https://results.elections.gov.lk/?page=lg_result&district=ANURADHAPURA&lg_code=264&lg_name=HOROWPOTHANA-PRADESHIYA-SABHA) | 🏡Horowpothana PS·*21*|🔴JJB·*10*<br>|🟢SJB·*5*<br>|⚫IG-264·*2*<br>|Others·*4*|
 | [265](https://results.elections.gov.lk/?page=lg_result&district=ANURADHAPURA&lg_code=265&lg_name=GALENBINDUNUWEVA-PRADESHIYA-SABHA) | 🏡Galenbindunuweva PS·*20*|**🔴JJB·*11***<br>|🟢SJB·*4*<br>|🟣SLPP·*2*<br>|Others·*3*|
+| [266](https://results.elections.gov.lk/?page=lg_result&district=ANURADHAPURA&lg_code=266&lg_name=THALAWA-PRADESHIYA-SABHA) | 🏡Thalawa PS·*34*|**🔴JJB·*20***<br>|🟢SJB·*6*<br>|🟦PA·*3*<br>|Others·*5*|
 | [267](https://results.elections.gov.lk/?page=lg_result&district=ANURADHAPURA&lg_code=267&lg_name=NUWARAGAMPALATHA-EAST-PRADESHIYA-SABHA) | 🏡Nuwaragampalatha East PS·*18*|**🔴JJB·*11***<br>|🟢SJB·*4*<br>|🟣SLPP·*1*<br>🟩UNP·*1*<br>🟦PA·*1*<br>||
 | [268](https://results.elections.gov.lk/?page=lg_result&district=ANURADHAPURA&lg_code=268&lg_name=NUWARAGAMPALATHA-CENTRAL-PRADESHIYA-SABHA) | 🏡Nuwaragampalatha Central PS·*28*|**🔴JJB·*15***<br>|🟢SJB·*6*<br>|🟣SLPP·*3*<br>|Others·*4*|
 | [269](https://results.elections.gov.lk/?page=lg_result&district=ANURADHAPURA&lg_code=269&lg_name=NOCHCHIYAGAMA-PRADESHIYA-SABHA) | 🏡Nochchiyagama PS·*22*|**🔴JJB·*12***<br>|🟢SJB·*5*<br>|🟣SLPP·*2*<br>|Others·*3*|
@@ -559,11 +561,9 @@ As of 2025-05-07 11:57:21
 ## Results Not Released
 
 All LGs: 341
-Released LGs: 335
-Missing LGs: 6
-- Medawachchiya PS (LG-71003)
-- Thalawa PS (LG-71015)
+Released LGs: 337
+Missing LGs: 4
+- Koralai Pattu West PS (LG-51002)
+- Maho PS (LG-61003)
 - Kalmunai MC (LG-52009)
 - Elpitiya PS (LG-31004)
-- Maho PS (LG-61003)
-- Koralai Pattu West PS (LG-51002)
