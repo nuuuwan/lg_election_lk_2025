@@ -1,0 +1,82 @@
+{
+  "district_name": "Kandy",
+  "lg_code": "057",
+  "lg_name": "Akurana Pradeshiya Sabha",
+  "url": "https://results.elections.gov.lk/?page=lg_result&district=KANDY&lg_code=057&lg_name=AKURANA-PRADESHIYA-SABHA",
+  "time_str": "2025-05-07 08:33:00",
+  "time_ut": 1746586980.0,
+  "summary_data": {
+    "electors": 56328,
+    "polled": 35743,
+    "valid": 35015,
+    "rejected": 728,
+    "p_turnout": 0.63,
+    "p_valid": 0.98,
+    "p_rejected": 0.02
+  },
+  "party_result_data_list": [
+    {
+      "party_name": "Samagi Jana Balawegaya",
+      "party_code": "SJB",
+      "votes": 14638,
+      "p_votes": 0.42,
+      "seats": 13
+    },
+    {
+      "party_name": "Jathika Jana Balawegaya",
+      "party_code": "NPP",
+      "votes": 11492,
+      "p_votes": 0.33,
+      "seats": 10
+    },
+    {
+      "party_name": "Independent Group 2",
+      "party_code": "IND2",
+      "votes": 1982,
+      "p_votes": 0.06,
+      "seats": 2
+    },
+    {
+      "party_name": "United National Party",
+      "party_code": "UNP",
+      "votes": 1756,
+      "p_votes": 0.05,
+      "seats": 1
+    },
+    {
+      "party_name": "Sri Lanka Podujana Peramuna",
+      "party_code": "SLPP",
+      "votes": 1416,
+      "p_votes": 0.04,
+      "seats": 1
+    },
+    {
+      "party_name": "Sri Lanka Muslim Congress",
+      "party_code": "SLMC",
+      "votes": 1365,
+      "p_votes": 0.04,
+      "seats": 1
+    },
+    {
+      "party_name": "United National Alliance",
+      "party_code": "UNA",
+      "votes": 909,
+      "p_votes": 0.03,
+      "seats": 1
+    },
+    {
+      "party_name": "Independent Group 1",
+      "party_code": "IND1",
+      "votes": 864,
+      "p_votes": 0.02,
+      "seats": 1
+    },
+    {
+      "party_name": "Sarvajana Balaya",
+      "party_code": "SB",
+      "votes": 593,
+      "p_votes": 0.02,
+      "seats": 0
+    }
+  ]
+}
