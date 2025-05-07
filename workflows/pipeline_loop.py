@@ -5,7 +5,7 @@ from workflows.scrape_results import main as scrape_results_main
 from workflows.write_reports import main as write_reports_main
 
 log = Log("pipeline_loop")
-T_SLEEP = 5
+T_SLEEP = 60
 
 
 def main():
