@@ -1,0 +1,82 @@
+{
+  "district_name": "Batticaloa",
+  "lg_code": "182",
+  "lg_name": "Kaththankudi Urban Council",
+  "url": "https://results.elections.gov.lk/?page=lg_result&district=BATTICALOA&lg_code=182&lg_name=KATHTHANKUDI-URBAN-COUNCIL",
+  "time_str": "2025-05-07 08:38:00",
+  "time_ut": 1746587280.0,
+  "summary_data": {
+    "electors": 34686,
+    "polled": 22452,
+    "valid": 22287,
+    "rejected": 165,
+    "p_turnout": 0.65,
+    "p_valid": 0.99,
+    "p_rejected": 0.01
+  },
+  "party_result_data_list": [
+    {
+      "party_name": "Sri Lanka Muslim Congress",
+      "party_code": "SLMC",
+      "votes": 11102,
+      "p_votes": 0.5,
+      "seats": 10
+    },
+    {
+      "party_name": "Jathika Jana Balawegaya",
+      "party_code": "NPP",
+      "votes": 3726,
+      "p_votes": 0.17,
+      "seats": 3
+    },
+    {
+      "party_name": "National Front for Good Governance",
+      "party_code": "NFGG",
+      "votes": 2599,
+      "p_votes": 0.12,
+      "seats": 2
+    },
+    {
+      "party_name": "Independent Group 1",
+      "party_code": "IND1",
+      "votes": 1406,
+      "p_votes": 0.06,
+      "seats": 1
+    },
+    {
+      "party_name": "Sri Lanka Labour Party",
+      "party_code": "SLLP",
+      "votes": 1213,
+      "p_votes": 0.05,
+      "seats": 1
+    },
+    {
+      "party_name": "Samagi Jana Balawegaya",
+      "party_code": "SJB",
+      "votes": 715,
+      "p_votes": 0.03,
+      "seats": 1
+    },
+    {
+      "party_name": "United National Alliance",
+      "party_code": "UNA",
+      "votes": 658,
+      "p_votes": 0.03,
+      "seats": 0
+    },
+    {
+      "party_name": "Independent Group 3",
+      "party_code": "IND3",
+      "votes": 443,
+      "p_votes": 0.02,
+      "seats": 0
+    },
+    {
+      "party_name": "Independent Group 2",
+      "party_code": "IND2",
+      "votes": 425,
+      "p_votes": 0.02,
+      "seats": 0
+    }
+  ]
+}

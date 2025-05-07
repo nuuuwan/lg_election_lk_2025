@@ -1,0 +1,68 @@
+{
+  "district_name": "Jaffna",
+  "lg_code": "151",
+  "lg_name": "Kayts Pradeshiya Sabha",
+  "url": "https://results.elections.gov.lk/?page=lg_result&district=JAFFNA&lg_code=151&lg_name=KAYTS-PRADESHIYA-SABHA",
+  "time_str": "2025-05-07 08:41:00",
+  "time_ut": 1746587460.0,
+  "summary_data": {
+    "electors": 8628,
+    "polled": 5452,
+    "valid": 5362,
+    "rejected": 90,
+    "p_turnout": 0.63,
+    "p_valid": 0.98,
+    "p_rejected": 0.02
+  },
+  "party_result_data_list": [
+    {
+      "party_name": "Eelam People's Democratic Party",
+      "party_code": "EPDP",
+      "votes": 1428,
+      "p_votes": 0.27,
+      "seats": 4
+    },
+    {
+      "party_name": "All Ceylon Tamil Congress",
+      "party_code": "ACTC",
+      "votes": 1371,
+      "p_votes": 0.26,
+      "seats": 3
+    },
+    {
+      "party_name": "Jathika Jana Balawegaya",
+      "party_code": "NPP",
+      "votes": 1115,
+      "p_votes": 0.21,
+      "seats": 3
+    },
+    {
+      "party_name": "Ilankai Tamil Arasu Kadchi",
+      "party_code": "ITAK",
+      "votes": 984,
+      "p_votes": 0.18,
+      "seats": 2
+    },
+    {
+      "party_name": "Democratic Tamil National Alliance",
+      "party_code": "DTNA",
+      "votes": 385,
+      "p_votes": 0.07,
+      "seats": 1
+    },
+    {
+      "party_name": "United National Party",
+      "party_code": "UNP",
+      "votes": 47,
+      "p_votes": 0.01,
+      "seats": 0
+    },
+    {
+      "party_name": "Samagi Jana Balawegaya",
+      "party_code": "SJB",
+      "votes": 32,
+      "p_votes": 0.01,
+      "seats": 0
+    }
+  ]
+}
