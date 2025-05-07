@@ -200,7 +200,13 @@ class OverallReport:
                     f"*{seats:,}*",
                     f"*{p_seats:.0%}*",
                     StringX(summary["n_wins"]).int_zero_blank,
-                    StringX(summary["n_majority"]).int_zero_blank,
+                    (
+                        "**"
+                        + StringX(summary["n_majority"]).int_zero_blank
+                        + "**"
+                        if summary["n_majority"]
+                        else ""
+                    ),
                 ]
             )
             + "|"
@@ -283,8 +289,8 @@ class OverallReport:
 
             line = (
                 f"| {lg_code} | "
-                + f"{OverallReport.get_lg_short_name(lg_name)} "
-                + f"({total_seats}) |"
+                + f"{OverallReport.get_lg_short_name(lg_name)}"
+                + f"·{total_seats}|"
             )
 
             seats_to_data_list = {}
@@ -318,7 +324,7 @@ class OverallReport:
                         OverallReport.get_party_name_annotated(
                             party_name, lg_code, use_short=True
                         )
-                        + f" · *{seats}*"
+                        + f"·*{seats}*"
                     )
                     if is_majority:
                         cell_inner = f"**{cell_inner}**"
@@ -328,7 +334,7 @@ class OverallReport:
             url = result["url"]
             other_seats = total_seats - displayed_seats
             if other_seats > 0:
-                line += f" Others · {other_seats} |"
+                line += f" Others·{other_seats} |"
             else:
                 line += "|"
             line += f"[...]({url})|"
