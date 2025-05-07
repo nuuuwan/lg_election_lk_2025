@@ -26,14 +26,17 @@ class OverallReport:
 
         return lines
 
-    @property
-    def result_list(self):
+    def get_result_list(self, n_latest=None):
         result_list = []
         for file_name in os.listdir(os.path.join("data", "results")):
             file_path = os.path.join("data", "results", file_name)
             result_data = JSONFile(file_path).read()
             result_list.append(result_data)
-        result_list.sort(key=lambda x: x["lg_code"])
+        if n_latest is not None:
+            result_list.sort(key=lambda x: x["time_ut"], reverse=True)
+            result_list = result_list[:n_latest]
+        else:
+            result_list.sort(key=lambda x: x["lg_code"])
         return tuple(result_list)
 
     @staticmethod
@@ -119,7 +122,7 @@ class OverallReport:
         polled = 0
         valid = 0
         rejected = 0
-        for result in self.result_list:
+        for result in self.get_result_list():
             results += 1
             seats += sum(
                 party_result_data["seats"]
@@ -172,7 +175,7 @@ class OverallReport:
     @property
     def lk_party_to_summary(self):
         party_to_summary = {}
-        for result in self.result_list:
+        for result in self.get_result_list():
             party_to_summary = OverallReport.process_result(
                 party_to_summary, result
             )
@@ -244,7 +247,7 @@ class OverallReport:
 
     def get_x_to_party_to_p_seats(self, get_x):
         idx = {}
-        for result in self.result_list:
+        for result in self.get_result_list():
             x = get_x(result)
             for party_result_data in result["party_result_data_list"]:
                 party_name = OverallReport.get_party_name_annotated(
@@ -328,16 +331,30 @@ class OverallReport:
             raise ValueError(f"Unknown LG type: {lg_type} in {lg_name}")
         return f"{emoji}{lg_name_only} {lg_type_short}"
 
-    @property
-    def result_lines(self):
+    def get_result_lines(self, n_latest=None):
         lines = [
-            "## Results by Local Authority",
+            (
+                "## Results by Local Authority"
+                if n_latest is None
+                else f"## Latest Results ({n_latest})"
+            ),
         ]
+        show_district_headers = n_latest is None
+
+        if not show_district_headers:
+            lines.extend(
+                [
+                    "",
+                    "|  |  |  |  |  |  |",
+                    "|---|---|---|---|---|---|",
+                ]
+            )
+
         prev_district_name = None
-        for result in self.result_list:
+        for result in self.get_result_list(n_latest):
             district_name = result["district_name"]
 
-            if district_name != prev_district_name:
+            if district_name != prev_district_name and show_district_headers:
                 lines.extend(
                     [
                         "",
@@ -465,12 +482,13 @@ class OverallReport:
             self.header_lines
             + self.lk_summary_lines
             + self.lk_party_to_summary_lines
+            + self.get_result_lines(10)
             + self.get_x_summary_lines(
                 OverallReport.get_lg_type, "Local Authority Type"
             )
             + self.get_x_summary_lines(OverallReport.get_province, "Province")
             + self.get_x_summary_lines(lambda x: x["district_name"], "District")
-            + self.result_lines
+            + self.get_result_lines(None)
         )
 
     @property

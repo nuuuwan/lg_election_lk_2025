@@ -1,6 +1,6 @@
 # Sri Lankan Local Government Elections - 2025 🇱🇰
 
-As of 2025-05-07 10:25:11
+As of 2025-05-07 10:29:40
 
 *Scraped from [results.elections.gov.lk](https://results.elections.gov.lk)*
 
@@ -24,6 +24,21 @@ As of 2025-05-07 10:25:11
 |⚪Sri Lanka Muslim Congress|*102*|*1%*|118,652|1%|5|**1**|
 |⚪Democratic Tamil National Alliance|*100*|*1%*|82,178|1%|1||
 |⚪All Ceylon Tamil Congress|*96*|*1%*|62,668|1%|3||
+
+## Latest Results (10)
+
+|  |  |  |  |  |  |
+|---|---|---|---|---|---|
+| [113](https://results.elections.gov.lk/?page=lg_result&district=GALLE&lg_code=113&lg_name=AKMEEMANA-PRADESHIYA-SABHA) | 🏡Akmeemana PS·*29*|**🔴JJB·*16***<br>|🟢SJB·*5*<br>|🟣SLPP·*3*<br>|Others·*5*|
+| [068](https://results.elections.gov.lk/?page=lg_result&district=KANDY&lg_code=068&lg_name=UDUNUWARA-PRADESHIYA-SABHA) | 🏡Udunuwara PS·*38*|🔴JJB·*18*<br>|🟢SJB·*10*<br>|⚪UNA·*3*<br>🟩UNP·*3*<br>|Others·*4*|
+| [043](https://results.elections.gov.lk/?page=lg_result&district=KALUTARA&lg_code=043&lg_name=DODANGODA-PRADESHIYA-SABHA) | 🏡Dodangoda PS·*25*|🔴JJB·*12*<br>|🟢SJB·*5*<br>|⚫IG-043·*3*<br>|Others·*5*|
+| [245](https://results.elections.gov.lk/?page=lg_result&district=KURUNEGALA&lg_code=245&lg_name=RIDEEGAMA-PRADESHIYA-SABHA) | 🏡Rideegama PS·*39*|**🔴JJB·*21***<br>|🟢SJB·*8*<br>|🟣SLPP·*3*<br>🟩UNP·*3*<br>|Others·*4*|
+| [336](https://results.elections.gov.lk/?page=lg_result&district=KEGALLE&lg_code=336&lg_name=ARANAYAKA-PRADESHIYA-SABHA) | 🏡Aranayaka PS·*30*|🔴JJB·*13*<br>|🟢SJB·*8*<br>|🔵SB·*3*<br>|Others·*6*|
+| [070](https://results.elections.gov.lk/?page=lg_result&district=KANDY&lg_code=070&lg_name=GANGA-IHALA-KORALE-PRADESHIYA-SABHA) | 🏡Ganga Ihala Korale PS·*24*|**🔴JJB·*13***<br>|🟢SJB·*5*<br>|⚫IG1-070·*3*<br>|Others·*3*|
+| [341](https://results.elections.gov.lk/?page=lg_result&district=KEGALLE&lg_code=341&lg_name=DEHIOWITA-PRADESHIYA-SABHA) | 🏡Dehiowita PS·*36*|🔴JJB·*16*<br>|🟢SJB·*9*<br>|🟣SLPP·*3*<br>|Others·*8*|
+| [335](https://results.elections.gov.lk/?page=lg_result&district=KEGALLE&lg_code=335&lg_name=MAWANELLA-PRADESHIYA-SABHA) | 🏡Mawanella PS·*42*|🔴JJB·*19*<br>|🟢SJB·*11*<br>|🟦PA·*3*<br>🟩UNP·*3*<br>🟣SLPP·*3*<br>|Others·*3*|
+| [060](https://results.elections.gov.lk/?page=lg_result&district=KANDY&lg_code=060&lg_name=PANWILA-PRADESHIYA-SABHA) | 🏡Panwila PS·*16*|🟢SJB·*6*<br>|🔴JJB·*5*<br>|⚪CWCPW·*2*<br>|Others·*3*|
+| [237](https://results.elections.gov.lk/?page=lg_result&district=KURUNEGALA&lg_code=237&lg_name=UDUBADDAWA-PRADESHIYA-SABHA) | 🏡Udubaddawa PS·*19*|🔴JJB·*9*<br>|🟢SJB·*6*<br>|🟣SLPP·*3*<br>|Others·*1*|
 
 ## % Seats by Local Authority Type
 
