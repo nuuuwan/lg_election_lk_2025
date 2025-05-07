@@ -1,0 +1,68 @@
+{
+  "district_name": "Anuradhapura",
+  "lg_code": "268",
+  "lg_name": "Nuwaragampalatha Central Pradeshiya Sabha",
+  "url": "https://results.elections.gov.lk/?page=lg_result&district=ANURADHAPURA&lg_code=268&lg_name=NUWARAGAMPALATHA-CENTRAL-PRADESHIYA-SABHA",
+  "time_str": "2025-05-07 08:26:00",
+  "time_ut": 1746586560.0,
+  "summary_data": {
+    "electors": 62581,
+    "polled": 40610,
+    "valid": 39869,
+    "rejected": 741,
+    "p_turnout": 0.65,
+    "p_valid": 0.98,
+    "p_rejected": 0.02
+  },
+  "party_result_data_list": [
+    {
+      "party_name": "Jathika Jana Balawegaya",
+      "party_code": "NPP",
+      "votes": 19665,
+      "p_votes": 0.49,
+      "seats": 15
+    },
+    {
+      "party_name": "Samagi Jana Balawegaya",
+      "party_code": "SJB",
+      "votes": 8606,
+      "p_votes": 0.22,
+      "seats": 6
+    },
+    {
+      "party_name": "Sri Lanka Podujana Peramuna",
+      "party_code": "SLPP",
+      "votes": 4023,
+      "p_votes": 0.1,
+      "seats": 3
+    },
+    {
+      "party_name": "United National Party",
+      "party_code": "UNP",
+      "votes": 3573,
+      "p_votes": 0.09,
+      "seats": 2
+    },
+    {
+      "party_name": "People's Alliance",
+      "party_code": "PA",
+      "votes": 2263,
+      "p_votes": 0.06,
+      "seats": 1
+    },
+    {
+      "party_name": "Sarvajana Balaya",
+      "party_code": "SB",
+      "votes": 1537,
+      "p_votes": 0.04,
+      "seats": 1
+    },
+    {
+      "party_name": "Independent Group",
+      "party_code": "IND1",
+      "votes": 202,
+      "p_votes": 0.01,
+      "seats": 0
+    }
+  ]
+}

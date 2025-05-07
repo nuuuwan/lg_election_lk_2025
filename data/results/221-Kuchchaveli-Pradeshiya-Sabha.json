@@ -1,0 +1,103 @@
+{
+  "district_name": "Trincomalee",
+  "lg_code": "221",
+  "lg_name": "Kuchchaveli Pradeshiya Sabha",
+  "url": "https://results.elections.gov.lk/?page=lg_result&district=TRINCOMALEE&lg_code=221&lg_name=KUCHCHAVELI-PRADESHIYA-SABHA",
+  "time_str": "2025-05-07 08:24:00",
+  "time_ut": 1746586440.0,
+  "summary_data": {
+    "electors": 29540,
+    "polled": 21815,
+    "valid": 21583,
+    "rejected": 232,
+    "p_turnout": 0.74,
+    "p_valid": 0.99,
+    "p_rejected": 0.01
+  },
+  "party_result_data_list": [
+    {
+      "party_name": "Sri Lanka Muslim Congress",
+      "party_code": "SLMC",
+      "votes": 6276,
+      "p_votes": 0.29,
+      "seats": 5
+    },
+    {
+      "party_name": "All Ceylon Makkal Congress",
+      "party_code": "ACMC",
+      "votes": 4859,
+      "p_votes": 0.23,
+      "seats": 4
+    },
+    {
+      "party_name": "Ilankai Tamil Arasu Kadchi",
+      "party_code": "ITAK",
+      "votes": 4147,
+      "p_votes": 0.19,
+      "seats": 4
+    },
+    {
+      "party_name": "Samagi Jana Balawegaya",
+      "party_code": "SJB",
+      "votes": 2656,
+      "p_votes": 0.12,
+      "seats": 2
+    },
+    {
+      "party_name": "Jathika Jana Balawegaya",
+      "party_code": "NPP",
+      "votes": 1586,
+      "p_votes": 0.07,
+      "seats": 1
+    },
+    {
+      "party_name": "Independent Group",
+      "party_code": "IND1",
+      "votes": 509,
+      "p_votes": 0.02,
+      "seats": 1
+    },
+    {
+      "party_name": "National Congress",
+      "party_code": "NC",
+      "votes": 365,
+      "p_votes": 0.02,
+      "seats": 0
+    },
+    {
+      "party_name": "National Front for Good Governance",
+      "party_code": "NFGG",
+      "votes": 335,
+      "p_votes": 0.02,
+      "seats": 0
+    },
+    {
+      "party_name": "Democratic Tamil National Alliance",
+      "party_code": "DTNA",
+      "votes": 274,
+      "p_votes": 0.01,
+      "seats": 0
+    },
+    {
+      "party_name": "People's Alliance",
+      "party_code": "PA",
+      "votes": 268,
+      "p_votes": 0.01,
+      "seats": 0
+    },
+    {
+      "party_name": "Eros Democratic Front",
+      "party_code": "ERDF",
+      "votes": 193,
+      "p_votes": 0.01,
+      "seats": 0
+    },
+    {
+      "party_name": "United Peace Alliance",
+      "party_code": "UPA",
+      "votes": 115,
+      "p_votes": 0.01,
+      "seats": 0
+    }
+  ]
+}

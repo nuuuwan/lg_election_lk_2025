@@ -1,6 +1,6 @@
 # Sri Lankan Local Government Elections - 2025 🇱🇰
 
-As of 2025-05-07 09:21:21
+As of 2025-05-07 09:23:01
 
 *Scraped from [results.elections.gov.lk](https://results.elections.gov.lk)*
 
@@ -8,19 +8,19 @@ As of 2025-05-07 09:21:21
 
 | Results Released | % Released (By Votes) | % Turnout | % Rejected |
 |--:|--:|--:|--:|
-|283/339|80.0%|61.8%|1.99%|
+|284/339|80.3%|61.8%|1.99%|
 
 ## Islandwide (Top 10 by Votes)
 
 | Party | Votes | %  | *Seats* | *%* | LG's with<br>Most Seats<br>(Incl. Ties) | **LGs with<br>>50% Seats** |
 |---|--:|--:|--:|--:|--:|--:|
-|🔴Jathika Jana Balawegaya|3,664,088|44%|*3,225*|*45%*|233|**101**|
-|🟢Samagi Jana Balawegaya|1,783,074|21%|*1,413*|*20%*|12||
-|🟣Sri Lanka Podujana Peramuna|804,083|10%|*627*|*9%*|||
+|🔴Jathika Jana Balawegaya|3,677,560|44%|*3,236*|*45%*|234|**102**|
+|🟢Samagi Jana Balawegaya|1,789,133|21%|*1,417*|*20%*|12||
+|🟣Sri Lanka Podujana Peramuna|807,359|10%|*629*|*9%*|||
 |🟩United National Party|380,278|5%|*311*|*4%*|1||
-|🟦People's Alliance|304,974|4%|*252*|*4%*|||
+|🟦People's Alliance|307,619|4%|*254*|*4%*|||
 |🟡Ilankai Tamil Arasu Kadchi|241,589|3%|*317*|*4%*|33|**3**|
-|🔵Sarvajana Balaya|215,106|3%|*179*|*2%*|||
+|🔵Sarvajana Balaya|216,101|3%|*180*|*2%*|||
 |⚪Sri Lanka Muslim Congress|91,521|1%|*79*|*1%*|3||
 |⚪Democratic Tamil National Alliance|80,793|1%|*98*|*1%*|1||
 |⚪All Ceylon Tamil Congress|59,785|1%|*92*|*1%*|4||
@@ -397,6 +397,7 @@ As of 2025-05-07 09:21:21
 | [304](https://results.elections.gov.lk/?page=lg_result&district=MONARAGALA&lg_code=304&lg_name=MEDAGAMA-PRADESHIYA-SABHA) | 🏡Medagama PS·*17*|🔴JJB·*8*<br>|🟢SJB·*4*<br>|🟦PA·*2*<br>|Others·*3*|
 | [305](https://results.elections.gov.lk/?page=lg_result&district=MONARAGALA&lg_code=305&lg_name=MADULLA-PRADESHIYA-SABHA) | 🏡Madulla PS·*21*|**🔴JJB·*11***<br>|🟢SJB·*4*<br>|🟣SLPP·*3*<br>|Others·*3*|
 | [306](https://results.elections.gov.lk/?page=lg_result&district=MONARAGALA&lg_code=306&lg_name=SIYABALANDUWA-PRADESHIYA-SABHA) | 🏡Siyabalanduwa PS·*24*|🔴JJB·*12*<br>|🟢SJB·*6*<br>|🟣SLPP·*3*<br>|Others·*3*|
+| [307](https://results.elections.gov.lk/?page=lg_result&district=MONARAGALA&lg_code=307&lg_name=MONARAGALA-PRADESHIYA-SABHA) | 🏡Monaragala PS·*20*|**🔴JJB·*11***<br>|🟢SJB·*4*<br>|🟣SLPP·*2*<br>🟦PA·*2*<br>|Others·*1*|
 | [308](https://results.elections.gov.lk/?page=lg_result&district=MONARAGALA&lg_code=308&lg_name=BADALKUMBURA-PRADESHIYA-SABHA) | 🏡Badalkumbura PS·*20*|🔴JJB·*10*<br>|🟢SJB·*5*<br>|🟣SLPP·*3*<br>|Others·*2*|
 | [309](https://results.elections.gov.lk/?page=lg_result&district=MONARAGALA&lg_code=309&lg_name=BUTTALA-PRADESHIYA-SABHA) | 🏡Buttala PS·*18*|🔴JJB·*8*<br>|🟢SJB·*6*<br>|🟣SLPP·*2*<br>|Others·*2*|
 | [310](https://results.elections.gov.lk/?page=lg_result&district=MONARAGALA&lg_code=310&lg_name=KATARAGAMA-PRADESHIYA-SABHA) | 🏡Kataragama PS·*16*|**🔴JJB·*9***<br>|🟢SJB·*4*<br>|🟣SLPP·*2*<br>|Others·*1*|

@@ -1,0 +1,68 @@
+{
+  "district_name": "Kandy",
+  "lg_code": "062",
+  "lg_name": "Minipe Pradeshiya Sabha",
+  "url": "https://results.elections.gov.lk/?page=lg_result&district=KANDY&lg_code=062&lg_name=MINIPE-PRADESHIYA-SABHA",
+  "time_str": "2025-05-07 08:26:00",
+  "time_ut": 1746586560.0,
+  "summary_data": {
+    "electors": 45789,
+    "polled": 28743,
+    "valid": 28256,
+    "rejected": 487,
+    "p_turnout": 0.63,
+    "p_valid": 0.98,
+    "p_rejected": 0.02
+  },
+  "party_result_data_list": [
+    {
+      "party_name": "Jathika Jana Balawegaya",
+      "party_code": "NPP",
+      "votes": 12742,
+      "p_votes": 0.45,
+      "seats": 11
+    },
+    {
+      "party_name": "Samagi Jana Balawegaya",
+      "party_code": "SJB",
+      "votes": 7858,
+      "p_votes": 0.28,
+      "seats": 6
+    },
+    {
+      "party_name": "Sri Lanka Podujana Peramuna",
+      "party_code": "SLPP",
+      "votes": 3409,
+      "p_votes": 0.12,
+      "seats": 3
+    },
+    {
+      "party_name": "Independent Group",
+      "party_code": "IND1",
+      "votes": 1877,
+      "p_votes": 0.07,
+      "seats": 1
+    },
+    {
+      "party_name": "United National Alliance",
+      "party_code": "UNA",
+      "votes": 1176,
+      "p_votes": 0.04,
+      "seats": 1
+    },
+    {
+      "party_name": "Sarvajana Balaya",
+      "party_code": "SB",
+      "votes": 749,
+      "p_votes": 0.03,
+      "seats": 1
+    },
+    {
+      "party_name": "People's Alliance",
+      "party_code": "PA",
+      "votes": 445,
+      "p_votes": 0.02,
+      "seats": 0
+    }
+  ]
+}
