@@ -1,0 +1,68 @@
+{
+  "district_name": "Monaragala",
+  "lg_code": "310",
+  "lg_name": "Kataragama Pradeshiya Sabha",
+  "url": "https://results.elections.gov.lk/?page=lg_result&district=MONARAGALA&lg_code=310&lg_name=KATARAGAMA-PRADESHIYA-SABHA",
+  "time_str": "2025-05-07 06:59:00",
+  "time_ut": 1746581340.0,
+  "summary_data": {
+    "electors": 15490,
+    "polled": 10592,
+    "valid": 10452,
+    "rejected": 140,
+    "p_turnout": 0.68,
+    "p_valid": 0.99,
+    "p_rejected": 0.01
+  },
+  "party_result_data_list": [
+    {
+      "party_name": "Jathika Jana Balawegaya",
+      "party_code": "NPP",
+      "votes": 5393,
+      "p_votes": 0.52,
+      "seats": 9
+    },
+    {
+      "party_name": "Samagi Jana Balawegaya",
+      "party_code": "SJB",
+      "votes": 2809,
+      "p_votes": 0.27,
+      "seats": 4
+    },
+    {
+      "party_name": "Sri Lanka Podujana Peramuna",
+      "party_code": "SLPP",
+      "votes": 1503,
+      "p_votes": 0.14,
+      "seats": 2
+    },
+    {
+      "party_name": "National Freedom Front",
+      "party_code": "NFF",
+      "votes": 517,
+      "p_votes": 0.05,
+      "seats": 1
+    },
+    {
+      "party_name": "People's Struggle Alliance",
+      "party_code": "PSA",
+      "votes": 100,
+      "p_votes": 0.01,
+      "seats": 0
+    },
+    {
+      "party_name": "Jana Setha Peramuna",
+      "party_code": "JSP",
+      "votes": 65,
+      "p_votes": 0.01,
+      "seats": 0
+    },
+    {
+      "party_name": "Sarvajana Balaya",
+      "party_code": "SB",
+      "votes": 65,
+      "p_votes": 0.01,
+      "seats": 0
+    }
+  ]
+}
