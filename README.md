@@ -1,6 +1,6 @@
 # Sri Lankan Local Government Elections - 2025 🇱🇰
 
-As of 2025-05-07 09:36:13
+As of 2025-05-07 09:38:32
 
 *Scraped from [results.elections.gov.lk](https://results.elections.gov.lk)*
 
@@ -8,19 +8,19 @@ As of 2025-05-07 09:36:13
 
 | Results Released | % Released (By Votes) | % Turnout | % Rejected |
 |--:|--:|--:|--:|
-|293/339|82.3%|61.9%|1.98%|
+|295/339|82.9%|61.9%|1.98%|
 
 ## Islandwide (Top 10 by Votes)
 
 | Party | Votes | %  | *Seats* | *%* | LG's with<br>Most Seats<br>(Incl. Ties) | **LGs with<br>>50% Seats** |
 |---|--:|--:|--:|--:|--:|--:|
-|🔴Jathika Jana Balawegaya|3,773,557|44%|*3,323*|*45%*|241|**107**|
-|🟢Samagi Jana Balawegaya|1,835,293|21%|*1,452*|*20%*|12||
-|🟣Sri Lanka Podujana Peramuna|829,813|10%|*648*|*9%*|||
-|🟩United National Party|388,508|4%|*317*|*4%*|1||
-|🟦People's Alliance|314,983|4%|*259*|*3%*|||
-|🟡Ilankai Tamil Arasu Kadchi|247,386|3%|*323*|*4%*|33|**3**|
-|🔵Sarvajana Balaya|223,510|3%|*186*|*3%*|||
+|🔴Jathika Jana Balawegaya|3,793,045|44%|*3,340*|*45%*|242|**107**|
+|🟢Samagi Jana Balawegaya|1,846,680|21%|*1,461*|*20%*|12||
+|🟣Sri Lanka Podujana Peramuna|831,588|10%|*650*|*9%*|||
+|🟩United National Party|389,429|4%|*318*|*4%*|1||
+|🟦People's Alliance|317,032|4%|*261*|*3%*|||
+|🟡Ilankai Tamil Arasu Kadchi|266,028|3%|*339*|*5%*|34|**3**|
+|🔵Sarvajana Balaya|224,155|3%|*187*|*3%*|||
 |⚪Sri Lanka Muslim Congress|103,287|1%|*89*|*1%*|4||
 |⚪Democratic Tamil National Alliance|80,793|1%|*98*|*1%*|1||
 |⚪All Ceylon Makkal Congress|62,510|1%|*53*|*1%*|3||
@@ -29,31 +29,31 @@ As of 2025-05-07 09:36:13
 
 | | |  | | |
 |---|---|---|---|---|
-|Colombo|🔴Jathika Jana Balawegaya·249<br>|🟢Samagi Jana Balawegaya·80<br>|🟣Sri Lanka Podujana Peramuna·39<br>|Others·96|
-|Gampaha|🔴Jathika Jana Balawegaya·369<br>|🟢Samagi Jana Balawegaya·131<br>|🟣Sri Lanka Podujana Peramuna·68<br>|Others·94|
-|Kalutara|🔴Jathika Jana Balawegaya·192<br>|🟢Samagi Jana Balawegaya·98<br>|🟣Sri Lanka Podujana Peramuna·43<br>|Others·102|
-|Kandy|🔴Jathika Jana Balawegaya·231<br>|🟢Samagi Jana Balawegaya·119<br>|🟣Sri Lanka Podujana Peramuna·31<br>|Others·108|
-|Matale|🔴Jathika Jana Balawegaya·126<br>|🟢Samagi Jana Balawegaya·66<br>|🟣Sri Lanka Podujana Peramuna·29<br>|Others·51|
-|Nuwaraeliya|🔴Jathika Jana Balawegaya·109<br>|🟢Samagi Jana Balawegaya·65<br>|⚪Ceylon Worker's Congress (P. Wing)·31<br>|Others·66|
-|Galle|🔴Jathika Jana Balawegaya·206<br>|🟢Samagi Jana Balawegaya·92<br>|🟣Sri Lanka Podujana Peramuna·59<br>|Others·71|
-|Matara|🔴Jathika Jana Balawegaya·201<br>|🟢Samagi Jana Balawegaya·79<br>|🟣Sri Lanka Podujana Peramuna·47<br>|Others·56|
-|Hambantota|🔴Jathika Jana Balawegaya·146<br>|🟢Samagi Jana Balawegaya·55<br>|🟣Sri Lanka Podujana Peramuna·45<br>|Others·38|
-|Jaffna|🟡Ilankai Tamil Arasu Kadchi·125<br>|⚪All Ceylon Tamil Congress·72<br>🔴Jathika Jana Balawegaya·72<br>|⚪Democratic Tamil National Alliance·40<br>|Others·131|
-|Kilinochchi|🟡Ilankai Tamil Arasu Kadchi·36<br>|🔴Jathika Jana Balawegaya·12<br>|⚪Democratic Tamil National Alliance·10<br>|Others·12|
-|Mannar|🔴Jathika Jana Balawegaya·19<br>|🟡Ilankai Tamil Arasu Kadchi·18<br>🟢Samagi Jana Balawegaya·18<br>|⚪Democratic Tamil National Alliance·13<br>|Others·42|
-|Vavuniya|🔴Jathika Jana Balawegaya·26<br>|🟡Ilankai Tamil Arasu Kadchi·16<br>|🟢Samagi Jana Balawegaya·15<br>|Others·49|
-|Mullaitivu|🟡Ilankai Tamil Arasu Kadchi·26<br>|🔴Jathika Jana Balawegaya·12<br>|⚪Democratic Tamil National Alliance·10<br>|Others·21|
-|Batticaloa|🟡Ilankai Tamil Arasu Kadchi·41<br>|⚪Thamil Makkal Viduthalai Pulikal·22<br>|🔴Jathika Jana Balawegaya·18<br>|Others·33|
-|Ampara|🔴Jathika Jana Balawegaya·95<br>|🟢Samagi Jana Balawegaya·41<br>|⚪Sri Lanka Muslim Congress·33<br>|Others·141|
-|Trincomalee|🔴Jathika Jana Balawegaya·66<br>|🟡Ilankai Tamil Arasu Kadchi·36<br>|🟢Samagi Jana Balawegaya·32<br>|Others·81|
-|Kurunegala|🔴Jathika Jana Balawegaya·155<br>|🟢Samagi Jana Balawegaya·77<br>|🟣Sri Lanka Podujana Peramuna·34<br>|Others·41|
-|Puttalam|🔴Jathika Jana Balawegaya·144<br>|🟢Samagi Jana Balawegaya·72<br>|🟣Sri Lanka Podujana Peramuna·35<br>|Others·71|
-|Anuradhapura|🔴Jathika Jana Balawegaya·144<br>|🟢Samagi Jana Balawegaya·59<br>|🟣Sri Lanka Podujana Peramuna·23<br>|Others·39|
-|Polonnaruwa|🔴Jathika Jana Balawegaya·97<br>|🟢Samagi Jana Balawegaya·40<br>|🟣Sri Lanka Podujana Peramuna·12<br>|Others·26|
-|Badulla|🔴Jathika Jana Balawegaya·203<br>|🟢Samagi Jana Balawegaya·93<br>|🟦People's Alliance·40<br>|Others·93|
-|Monaragala|🔴Jathika Jana Balawegaya·108<br>|🟢Samagi Jana Balawegaya·53<br>|🟣Sri Lanka Podujana Peramuna·24<br>|Others·29|
-|Ratnapura|🔴Jathika Jana Balawegaya·203<br>|🟢Samagi Jana Balawegaya·103<br>|🟣Sri Lanka Podujana Peramuna·54<br>|Others·75|
-|Kegalle|🔴Jathika Jana Balawegaya·120<br>|🟢Samagi Jana Balawegaya·45<br>|🟣Sri Lanka Podujana Peramuna·26<br>|Others·34|
+|Colombo|⚪🔴JB·*249*<br>|⚪🟢JB·*80*<br>|⚪🟣LPP·*39*<br>|Others·*96*|
+|Gampaha|⚪🔴JB·*369*<br>|⚪🟢JB·*131*<br>|⚪🟣LPP·*68*<br>|Others·*94*|
+|Kalutara|⚪🔴JB·*192*<br>|⚪🟢JB·*98*<br>|⚪🟣LPP·*43*<br>|Others·*102*|
+|Kandy|⚪🔴JB·*231*<br>|⚪🟢JB·*119*<br>|⚪🟣LPP·*31*<br>|Others·*108*|
+|Matale|⚪🔴JB·*126*<br>|⚪🟢JB·*66*<br>|⚪🟣LPP·*29*<br>|Others·*51*|
+|Nuwaraeliya|⚪🔴JB·*109*<br>|⚪🟢JB·*65*<br>|⚪⚪WCPW·*31*<br>|Others·*66*|
+|Galle|⚪🔴JB·*206*<br>|⚪🟢JB·*92*<br>|⚪🟣LPP·*59*<br>|Others·*71*|
+|Matara|⚪🔴JB·*201*<br>|⚪🟢JB·*79*<br>|⚪🟣LPP·*47*<br>|Others·*56*|
+|Hambantota|⚪🔴JB·*146*<br>|⚪🟢JB·*55*<br>|⚪🟣LPP·*45*<br>|Others·*38*|
+|Jaffna|⚪🟡TAK·*125*<br>|⚪⚪CTC·*72*<br>⚪🔴JB·*72*<br>|⚪⚪TNA·*40*<br>|Others·*131*|
+|Kilinochchi|⚪🟡TAK·*36*<br>|⚪🔴JB·*12*<br>|⚪⚪TNA·*10*<br>|Others·*12*|
+|Mannar|⚪🔴JB·*19*<br>|⚪🟡TAK·*18*<br>⚪🟢JB·*18*<br>|⚪⚪TNA·*13*<br>|Others·*42*|
+|Vavuniya|⚪🔴JB·*26*<br>|⚪🟡TAK·*16*<br>|⚪🟢JB·*15*<br>|Others·*49*|
+|Mullaitivu|⚪🟡TAK·*26*<br>|⚪🔴JB·*12*<br>|⚪⚪TNA·*10*<br>|Others·*21*|
+|Batticaloa|⚪🟡TAK·*57*<br>|⚪🔴JB·*27*<br>|⚪⚪MVP·*25*<br>|Others·*39*|
+|Ampara|⚪🔴JB·*95*<br>|⚪🟢JB·*41*<br>|⚪⚪LMC·*33*<br>|Others·*141*|
+|Trincomalee|⚪🔴JB·*66*<br>|⚪🟡TAK·*36*<br>|⚪🟢JB·*32*<br>|Others·*81*|
+|Kurunegala|⚪🔴JB·*155*<br>|⚪🟢JB·*77*<br>|⚪🟣LPP·*34*<br>|Others·*41*|
+|Puttalam|⚪🔴JB·*144*<br>|⚪🟢JB·*72*<br>|⚪🟣LPP·*35*<br>|Others·*71*|
+|Anuradhapura|⚪🔴JB·*144*<br>|⚪🟢JB·*59*<br>|⚪🟣LPP·*23*<br>|Others·*39*|
+|Polonnaruwa|⚪🔴JB·*97*<br>|⚪🟢JB·*40*<br>|⚪🟣LPP·*12*<br>|Others·*26*|
+|Badulla|⚪🔴JB·*203*<br>|⚪🟢JB·*93*<br>|⚪🟦A·*40*<br>|Others·*93*|
+|Monaragala|⚪🔴JB·*108*<br>|⚪🟢JB·*53*<br>|⚪🟣LPP·*24*<br>|Others·*29*|
+|Ratnapura|⚪🔴JB·*203*<br>|⚪🟢JB·*103*<br>|⚪🟣LPP·*54*<br>|Others·*75*|
+|Kegalle|⚪🔴JB·*128*<br>|⚪🟢JB·*52*<br>|⚪🟣LPP·*28*<br>|Others·*38*|
 
 ## Results by Local Authority
 
@@ -293,6 +293,7 @@ As of 2025-05-07 09:36:13
 
 |  |  |  |  |  |  |
 |---|---|---|---|---|---|
+| [180](https://results.elections.gov.lk/?page=lg_result&district=BATTICALOA&lg_code=180&lg_name=BATTICALOA-MUNICIPAL-COUNCIL) | 🏛️Batticaloa MC·*34*|🟡ITAK·*16*<br>|🔴JJB·*9*<br>|⚫IG-180·*4*<br>|Others·*5*|
 | [181](https://results.elections.gov.lk/?page=lg_result&district=BATTICALOA&lg_code=181&lg_name=ERAVUR-URBAN-COUNCIL) | 🏢Eravur UC·*17*|⚪SLMC·*7*<br>|🟩UNP·*4*<br>|⚪TMVP·*2*<br>|Others·*4*|
 | [184](https://results.elections.gov.lk/?page=lg_result&district=BATTICALOA&lg_code=184&lg_name=KORALAI-PATTU-PRADESHIYA-SABHA) | 🏡Koralai Pattu PS·*26*|🟡ITAK·*10*<br>|🔴JJB·*4*<br>⚪TMVP·*4*<br>⚪SLMC·*4*<br>|🟢SJB·*3*<br>|Others·*1*|
 | [186](https://results.elections.gov.lk/?page=lg_result&district=BATTICALOA&lg_code=186&lg_name=KORALAI-PATTU-NORTH-PRADESHIYA-SABHA) | 🏡Koralai Pattu North PS·*19*|⚪TMVP·*7*<br>|🟡ITAK·*6*<br>|🔴JJB·*3*<br>|Others·*3*|
@@ -474,3 +475,4 @@ As of 2025-05-07 09:36:13
 | [334](https://results.elections.gov.lk/?page=lg_result&district=KEGALLE&lg_code=334&lg_name=RAMBUKKANA-PRADESHIYA-SABHA) | 🏡Rambukkana PS·*38*|**🔴JJB·*21***<br>|🟣SLPP·*5*<br>🟢SJB·*5*<br>|🟩UNP·*4*<br>|Others·*3*|
 | [338](https://results.elections.gov.lk/?page=lg_result&district=KEGALLE&lg_code=338&lg_name=BULATKOHUPITIYA-PRADESHIYA-SABHA) | 🏡Bulatkohupitiya PS·*19*|🔴JJB·*8*<br>|🟢SJB·*5*<br>|🟣SLPP·*3*<br>|Others·*3*|
 | [339](https://results.elections.gov.lk/?page=lg_result&district=KEGALLE&lg_code=339&lg_name=RUWANWELLA-PRADESHIYA-SABHA) | 🏡Ruwanwella PS·*32*|**🔴JJB·*17***<br>|🟢SJB·*8*<br>|🟣SLPP·*3*<br>|Others·*4*|
+| [340](https://results.elections.gov.lk/?page=lg_result&district=KEGALLE&lg_code=340&lg_name=DERANIYAGALA-PRADESHIYA-SABHA) | 🏡Deraniyagala PS·*21*|🔴JJB·*8*<br>|🟢SJB·*7*<br>|🟦PA·*2*<br>🟣SLPP·*2*<br>|Others·*2*|
