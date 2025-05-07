@@ -1,6 +1,6 @@
 # Sri Lankan Local Government Elections - 2025 🇱🇰
 
-As of 2025-05-07 11:44:58
+As of 2025-05-07 11:46:41
 
 *Scraped from [results.elections.gov.lk](https://results.elections.gov.lk)*
 
@@ -8,22 +8,22 @@ As of 2025-05-07 11:44:58
 
 | Results Released | % Released (By Votes) | % Turnout | % Rejected |
 |--:|--:|--:|--:|
-|336/339|98.9%|61.8%|1.98%|
+|337/339|99.2%|61.8%|1.98%|
 
 ## Islandwide (Top 10 by Seats)
 
 | Party |  *Seats* | *%* | Votes | %  | LG's with<br>Most Votes | **LGs with<br>>50% Seats** |
 |---|--:|--:|--:|--:|--:|--:|
-|🔴Jathika Jana Balawegaya|*3,912*|*45%*|4,496,737|43%|265|**120**|
-|🟢Samagi Jana Balawegaya|*1,752*|*20%*|2,243,230|22%|12||
+|🔴Jathika Jana Balawegaya|*3,918*|*45%*|4,502,161|43%|265|**120**|
+|🟢Samagi Jana Balawegaya|*1,753*|*20%*|2,244,147|22%|12||
 |🟣Sri Lanka Podujana Peramuna|*741*|*8%*|949,523|9%|||
 |🟩United National Party|*379*|*4%*|478,829|5%|||
-|🟡Ilankai Tamil Arasu Kadchi|*368*|*4%*|299,795|3%|36|**3**|
+|🟡Ilankai Tamil Arasu Kadchi|*376*|*4%*|306,691|3%|37|**3**|
 |🟦People's Alliance|*296*|*3%*|365,139|4%|||
 |🔵Sarvajana Balaya|*225*|*3%*|273,752|3%|||
 |⚪Sri Lanka Muslim Congress|*110*|*1%*|133,894|1%|5|**1**|
-|⚪Democratic Tamil National Alliance|*101*|*1%*|84,145|1%|1||
-|⚪All Ceylon Tamil Congress|*97*|*1%*|63,271|1%|3||
+|⚪Democratic Tamil National Alliance|*106*|*1%*|88,304|1%|1||
+|⚪All Ceylon Tamil Congress|*101*|*1%*|67,003|1%|3||
 
 ## 10 Latest Results
 
@@ -75,7 +75,7 @@ As of 2025-05-07 11:44:58
 |Galle|🔴JJB·*49%*<br>|🟢SJB·*21%*<br>|🟣SLPP·*14%*<br>|Others·*16%*|
 |Matara|🔴JJB·*53%*<br>|🟢SJB·*21%*<br>|🟣SLPP·*12%*<br>|Others·*14%*|
 |Hambantota|🔴JJB·*51%*<br>|🟢SJB·*19%*<br>|🟣SLPP·*16%*<br>|Others·*14%*|
-|Jaffna|🟡ITAK·*33%*<br>|⚪ACTC·*20%*<br>🔴JJB·*20%*<br>|⚪DTNA·*11%*<br>|Others·*36%*|
+|Jaffna|🟡ITAK·*33%*<br>|🔴JJB·*20%*<br>|⚪ACTC·*19%*<br>|Others·*28%*|
 |Kilinochchi|🟡ITAK·*51%*<br>|🔴JJB·*17%*<br>|⚪DTNA·*14%*<br>|Others·*18%*|
 |Mannar|🔴JJB·*21%*<br>|🟡ITAK·*20%*<br>🟢SJB·*20%*<br>|⚪DTNA·*14%*<br>|Others·*45%*|
 |Vavuniya|🔴JJB·*25%*<br>|🟡ITAK·*15%*<br>|🟢SJB·*14%*<br>|Others·*46%*|
@@ -298,6 +298,7 @@ As of 2025-05-07 11:44:58
 | [153](https://results.elections.gov.lk/?page=lg_result&district=JAFFNA&lg_code=153&lg_name=VELANAI-PRADESHIYA-SABHA) | 🏡Velanai PS·*22*|🟡ITAK·*8*<br>|🔴JJB·*4*<br>|⚪EPDP·*3*<br>|Others·*7*|
 | [154](https://results.elections.gov.lk/?page=lg_result&district=JAFFNA&lg_code=154&lg_name=VALIKAMAM-WEST-PRADESHIYA-SABHA) | 🏡Valikamam West PS·*26*|🟡ITAK·*10*<br>|⚪ACTC·*6*<br>|🔴JJB·*4*<br>|Others·*6*|
 | [155](https://results.elections.gov.lk/?page=lg_result&district=JAFFNA&lg_code=155&lg_name=WALIKAMAM-NORTH-PRADESHIYA-SABHA) | 🏡Walikamam North PS·*35*|🟡ITAK·*11*<br>|🔴JJB·*9*<br>|⚪ACTC·*6*<br>|Others·*9*|
+| [156](https://results.elections.gov.lk/?page=lg_result&district=JAFFNA&lg_code=156&lg_name=WALIKAMAM-SOUTH-WEST-PRADESHIYA-SABHA) | 🏡Walikamam South West PS·*28*|🟡ITAK·*8*<br>|🔴JJB·*6*<br>|⚪DTNA·*5*<br>|Others·*9*|
 | [157](https://results.elections.gov.lk/?page=lg_result&district=JAFFNA&lg_code=157&lg_name=WALIKAMAM-SOUTH-PRADESHIYA-SABHA) | 🏡Walikamam South PS·*31*|🟡ITAK·*13*<br>|⚪DTNA·*6*<br>⚪ACTC·*6*<br>|🔴JJB·*5*<br>|Others·*1*|
 | [158](https://results.elections.gov.lk/?page=lg_result&district=JAFFNA&lg_code=158&lg_name=WALIKAMAM-EAST-PRADESHIYA-SABHA) | 🏡Walikamam East PS·*36*|🟡ITAK·*11*<br>|🔴JJB·*9*<br>|⚪ACTC·*5*<br>⚪DTNA·*5*<br>|Others·*6*|
 | [159](https://results.elections.gov.lk/?page=lg_result&district=JAFFNA&lg_code=159&lg_name=WADAMARACHCHI-SOUTH-WEST-PRADESHIYA-SABHA) | 🏡Wadamarachchi South West PS·*32*|🟡ITAK·*13*<br>|⚪ACTC·*7*<br>|🔴JJB·*6*<br>|Others·*6*|
@@ -558,11 +559,10 @@ As of 2025-05-07 11:44:58
 ## Results Not Released
 
 All LGs: 341
-Released LGs: 335
-Missing LGs: 6
+Released LGs: 336
+Missing LGs: 5
 - Koralai Pattu West PS (LG-51002)
 - Medawachchiya PS (LG-71003)
-- Valikamam South-West PS (LG-41004)
 - Thalawa PS (LG-71015)
 - Elpitiya PS (LG-31004)
 - Kalmunai MC (LG-52009)
