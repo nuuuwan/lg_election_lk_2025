@@ -497,8 +497,13 @@ class OverallReport:
                 lg_ent = ent_list[0]
                 released_lg_id_set.add(lg_ent.id)
 
+        released_lg_id_set.add("LG-11003")
+
         all_lg_id_set = set([ent.id for ent in Ent.list_from_type(EntType.LG)])
+        lines.append(f"All LGs: {len(all_lg_id_set)}")
         missing_lg_id_set = all_lg_id_set - released_lg_id_set
+        lines.append(f"Released LGs: {len(released_lg_id_set)}")
+        lines.append(f"Missing LGs: {len(missing_lg_id_set)}")
 
         for lg_id in missing_lg_id_set:
             lg_ent = Ent.from_id(lg_id)
