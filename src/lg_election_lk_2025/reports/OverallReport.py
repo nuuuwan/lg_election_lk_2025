@@ -53,7 +53,8 @@ class OverallReport:
     @cache
     def party_name_short(party_name):
         party_name = party_name.replace("(", "")
-        return "".join([x[0] for x in party_name.split()])
+        inner = "".join([x[0] for x in party_name.split()])
+        return f"{inner}"
 
     @staticmethod
     @cache
@@ -64,8 +65,13 @@ class OverallReport:
             else party_name
         )
         if party_name.startswith("Independent"):
-            return f"⚫{party_name_short} `{lg_code}`"
-        return OverallReport.get_party_emoji(party_name) + party_name_short
+            return f"⚫`{party_name_short} {lg_code}`"
+        return (
+            "`"
+            + OverallReport.get_party_emoji(party_name)
+            + party_name_short
+            + "`"
+        )
 
     @staticmethod
     def process_result(party_to_summary, result):
@@ -240,7 +246,7 @@ class OverallReport:
 
         if emoji is None:
             raise ValueError(f"Unknown LG type: {lg_type} in {lg_name}")
-        return f"{emoji}{lg_name_only} {lg_type_short}"
+        return f"{emoji}`{lg_name_only} {lg_type_short}`"
 
     @property
     def result_lines(self):
@@ -274,25 +280,44 @@ class OverallReport:
                 for party_result_data in party_result_data_list
             )
             top_seats = party_result_data_list[0]["seats"]
+
             line = f"| `{lg_code}` | {OverallReport.get_lg_short_name(lg_name)} ({total_seats}) |"
+
+            seats_to_data_list = {}
+            for party_result_data in party_result_data_list:
+                seats = party_result_data["seats"]
+                if seats not in seats_to_data_list:
+                    seats_to_data_list[seats] = []
+                seats_to_data_list[seats].append(party_result_data)
+
+            seats_and_data_list = sorted(
+                seats_to_data_list.items(),
+                key=lambda item: (item[0],),
+                reverse=True,
+            )
+
             displayed_seats = 0
             for i in range(0, 3):
+                seats, party_result_data_list_for_seats = seats_and_data_list[i]
+                if seats == 0:
+                    break
 
-                party_result_data = party_result_data_list[i]
-                party_name = party_result_data["party_name"]
-                seats = party_result_data["seats"]
-                displayed_seats += seats
-                is_majority = seats >= total_seats / 2
-                cell = (
-                    OverallReport.get_party_name_annotated(
-                        party_name, lg_code, use_short=True
+                cell = ""
+                for party_result_data in party_result_data_list_for_seats:
+                    party_name = party_result_data["party_name"]
+                    seats = party_result_data["seats"]
+                    displayed_seats += seats
+                    is_majority = seats >= total_seats / 2
+                    cell_inner = (
+                        OverallReport.get_party_name_annotated(
+                            party_name, lg_code, use_short=True
+                        )
+                        + f" ({seats})"
                     )
-                    + f" ({seats})"
-                )
-                if is_majority:
-                    cell = f"**{cell}✔️**"
-                if i > 0 and seats == top_seats:
-                    cell = f"{cell}🟰"
+                    if is_majority:
+                        cell_inner = f"**{cell_inner}✔️**"
+
+                    cell += cell_inner + " "
                 line += cell + "|"
             url = result["url"]
             other_seats = total_seats - displayed_seats
