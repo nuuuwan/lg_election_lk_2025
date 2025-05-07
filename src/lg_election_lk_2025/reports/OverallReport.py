@@ -158,7 +158,7 @@ class OverallReport:
             + "|".join(
                 [
                     f'{lk_summary["results"]:,}/{self.TOTAL_RESULTS}',
-                    f'{lk_summary["electors"] / self.TOTAL_ELECTORS:.1%}',
+                    f'{lk_summary["electors"] / self.TOTAL_ELECTORS:.0%}',
                     f'{lk_summary["p_turnout"]:.1%}',
                     f'{lk_summary["p_rejected"] :.2%}',
                 ]
@@ -532,7 +532,6 @@ class OverallReport:
             + self.get_x_summary_lines(OverallReport.get_province, "Province")
             + self.get_x_summary_lines(lambda x: x["district_name"], "District")
             + self.get_result_lines(None)
-            + self.missing_results_lines
         )
 
     @property
