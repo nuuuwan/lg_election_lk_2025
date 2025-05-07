@@ -1,4 +1,4 @@
-from functools import cache, cached_property
+from functools import cache
 import os
 from utils import File, Log, Time, TimeFormat, JSONFile
 
@@ -26,7 +26,7 @@ class OverallReport:
 
         return lines
 
-    @cached_property
+    @property
     def result_list(self):
         result_list = []
         for file_name in os.listdir(os.path.join("data", "results")):
@@ -108,7 +108,7 @@ class OverallReport:
                 party_to_summary[party_name]["votes"] += votes
         return party_to_summary
 
-    @cached_property
+    @property
     def lk_summary(self):
         results = 0
         seats = 0
@@ -167,7 +167,7 @@ class OverallReport:
 
         return lines
 
-    @cached_property
+    @property
     def lk_party_to_summary(self):
         party_to_summary = {}
         for result in self.result_list:
@@ -238,6 +238,70 @@ class OverallReport:
                 "",
             ]
         )
+        return lines
+
+    @property
+    def district_to_party_to_seats(self):
+        idx = {}
+        for result in self.result_list:
+            district_name = result["district_name"]
+            for party_result_data in result["party_result_data_list"]:
+                party_name = OverallReport.get_party_name_annotated(
+                    party_result_data["party_name"], result["lg_code"]
+                )
+                seats = party_result_data["seats"]
+                if seats > 0:
+                    if district_name not in idx:
+                        idx[district_name] = {}
+                    if party_name not in idx[district_name]:
+                        idx[district_name][party_name] = 0
+                    idx[district_name][party_name] += seats
+        return idx
+
+    @property
+    def district_summary_lines(self):
+        lines = ["## Results by District", ""]
+        district_to_party_to_seats = self.district_to_party_to_seats
+
+        lines.extend(["| District | |  | | |", "|---|---|---|---|---|"])
+        for district_name, party_to_seats in district_to_party_to_seats.items():
+            seats_to_party_list = {}
+            for party_name, seats in party_to_seats.items():
+                if seats not in seats_to_party_list:
+                    seats_to_party_list[seats] = []
+                seats_to_party_list[seats].append(party_name)
+
+            seats_and_party_list = sorted(
+                seats_to_party_list.items(),
+                key=lambda item: (item[0],),
+                reverse=True,
+            )
+            display_seats = 0
+
+            line = f'"|{district_name}|"'
+            for i in range(0, 3):
+                if len(seats_and_party_list) <= i:
+                    break
+                seats, party_list = seats_and_party_list[i]
+                if seats == 0:
+                    break
+
+                cell = ""
+                for party_name in party_list:
+                    cell += f"{party_name}·{seats}<br>"
+                line += cell + "|"
+                display_seats += seats
+
+            total_seats = sum(
+                seats
+                for seats in district_to_party_to_seats[district_name].values()
+            )
+            other_seats = total_seats - display_seats
+            if other_seats > 0:
+                line += f"Others·{other_seats}"
+            line += "|"
+            lines.append(line)
+        lines.append("")
         return lines
 
     @staticmethod
@@ -332,7 +396,7 @@ class OverallReport:
 
                     cell += cell_inner + "<br>"
                 line += cell + "|"
-            url = result["url"]
+
             other_seats = total_seats - displayed_seats
             if other_seats > 0:
                 line += f"Others·*{other_seats}*|"
@@ -353,6 +417,7 @@ class OverallReport:
             self.header_lines
             + self.lk_summary_lines
             + self.lk_party_to_summary_lines
+            + self.district_summary_lines
             + self.result_lines
         )
 
