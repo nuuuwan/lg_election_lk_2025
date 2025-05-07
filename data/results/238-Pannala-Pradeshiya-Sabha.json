@@ -1,0 +1,61 @@
+{
+  "district_name": "Kurunegala",
+  "lg_code": "238",
+  "lg_name": "Pannala Pradeshiya Sabha",
+  "url": "https://results.elections.gov.lk/?page=lg_result&district=KURUNEGALA&lg_code=238&lg_name=PANNALA-PRADESHIYA-SABHA",
+  "time_str": "2025-05-07 11:28:00",
+  "time_ut": 1746597480.0,
+  "summary_data": {
+    "electors": 105509,
+    "polled": 63503,
+    "valid": 62392,
+    "rejected": 1111,
+    "p_turnout": 0.6,
+    "p_valid": 0.98,
+    "p_rejected": 0.02
+  },
+  "party_result_data_list": [
+    {
+      "party_name": "Jathika Jana Balawegaya",
+      "party_code": "NPP",
+      "votes": 28360,
+      "p_votes": 0.45,
+      "seats": 20
+    },
+    {
+      "party_name": "Samagi Jana Balawegaya",
+      "party_code": "SJB",
+      "votes": 17193,
+      "p_votes": 0.28,
+      "seats": 11
+    },
+    {
+      "party_name": "Sri Lanka Podujana Peramuna",
+      "party_code": "SLPP",
+      "votes": 6745,
+      "p_votes": 0.11,
+      "seats": 5
+    },
+    {
+      "party_name": "People's Alliance",
+      "party_code": "PA",
+      "votes": 6264,
+      "p_votes": 0.1,
+      "seats": 4
+    },
+    {
+      "party_name": "United National Party",
+      "party_code": "UNP",
+      "votes": 3453,
+      "p_votes": 0.06,
+      "seats": 2
+    },
+    {
+      "party_name": "People's Struggle Alliance",
+      "party_code": "PSA",
+      "votes": 377,
+      "p_votes": 0.01,
+      "seats": 0
+    }
+  ]
+}
