@@ -1,6 +1,6 @@
 # Sri Lankan Local Government Elections - 2025 🇱🇰
 
-As of 2025-05-07 11:59:43
+As of 2025-05-07 12:00:45
 
 *Scraped from [results.elections.gov.lk](https://results.elections.gov.lk)*
 
@@ -24,21 +24,6 @@ As of 2025-05-07 11:59:43
 |⚪Sri Lanka Muslim Congress|*110*|*1%*|133,894|1%|5|**1**|
 |⚪Democratic Tamil National Alliance|*106*|*1%*|88,304|1%|1||
 |⚪All Ceylon Tamil Congress|*101*|*1%*|67,003|1%|3||
-
-## 10 Latest Results
-
-|  |  |  |  |  |  |
-|---|---|---|---|---|---|
-| [242](https://results.elections.gov.lk/?page=lg_result&district=KURUNEGALA&lg_code=242&lg_name=POLGAHAWELA-PRADESHIYA-SABHA) | 🏡Polgahawela PS·*41*|**🔴JJB·*23***<br>|🟢SJB·*10*<br>|🟣SLPP·*4*<br>|Others·*4*|
-| [238](https://results.elections.gov.lk/?page=lg_result&district=KURUNEGALA&lg_code=238&lg_name=PANNALA-PRADESHIYA-SABHA) | 🏡Pannala PS·*42*|🔴JJB·*20*<br>|🟢SJB·*11*<br>|🟣SLPP·*5*<br>|Others·*6*|
-| [226](https://results.elections.gov.lk/?page=lg_result&district=KURUNEGALA&lg_code=226&lg_name=KULIYAPITIYA-URBAN-COUNCIL) | 🏢Kuliyapitiya UC·*16*|🔴JJB·*6*<br>|🟢SJB·*5*<br>|🟩UNP·*3*<br>|Others·*2*|
-| [232](https://results.elections.gov.lk/?page=lg_result&district=KURUNEGALA&lg_code=232&lg_name=MAHAWA-PRADESHIYA-SABHA) | 🏡Mahawa PS·*37*|**🔴JJB·*19***<br>|🟢SJB·*8*<br>|🟣SLPP·*3*<br>|Others·*7*|
-| [241](https://results.elections.gov.lk/?page=lg_result&district=KURUNEGALA&lg_code=241&lg_name=NARAMMALA-PRADESHIYA-SABHA) | 🏡Narammala PS·*23*|**🔴JJB·*12***<br>|🟢SJB·*5*<br>|🟣SLPP·*3*<br>|Others·*3*|
-| [258](https://results.elections.gov.lk/?page=lg_result&district=ANURADHAPURA&lg_code=258&lg_name=ANURADHAPURA-MUNICIPAL-COUNCIL) | 🏛️Anuradhapura MC·*26*|**🔴JJB·*15***<br>|🟢SJB·*5*<br>|🟩UNP·*2*<br>|Others·*4*|
-| [261](https://results.elections.gov.lk/?page=lg_result&district=ANURADHAPURA&lg_code=261&lg_name=KEBITHIGOLLEWA-PRADESHIYA-SABHA) | 🏡Kebithigollewa PS·*18*|🔴JJB·*7*<br>|🟢SJB·*6*<br>|🟣SLPP·*3*<br>|Others·*2*|
-| [187](https://results.elections.gov.lk/?page=lg_result&district=BATTICALOA&lg_code=187&lg_name=MANMUNAI-SOUTH-AND-ERUVIL-PATTU-PRADESHIYA-SABHA) | 🏡Manmunai South And Eruvil Pattu PS·*20*|🟡ITAK·*8*<br>|🔴JJB·*6*<br>|⚪TMVP·*2*<br>|Others·*4*|
-| [275](https://results.elections.gov.lk/?page=lg_result&district=ANURADHAPURA&lg_code=275&lg_name=KEKIRAWA-PRADESHIYA-SABHA) | 🏡Kekirawa PS·*32*|🔴JJB·*16*<br>|🟢SJB·*4*<br>|🟣SLPP·*2*<br>🟦PA·*2*<br>🟩UNP·*2*<br>|Others·*6*|
-| [195](https://results.elections.gov.lk/?page=lg_result&district=AMPARA&lg_code=195&lg_name=DEHIATHTHAKANDIYA-PRADESHIYA-SABHA) | 🏡Dehiaththakandiya PS·*41*|🔴JJB·*19*<br>|🟢SJB·*10*<br>|🟣SLPP·*5*<br>|Others·*7*|
 
 ## % Seats by Local Authority Type
 

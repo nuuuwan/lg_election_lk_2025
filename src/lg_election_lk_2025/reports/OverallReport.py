@@ -525,7 +525,6 @@ class OverallReport:
             self.header_lines
             + self.lk_summary_lines
             + self.lk_party_to_summary_lines
-            + self.get_result_lines(10)
             + self.get_x_summary_lines(
                 OverallReport.get_lg_type, "Local Authority Type"
             )
