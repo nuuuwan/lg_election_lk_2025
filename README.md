@@ -1,6 +1,6 @@
 # Sri Lankan Local Government Elections - 2025 🇱🇰
 
-As of 2025-05-07 08:50:46
+As of 2025-05-07 08:52:05
 
 *Scraped from [results.elections.gov.lk](https://results.elections.gov.lk)*
 
@@ -8,22 +8,22 @@ As of 2025-05-07 08:50:46
 
 | Results Released | % Released (By Votes) | % Turnout | % Rejected |
 |--:|--:|--:|--:|
-|266/339|74.9%|61.7%|1.99%|
+|269/339|75.9%|61.7%|1.99%|
 
 ## Islandwide (Top 10 by Votes)
 
 | Party | Votes | %  | *Seats* | *%* | LG's with<br>Won | **LGs with<br>≥50% Seats** |
 |---|--:|--:|--:|--:|--:|--:|
-|🔴Jathika Jana Balawegaya|3,421,156|44%|*3,003*|*45%*|218|119|
-|🟢Samagi Jana Balawegaya|1,646,433|21%|*1,303*|*19%*|12||
-|🟣Sri Lanka Podujana Peramuna|755,055|10%|*589*|*9%*|||
-|🟩United National Party|345,222|4%|*280*|*4%*|1||
-|🟦People's Alliance|283,681|4%|*234*|*3%*|||
-|🟡Ilankai Tamil Arasu Kadchi|236,731|3%|*310*|*5%*|33|6|
-|🔵Sarvajana Balaya|199,642|3%|*166*|*2%*|||
-|⚪Sri Lanka Muslim Congress|83,926|1%|*70*|*1%*|2||
-|⚪Democratic Tamil National Alliance|80,258|1%|*97*|*1%*|1||
-|⚪All Ceylon Tamil Congress|59,785|1%|*92*|*1%*|4||
+|🔴Jathika Jana Balawegaya|3,470,443|44%|*3,052*|*45%*|221|**121**|
+|🟢Samagi Jana Balawegaya|1,674,473|21%|*1,326*|*19%*|12|****|
+|🟣Sri Lanka Podujana Peramuna|763,680|10%|*596*|*9%*||****|
+|🟩United National Party|353,762|4%|*288*|*4%*|1|****|
+|🟦People's Alliance|288,461|4%|*238*|*3%*||****|
+|🟡Ilankai Tamil Arasu Kadchi|236,731|3%|*310*|*5%*|33|**6**|
+|🔵Sarvajana Balaya|203,023|3%|*170*|*2%*||****|
+|⚪Sri Lanka Muslim Congress|83,926|1%|*70*|*1%*|2|****|
+|⚪Democratic Tamil National Alliance|80,258|1%|*97*|*1%*|1|****|
+|⚪All Ceylon Tamil Congress|59,785|1%|*92*|*1%*|4|****|
 
 ## Results by Local Authority
 
@@ -91,6 +91,7 @@ As of 2025-05-07 08:50:46
 
 |  |  |  |  |  |  |  |
 |---|---|---|---|---|---|---|
+| 050 | 🏛️Kandy MC (46) |**🔴JJB · *24***<br>|🟢SJB · *11*<br>|🟩UNP · *6*<br>| Others · 5 |[...](https://results.elections.gov.lk/?page=lg_result&district=KANDY&lg_code=050&lg_name=KANDY-MUNICIPAL-COUNCIL)|
 | 051 | 🏢Wattegama UC (16) |**🔴JJB · *8***<br>|🟢SJB · *4*<br>|🟦PA · *2*<br>| Others · 2 |[...](https://results.elections.gov.lk/?page=lg_result&district=KANDY&lg_code=051&lg_name=WATTEGAMA-URBAN-COUNCIL)|
 | 052 | 🏢Kadugannawa UC (15) |🔴JJB · *6*<br>|🟢SJB · *4*<br>|⚫IG2-052 · *1*<br>🟣SLPP · *1*<br>🟦PA · *1*<br>🟩UNP · *1*<br>⚫IG1-052 · *1*<br>||[...](https://results.elections.gov.lk/?page=lg_result&district=KANDY&lg_code=052&lg_name=KADUGANNAWA-URBAN-COUNCIL)|
 | 053 | 🏢Gampola UC (29) |🟢SJB · *11*<br>|🔴JJB · *10*<br>|🟩UNP · *4*<br>| Others · 4 |[...](https://results.elections.gov.lk/?page=lg_result&district=KANDY&lg_code=053&lg_name=GAMPOLA-URBAN-COUNCIL)|
@@ -109,6 +110,7 @@ As of 2025-05-07 08:50:46
 |---|---|---|---|---|---|---|
 | 074 | 🏡Pallepola PS (17) |**🔴JJB · *9***<br>|🟢SJB · *3*<br>|🟣SLPP · *2*<br>| Others · 3 |[...](https://results.elections.gov.lk/?page=lg_result&district=MATALE&lg_code=074&lg_name=PALLEPOLA-PRADESHIYA-SABHA)|
 | 075 | 🏡Galewela PS (29) |🔴JJB · *14*<br>|🟢SJB · *7*<br>|🟣SLPP · *3*<br>🟩UNP · *3*<br>| Others · 2 |[...](https://results.elections.gov.lk/?page=lg_result&district=MATALE&lg_code=075&lg_name=GALEWELA-PRADESHIYA-SABHA)|
+| 076 | 🏡Dambulla PS (27) |🔴JJB · *13*<br>|🟢SJB · *6*<br>|🟣SLPP · *3*<br>🟦PA · *3*<br>| Others · 2 |[...](https://results.elections.gov.lk/?page=lg_result&district=MATALE&lg_code=076&lg_name=DAMBULLA-PRADESHIYA-SABHA)|
 | 077 | 🏡Ambanganga Korale PS (18) |🟢SJB · *8*<br>|🔴JJB · *5*<br>|🟣SLPP · *2*<br>| Others · 3 |[...](https://results.elections.gov.lk/?page=lg_result&district=MATALE&lg_code=077&lg_name=AMBANGANGA-KORALE-PRADESHIYA-SABHA)|
 | 078 | 🏡Naula PS (18) |**🔴JJB · *9***<br>|🟢SJB · *4*<br>|🟣SLPP · *2*<br>| Others · 3 |[...](https://results.elections.gov.lk/?page=lg_result&district=MATALE&lg_code=078&lg_name=NAULA-PRADESHIYA-SABHA)|
 | 079 | 🏡Laggala Pallegama PS (16) |🟢SJB · *6*<br>🔴JJB · *6*<br>|🟣SLPP · *3*<br>|🔵SB · *1*<br>||[...](https://results.elections.gov.lk/?page=lg_result&district=MATALE&lg_code=079&lg_name=LAGGALA-PALLEGAMA-PRADESHIYA-SABHA)|
@@ -380,6 +382,7 @@ As of 2025-05-07 08:50:46
 | 303 | 🏡Bibila PS (18) |**🔴JJB · *10***<br>|🟢SJB · *4*<br>|🟦PA · *1*<br>🟣SLPP · *1*<br>🟩UNP · *1*<br>🔵SB · *1*<br>||[...](https://results.elections.gov.lk/?page=lg_result&district=MONARAGALA&lg_code=303&lg_name=BIBILA-PRADESIYA-SABHA)|
 | 304 | 🏡Medagama PS (17) |🔴JJB · *8*<br>|🟢SJB · *4*<br>|🟦PA · *2*<br>| Others · 3 |[...](https://results.elections.gov.lk/?page=lg_result&district=MONARAGALA&lg_code=304&lg_name=MEDAGAMA-PRADESHIYA-SABHA)|
 | 305 | 🏡Madulla PS (21) |**🔴JJB · *11***<br>|🟢SJB · *4*<br>|🟣SLPP · *3*<br>| Others · 3 |[...](https://results.elections.gov.lk/?page=lg_result&district=MONARAGALA&lg_code=305&lg_name=MADULLA-PRADESHIYA-SABHA)|
+| 306 | 🏡Siyabalanduwa PS (24) |**🔴JJB · *12***<br>|🟢SJB · *6*<br>|🟣SLPP · *3*<br>| Others · 3 |[...](https://results.elections.gov.lk/?page=lg_result&district=MONARAGALA&lg_code=306&lg_name=SIYABALANDUWA-PRADESHIYA-SABHA)|
 | 308 | 🏡Badalkumbura PS (20) |**🔴JJB · *10***<br>|🟢SJB · *5*<br>|🟣SLPP · *3*<br>| Others · 2 |[...](https://results.elections.gov.lk/?page=lg_result&district=MONARAGALA&lg_code=308&lg_name=BADALKUMBURA-PRADESHIYA-SABHA)|
 | 309 | 🏡Buttala PS (18) |🔴JJB · *8*<br>|🟢SJB · *6*<br>|🟣SLPP · *2*<br>| Others · 2 |[...](https://results.elections.gov.lk/?page=lg_result&district=MONARAGALA&lg_code=309&lg_name=BUTTALA-PRADESHIYA-SABHA)|
 | 310 | 🏡Kataragama PS (16) |**🔴JJB · *9***<br>|🟢SJB · *4*<br>|🟣SLPP · *2*<br>| Others · 1 |[...](https://results.elections.gov.lk/?page=lg_result&district=MONARAGALA&lg_code=310&lg_name=KATARAGAMA-PRADESHIYA-SABHA)|
