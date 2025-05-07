@@ -1,6 +1,6 @@
 # Sri Lankan Local Government Elections - 2025 🇱🇰
 
-As of 2025-05-07 08:28:38
+As of 2025-05-07 08:29:49
 
 *Scraped from [results.elections.gov.lk](https://results.elections.gov.lk)*
 
@@ -8,19 +8,19 @@ As of 2025-05-07 08:28:38
 
 | Results Released | % Released (By Votes) | % Turnout | % Rejected |
 |--:|--:|--:|--:|
-|259/339|73.3%|61.7%|1.99%|
+|260/339|73.5%|61.7%|1.99%|
 
 ## Islandwide (Top 10 by Votes)
 
 | Party | Votes | %  | Seats | % | Most Seats | ≥½ Seats (✔️) |
 |---|--:|--:|--:|--:|--:|--:|
-|🔴Jathika Jana Balawegaya|3,352,537|44%|2,930|45%|213|115|
-|🟢Samagi Jana Balawegaya|1,617,160|21%|1,274|19%|11||
-|🟣Sri Lanka Podujana Peramuna|741,200|10%|575|9%|||
-|🟩United National Party|337,259|4%|273|4%|1||
-|🟦People's Alliance|280,249|4%|231|4%|||
+|🔴Jathika Jana Balawegaya|3,360,221|44%|2,939|45%|214|116|
+|🟢Samagi Jana Balawegaya|1,620,690|21%|1,277|19%|11||
+|🟣Sri Lanka Podujana Peramuna|743,386|10%|577|9%|||
+|🟩United National Party|338,560|4%|274|4%|1||
+|🟦People's Alliance|281,403|4%|232|4%|||
 |🟡Ilankai Tamil Arasu Kadchi|226,443|3%|302|5%|32|5|
-|🔵Sarvajana Balaya|192,294|3%|158|2%|||
+|🔵Sarvajana Balaya|192,871|3%|159|2%|||
 |⚪Sri Lanka Muslim Congress|80,793|1%|67|1%|2||
 |⚪Democratic Tamil National Alliance|80,258|1%|97|1%|1||
 |⚪All Ceylon Tamil Congress|59,785|1%|92|1%|4||
@@ -107,6 +107,7 @@ As of 2025-05-07 08:28:38
 
 |  |  |  |  |  |  |  |
 |---|---|---|---|---|---|---|
+| 074 | 🏡Pallepola PS f({total_seats}) |**🔴JJB (9)✔️** |🟢SJB (3) |🟣SLPP (2) | Others (3) |[...](https://results.elections.gov.lk/?page=lg_result&district=MATALE&lg_code=074&lg_name=PALLEPOLA-PRADESHIYA-SABHA)|
 | 075 | 🏡Galewela PS f({total_seats}) |🔴JJB (14) |🟢SJB (7) |🟣SLPP (3) 🟩UNP (3) | Others (2) |[...](https://results.elections.gov.lk/?page=lg_result&district=MATALE&lg_code=075&lg_name=GALEWELA-PRADESHIYA-SABHA)|
 | 077 | 🏡Ambanganga Korale PS f({total_seats}) |🟢SJB (8) |🔴JJB (5) |🟣SLPP (2) | Others (3) |[...](https://results.elections.gov.lk/?page=lg_result&district=MATALE&lg_code=077&lg_name=AMBANGANGA-KORALE-PRADESHIYA-SABHA)|
 | 078 | 🏡Naula PS f({total_seats}) |**🔴JJB (9)✔️** |🟢SJB (4) |🟣SLPP (2) | Others (3) |[...](https://results.elections.gov.lk/?page=lg_result&district=MATALE&lg_code=078&lg_name=NAULA-PRADESHIYA-SABHA)|

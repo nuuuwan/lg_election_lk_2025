@@ -1,0 +1,68 @@
+{
+  "district_name": "Matale",
+  "lg_code": "074",
+  "lg_name": "Pallepola Pradeshiya Sabha",
+  "url": "https://results.elections.gov.lk/?page=lg_result&district=MATALE&lg_code=074&lg_name=PALLEPOLA-PRADESHIYA-SABHA",
+  "time_str": "2025-05-07 08:03:00",
+  "time_ut": 1746585180.0,
+  "summary_data": {
+    "electors": 26866,
+    "polled": 16890,
+    "valid": 16505,
+    "rejected": 385,
+    "p_turnout": 0.63,
+    "p_valid": 0.98,
+    "p_rejected": 0.02
+  },
+  "party_result_data_list": [
+    {
+      "party_name": "Jathika Jana Balawegaya",
+      "party_code": "NPP",
+      "votes": 7684,
+      "p_votes": 0.47,
+      "seats": 9
+    },
+    {
+      "party_name": "Samagi Jana Balawegaya",
+      "party_code": "SJB",
+      "votes": 3530,
+      "p_votes": 0.21,
+      "seats": 3
+    },
+    {
+      "party_name": "Sri Lanka Podujana Peramuna",
+      "party_code": "SLPP",
+      "votes": 2186,
+      "p_votes": 0.13,
+      "seats": 2
+    },
+    {
+      "party_name": "United National Party",
+      "party_code": "UNP",
+      "votes": 1301,
+      "p_votes": 0.08,
+      "seats": 1
+    },
+    {
+      "party_name": "People's Alliance",
+      "party_code": "PA",
+      "votes": 1154,
+      "p_votes": 0.07,
+      "seats": 1
+    },
+    {
+      "party_name": "Sarvajana Balaya",
+      "party_code": "SB",
+      "votes": 577,
+      "p_votes": 0.04,
+      "seats": 1
+    },
+    {
+      "party_name": "People's Struggle Alliance",
+      "party_code": "PSA",
+      "votes": 73,
+      "p_votes": 0.0,
+      "seats": 0
+    }
+  ]
+}
