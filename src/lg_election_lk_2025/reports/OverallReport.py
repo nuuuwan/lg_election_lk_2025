@@ -218,7 +218,8 @@ class OverallReport:
         lines = [
             f"## Islandwide (Top {N_TOP} by Votes)",
             "",
-            "| Party | Votes | %  | *Seats* | *%* | LG's with<br>Won "
+            "| Party | Votes | %  | *Seats* | *%* |"
+            + " LG's with<br>Most Seats<br>(Incl. Ties) "
             + "| **LGs with<br>≥50% Seats** |",
             "|---|--:|--:|--:|--:|--:|--:|",
         ]
