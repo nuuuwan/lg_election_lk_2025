@@ -1,0 +1,89 @@
+{
+  "district_name": "Galle",
+  "lg_code": "113",
+  "lg_name": "Akmeemana Pradeshiya Sabha",
+  "url": "https://results.elections.gov.lk/?page=lg_result&district=GALLE&lg_code=113&lg_name=AKMEEMANA-PRADESHIYA-SABHA",
+  "time_str": "2025-05-07 10:14:00",
+  "time_ut": 1746593040.0,
+  "summary_data": {
+    "electors": 66974,
+    "polled": 39027,
+    "valid": 38283,
+    "rejected": 744,
+    "p_turnout": 0.58,
+    "p_valid": 0.98,
+    "p_rejected": 0.02
+  },
+  "party_result_data_list": [
+    {
+      "party_name": "Jathika Jana Balawegaya",
+      "party_code": "NPP",
+      "votes": 18942,
+      "p_votes": 0.49,
+      "seats": 16
+    },
+    {
+      "party_name": "Samagi Jana Balawegaya",
+      "party_code": "SJB",
+      "votes": 7551,
+      "p_votes": 0.2,
+      "seats": 5
+    },
+    {
+      "party_name": "Sri Lanka Podujana Peramuna",
+      "party_code": "SLPP",
+      "votes": 3878,
+      "p_votes": 0.1,
+      "seats": 3
+    },
+    {
+      "party_name": "Independent Group 2",
+      "party_code": "IND2",
+      "votes": 3107,
+      "p_votes": 0.08,
+      "seats": 2
+    },
+    {
+      "party_name": "United National Party",
+      "party_code": "UNP",
+      "votes": 1361,
+      "p_votes": 0.04,
+      "seats": 1
+    },
+    {
+      "party_name": "Independent Group 3",
+      "party_code": "IND3",
+      "votes": 1327,
+      "p_votes": 0.03,
+      "seats": 1
+    },
+    {
+      "party_name": "Sarvajana Balaya",
+      "party_code": "SB",
+      "votes": 908,
+      "p_votes": 0.02,
+      "seats": 1
+    },
+    {
+      "party_name": "Independent Group 1",
+      "party_code": "IND1",
+      "votes": 569,
+      "p_votes": 0.01,
+      "seats": 0
+    },
+    {
+      "party_name": "People's Alliance",
+      "party_code": "PA",
+      "votes": 373,
+      "p_votes": 0.01,
+      "seats": 0
+    },
+    {
+      "party_name": "People's Struggle Alliance",
+      "party_code": "PSA",
+      "votes": 267,
+      "p_votes": 0.01,
+      "seats": 0
+    }
+  ]
+}

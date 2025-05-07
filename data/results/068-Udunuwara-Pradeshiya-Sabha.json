@@ -1,0 +1,82 @@
+{
+  "district_name": "Kandy",
+  "lg_code": "068",
+  "lg_name": "Udunuwara Pradeshiya Sabha",
+  "url": "https://results.elections.gov.lk/?page=lg_result&district=KANDY&lg_code=068&lg_name=UDUNUWARA-PRADESHIYA-SABHA",
+  "time_str": "2025-05-07 10:13:00",
+  "time_ut": 1746592980.0,
+  "summary_data": {
+    "electors": 95557,
+    "polled": 58311,
+    "valid": 56813,
+    "rejected": 1498,
+    "p_turnout": 0.61,
+    "p_valid": 0.97,
+    "p_rejected": 0.03
+  },
+  "party_result_data_list": [
+    {
+      "party_name": "Jathika Jana Balawegaya",
+      "party_code": "NPP",
+      "votes": 26001,
+      "p_votes": 0.46,
+      "seats": 18
+    },
+    {
+      "party_name": "Samagi Jana Balawegaya",
+      "party_code": "SJB",
+      "votes": 15312,
+      "p_votes": 0.27,
+      "seats": 10
+    },
+    {
+      "party_name": "United National Alliance",
+      "party_code": "UNA",
+      "votes": 4465,
+      "p_votes": 0.08,
+      "seats": 3
+    },
+    {
+      "party_name": "United National Party",
+      "party_code": "UNP",
+      "votes": 3889,
+      "p_votes": 0.07,
+      "seats": 3
+    },
+    {
+      "party_name": "Sri Lanka Podujana Peramuna",
+      "party_code": "SLPP",
+      "votes": 3242,
+      "p_votes": 0.06,
+      "seats": 2
+    },
+    {
+      "party_name": "Independent Group",
+      "party_code": "IND1",
+      "votes": 2301,
+      "p_votes": 0.04,
+      "seats": 2
+    },
+    {
+      "party_name": "People's Alliance",
+      "party_code": "PA",
+      "votes": 552,
+      "p_votes": 0.01,
+      "seats": 0
+    },
+    {
+      "party_name": "People's Struggle Alliance",
+      "party_code": "PSA",
+      "votes": 544,
+      "p_votes": 0.01,
+      "seats": 0
+    },
+    {
+      "party_name": "Jana Setha Peramuna",
+      "party_code": "JSP",
+      "votes": 507,
+      "p_votes": 0.01,
+      "seats": 0
+    }
+  ]
+}
