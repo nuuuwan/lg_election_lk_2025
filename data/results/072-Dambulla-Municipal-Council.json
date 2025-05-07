@@ -1,0 +1,61 @@
+{
+  "district_name": "Matale",
+  "lg_code": "072",
+  "lg_name": "Dambulla Municipal Council",
+  "url": "https://results.elections.gov.lk/?page=lg_result&district=MATALE&lg_code=072&lg_name=DAMBULLA-MUNICIPAL-COUNCIL",
+  "time_str": "2025-05-07 10:23:00",
+  "time_ut": 1746593580.0,
+  "summary_data": {
+    "electors": 20267,
+    "polled": 13795,
+    "valid": 13543,
+    "rejected": 252,
+    "p_turnout": 0.68,
+    "p_valid": 0.98,
+    "p_rejected": 0.02
+  },
+  "party_result_data_list": [
+    {
+      "party_name": "Jathika Jana Balawegaya",
+      "party_code": "NPP",
+      "votes": 7688,
+      "p_votes": 0.57,
+      "seats": 13
+    },
+    {
+      "party_name": "Independent Group 2",
+      "party_code": "IND2",
+      "votes": 2442,
+      "p_votes": 0.18,
+      "seats": 4
+    },
+    {
+      "party_name": "Sri Lanka Podujana Peramuna",
+      "party_code": "SLPP",
+      "votes": 1774,
+      "p_votes": 0.13,
+      "seats": 3
+    },
+    {
+      "party_name": "Samagi Jana Balawegaya",
+      "party_code": "SJB",
+      "votes": 1294,
+      "p_votes": 0.1,
+      "seats": 2
+    },
+    {
+      "party_name": "Sarvajana Balaya",
+      "party_code": "SB",
+      "votes": 191,
+      "p_votes": 0.01,
+      "seats": 0
+    },
+    {
+      "party_name": "Independent Group 1",
+      "party_code": "IND1",
+      "votes": 154,
+      "p_votes": 0.01,
+      "seats": 0
+    }
+  ]
+}

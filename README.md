@@ -1,6 +1,6 @@
 # Sri Lankan Local Government Elections - 2025 🇱🇰
 
-As of 2025-05-07 10:32:05
+As of 2025-05-07 10:33:29
 
 *Scraped from [results.elections.gov.lk](https://results.elections.gov.lk)*
 
@@ -8,19 +8,19 @@ As of 2025-05-07 10:32:05
 
 | Results Released | % Released (By Votes) | % Turnout | % Rejected |
 |--:|--:|--:|--:|
-|323/339|94.6%|61.8%|1.99%|
+|325/339|95.1%|61.8%|1.99%|
 
 ## Islandwide (Top 10 by Seats)
 
 | Party |  *Seats* | *%* | Votes | %  | LG's with<br>Most Votes | **LGs with<br>>50% Seats** |
 |---|--:|--:|--:|--:|--:|--:|
-|🔴Jathika Jana Balawegaya|*3,730*|*45%*|4,294,777|43%|254|**114**|
-|🟢Samagi Jana Balawegaya|*1,675*|*20%*|2,148,377|22%|11||
-|🟣Sri Lanka Podujana Peramuna|*708*|*8%*|910,641|9%|||
-|🟩United National Party|*364*|*4%*|462,116|5%|||
+|🔴Jathika Jana Balawegaya|*3,762*|*45%*|4,316,562|43%|256|**115**|
+|🟢Samagi Jana Balawegaya|*1,687*|*20%*|2,158,568|22%|11||
+|🟣Sri Lanka Podujana Peramuna|*716*|*9%*|916,665|9%|||
+|🟩United National Party|*366*|*4%*|463,704|5%|||
 |🟡Ilankai Tamil Arasu Kadchi|*360*|*4%*|287,814|3%|35|**3**|
-|🟦People's Alliance|*282*|*3%*|346,968|3%|||
-|🔵Sarvajana Balaya|*215*|*3%*|261,223|3%|||
+|🟦People's Alliance|*283*|*3%*|348,034|3%|||
+|🔵Sarvajana Balaya|*219*|*3%*|264,433|3%|||
 |⚪Sri Lanka Muslim Congress|*106*|*1%*|127,282|1%|5|**1**|
 |⚪Democratic Tamil National Alliance|*100*|*1%*|82,178|1%|1||
 |⚪All Ceylon Tamil Congress|*96*|*1%*|62,668|1%|3||
@@ -29,6 +29,8 @@ As of 2025-05-07 10:32:05
 
 |  |  |  |  |  |  |
 |---|---|---|---|---|---|
+| [195](https://results.elections.gov.lk/?page=lg_result&district=AMPARA&lg_code=195&lg_name=DEHIATHTHAKANDIYA-PRADESHIYA-SABHA) | 🏡Dehiaththakandiya PS·*41*|🔴JJB·*19*<br>|🟢SJB·*10*<br>|🟣SLPP·*5*<br>|Others·*7*|
+| [072](https://results.elections.gov.lk/?page=lg_result&district=MATALE&lg_code=072&lg_name=DAMBULLA-MUNICIPAL-COUNCIL) | 🏛️Dambulla MC·*22*|**🔴JJB·*13***<br>|⚫IG2-072·*4*<br>|🟣SLPP·*3*<br>|Others·*2*|
 | [029](https://results.elections.gov.lk/?page=lg_result&district=GAMPAHA&lg_code=029&lg_name=MAHARA-PRADESHIYA-SABHA) | 🏡Mahara PS·*55*|**🔴JJB·*33***<br>|🟢SJB·*10*<br>|🟦PA·*5*<br>|Others·*7*|
 | [094](https://results.elections.gov.lk/?page=lg_result&district=NUWARAELIYA&lg_code=094&lg_name=KOTHMALE-PRADESHIYA-SABHA) | 🏡Kothmale PS·*55*|🔴JJB·*22*<br>|🟢SJB·*17*<br>|⚪CWCPW·*8*<br>|Others·*8*|
 | [036](https://results.elections.gov.lk/?page=lg_result&district=KALUTARA&lg_code=036&lg_name=BERUWALA-URBAN-COUNCIL) | 🏢Beruwala UC·*16*|⚫IG1-036·*7*<br>|🟢SJB·*6*<br>|🔴JJB·*3*<br>||
@@ -37,14 +39,12 @@ As of 2025-05-07 10:32:05
 | [113](https://results.elections.gov.lk/?page=lg_result&district=GALLE&lg_code=113&lg_name=AKMEEMANA-PRADESHIYA-SABHA) | 🏡Akmeemana PS·*29*|**🔴JJB·*16***<br>|🟢SJB·*5*<br>|🟣SLPP·*3*<br>|Others·*5*|
 | [068](https://results.elections.gov.lk/?page=lg_result&district=KANDY&lg_code=068&lg_name=UDUNUWARA-PRADESHIYA-SABHA) | 🏡Udunuwara PS·*38*|🔴JJB·*18*<br>|🟢SJB·*10*<br>|⚪UNA·*3*<br>🟩UNP·*3*<br>|Others·*4*|
 | [043](https://results.elections.gov.lk/?page=lg_result&district=KALUTARA&lg_code=043&lg_name=DODANGODA-PRADESHIYA-SABHA) | 🏡Dodangoda PS·*25*|🔴JJB·*12*<br>|🟢SJB·*5*<br>|⚫IG-043·*3*<br>|Others·*5*|
-| [245](https://results.elections.gov.lk/?page=lg_result&district=KURUNEGALA&lg_code=245&lg_name=RIDEEGAMA-PRADESHIYA-SABHA) | 🏡Rideegama PS·*39*|**🔴JJB·*21***<br>|🟢SJB·*8*<br>|🟣SLPP·*3*<br>🟩UNP·*3*<br>|Others·*4*|
-| [336](https://results.elections.gov.lk/?page=lg_result&district=KEGALLE&lg_code=336&lg_name=ARANAYAKA-PRADESHIYA-SABHA) | 🏡Aranayaka PS·*30*|🔴JJB·*13*<br>|🟢SJB·*8*<br>|🔵SB·*3*<br>|Others·*6*|
 
 ## % Seats by Local Authority Type
 
 | | |  | | |
 |---|---|---|---|---|
-|MC|🔴JJB·*45%*<br>|🟢SJB·*18%*<br>|🟩UNP·*6%*<br>|Others·*31%*|
+|MC|🔴JJB·*45%*<br>|🟢SJB·*18%*<br>|🟩UNP·*6%*<br>🟣SLPP·*6%*<br>|Others·*31%*|
 |UC|🔴JJB·*42%*<br>|🟢SJB·*20%*<br>|🟣SLPP·*6%*<br>|Others·*32%*|
 |PS|🔴JJB·*45%*<br>|🟢SJB·*20%*<br>|🟣SLPP·*9%*<br>|Others·*26%*|
 
@@ -56,7 +56,7 @@ As of 2025-05-07 10:32:05
 |Central|🔴JJB·*45%*<br>|🟢SJB·*25%*<br>|🟣SLPP·*7%*<br>|Others·*23%*|
 |Southern|🔴JJB·*51%*<br>|🟢SJB·*21%*<br>|🟣SLPP·*14%*<br>|Others·*14%*|
 |Northern|🟡ITAK·*31%*<br>|🔴JJB·*20%*<br>|⚪ACTC·*13%*<br>|Others·*36%*|
-|Eastern|🔴JJB·*27%*<br>|🟡ITAK·*19%*<br>|🟢SJB·*11%*<br>|Others·*43%*|
+|Eastern|🔴JJB·*28%*<br>|🟡ITAK·*18%*<br>|🟢SJB·*12%*<br>|Others·*42%*|
 |North Western|🔴JJB·*48%*<br>|🟢SJB·*24%*<br>|🟣SLPP·*11%*<br>|Others·*17%*|
 |North Central|🔴JJB·*55%*<br>|🟢SJB·*23%*<br>|🟣SLPP·*8%*<br>|Others·*14%*|
 |Uva|🔴JJB·*48%*<br>|🟢SJB·*23%*<br>|🟣SLPP·*9%*<br>|Others·*20%*|
@@ -70,7 +70,7 @@ As of 2025-05-07 10:32:05
 |Gampaha|🔴JJB·*56%*<br>|🟢SJB·*20%*<br>|🟣SLPP·*9%*<br>|Others·*15%*|
 |Kalutara|🔴JJB·*43%*<br>|🟢SJB·*23%*<br>|🟣SLPP·*9%*<br>|Others·*25%*|
 |Kandy|🔴JJB·*47%*<br>|🟢SJB·*25%*<br>|🟣SLPP·*6%*<br>|Others·*22%*|
-|Matale|🔴JJB·*46%*<br>|🟢SJB·*24%*<br>|🟣SLPP·*11%*<br>|Others·*19%*|
+|Matale|🔴JJB·*47%*<br>|🟢SJB·*23%*<br>|🟣SLPP·*11%*<br>|Others·*19%*|
 |Nuwaraeliya|🔴JJB·*40%*<br>|🟢SJB·*25%*<br>|⚪CWCPW·*12%*<br>|Others·*23%*|
 |Galle|🔴JJB·*49%*<br>|🟢SJB·*21%*<br>|🟣SLPP·*14%*<br>|Others·*16%*|
 |Matara|🔴JJB·*53%*<br>|🟢SJB·*21%*<br>|🟣SLPP·*12%*<br>|Others·*14%*|
@@ -81,7 +81,7 @@ As of 2025-05-07 10:32:05
 |Vavuniya|🔴JJB·*25%*<br>|🟡ITAK·*15%*<br>|🟢SJB·*14%*<br>|Others·*46%*|
 |Mullaitivu|🟡ITAK·*38%*<br>|🔴JJB·*17%*<br>|⚪DTNA·*14%*<br>|Others·*31%*|
 |Batticaloa|🟡ITAK·*36%*<br>|🔴JJB·*17%*<br>|⚪TMVP·*16%*<br>|Others·*31%*|
-|Ampara|🔴JJB·*31%*<br>|🟢SJB·*13%*<br>|⚪SLMC·*11%*<br>|Others·*45%*|
+|Ampara|🔴JJB·*32%*<br>|🟢SJB·*15%*<br>|⚪SLMC·*9%*<br>|Others·*44%*|
 |Trincomalee|🔴JJB·*31%*<br>|🟡ITAK·*17%*<br>|🟢SJB·*15%*<br>|Others·*37%*|
 |Kurunegala|🔴JJB·*50%*<br>|🟢SJB·*25%*<br>|🟣SLPP·*11%*<br>|Others·*14%*|
 |Puttalam|🔴JJB·*45%*<br>|🟢SJB·*22%*<br>|🟣SLPP·*11%*<br>|Others·*22%*|
@@ -189,6 +189,7 @@ As of 2025-05-07 10:32:05
 
 |  |  |  |  |  |  |
 |---|---|---|---|---|---|
+| [072](https://results.elections.gov.lk/?page=lg_result&district=MATALE&lg_code=072&lg_name=DAMBULLA-MUNICIPAL-COUNCIL) | 🏛️Dambulla MC·*22*|**🔴JJB·*13***<br>|⚫IG2-072·*4*<br>|🟣SLPP·*3*<br>|Others·*2*|
 | [073](https://results.elections.gov.lk/?page=lg_result&district=MATALE&lg_code=073&lg_name=MATALE-MUNICIPAL-COUNCIL) | 🏛️Matale MC·*22*|🔴JJB·*10*<br>|🟢SJB·*6*<br>|⚪CWCPW·*2*<br>|Others·*4*|
 | [074](https://results.elections.gov.lk/?page=lg_result&district=MATALE&lg_code=074&lg_name=PALLEPOLA-PRADESHIYA-SABHA) | 🏡Pallepola PS·*17*|**🔴JJB·*9***<br>|🟢SJB·*3*<br>|🟣SLPP·*2*<br>|Others·*3*|
 | [075](https://results.elections.gov.lk/?page=lg_result&district=MATALE&lg_code=075&lg_name=GALEWELA-PRADESHIYA-SABHA) | 🏡Galewela PS·*29*|🔴JJB·*14*<br>|🟢SJB·*7*<br>|🟣SLPP·*3*<br>🟩UNP·*3*<br>|Others·*2*|
@@ -361,6 +362,7 @@ As of 2025-05-07 10:32:05
 |---|---|---|---|---|---|
 | [193](https://results.elections.gov.lk/?page=lg_result&district=AMPARA&lg_code=193&lg_name=AKKARAIPATTU-MUNICIPAL-COUNCIL) | 🏛️Akkaraipattu MC·*22*|⚪NC·*11*<br>|🔴JJB·*4*<br>|⚪SLMC·*3*<br>|Others·*4*|
 | [194](https://results.elections.gov.lk/?page=lg_result&district=AMPARA&lg_code=194&lg_name=AMPARA-URBAN-COUNCIL) | 🏢Ampara UC·*17*|**🔴JJB·*10***<br>|🟢SJB·*3*<br>|⚫IG-194·*2*<br>|Others·*2*|
+| [195](https://results.elections.gov.lk/?page=lg_result&district=AMPARA&lg_code=195&lg_name=DEHIATHTHAKANDIYA-PRADESHIYA-SABHA) | 🏡Dehiaththakandiya PS·*41*|🔴JJB·*19*<br>|🟢SJB·*10*<br>|🟣SLPP·*5*<br>|Others·*7*|
 | [196](https://results.elections.gov.lk/?page=lg_result&district=AMPARA&lg_code=196&lg_name=DAMANA-PRADESHIYA-SABHA) | 🏡Damana PS·*18*|**🔴JJB·*10***<br>|🟢SJB·*4*<br>|🟣SLPP·*2*<br>🟩UNP·*2*<br>||
 | [197](https://results.elections.gov.lk/?page=lg_result&district=AMPARA&lg_code=197&lg_name=UHANA-PRADESHIYA-SABHA) | 🏡Uhana PS·*29*|**🔴JJB·*16***<br>|🟢SJB·*7*<br>|🟣SLPP·*5*<br>|Others·*1*|
 | [198](https://results.elections.gov.lk/?page=lg_result&district=AMPARA&lg_code=198&lg_name=MAHAOYA-PRADESHIYA-SABHA) | 🏡Mahaoya PS·*18*|🔴JJB·*7*<br>|🟢SJB·*4*<br>|🟩UNP·*3*<br>🟣SLPP·*3*<br>|Others·*1*|
