@@ -93,7 +93,7 @@ class OverallReport:
             votes = party_result_data["votes"]
             seats = party_result_data["seats"]
             is_top = seats == top_seats
-            is_majority = seats >= total_seats / 2
+            is_majority = seats * 2 > total_seats
             if seats > 0:
                 if party_name not in party_to_summary:
                     party_to_summary[party_name] = {
@@ -220,7 +220,7 @@ class OverallReport:
             "",
             "| Party | Votes | %  | *Seats* | *%* |"
             + " LG's with<br>Most Seats<br>(Incl. Ties) "
-            + "| **LGs with<br>≥50% Seats** |",
+            + "| **LGs with<br>>50% Seats** |",
             "|---|--:|--:|--:|--:|--:|--:|",
         ]
         lk_summary = self.lk_summary
@@ -320,7 +320,7 @@ class OverallReport:
                     party_name = party_result_data["party_name"]
                     seats = party_result_data["seats"]
                     displayed_seats += seats
-                    is_majority = seats >= total_seats / 2
+                    is_majority = seats * 2 > total_seats
                     cell_inner = (
                         OverallReport.get_party_name_annotated(
                             party_name, lg_code, use_short=True
