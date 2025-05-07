@@ -1,0 +1,61 @@
+{
+  "district_name": "Polonnaruwa",
+  "lg_code": "277",
+  "lg_name": "Polonnaruwa Municipal Council",
+  "url": "https://results.elections.gov.lk/?page=lg_result&district=POLONNARUWA&lg_code=277&lg_name=POLONNARUWA-MUNICIPAL-COUNCIL",
+  "time_str": "2025-05-07 07:51:00",
+  "time_ut": 1746584460.0,
+  "summary_data": {
+    "electors": 27791,
+    "polled": 16881,
+    "valid": 16590,
+    "rejected": 291,
+    "p_turnout": 0.61,
+    "p_valid": 0.98,
+    "p_rejected": 0.02
+  },
+  "party_result_data_list": [
+    {
+      "party_name": "Jathika Jana Balawegaya",
+      "party_code": "NPP",
+      "votes": 9768,
+      "p_votes": 0.59,
+      "seats": 6
+    },
+    {
+      "party_name": "Samagi Jana Balawegaya",
+      "party_code": "SJB",
+      "votes": 2965,
+      "p_votes": 0.18,
+      "seats": 2
+    },
+    {
+      "party_name": "People's Alliance",
+      "party_code": "PA",
+      "votes": 1687,
+      "p_votes": 0.1,
+      "seats": 1
+    },
+    {
+      "party_name": "United National Party",
+      "party_code": "UNP",
+      "votes": 1544,
+      "p_votes": 0.09,
+      "seats": 1
+    },
+    {
+      "party_name": "Sri Lanka Podujana Peramuna",
+      "party_code": "SLPP",
+      "votes": 480,
+      "p_votes": 0.03,
+      "seats": 0
+    },
+    {
+      "party_name": "People's Struggle Alliance",
+      "party_code": "PSA",
+      "votes": 146,
+      "p_votes": 0.01,
+      "seats": 0
+    }
+  ]
+}

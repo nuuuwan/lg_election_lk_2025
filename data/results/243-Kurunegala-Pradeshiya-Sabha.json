@@ -1,0 +1,68 @@
+{
+  "district_name": "Kurunegala",
+  "lg_code": "243",
+  "lg_name": "Kurunegala Pradeshiya Sabha",
+  "url": "https://results.elections.gov.lk/?page=lg_result&district=KURUNEGALA&lg_code=243&lg_name=KURUNEGALA-PRADESHIYA-SABHA",
+  "time_str": "2025-05-07 07:50:00",
+  "time_ut": 1746584400.0,
+  "summary_data": {
+    "electors": 129678,
+    "polled": 76469,
+    "valid": 75205,
+    "rejected": 1264,
+    "p_turnout": 0.59,
+    "p_valid": 0.98,
+    "p_rejected": 0.02
+  },
+  "party_result_data_list": [
+    {
+      "party_name": "Jathika Jana Balawegaya",
+      "party_code": "NPP",
+      "votes": 42557,
+      "p_votes": 0.57,
+      "seats": 24
+    },
+    {
+      "party_name": "Samagi Jana Balawegaya",
+      "party_code": "SJB",
+      "votes": 17894,
+      "p_votes": 0.24,
+      "seats": 10
+    },
+    {
+      "party_name": "Sri Lanka Podujana Peramuna",
+      "party_code": "SLPP",
+      "votes": 5801,
+      "p_votes": 0.08,
+      "seats": 3
+    },
+    {
+      "party_name": "Independent Group",
+      "party_code": "IND0",
+      "votes": 4775,
+      "p_votes": 0.06,
+      "seats": 3
+    },
+    {
+      "party_name": "People's Alliance",
+      "party_code": "PA",
+      "votes": 2009,
+      "p_votes": 0.03,
+      "seats": 1
+    },
+    {
+      "party_name": "Sarvajana Balaya",
+      "party_code": "SB",
+      "votes": 1799,
+      "p_votes": 0.02,
+      "seats": 1
+    },
+    {
+      "party_name": "All Ceylon Makkal Congress",
+      "party_code": "ACMC",
+      "votes": 370,
+      "p_votes": 0.0,
+      "seats": 0
+    }
+  ]
+}
