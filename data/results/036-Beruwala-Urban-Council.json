@@ -1,0 +1,47 @@
+{
+  "district_name": "Kalutara",
+  "lg_code": "036",
+  "lg_name": "Beruwala Urban Council",
+  "url": "https://results.elections.gov.lk/?page=lg_result&district=KALUTARA&lg_code=036&lg_name=BERUWALA-URBAN-COUNCIL",
+  "time_str": "2025-05-07 10:20:00",
+  "time_ut": 1746593400.0,
+  "summary_data": {
+    "electors": 30394,
+    "polled": 22605,
+    "valid": 22328,
+    "rejected": 277,
+    "p_turnout": 0.74,
+    "p_valid": 0.99,
+    "p_rejected": 0.01
+  },
+  "party_result_data_list": [
+    {
+      "party_name": "Independent Group 1",
+      "party_code": "IND1",
+      "votes": 9757,
+      "p_votes": 0.44,
+      "seats": 7
+    },
+    {
+      "party_name": "Samagi Jana Balawegaya",
+      "party_code": "SJB",
+      "votes": 7872,
+      "p_votes": 0.35,
+      "seats": 6
+    },
+    {
+      "party_name": "Jathika Jana Balawegaya",
+      "party_code": "NPP",
+      "votes": 4229,
+      "p_votes": 0.19,
+      "seats": 3
+    },
+    {
+      "party_name": "Independent Group 2",
+      "party_code": "IND2",
+      "votes": 470,
+      "p_votes": 0.02,
+      "seats": 0
+    }
+  ]
+}

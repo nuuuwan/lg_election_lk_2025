@@ -1,0 +1,61 @@
+{
+  "district_name": "Nuwaraeliya",
+  "lg_code": "094",
+  "lg_name": "Kothmale Pradeshiya Sabha",
+  "url": "https://results.elections.gov.lk/?page=lg_result&district=NUWARAELIYA&lg_code=094&lg_name=KOTHMALE-PRADESHIYA-SABHA",
+  "time_str": "2025-05-07 10:22:00",
+  "time_ut": 1746593520.0,
+  "summary_data": {
+    "electors": 89099,
+    "polled": 57896,
+    "valid": 56228,
+    "rejected": 1668,
+    "p_turnout": 0.65,
+    "p_valid": 0.97,
+    "p_rejected": 0.03
+  },
+  "party_result_data_list": [
+    {
+      "party_name": "Jathika Jana Balawegaya",
+      "party_code": "NPP",
+      "votes": 20948,
+      "p_votes": 0.37,
+      "seats": 22
+    },
+    {
+      "party_name": "Samagi Jana Balawegaya",
+      "party_code": "SJB",
+      "votes": 17738,
+      "p_votes": 0.32,
+      "seats": 17
+    },
+    {
+      "party_name": "Ceylon Worker's Congress (P. Wing)",
+      "party_code": "CWC",
+      "votes": 8856,
+      "p_votes": 0.16,
+      "seats": 8
+    },
+    {
+      "party_name": "Sri Lanka Podujana Peramuna",
+      "party_code": "SLPP",
+      "votes": 4657,
+      "p_votes": 0.08,
+      "seats": 4
+    },
+    {
+      "party_name": "Sarvajana Balaya",
+      "party_code": "SB",
+      "votes": 2823,
+      "p_votes": 0.05,
+      "seats": 3
+    },
+    {
+      "party_name": "People's Alliance",
+      "party_code": "PA",
+      "votes": 1206,
+      "p_votes": 0.02,
+      "seats": 1
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "district_name": "Gampaha",
+  "lg_code": "029",
+  "lg_name": "Mahara Pradeshiya Sabha",
+  "url": "https://results.elections.gov.lk/?page=lg_result&district=GAMPAHA&lg_code=029&lg_name=MAHARA-PRADESHIYA-SABHA",
+  "time_str": "2025-05-07 10:22:00",
+  "time_ut": 1746593520.0,
+  "summary_data": {
+    "electors": 176414,
+    "polled": 100316,
+    "valid": 98234,
+    "rejected": 2082,
+    "p_turnout": 0.57,
+    "p_valid": 0.98,
+    "p_rejected": 0.02
+  },
+  "party_result_data_list": [
+    {
+      "party_name": "Jathika Jana Balawegaya",
+      "party_code": "NPP",
+      "votes": 58326,
+      "p_votes": 0.59,
+      "seats": 33
+    },
+    {
+      "party_name": "Samagi Jana Balawegaya",
+      "party_code": "SJB",
+      "votes": 17614,
+      "p_votes": 0.18,
+      "seats": 10
+    },
+    {
+      "party_name": "People's Alliance",
+      "party_code": "PA",
+      "votes": 9014,
+      "p_votes": 0.09,
+      "seats": 5
+    },
+    {
+      "party_name": "Sarvajana Balaya",
+      "party_code": "SB",
+      "votes": 6518,
+      "p_votes": 0.07,
+      "seats": 4
+    },
+    {
+      "party_name": "United National Party",
+      "party_code": "UNP",
+      "votes": 6235,
+      "p_votes": 0.06,
+      "seats": 3
+    },
+    {
+      "party_name": "People's Struggle Alliance",
+      "party_code": "PSA",
+      "votes": 527,
+      "p_votes": 0.01,
+      "seats": 0
+    }
+  ]
+}
