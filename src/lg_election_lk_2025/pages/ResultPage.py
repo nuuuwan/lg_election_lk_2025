@@ -159,6 +159,7 @@ class ResultPage(WebPage):
             "powershell "
             + '-c "Add-Type –AssemblyName System.Speech; '
             + "$speak = New-Object System.Speech.Synthesis.SpeechSynthesizer; "
+            + "$speak.SelectVoice('Microsoft Zira Desktop'); "
             + "$speak.Rate = -2; $speak"
             + f".Speak('{message}')\""
         )
