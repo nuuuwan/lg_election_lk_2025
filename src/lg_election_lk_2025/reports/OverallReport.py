@@ -263,7 +263,7 @@ class OverallReport:
         lines = ["## Results by District", ""]
         district_to_party_to_seats = self.district_to_party_to_seats
 
-        lines.extend(["| District | |  | | |", "|---|---|---|---|---|"])
+        lines.extend(["| | |  | | |", "|---|---|---|---|---|"])
         for district_name, party_to_seats in district_to_party_to_seats.items():
             seats_to_party_list = {}
             for party_name, seats in party_to_seats.items():
@@ -278,7 +278,7 @@ class OverallReport:
             )
             display_seats = 0
 
-            line = f'"|{district_name}|"'
+            line = f"|{district_name}|"
             for i in range(0, 3):
                 if len(seats_and_party_list) <= i:
                     break
