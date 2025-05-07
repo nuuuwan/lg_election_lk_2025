@@ -27,6 +27,7 @@ def main():
             os.system(cmd)
         log.debug(f"😴 {T_SLEEP}s")
         time.sleep(T_SLEEP)
+        log.info("-" * 40)
 
 
 if __name__ == "__main__":
