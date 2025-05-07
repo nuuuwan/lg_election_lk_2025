@@ -1,0 +1,68 @@
+{
+  "district_name": "Kurunegala",
+  "lg_code": "236",
+  "lg_name": "Bingiriya Pradeshiya Sabha",
+  "url": "https://results.elections.gov.lk/?page=lg_result&district=KURUNEGALA&lg_code=236&lg_name=BINGIRIYA-PRADESHIYA-SABHA",
+  "time_str": "2025-05-07 08:15:00",
+  "time_ut": 1746585900.0,
+  "summary_data": {
+    "electors": 53823,
+    "polled": 32987,
+    "valid": 32611,
+    "rejected": 376,
+    "p_turnout": 0.61,
+    "p_valid": 0.99,
+    "p_rejected": 0.01
+  },
+  "party_result_data_list": [
+    {
+      "party_name": "Jathika Jana Balawegaya",
+      "party_code": "NPP",
+      "votes": 12414,
+      "p_votes": 0.38,
+      "seats": 9
+    },
+    {
+      "party_name": "Samagi Jana Balawegaya",
+      "party_code": "SJB",
+      "votes": 11269,
+      "p_votes": 0.35,
+      "seats": 7
+    },
+    {
+      "party_name": "Sri Lanka Podujana Peramuna",
+      "party_code": "SLPP",
+      "votes": 5120,
+      "p_votes": 0.16,
+      "seats": 4
+    },
+    {
+      "party_name": "Sarvajana Balaya",
+      "party_code": "SB",
+      "votes": 1996,
+      "p_votes": 0.06,
+      "seats": 1
+    },
+    {
+      "party_name": "United National Party",
+      "party_code": "UNP",
+      "votes": 1024,
+      "p_votes": 0.03,
+      "seats": 1
+    },
+    {
+      "party_name": "People's Alliance",
+      "party_code": "PA",
+      "votes": 433,
+      "p_votes": 0.01,
+      "seats": 0
+    },
+    {
+      "party_name": "National Peoples Party",
+      "party_code": "NPPT",
+      "votes": 355,
+      "p_votes": 0.01,
+      "seats": 0
+    }
+  ]
+}
