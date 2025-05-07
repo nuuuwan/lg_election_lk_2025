@@ -1,0 +1,110 @@
+{
+  "district_name": "Anuradhapura",
+  "lg_code": "275",
+  "lg_name": "Kekirawa Pradeshiya Sabha",
+  "url": "https://results.elections.gov.lk/?page=lg_result&district=ANURADHAPURA&lg_code=275&lg_name=KEKIRAWA-PRADESHIYA-SABHA",
+  "time_str": "2025-05-07 10:44:00",
+  "time_ut": 1746594840.0,
+  "summary_data": {
+    "electors": 65895,
+    "polled": 42858,
+    "valid": 42102,
+    "rejected": 756,
+    "p_turnout": 0.65,
+    "p_valid": 0.98,
+    "p_rejected": 0.02
+  },
+  "party_result_data_list": [
+    {
+      "party_name": "Jathika Jana Balawegaya",
+      "party_code": "NPP",
+      "votes": 17707,
+      "p_votes": 0.42,
+      "seats": 16
+    },
+    {
+      "party_name": "Samagi Jana Balawegaya",
+      "party_code": "SJB",
+      "votes": 5747,
+      "p_votes": 0.14,
+      "seats": 4
+    },
+    {
+      "party_name": "Sri Lanka Podujana Peramuna",
+      "party_code": "SLPP",
+      "votes": 3590,
+      "p_votes": 0.09,
+      "seats": 2
+    },
+    {
+      "party_name": "People's Alliance",
+      "party_code": "PA",
+      "votes": 2920,
+      "p_votes": 0.07,
+      "seats": 2
+    },
+    {
+      "party_name": "United National Party",
+      "party_code": "UNP",
+      "votes": 2836,
+      "p_votes": 0.07,
+      "seats": 2
+    },
+    {
+      "party_name": "Independent Group 1",
+      "party_code": "IND1",
+      "votes": 1929,
+      "p_votes": 0.05,
+      "seats": 1
+    },
+    {
+      "party_name": "Sarvajana Balaya",
+      "party_code": "SB",
+      "votes": 1898,
+      "p_votes": 0.05,
+      "seats": 1
+    },
+    {
+      "party_name": "Sri Lanka Muslim Congress",
+      "party_code": "SLMC",
+      "votes": 1740,
+      "p_votes": 0.04,
+      "seats": 1
+    },
+    {
+      "party_name": "Independent Group 2",
+      "party_code": "IND2",
+      "votes": 1558,
+      "p_votes": 0.04,
+      "seats": 1
+    },
+    {
+      "party_name": "National Freedom Front",
+      "party_code": "NFF",
+      "votes": 1017,
+      "p_votes": 0.02,
+      "seats": 1
+    },
+    {
+      "party_name": "United National Alliance",
+      "party_code": "UNA",
+      "votes": 785,
+      "p_votes": 0.02,
+      "seats": 1
+    },
+    {
+      "party_name": "Sri Lanka Mahajana Pakshaya",
+      "party_code": "SLMP",
+      "votes": 227,
+      "p_votes": 0.01,
+      "seats": 0
+    },
+    {
+      "party_name": "People's Struggle Alliance",
+      "party_code": "PSA",
+      "votes": 148,
+      "p_votes": 0.0,
+      "seats": 0
+    }
+  ]
+}
