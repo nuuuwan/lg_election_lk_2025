@@ -1,0 +1,47 @@
+{
+  "district_name": "Batticaloa",
+  "lg_code": "191",
+  "lg_name": "Porthivu Pattu Pradeshiya Sabha",
+  "url": "https://results.elections.gov.lk/?page=lg_result&district=BATTICALOA&lg_code=191&lg_name=PORTHIVU-PATTU-PRADESHIYA-SABHA",
+  "time_str": "2025-05-07 08:06:00",
+  "time_ut": 1746585360.0,
+  "summary_data": {
+    "electors": 34154,
+    "polled": 20409,
+    "valid": 20199,
+    "rejected": 210,
+    "p_turnout": 0.6,
+    "p_valid": 0.99,
+    "p_rejected": 0.01
+  },
+  "party_result_data_list": [
+    {
+      "party_name": "Ilankai Tamil Arasu Kadchi",
+      "party_code": "ITAK",
+      "votes": 10288,
+      "p_votes": 0.51,
+      "seats": 8
+    },
+    {
+      "party_name": "Thamil Makkal Viduthalai Pulikal",
+      "party_code": "TMVP",
+      "votes": 6009,
+      "p_votes": 0.3,
+      "seats": 5
+    },
+    {
+      "party_name": "Jathika Jana Balawegaya",
+      "party_code": "NPP",
+      "votes": 3404,
+      "p_votes": 0.17,
+      "seats": 3
+    },
+    {
+      "party_name": "All Ceylon Tamil Congress",
+      "party_code": "ACTC",
+      "votes": 498,
+      "p_votes": 0.02,
+      "seats": 0
+    }
+  ]
+}

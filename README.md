@@ -1,6 +1,6 @@
 # Sri Lankan Local Government Elections - 2025 🇱🇰
 
-As of 2025-05-07 08:31:29
+As of 2025-05-07 08:32:57
 
 *Scraped from [results.elections.gov.lk](https://results.elections.gov.lk)*
 
@@ -8,18 +8,18 @@ As of 2025-05-07 08:31:29
 
 | Results Released | % Released (By Votes) | % Turnout | % Rejected |
 |--:|--:|--:|--:|
-|262/339|74.0%|61.7%|1.99%|
+|263/339|74.2%|61.7%|1.99%|
 
 ## Islandwide (Top 10 by Votes)
 
-| Party | Votes | %  | Seats | % | Most Seats | ≥½ Seats (✔️) |
+| Party | Votes | %  | Seats | % | LG's with<br>Won | LGs with<br>≥50% Seats (✔️) |
 |---|--:|--:|--:|--:|--:|--:|
-|🔴Jathika Jana Balawegaya|3,386,174|44%|2,966|45%|216|117|
+|🔴Jathika Jana Balawegaya|3,389,578|44%|2,969|45%|216|117|
 |🟢Samagi Jana Balawegaya|1,630,356|21%|1,288|19%|12||
 |🟣Sri Lanka Podujana Peramuna|751,245|10%|585|9%|||
 |🟩United National Party|342,886|4%|278|4%|1||
-|🟦People's Alliance|281,403|4%|232|4%|||
-|🟡Ilankai Tamil Arasu Kadchi|226,443|3%|302|5%|32|5|
+|🟦People's Alliance|281,403|4%|232|3%|||
+|🟡Ilankai Tamil Arasu Kadchi|236,731|3%|310|5%|33|6|
 |🔵Sarvajana Balaya|195,416|3%|162|2%|||
 |⚪Sri Lanka Muslim Congress|80,793|1%|67|1%|2||
 |⚪Democratic Tamil National Alliance|80,258|1%|97|1%|1||
@@ -257,6 +257,7 @@ As of 2025-05-07 08:31:29
 | 184 | 🏡Koralai Pattu PS (26) |🟡ITAK (10)<br>|🔴JJB (4)<br>⚪TMVP (4)<br>⚪SLMC (4)<br>|🟢SJB (3)<br>| Others (1) |[...](https://results.elections.gov.lk/?page=lg_result&district=BATTICALOA&lg_code=184&lg_name=KORALAI-PATTU-PRADESHIYA-SABHA)|
 | 188 | 🏡Manmunai Pattu PS (17) |🟡ITAK (6)<br>|🔴JJB (4)<br>|🟢SJB (1)<br>⚪UNA (1)<br>⚪NFfGG (1)<br>⚪DTNA (1)<br>⚪TMVP (1)<br>⚫IG2 188 (1)<br>⚫IG3 188 (1)<br>| Others (0) |[...](https://results.elections.gov.lk/?page=lg_result&district=BATTICALOA&lg_code=188&lg_name=MANMUNAI-PATTU-PRADESHIYA-SABHA)|
 | 189 | 🏡Manmunai West PS (19) |**🟡ITAK (10)✔️**<br>|⚪TMVP (3)<br>🔴JJB (3)<br>|⚪DTNA (1)<br>⚪ACTC (1)<br>🟢SJB (1)<br>| Others (0) |[...](https://results.elections.gov.lk/?page=lg_result&district=BATTICALOA&lg_code=189&lg_name=MANMUNAI-WEST-PRADESHIYA-SABHA)|
+| 191 | 🏡Porthivu Pattu PS (16) |**🟡ITAK (8)✔️**<br>|⚪TMVP (5)<br>|🔴JJB (3)<br>| Others (0) |[...](https://results.elections.gov.lk/?page=lg_result&district=BATTICALOA&lg_code=191&lg_name=PORTHIVU-PATTU-PRADESHIYA-SABHA)|
 
 ### Ampara
 
