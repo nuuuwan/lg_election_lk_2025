@@ -1,0 +1,54 @@
+{
+  "district_name": "Matara",
+  "lg_code": "120",
+  "lg_name": "Kotapola Pradeshiya Sabha",
+  "url": "https://results.elections.gov.lk/?page=lg_result&district=MATARA&lg_code=120&lg_name=KOTAPOLA-PRADESHIYA-SABHA",
+  "time_str": "2025-05-07 06:57:00",
+  "time_ut": 1746581220.0,
+  "summary_data": {
+    "electors": 51963,
+    "polled": 30397,
+    "valid": 29594,
+    "rejected": 803,
+    "p_turnout": 0.58,
+    "p_valid": 0.97,
+    "p_rejected": 0.03
+  },
+  "party_result_data_list": [
+    {
+      "party_name": "Jathika Jana Balawegaya",
+      "party_code": "NPP",
+      "votes": 14007,
+      "p_votes": 0.47,
+      "seats": 13
+    },
+    {
+      "party_name": "Samagi Jana Balawegaya",
+      "party_code": "SJB",
+      "votes": 7248,
+      "p_votes": 0.24,
+      "seats": 6
+    },
+    {
+      "party_name": "Sri Lanka Podujana Peramuna",
+      "party_code": "SLPP",
+      "votes": 3899,
+      "p_votes": 0.13,
+      "seats": 3
+    },
+    {
+      "party_name": "People's Alliance",
+      "party_code": "PA",
+      "votes": 2529,
+      "p_votes": 0.09,
+      "seats": 2
+    },
+    {
+      "party_name": "United Republican Front",
+      "party_code": "URF",
+      "votes": 1911,
+      "p_votes": 0.06,
+      "seats": 1
+    }
+  ]
+}

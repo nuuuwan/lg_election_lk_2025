@@ -1,0 +1,61 @@
+{
+  "district_name": "Gampaha",
+  "lg_code": "018",
+  "lg_name": "Minuwangoda Urban Council",
+  "url": "https://results.elections.gov.lk/?page=lg_result&district=GAMPAHA&lg_code=018&lg_name=MINUWANGODA-URBAN-COUNCIL",
+  "time_str": "2025-05-07 07:00:00",
+  "time_ut": 1746581400.0,
+  "summary_data": {
+    "electors": 6256,
+    "polled": 4371,
+    "valid": 4263,
+    "rejected": 108,
+    "p_turnout": 0.7,
+    "p_valid": 0.98,
+    "p_rejected": 0.02
+  },
+  "party_result_data_list": [
+    {
+      "party_name": "Jathika Jana Balawegaya",
+      "party_code": "NPP",
+      "votes": 1981,
+      "p_votes": 0.46,
+      "seats": 9
+    },
+    {
+      "party_name": "Samagi Jana Balawegaya",
+      "party_code": "SJB",
+      "votes": 1058,
+      "p_votes": 0.25,
+      "seats": 4
+    },
+    {
+      "party_name": "Sarvajana Balaya",
+      "party_code": "SB",
+      "votes": 457,
+      "p_votes": 0.11,
+      "seats": 2
+    },
+    {
+      "party_name": "Sri Lanka Podujana Peramuna",
+      "party_code": "SLPP",
+      "votes": 454,
+      "p_votes": 0.11,
+      "seats": 1
+    },
+    {
+      "party_name": "United National Party",
+      "party_code": "UNP",
+      "votes": 173,
+      "p_votes": 0.04,
+      "seats": 1
+    },
+    {
+      "party_name": "People's Alliance",
+      "party_code": "PA",
+      "votes": 140,
+      "p_votes": 0.03,
+      "seats": 0
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "district_name": "Nuwaraeliya",
+  "lg_code": "092",
+  "lg_name": "Kotagala Pradeshiya Sabha",
+  "url": "https://results.elections.gov.lk/?page=lg_result&district=NUWARAELIYA&lg_code=092&lg_name=KOTAGALA-PRADESHIYA-SABHA",
+  "time_str": "2025-05-07 06:56:00",
+  "time_ut": 1746581160.0,
+  "summary_data": {
+    "electors": 50457,
+    "polled": 32140,
+    "valid": 31356,
+    "rejected": 784,
+    "p_turnout": 0.64,
+    "p_valid": 0.98,
+    "p_rejected": 0.02
+  },
+  "party_result_data_list": [
+    {
+      "party_name": "Ceylon Worker's Congress (P. Wing)",
+      "party_code": "CWC",
+      "votes": 9165,
+      "p_votes": 0.29,
+      "seats": 5
+    },
+    {
+      "party_name": "Jathika Jana Balawegaya",
+      "party_code": "NPP",
+      "votes": 8770,
+      "p_votes": 0.28,
+      "seats": 5
+    },
+    {
+      "party_name": "Samagi Jana Balawegaya",
+      "party_code": "SJB",
+      "votes": 8719,
+      "p_votes": 0.28,
+      "seats": 4
+    },
+    {
+      "party_name": "Democratic National Alliance",
+      "party_code": "DNA",
+      "votes": 1977,
+      "p_votes": 0.06,
+      "seats": 1
+    },
+    {
+      "party_name": "Eros Democratic Front",
+      "party_code": "ERDF",
+      "votes": 1269,
+      "p_votes": 0.04,
+      "seats": 1
+    },
+    {
+      "party_name": "Independent Group",
+      "party_code": "IND1",
+      "votes": 875,
+      "p_votes": 0.03,
+      "seats": 0
+    },
+    {
+      "party_name": "Sri Lanka Podujana Peramuna",
+      "party_code": "SLPP",
+      "votes": 581,
+      "p_votes": 0.02,
+      "seats": 0
+    }
+  ]
+}

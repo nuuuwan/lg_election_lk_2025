@@ -1,0 +1,68 @@
+{
+  "district_name": "Badulla",
+  "lg_code": "293",
+  "lg_name": "Passara Pradeshiya Sabha",
+  "url": "https://results.elections.gov.lk/?page=lg_result&district=BADULLA&lg_code=293&lg_name=PASSARA-PRADESHIYA-SABHA",
+  "time_str": "2025-05-07 06:58:00",
+  "time_ut": 1746581280.0,
+  "summary_data": {
+    "electors": 42358,
+    "polled": 26947,
+    "valid": 25829,
+    "rejected": 1118,
+    "p_turnout": 0.64,
+    "p_valid": 0.96,
+    "p_rejected": 0.04
+  },
+  "party_result_data_list": [
+    {
+      "party_name": "Jathika Jana Balawegaya",
+      "party_code": "NPP",
+      "votes": 9282,
+      "p_votes": 0.36,
+      "seats": 13
+    },
+    {
+      "party_name": "Samagi Jana Balawegaya",
+      "party_code": "SJB",
+      "votes": 5535,
+      "p_votes": 0.21,
+      "seats": 5
+    },
+    {
+      "party_name": "People's Alliance",
+      "party_code": "PA",
+      "votes": 4606,
+      "p_votes": 0.18,
+      "seats": 4
+    },
+    {
+      "party_name": "Sri Lanka Podujana Peramuna",
+      "party_code": "SLPP",
+      "votes": 1618,
+      "p_votes": 0.06,
+      "seats": 1
+    },
+    {
+      "party_name": "Independent Group",
+      "party_code": "IND1",
+      "votes": 1608,
+      "p_votes": 0.06,
+      "seats": 1
+    },
+    {
+      "party_name": "United National Party",
+      "party_code": "UNP",
+      "votes": 1607,
+      "p_votes": 0.06,
+      "seats": 1
+    },
+    {
+      "party_name": "Tamil Progressive Alliance",
+      "party_code": "TPA",
+      "votes": 1573,
+      "p_votes": 0.06,
+      "seats": 1
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "district_name": "Ratnapura",
+  "lg_code": "321",
+  "lg_name": "Imbulpe Pradeshiya Sabha",
+  "url": "https://results.elections.gov.lk/?page=lg_result&district=RATNAPURA&lg_code=321&lg_name=IMBULPE-PRADESHIYA-SABHA",
+  "time_str": "2025-05-07 07:02:00",
+  "time_ut": 1746581520.0,
+  "summary_data": {
+    "electors": 50589,
+    "polled": 30212,
+    "valid": 29445,
+    "rejected": 767,
+    "p_turnout": 0.6,
+    "p_valid": 0.97,
+    "p_rejected": 0.03
+  },
+  "party_result_data_list": [
+    {
+      "party_name": "Jathika Jana Balawegaya",
+      "party_code": "NPP",
+      "votes": 14660,
+      "p_votes": 0.5,
+      "seats": 14
+    },
+    {
+      "party_name": "Samagi Jana Balawegaya",
+      "party_code": "SJB",
+      "votes": 6196,
+      "p_votes": 0.21,
+      "seats": 5
+    },
+    {
+      "party_name": "Sri Lanka Podujana Peramuna",
+      "party_code": "SLPP",
+      "votes": 3316,
+      "p_votes": 0.11,
+      "seats": 3
+    },
+    {
+      "party_name": "Independent Group",
+      "party_code": "IND1",
+      "votes": 3040,
+      "p_votes": 0.1,
+      "seats": 2
+    },
+    {
+      "party_name": "United National Party",
+      "party_code": "UNP",
+      "votes": 1578,
+      "p_votes": 0.05,
+      "seats": 1
+    },
+    {
+      "party_name": "Democratic Peoples Front",
+      "party_code": "DPF",
+      "votes": 472,
+      "p_votes": 0.02,
+      "seats": 0
+    },
+    {
+      "party_name": "People's Struggle Alliance",
+      "party_code": "PSA",
+      "votes": 183,
+      "p_votes": 0.01,
+      "seats": 0
+    }
+  ]
+}

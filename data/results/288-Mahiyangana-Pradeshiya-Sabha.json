@@ -1,0 +1,82 @@
+{
+  "district_name": "Badulla",
+  "lg_code": "288",
+  "lg_name": "Mahiyangana Pradeshiya Sabha",
+  "url": "https://results.elections.gov.lk/?page=lg_result&district=BADULLA&lg_code=288&lg_name=MAHIYANGANA-PRADESHIYA-SABHA",
+  "time_str": "2025-05-07 07:04:00",
+  "time_ut": 1746581640.0,
+  "summary_data": {
+    "electors": 66861,
+    "polled": 42460,
+    "valid": 41561,
+    "rejected": 899,
+    "p_turnout": 0.64,
+    "p_valid": 0.98,
+    "p_rejected": 0.02
+  },
+  "party_result_data_list": [
+    {
+      "party_name": "Jathika Jana Balawegaya",
+      "party_code": "NPP",
+      "votes": 17888,
+      "p_votes": 0.43,
+      "seats": 13
+    },
+    {
+      "party_name": "Samagi Jana Balawegaya",
+      "party_code": "SJB",
+      "votes": 10455,
+      "p_votes": 0.25,
+      "seats": 6
+    },
+    {
+      "party_name": "Sri Lanka Podujana Peramuna",
+      "party_code": "SLPP",
+      "votes": 4592,
+      "p_votes": 0.11,
+      "seats": 3
+    },
+    {
+      "party_name": "People's Alliance",
+      "party_code": "PA",
+      "votes": 3503,
+      "p_votes": 0.08,
+      "seats": 2
+    },
+    {
+      "party_name": "Independent Group",
+      "party_code": "IND1",
+      "votes": 2019,
+      "p_votes": 0.05,
+      "seats": 1
+    },
+    {
+      "party_name": "United National Party",
+      "party_code": "UNP",
+      "votes": 1608,
+      "p_votes": 0.04,
+      "seats": 1
+    },
+    {
+      "party_name": "Sarvajana Balaya",
+      "party_code": "SB",
+      "votes": 738,
+      "p_votes": 0.02,
+      "seats": 0
+    },
+    {
+      "party_name": "National Freedom Front",
+      "party_code": "NFF",
+      "votes": 434,
+      "p_votes": 0.01,
+      "seats": 0
+    },
+    {
+      "party_name": "People's Struggle Alliance",
+      "party_code": "PSA",
+      "votes": 324,
+      "p_votes": 0.01,
+      "seats": 0
+    }
+  ]
+}

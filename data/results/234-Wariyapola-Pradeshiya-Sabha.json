@@ -1,0 +1,68 @@
+{
+  "district_name": "Kurunegala",
+  "lg_code": "234",
+  "lg_name": "Wariyapola Pradeshiya Sabha",
+  "url": "https://results.elections.gov.lk/?page=lg_result&district=KURUNEGALA&lg_code=234&lg_name=WARIYAPOLA-PRADESHIYA-SABHA",
+  "time_str": "2025-05-07 07:03:00",
+  "time_ut": 1746581580.0,
+  "summary_data": {
+    "electors": 86516,
+    "polled": 52192,
+    "valid": 51369,
+    "rejected": 823,
+    "p_turnout": 0.6,
+    "p_valid": 0.98,
+    "p_rejected": 0.02
+  },
+  "party_result_data_list": [
+    {
+      "party_name": "Jathika Jana Balawegaya",
+      "party_code": "NPP",
+      "votes": 27676,
+      "p_votes": 0.54,
+      "seats": 21
+    },
+    {
+      "party_name": "Samagi Jana Balawegaya",
+      "party_code": "SJB",
+      "votes": 14221,
+      "p_votes": 0.28,
+      "seats": 11
+    },
+    {
+      "party_name": "Sri Lanka Podujana Peramuna",
+      "party_code": "SLPP",
+      "votes": 3973,
+      "p_votes": 0.08,
+      "seats": 3
+    },
+    {
+      "party_name": "People's Alliance",
+      "party_code": "PA",
+      "votes": 3580,
+      "p_votes": 0.07,
+      "seats": 3
+    },
+    {
+      "party_name": "Sarvajana Balaya",
+      "party_code": "SB",
+      "votes": 1363,
+      "p_votes": 0.03,
+      "seats": 1
+    },
+    {
+      "party_name": "Independent Group",
+      "party_code": "IND0",
+      "votes": 381,
+      "p_votes": 0.01,
+      "seats": 0
+    },
+    {
+      "party_name": "People's Struggle Alliance",
+      "party_code": "PSA",
+      "votes": 175,
+      "p_votes": 0.0,
+      "seats": 0
+    }
+  ]
+}
