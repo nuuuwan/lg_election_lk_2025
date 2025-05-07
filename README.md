@@ -1,6 +1,6 @@
 # Sri Lankan Local Government Elections - 2025 🇱🇰
 
-As of 2025-05-07 09:23:01
+As of 2025-05-07 09:32:54
 
 *Scraped from [results.elections.gov.lk](https://results.elections.gov.lk)*
 
@@ -8,22 +8,52 @@ As of 2025-05-07 09:23:01
 
 | Results Released | % Released (By Votes) | % Turnout | % Rejected |
 |--:|--:|--:|--:|
-|284/339|80.3%|61.8%|1.99%|
+|291/339|82.0%|61.9%|1.98%|
 
 ## Islandwide (Top 10 by Votes)
 
 | Party | Votes | %  | *Seats* | *%* | LG's with<br>Most Seats<br>(Incl. Ties) | **LGs with<br>>50% Seats** |
 |---|--:|--:|--:|--:|--:|--:|
-|🔴Jathika Jana Balawegaya|3,677,560|44%|*3,236*|*45%*|234|**102**|
-|🟢Samagi Jana Balawegaya|1,789,133|21%|*1,417*|*20%*|12||
-|🟣Sri Lanka Podujana Peramuna|807,359|10%|*629*|*9%*|||
-|🟩United National Party|380,278|5%|*311*|*4%*|1||
-|🟦People's Alliance|307,619|4%|*254*|*4%*|||
-|🟡Ilankai Tamil Arasu Kadchi|241,589|3%|*317*|*4%*|33|**3**|
-|🔵Sarvajana Balaya|216,101|3%|*180*|*2%*|||
-|⚪Sri Lanka Muslim Congress|91,521|1%|*79*|*1%*|3||
+|🔴Jathika Jana Balawegaya|3,762,495|44%|*3,313*|*45%*|240|**107**|
+|🟢Samagi Jana Balawegaya|1,831,339|21%|*1,449*|*20%*|12||
+|🟣Sri Lanka Podujana Peramuna|827,937|10%|*646*|*9%*|||
+|🟩United National Party|388,021|5%|*316*|*4%*|1||
+|🟦People's Alliance|311,451|4%|*256*|*3%*|||
+|🟡Ilankai Tamil Arasu Kadchi|245,736|3%|*321*|*4%*|33|**3**|
+|🔵Sarvajana Balaya|223,510|3%|*186*|*3%*|||
+|⚪Sri Lanka Muslim Congress|97,797|1%|*84*|*1%*|4||
 |⚪Democratic Tamil National Alliance|80,793|1%|*98*|*1%*|1||
-|⚪All Ceylon Tamil Congress|59,785|1%|*92*|*1%*|4||
+|⚪All Ceylon Makkal Congress|61,534|1%|*52*|*1%*|3||
+
+## Results by District
+
+| District | |  | | |
+|---|---|---|---|---|
+"|Colombo|"🔴Jathika Jana Balawegaya·249<br>|🟢Samagi Jana Balawegaya·80<br>|🟣Sri Lanka Podujana Peramuna·39<br>|Others·96|
+"|Gampaha|"🔴Jathika Jana Balawegaya·369<br>|🟢Samagi Jana Balawegaya·131<br>|🟣Sri Lanka Podujana Peramuna·68<br>|Others·94|
+"|Kalutara|"🔴Jathika Jana Balawegaya·192<br>|🟢Samagi Jana Balawegaya·98<br>|🟣Sri Lanka Podujana Peramuna·43<br>|Others·102|
+"|Kandy|"🔴Jathika Jana Balawegaya·231<br>|🟢Samagi Jana Balawegaya·119<br>|🟣Sri Lanka Podujana Peramuna·31<br>|Others·108|
+"|Matale|"🔴Jathika Jana Balawegaya·126<br>|🟢Samagi Jana Balawegaya·66<br>|🟣Sri Lanka Podujana Peramuna·29<br>|Others·51|
+"|Nuwaraeliya|"🔴Jathika Jana Balawegaya·109<br>|🟢Samagi Jana Balawegaya·65<br>|⚪Ceylon Worker's Congress (P. Wing)·31<br>|Others·66|
+"|Galle|"🔴Jathika Jana Balawegaya·206<br>|🟢Samagi Jana Balawegaya·92<br>|🟣Sri Lanka Podujana Peramuna·59<br>|Others·71|
+"|Matara|"🔴Jathika Jana Balawegaya·201<br>|🟢Samagi Jana Balawegaya·79<br>|🟣Sri Lanka Podujana Peramuna·47<br>|Others·56|
+"|Hambantota|"🔴Jathika Jana Balawegaya·146<br>|🟢Samagi Jana Balawegaya·55<br>|🟣Sri Lanka Podujana Peramuna·45<br>|Others·38|
+"|Jaffna|"🟡Ilankai Tamil Arasu Kadchi·125<br>|⚪All Ceylon Tamil Congress·72<br>🔴Jathika Jana Balawegaya·72<br>|⚪Democratic Tamil National Alliance·40<br>|Others·131|
+"|Kilinochchi|"🟡Ilankai Tamil Arasu Kadchi·36<br>|🔴Jathika Jana Balawegaya·12<br>|⚪Democratic Tamil National Alliance·10<br>|Others·12|
+"|Mannar|"🔴Jathika Jana Balawegaya·19<br>|🟡Ilankai Tamil Arasu Kadchi·18<br>🟢Samagi Jana Balawegaya·18<br>|⚪Democratic Tamil National Alliance·13<br>|Others·42|
+"|Vavuniya|"🔴Jathika Jana Balawegaya·26<br>|🟡Ilankai Tamil Arasu Kadchi·16<br>|🟢Samagi Jana Balawegaya·15<br>|Others·49|
+"|Mullaitivu|"🟡Ilankai Tamil Arasu Kadchi·26<br>|🔴Jathika Jana Balawegaya·12<br>|⚪Democratic Tamil National Alliance·10<br>|Others·21|
+"|Batticaloa|"🟡Ilankai Tamil Arasu Kadchi·41<br>|⚪Thamil Makkal Viduthalai Pulikal·22<br>|🔴Jathika Jana Balawegaya·18<br>|Others·33|
+"|Ampara|"🔴Jathika Jana Balawegaya·93<br>|🟢Samagi Jana Balawegaya·41<br>|⚪Sri Lanka Muslim Congress·28<br>|Others·128|
+"|Trincomalee|"🔴Jathika Jana Balawegaya·66<br>|🟡Ilankai Tamil Arasu Kadchi·36<br>|🟢Samagi Jana Balawegaya·32<br>|Others·81|
+"|Kurunegala|"🔴Jathika Jana Balawegaya·155<br>|🟢Samagi Jana Balawegaya·77<br>|🟣Sri Lanka Podujana Peramuna·34<br>|Others·41|
+"|Puttalam|"🔴Jathika Jana Balawegaya·144<br>|🟢Samagi Jana Balawegaya·72<br>|🟣Sri Lanka Podujana Peramuna·35<br>|Others·71|
+"|Anuradhapura|"🔴Jathika Jana Balawegaya·136<br>|🟢Samagi Jana Balawegaya·56<br>|🟣Sri Lanka Podujana Peramuna·21<br>|Others·36|
+"|Polonnaruwa|"🔴Jathika Jana Balawegaya·97<br>|🟢Samagi Jana Balawegaya·40<br>|🟣Sri Lanka Podujana Peramuna·12<br>|Others·26|
+"|Badulla|"🔴Jathika Jana Balawegaya·203<br>|🟢Samagi Jana Balawegaya·93<br>|🟦People's Alliance·40<br>|Others·93|
+"|Monaragala|"🔴Jathika Jana Balawegaya·108<br>|🟢Samagi Jana Balawegaya·53<br>|🟣Sri Lanka Podujana Peramuna·24<br>|Others·29|
+"|Ratnapura|"🔴Jathika Jana Balawegaya·203<br>|🟢Samagi Jana Balawegaya·103<br>|🟣Sri Lanka Podujana Peramuna·54<br>|Others·75|
+"|Kegalle|"🔴Jathika Jana Balawegaya·120<br>|🟢Samagi Jana Balawegaya·45<br>|🟣Sri Lanka Podujana Peramuna·26<br>|Others·34|
 
 ## Results by Local Authority
 
@@ -101,6 +131,7 @@ As of 2025-05-07 09:23:01
 | [058](https://results.elections.gov.lk/?page=lg_result&district=KANDY&lg_code=058&lg_name=POOJAPITIYA-PRADESHIYA-SABHA) | 🏡Poojapitiya PS·*29*|**🔴JJB·*15***<br>|🟢SJB·*8*<br>|🟣SLPP·*2*<br>🟦PA·*2*<br>|Others·*2*|
 | [059](https://results.elections.gov.lk/?page=lg_result&district=KANDY&lg_code=059&lg_name=PATHADUMBARA-PRADESHIYA-SABHA) | 🏡Pathadumbara PS·*31*|**🔴JJB·*16***<br>|🟢SJB·*8*<br>|🟣SLPP·*4*<br>|Others·*3*|
 | [061](https://results.elections.gov.lk/?page=lg_result&district=KANDY&lg_code=061&lg_name=UDADUMBARA-PRADESHIYA-SABHA) | 🏡Udadumbara PS·*16*|🟢SJB·*6*<br>🔴JJB·*6*<br>|🔵SB·*1*<br>🟣SLPP·*1*<br>⚫IG-061·*1*<br>🟩UNP·*1*<br>||
+| [062](https://results.elections.gov.lk/?page=lg_result&district=KANDY&lg_code=062&lg_name=MINIPE-PRADESHIYA-SABHA) | 🏡Minipe PS·*23*|🔴JJB·*11*<br>|🟢SJB·*6*<br>|🟣SLPP·*3*<br>|Others·*3*|
 | [064](https://results.elections.gov.lk/?page=lg_result&district=KANDY&lg_code=064&lg_name=KUNDASALE-PRADESHIYA-SABHA) | 🏡Kundasale PS·*44*|**🔴JJB·*24***<br>|🟢SJB·*9*<br>|🟩UNP·*3*<br>|Others·*8*|
 | [065](https://results.elections.gov.lk/?page=lg_result&district=KANDY&lg_code=065&lg_name=PATHAHEWAHETA-PRADESHIYA-SABHA) | 🏡Pathahewaheta PS·*43*|🔴JJB·*18*<br>|🟢SJB·*12*<br>|🟦PA·*3*<br>🟩UNP·*3*<br>🟣SLPP·*3*<br>|Others·*4*|
 | [067](https://results.elections.gov.lk/?page=lg_result&district=KANDY&lg_code=067&lg_name=YATINUWARA-PRADESHIYA-SABHA) | 🏡Yatinuwara PS·*46*|🔴JJB·*23*<br>|🟢SJB·*9*<br>|⚫IG-067·*4*<br>|Others·*10*|
@@ -120,6 +151,7 @@ As of 2025-05-07 09:23:01
 | [079](https://results.elections.gov.lk/?page=lg_result&district=MATALE&lg_code=079&lg_name=LAGGALA-PALLEGAMA-PRADESHIYA-SABHA) | 🏡Laggala Pallegama PS·*16*|🟢SJB·*6*<br>🔴JJB·*6*<br>|🟣SLPP·*3*<br>|🔵SB·*1*<br>||
 | [080](https://results.elections.gov.lk/?page=lg_result&district=MATALE&lg_code=080&lg_name=WILGAMUWA-PRADESHIYA-SABHA) | 🏡Wilgamuwa PS·*19*|**🔴JJB·*10***<br>|🟢SJB·*3*<br>🟣SLPP·*3*<br>|🟦PA·*1*<br>🔵SB·*1*<br>🟩UNP·*1*<br>||
 | [081](https://results.elections.gov.lk/?page=lg_result&district=MATALE&lg_code=081&lg_name=MATALE-PRADESHIYA-SABHA) | 🏡Matale PS·*34*|**🔴JJB·*18***<br>|🟢SJB·*8*<br>|🟣SLPP·*3*<br>|Others·*5*|
+| [082](https://results.elections.gov.lk/?page=lg_result&district=MATALE&lg_code=082&lg_name=YATAWATTA-PRADESHIYA-SABHA) | 🏡Yatawatta PS·*18*|**🔴JJB·*10***<br>|🟢SJB·*3*<br>🟣SLPP·*3*<br>|🟩UNP·*1*<br>🔵SB·*1*<br>||
 | [083](https://results.elections.gov.lk/?page=lg_result&district=MATALE&lg_code=083&lg_name=UKUWELA-PRADESHIYA-SABHA) | 🏡Ukuwela PS·*27*|🔴JJB·*11*<br>|🟢SJB·*7*<br>|🟩UNP·*3*<br>|Others·*6*|
 | [084](https://results.elections.gov.lk/?page=lg_result&district=MATALE&lg_code=084&lg_name=RATTOTA-PRADESHIYA-SABHA) | 🏡Rattota PS·*27*|🔴JJB·*11*<br>|🟢SJB·*5*<br>|🟩UNP·*4*<br>|Others·*7*|
 
@@ -302,6 +334,7 @@ As of 2025-05-07 09:23:01
 | [218](https://results.elections.gov.lk/?page=lg_result&district=TRINCOMALEE&lg_code=218&lg_name=GOMARANKADAWALA-PRADESHIYA-SABHA) | 🏡Gomarankadawala PS·*17*|**🔴JJB·*9***<br>|🟣SLPP·*3*<br>🟢SJB·*3*<br>|🟩UNP·*1*<br>🔵SB·*1*<br>||
 | [219](https://results.elections.gov.lk/?page=lg_result&district=TRINCOMALEE&lg_code=219&lg_name=PADAVI-SRI-PURA-PRADESHIYA-SABHA) | 🏡Padavi Sri Pura PS·*17*|**🔴JJB·*9***<br>|🟢SJB·*3*<br>|🟣SLPP·*2*<br>🟦PA·*2*<br>|Others·*1*|
 | [220](https://results.elections.gov.lk/?page=lg_result&district=TRINCOMALEE&lg_code=220&lg_name=TRINCOMALEE-TOWN-AND-GRAVETS-PRADESHIYA-SABHA) | 🏡Trincomalee Town And Gravets PS·*20*|🟡ITAK·*6*<br>|🔴JJB·*4*<br>|⚪DTNA·*3*<br>|Others·*7*|
+| [221](https://results.elections.gov.lk/?page=lg_result&district=TRINCOMALEE&lg_code=221&lg_name=KUCHCHAVELI-PRADESHIYA-SABHA) | 🏡Kuchchaveli PS·*17*|⚪SLMC·*5*<br>|⚪ACMC·*4*<br>🟡ITAK·*4*<br>|🟢SJB·*2*<br>|Others·*2*|
 | [222](https://results.elections.gov.lk/?page=lg_result&district=TRINCOMALEE&lg_code=222&lg_name=THAMBALAGAMUWA-PRADESHIYA-SABHA) | 🏡Thambalagamuwa PS·*16*|🔴JJB·*3*<br>🟢SJB·*3*<br>|⚪SLMC·*2*<br>⚪ACMC·*2*<br>🟡ITAK·*2*<br>|🟣SLPP·*1*<br>🟩UNP·*1*<br>⚪ACTC·*1*<br>🟦PA·*1*<br>||
 | [223](https://results.elections.gov.lk/?page=lg_result&district=TRINCOMALEE&lg_code=223&lg_name=MUTTUR-PRADESHIYA-SABHA) | 🏡Muttur PS·*22*|🟡ITAK·*5*<br>|⚪SLMC·*4*<br>|🔴JJB·*3*<br>⚪ACMC·*3*<br>|Others·*7*|
 | [224](https://results.elections.gov.lk/?page=lg_result&district=TRINCOMALEE&lg_code=224&lg_name=KINNIYA-PRADESHIYA-SABHA) | 🏡Kinniya PS·*14*|⚪ACMC·*5*<br>|🟢SJB·*3*<br>|🔴JJB·*2*<br>⚪SLMC·*2*<br>|Others·*2*|
@@ -342,10 +375,13 @@ As of 2025-05-07 09:23:01
 
 |  |  |  |  |  |  |
 |---|---|---|---|---|---|
+| [260](https://results.elections.gov.lk/?page=lg_result&district=ANURADHAPURA&lg_code=260&lg_name=RAMBEWA-PRADESHIYA-SABHA) | 🏡Rambewa PS·*20*|**🔴JJB·*11***<br>|🟢SJB·*5*<br>|🟣SLPP·*2*<br>|Others·*2*|
 | [262](https://results.elections.gov.lk/?page=lg_result&district=ANURADHAPURA&lg_code=262&lg_name=PADAVIYA-PRADESHIYA-SABHA) | 🏡Padaviya PS·*17*|**🔴JJB·*10***<br>|🟢SJB·*4*<br>|🟣SLPP·*2*<br>|Others·*1*|
+| [263](https://results.elections.gov.lk/?page=lg_result&district=ANURADHAPURA&lg_code=263&lg_name=KAHATAGASDIGILIYA-PRADESHIYA-SABHA) | 🏡Kahatagasdigiliya PS·*18*|**🔴JJB·*10***<br>|🟢SJB·*4*<br>|🟣SLPP·*2*<br>|Others·*2*|
 | [264](https://results.elections.gov.lk/?page=lg_result&district=ANURADHAPURA&lg_code=264&lg_name=HOROWPOTHANA-PRADESHIYA-SABHA) | 🏡Horowpothana PS·*21*|🔴JJB·*10*<br>|🟢SJB·*5*<br>|⚫IG-264·*2*<br>|Others·*4*|
 | [265](https://results.elections.gov.lk/?page=lg_result&district=ANURADHAPURA&lg_code=265&lg_name=GALENBINDUNUWEVA-PRADESHIYA-SABHA) | 🏡Galenbindunuweva PS·*20*|**🔴JJB·*11***<br>|🟢SJB·*4*<br>|🟣SLPP·*2*<br>|Others·*3*|
 | [267](https://results.elections.gov.lk/?page=lg_result&district=ANURADHAPURA&lg_code=267&lg_name=NUWARAGAMPALATHA-EAST-PRADESHIYA-SABHA) | 🏡Nuwaragampalatha East PS·*18*|**🔴JJB·*11***<br>|🟢SJB·*4*<br>|🟣SLPP·*1*<br>🟩UNP·*1*<br>🟦PA·*1*<br>||
+| [268](https://results.elections.gov.lk/?page=lg_result&district=ANURADHAPURA&lg_code=268&lg_name=NUWARAGAMPALATHA-CENTRAL-PRADESHIYA-SABHA) | 🏡Nuwaragampalatha Central PS·*28*|**🔴JJB·*15***<br>|🟢SJB·*6*<br>|🟣SLPP·*3*<br>|Others·*4*|
 | [269](https://results.elections.gov.lk/?page=lg_result&district=ANURADHAPURA&lg_code=269&lg_name=NOCHCHIYAGAMA-PRADESHIYA-SABHA) | 🏡Nochchiyagama PS·*22*|**🔴JJB·*12***<br>|🟢SJB·*5*<br>|🟣SLPP·*2*<br>|Others·*3*|
 | [271](https://results.elections.gov.lk/?page=lg_result&district=ANURADHAPURA&lg_code=271&lg_name=GALNEWA-PRADESHIYA-SABHA) | 🏡Galnewa PS·*17*|**🔴JJB·*10***<br>|🟢SJB·*3*<br>|🟣SLPP·*1*<br>🟩UNP·*1*<br>🔵SB·*1*<br>🟦PA·*1*<br>||
 | [272](https://results.elections.gov.lk/?page=lg_result&district=ANURADHAPURA&lg_code=272&lg_name=IPALOGAMA-PRADESHIYA-SABHA) | 🏡Ipalogama PS·*16*|🔴JJB·*8*<br>|🟢SJB·*5*<br>|🟩UNP·*1*<br>🟣SLPP·*1*<br>🔵SB·*1*<br>||
@@ -432,6 +468,7 @@ As of 2025-05-07 09:23:01
 | [330](https://results.elections.gov.lk/?page=lg_result&district=KEGALLE&lg_code=330&lg_name=KEGALLE-MUNICIPAL-COUNCIL) | 🏛️Kegalle MC·*21*|**🔴JJB·*12***<br>|🟢SJB·*3*<br>🟣SLPP·*3*<br>|⚫IG-330·*1*<br>🟩UNP·*1*<br>⚪PSA·*1*<br>||
 | [331](https://results.elections.gov.lk/?page=lg_result&district=KEGALLE&lg_code=331&lg_name=WARAKAPOLA-PRADESHIYA-SABHA) | 🏡Warakapola PS·*45*|**🔴JJB·*25***<br>|🟢SJB·*9*<br>|🟣SLPP·*5*<br>|Others·*6*|
 | [332](https://results.elections.gov.lk/?page=lg_result&district=KEGALLE&lg_code=332&lg_name=GALIGAMUWA-PRADESHIYA-SABHA) | 🏡Galigamuwa PS·*36*|🔴JJB·*18*<br>|🟢SJB·*9*<br>|🟣SLPP·*3*<br>|Others·*6*|
+| [333](https://results.elections.gov.lk/?page=lg_result&district=KEGALLE&lg_code=333&lg_name=KEGALLE-PRADESHIYA-SABHA) | 🏡Kegalle PS·*34*|**🔴JJB·*19***<br>|🟢SJB·*6*<br>|🟣SLPP·*4*<br>|Others·*5*|
 | [334](https://results.elections.gov.lk/?page=lg_result&district=KEGALLE&lg_code=334&lg_name=RAMBUKKANA-PRADESHIYA-SABHA) | 🏡Rambukkana PS·*38*|**🔴JJB·*21***<br>|🟣SLPP·*5*<br>🟢SJB·*5*<br>|🟩UNP·*4*<br>|Others·*3*|
 | [338](https://results.elections.gov.lk/?page=lg_result&district=KEGALLE&lg_code=338&lg_name=BULATKOHUPITIYA-PRADESHIYA-SABHA) | 🏡Bulatkohupitiya PS·*19*|🔴JJB·*8*<br>|🟢SJB·*5*<br>|🟣SLPP·*3*<br>|Others·*3*|
 | [339](https://results.elections.gov.lk/?page=lg_result&district=KEGALLE&lg_code=339&lg_name=RUWANWELLA-PRADESHIYA-SABHA) | 🏡Ruwanwella PS·*32*|**🔴JJB·*17***<br>|🟢SJB·*8*<br>|🟣SLPP·*3*<br>|Others·*4*|

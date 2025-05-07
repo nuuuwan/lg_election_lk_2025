@@ -1,0 +1,54 @@
+{
+  "district_name": "Matale",
+  "lg_code": "082",
+  "lg_name": "Yatawatta Pradeshiya Sabha",
+  "url": "https://results.elections.gov.lk/?page=lg_result&district=MATALE&lg_code=082&lg_name=YATAWATTA-PRADESHIYA-SABHA",
+  "time_str": "2025-05-07 08:27:00",
+  "time_ut": 1746586620.0,
+  "summary_data": {
+    "electors": 27312,
+    "polled": 16946,
+    "valid": 16460,
+    "rejected": 486,
+    "p_turnout": 0.62,
+    "p_valid": 0.97,
+    "p_rejected": 0.03
+  },
+  "party_result_data_list": [
+    {
+      "party_name": "Jathika Jana Balawegaya",
+      "party_code": "NPP",
+      "votes": 7792,
+      "p_votes": 0.47,
+      "seats": 10
+    },
+    {
+      "party_name": "Samagi Jana Balawegaya",
+      "party_code": "SJB",
+      "votes": 3511,
+      "p_votes": 0.21,
+      "seats": 3
+    },
+    {
+      "party_name": "Sri Lanka Podujana Peramuna",
+      "party_code": "SLPP",
+      "votes": 2966,
+      "p_votes": 0.18,
+      "seats": 3
+    },
+    {
+      "party_name": "United National Party",
+      "party_code": "UNP",
+      "votes": 1419,
+      "p_votes": 0.09,
+      "seats": 1
+    },
+    {
+      "party_name": "Sarvajana Balaya",
+      "party_code": "SB",
+      "votes": 772,
+      "p_votes": 0.05,
+      "seats": 1
+    }
+  ]
+}
