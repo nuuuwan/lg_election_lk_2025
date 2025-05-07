@@ -1,6 +1,6 @@
 # Sri Lankan Local Government Elections - 2025 🇱🇰
 
-As of 2025-05-07 06:40:52
+As of 2025-05-07 06:45:29
 
 *Scraped from [results.elections.gov.lk](https://results.elections.gov.lk)*
 
@@ -8,20 +8,20 @@ As of 2025-05-07 06:40:52
 
 | Results Released | % Released (By Votes) |
 |--:|--:|
-|180/339|50.07%|
+|183/339|50.94%|
 
 ## Islandwide (Top 10 by Votes)
 
 | Party | Votes | %  | Seats | % | Most Seats | ≥½ Seats (✔️) |
 |---|--:|--:|--:|--:|--:|--:|
-|🔴Jathika Jana Balawegaya|2,275,975|43%|1,980|44%|147|72|
-|🟢Samagi Jana Balawegaya|1,067,173|20%|838|19%|6||
-|🟣Sri Lanka Podujana Peramuna|520,427|10%|402|9%|||
-|🟩United National Party|241,582|5%|193|4%|1||
-|🟦People's Alliance|183,273|4%|154|3%|||
-|🟡Ilankai Tamil Arasu Kadchi|173,808|3%|233|5%|25|5|
-|🔵Sarvajana Balaya|141,390|3%|111|2%|||
-|⚪Democratic Tamil National Alliance|59,083|1%|71|2%|1||
+|🔴Jathika Jana Balawegaya|2,317,831|44%|2,013|44%|149|73|
+|🟢Samagi Jana Balawegaya|1,087,632|20%|854|19%|6||
+|🟣Sri Lanka Podujana Peramuna|527,124|10%|407|9%|||
+|🟩United National Party|243,808|5%|195|4%|1||
+|🟦People's Alliance|183,273|3%|154|3%|||
+|🟡Ilankai Tamil Arasu Kadchi|179,072|3%|239|5%|26|5|
+|🔵Sarvajana Balaya|143,599|3%|113|2%|||
+|⚪Democratic Tamil National Alliance|60,046|1%|72|2%|1||
 |⚪Sri Lanka Muslim Congress|58,459|1%|52|1%|1||
 |⚪All Ceylon Tamil Congress|38,752|1%|62|1%|3||
 
@@ -193,6 +193,7 @@ As of 2025-05-07 06:40:52
 | `172` | 🏡Vavuniya North PS (23) |🔴JJB (6)|🟡ITAK (5)|⚪ACTC (4)| Others (8) |[...](https://results.elections.gov.lk/?page=lg_result&district=VAVUNIYA&lg_code=172&lg_name=VAVUNIYA-NORTH-PRADESHIYA-SABHA)|
 | `173` | 🏡Vengalasettikulam PS (18) |🟢SJB (4)|🔴JJB (3)|🟡ITAK (3)| Others (8) |[...](https://results.elections.gov.lk/?page=lg_result&district=VAVUNIYA&lg_code=173&lg_name=VENGALASETTIKULAM-PRADESHIYA-SABHA)|
 | `174` | 🏡Vavuniya South  Tamil  PS (27) |🔴JJB (6)|🟡ITAK (5)|⚪DTNA (3)| Others (13) |[...](https://results.elections.gov.lk/?page=lg_result&district=VAVUNIYA&lg_code=174&lg_name=VAVUNIYA-SOUTH--TAMIL--PRADESHIYA-SABHA)|
+| `175` | 🏡Vavuniya South  Sinhala  PS (17) |🔴JJB (7)|🟢SJB (4)|⚫IG2 `175` (2)| Others (4) |[...](https://results.elections.gov.lk/?page=lg_result&district=VAVUNIYA&lg_code=175&lg_name=VAVUNIYA-SOUTH--SINHALA--PRADESHIYA-SABHA)|
 
 ### Mullaitivu
 
@@ -208,6 +209,7 @@ As of 2025-05-07 06:40:52
 |  |  |  |  |  |  |  |
 |---|---|---|---|---|---|---|
 | `184` | 🏡Koralai Pattu PS (26) |🟡ITAK (10)|🔴JJB (4)|⚪TMVP (4)| Others (8) |[...](https://results.elections.gov.lk/?page=lg_result&district=BATTICALOA&lg_code=184&lg_name=KORALAI-PATTU-PRADESHIYA-SABHA)|
+| `188` | 🏡Manmunai Pattu PS (17) |🟡ITAK (6)|🔴JJB (4)|🟢SJB (1)| Others (6) |[...](https://results.elections.gov.lk/?page=lg_result&district=BATTICALOA&lg_code=188&lg_name=MANMUNAI-PATTU-PRADESHIYA-SABHA)|
 | `189` | 🏡Manmunai West PS (19) |**🟡ITAK (10)✔️**|⚪TMVP (3)|🔴JJB (3)| Others (3) |[...](https://results.elections.gov.lk/?page=lg_result&district=BATTICALOA&lg_code=189&lg_name=MANMUNAI-WEST-PRADESHIYA-SABHA)|
 
 ### Ampara
@@ -250,6 +252,7 @@ As of 2025-05-07 06:40:52
 |---|---|---|---|---|---|---|
 | `227` | 🏡Giribawa PS (17) |**🔴JJB (9)✔️**|🟢SJB (4)|🟣SLPP (2)| Others (2) |[...](https://results.elections.gov.lk/?page=lg_result&district=KURUNEGALA&lg_code=227&lg_name=GIRIBAWA-PRADESHIYA-SABHA)|
 | `231` | 🏡Kobeigane PS (17) |🔴JJB (8)|🟢SJB (5)|🟣SLPP (3)| Others (1) |[...](https://results.elections.gov.lk/?page=lg_result&district=KURUNEGALA&lg_code=231&lg_name=KOBEIGANE-PRADESHIYA-SABHA)|
+| `233` | 🏡Ibbagamuwa PS (42) |**🔴JJB (22)✔️**|🟢SJB (11)|🟣SLPP (4)| Others (5) |[...](https://results.elections.gov.lk/?page=lg_result&district=KURUNEGALA&lg_code=233&lg_name=IBBAGAMUWA-PRADESHIYA-SABHA)|
 
 ### Puttalam
 
