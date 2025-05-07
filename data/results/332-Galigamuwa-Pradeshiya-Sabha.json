@@ -1,0 +1,68 @@
+{
+  "district_name": "Kegalle",
+  "lg_code": "332",
+  "lg_name": "Galigamuwa Pradeshiya Sabha",
+  "url": "https://results.elections.gov.lk/?page=lg_result&district=KEGALLE&lg_code=332&lg_name=GALIGAMUWA-PRADESHIYA-SABHA",
+  "time_str": "2025-05-07 08:10:00",
+  "time_ut": 1746585600.0,
+  "summary_data": {
+    "electors": 63049,
+    "polled": 39958,
+    "valid": 39176,
+    "rejected": 782,
+    "p_turnout": 0.63,
+    "p_valid": 0.98,
+    "p_rejected": 0.02
+  },
+  "party_result_data_list": [
+    {
+      "party_name": "Jathika Jana Balawegaya",
+      "party_code": "NPP",
+      "votes": 18186,
+      "p_votes": 0.46,
+      "seats": 18
+    },
+    {
+      "party_name": "Samagi Jana Balawegaya",
+      "party_code": "SJB",
+      "votes": 10494,
+      "p_votes": 0.27,
+      "seats": 9
+    },
+    {
+      "party_name": "Sri Lanka Podujana Peramuna",
+      "party_code": "SLPP",
+      "votes": 3123,
+      "p_votes": 0.08,
+      "seats": 3
+    },
+    {
+      "party_name": "United National Party",
+      "party_code": "UNP",
+      "votes": 2336,
+      "p_votes": 0.06,
+      "seats": 2
+    },
+    {
+      "party_name": "People's Alliance",
+      "party_code": "PA",
+      "votes": 2278,
+      "p_votes": 0.06,
+      "seats": 2
+    },
+    {
+      "party_name": "Sarvajana Balaya",
+      "party_code": "SB",
+      "votes": 2129,
+      "p_votes": 0.05,
+      "seats": 2
+    },
+    {
+      "party_name": "People's Struggle Alliance",
+      "party_code": "PSA",
+      "votes": 630,
+      "p_votes": 0.02,
+      "seats": 0
+    }
+  ]
+}

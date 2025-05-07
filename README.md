@@ -1,6 +1,6 @@
 # Sri Lankan Local Government Elections - 2025 🇱🇰
 
-As of 2025-05-07 08:39:20
+As of 2025-05-07 08:41:02
 
 *Scraped from [results.elections.gov.lk](https://results.elections.gov.lk)*
 
@@ -8,19 +8,19 @@ As of 2025-05-07 08:39:20
 
 | Results Released | % Released (By Votes) | % Turnout | % Rejected |
 |--:|--:|--:|--:|
-|265/339|74.5%|61.7%|1.99%|
+|266/339|74.9%|61.7%|1.99%|
 
 ## Islandwide (Top 10 by Votes)
 
 | Party | Votes | %  | Seats | % | LG's with<br>Won | LGs with<br>≥50% Seats (✔️) |
 |---|--:|--:|--:|--:|--:|--:|
-|🔴Jathika Jana Balawegaya|3,402,970|44%|2,985|45%|217|118|
-|🟢Samagi Jana Balawegaya|1,635,939|21%|1,294|19%|12||
-|🟣Sri Lanka Podujana Peramuna|751,932|10%|586|9%|||
-|🟩United National Party|342,886|4%|278|4%|1||
-|🟦People's Alliance|281,403|4%|232|3%|||
+|🔴Jathika Jana Balawegaya|3,421,156|44%|3,003|45%|218|119|
+|🟢Samagi Jana Balawegaya|1,646,433|21%|1,303|19%|12||
+|🟣Sri Lanka Podujana Peramuna|755,055|10%|589|9%|||
+|🟩United National Party|345,222|4%|280|4%|1||
+|🟦People's Alliance|283,681|4%|234|3%|||
 |🟡Ilankai Tamil Arasu Kadchi|236,731|3%|310|5%|33|6|
-|🔵Sarvajana Balaya|197,513|3%|164|2%|||
+|🔵Sarvajana Balaya|199,642|3%|166|2%|||
 |⚪Sri Lanka Muslim Congress|83,926|1%|70|1%|2||
 |⚪Democratic Tamil National Alliance|80,258|1%|97|1%|1||
 |⚪All Ceylon Tamil Congress|59,785|1%|92|1%|4||
@@ -413,6 +413,7 @@ As of 2025-05-07 08:39:20
 |---|---|---|---|---|---|---|
 | 330 | 🏛️Kegalle MC (21) |**🔴JJB · *12*✔️**<br>|🟢SJB · *3*<br>🟣SLPP · *3*<br>|⚫IG 330 · *1*<br>🟩UNP · *1*<br>⚪PSA · *1*<br>| Others (0) |[...](https://results.elections.gov.lk/?page=lg_result&district=KEGALLE&lg_code=330&lg_name=KEGALLE-MUNICIPAL-COUNCIL)|
 | 331 | 🏡Warakapola PS (45) |**🔴JJB · *25*✔️**<br>|🟢SJB · *9*<br>|🟣SLPP · *5*<br>| Others (6) |[...](https://results.elections.gov.lk/?page=lg_result&district=KEGALLE&lg_code=331&lg_name=WARAKAPOLA-PRADESHIYA-SABHA)|
+| 332 | 🏡Galigamuwa PS (36) |**🔴JJB · *18*✔️**<br>|🟢SJB · *9*<br>|🟣SLPP · *3*<br>| Others (6) |[...](https://results.elections.gov.lk/?page=lg_result&district=KEGALLE&lg_code=332&lg_name=GALIGAMUWA-PRADESHIYA-SABHA)|
 | 334 | 🏡Rambukkana PS (38) |**🔴JJB · *21*✔️**<br>|🟣SLPP · *5*<br>🟢SJB · *5*<br>|🟩UNP · *4*<br>| Others (3) |[...](https://results.elections.gov.lk/?page=lg_result&district=KEGALLE&lg_code=334&lg_name=RAMBUKKANA-PRADESHIYA-SABHA)|
 | 338 | 🏡Bulatkohupitiya PS (19) |🔴JJB · *8*<br>|🟢SJB · *5*<br>|🟣SLPP · *3*<br>| Others (3) |[...](https://results.elections.gov.lk/?page=lg_result&district=KEGALLE&lg_code=338&lg_name=BULATKOHUPITIYA-PRADESHIYA-SABHA)|
 | 339 | 🏡Ruwanwella PS (32) |**🔴JJB · *17*✔️**<br>|🟢SJB · *8*<br>|🟣SLPP · *3*<br>| Others (4) |[...](https://results.elections.gov.lk/?page=lg_result&district=KEGALLE&lg_code=339&lg_name=RUWANWELLA-PRADESHIYA-SABHA)|
