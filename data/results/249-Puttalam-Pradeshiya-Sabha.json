@@ -1,0 +1,110 @@
+{
+  "district_name": "Puttalam",
+  "lg_code": "249",
+  "lg_name": "Puttalam Pradeshiya Sabha",
+  "url": "https://results.elections.gov.lk/?page=lg_result&district=PUTTALAM&lg_code=249&lg_name=PUTTALAM-PRADESHIYA-SABHA",
+  "time_str": "2025-05-07 06:02:00",
+  "time_ut": 1746577920.0,
+  "summary_data": {
+    "electors": 42960,
+    "polled": 28125,
+    "valid": 27764,
+    "rejected": 361,
+    "p_turnout": 0.65,
+    "p_valid": 0.99,
+    "p_rejected": 0.01
+  },
+  "party_result_data_list": [
+    {
+      "party_name": "Jathika Jana Balawegaya",
+      "party_code": "NPP",
+      "votes": 8791,
+      "p_votes": 0.32,
+      "seats": 8
+    },
+    {
+      "party_name": "Samagi Jana Balawegaya",
+      "party_code": "SJB",
+      "votes": 4639,
+      "p_votes": 0.17,
+      "seats": 4
+    },
+    {
+      "party_name": "All Ceylon Makkal Congress",
+      "party_code": "ACMC",
+      "votes": 3327,
+      "p_votes": 0.12,
+      "seats": 3
+    },
+    {
+      "party_name": "Sri Lanka Muslim Congress",
+      "party_code": "SLMC",
+      "votes": 3107,
+      "p_votes": 0.11,
+      "seats": 3
+    },
+    {
+      "party_name": "Independent Group 1",
+      "party_code": "IND1",
+      "votes": 2240,
+      "p_votes": 0.08,
+      "seats": 2
+    },
+    {
+      "party_name": "Sri Lanka Podujana Peramuna",
+      "party_code": "SLPP",
+      "votes": 1550,
+      "p_votes": 0.06,
+      "seats": 1
+    },
+    {
+      "party_name": "United National Party",
+      "party_code": "UNP",
+      "votes": 1411,
+      "p_votes": 0.05,
+      "seats": 1
+    },
+    {
+      "party_name": "People's Alliance",
+      "party_code": "PA",
+      "votes": 654,
+      "p_votes": 0.02,
+      "seats": 1
+    },
+    {
+      "party_name": "National Front for Good Governance",
+      "party_code": "NFGG",
+      "votes": 617,
+      "p_votes": 0.02,
+      "seats": 1
+    },
+    {
+      "party_name": "Independent Group 2",
+      "party_code": "IND2",
+      "votes": 600,
+      "p_votes": 0.02,
+      "seats": 1
+    },
+    {
+      "party_name": "Sarvajana Balaya",
+      "party_code": "SB",
+      "votes": 540,
+      "p_votes": 0.02,
+      "seats": 0
+    },
+    {
+      "party_name": "United Peace Alliance",
+      "party_code": "UPA",
+      "votes": 188,
+      "p_votes": 0.01,
+      "seats": 0
+    },
+    {
+      "party_name": "People's Struggle Alliance",
+      "party_code": "PSA",
+      "votes": 100,
+      "p_votes": 0.0,
+      "seats": 0
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "district_name": "Puttalam",
+  "lg_code": "246",
+  "lg_name": "Puttalam Municipal Council",
+  "url": "https://results.elections.gov.lk/?page=lg_result&district=PUTTALAM&lg_code=246&lg_name=PUTTALAM-MUNICIPAL-COUNCIL",
+  "time_str": "2025-05-07 06:04:00",
+  "time_ut": 1746578040.0,
+  "summary_data": {
+    "electors": 36523,
+    "polled": 23115,
+    "valid": 22858,
+    "rejected": 257,
+    "p_turnout": 0.63,
+    "p_valid": 0.99,
+    "p_rejected": 0.01
+  },
+  "party_result_data_list": [
+    {
+      "party_name": "Jathika Jana Balawegaya",
+      "party_code": "NPP",
+      "votes": 7503,
+      "p_votes": 0.33,
+      "seats": 7
+    },
+    {
+      "party_name": "Samagi Jana Balawegaya",
+      "party_code": "SJB",
+      "votes": 4452,
+      "p_votes": 0.19,
+      "seats": 4
+    },
+    {
+      "party_name": "Sri Lanka Muslim Congress",
+      "party_code": "SLMC",
+      "votes": 3856,
+      "p_votes": 0.17,
+      "seats": 3
+    },
+    {
+      "party_name": "National Front for Good Governance",
+      "party_code": "NFGG",
+      "votes": 3112,
+      "p_votes": 0.14,
+      "seats": 3
+    },
+    {
+      "party_name": "United National Party",
+      "party_code": "UNP",
+      "votes": 998,
+      "p_votes": 0.04,
+      "seats": 1
+    },
+    {
+      "party_name": "Independent Group 1",
+      "party_code": "IND1",
+      "votes": 894,
+      "p_votes": 0.04,
+      "seats": 1
+    },
+    {
+      "party_name": "Sri Lanka Podujana Peramuna",
+      "party_code": "SLPP",
+      "votes": 433,
+      "p_votes": 0.02,
+      "seats": 0
+    },
+    {
+      "party_name": "Sri Lanka Labour Party",
+      "party_code": "SLLP",
+      "votes": 405,
+      "p_votes": 0.02,
+      "seats": 0
+    },
+    {
+      "party_name": "Independent Group 3",
+      "party_code": "IND3",
+      "votes": 325,
+      "p_votes": 0.01,
+      "seats": 0
+    },
+    {
+      "party_name": "Sarvajana Balaya",
+      "party_code": "SB",
+      "votes": 324,
+      "p_votes": 0.01,
+      "seats": 0
+    },
+    {
+      "party_name": "Independent Group 2",
+      "party_code": "IND2",
+      "votes": 262,
+      "p_votes": 0.01,
+      "seats": 0
+    },
+    {
+      "party_name": "People's Alliance",
+      "party_code": "PA",
+      "votes": 173,
+      "p_votes": 0.01,
+      "seats": 0
+    },
+    {
+      "party_name": "United Peace Alliance",
+      "party_code": "UPA",
+      "votes": 121,
+      "p_votes": 0.01,
+      "seats": 0
+    }
+  ]
+}

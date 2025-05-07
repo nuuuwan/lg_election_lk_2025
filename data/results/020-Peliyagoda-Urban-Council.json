@@ -1,0 +1,61 @@
+{
+  "district_name": "Gampaha",
+  "lg_code": "020",
+  "lg_name": "Peliyagoda Urban Council",
+  "url": "https://results.elections.gov.lk/?page=lg_result&district=GAMPAHA&lg_code=020&lg_name=PELIYAGODA-URBAN-COUNCIL",
+  "time_str": "2025-05-07 06:14:00",
+  "time_ut": 1746578640.0,
+  "summary_data": {
+    "electors": 17983,
+    "polled": 11530,
+    "valid": 11311,
+    "rejected": 219,
+    "p_turnout": 0.64,
+    "p_valid": 0.98,
+    "p_rejected": 0.02
+  },
+  "party_result_data_list": [
+    {
+      "party_name": "Jathika Jana Balawegaya",
+      "party_code": "NPP",
+      "votes": 4853,
+      "p_votes": 0.43,
+      "seats": 8
+    },
+    {
+      "party_name": "Samagi Jana Balawegaya",
+      "party_code": "SJB",
+      "votes": 3116,
+      "p_votes": 0.28,
+      "seats": 4
+    },
+    {
+      "party_name": "United National Party",
+      "party_code": "UNP",
+      "votes": 1199,
+      "p_votes": 0.11,
+      "seats": 2
+    },
+    {
+      "party_name": "Sri Lanka Podujana Peramuna",
+      "party_code": "SLPP",
+      "votes": 962,
+      "p_votes": 0.09,
+      "seats": 1
+    },
+    {
+      "party_name": "Sarvajana Balaya",
+      "party_code": "SB",
+      "votes": 666,
+      "p_votes": 0.06,
+      "seats": 1
+    },
+    {
+      "party_name": "People's Alliance",
+      "party_code": "PA",
+      "votes": 515,
+      "p_votes": 0.05,
+      "seats": 1
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "district_name": "Puttalam",
+  "lg_code": "255",
+  "lg_name": "Chilaw Pradeshiya Sabha",
+  "url": "https://results.elections.gov.lk/?page=lg_result&district=PUTTALAM&lg_code=255&lg_name=CHILAW-PRADESHIYA-SABHA",
+  "time_str": "2025-05-07 06:15:00",
+  "time_ut": 1746578700.0,
+  "summary_data": {
+    "electors": 80116,
+    "polled": 44908,
+    "valid": 44246,
+    "rejected": 662,
+    "p_turnout": 0.56,
+    "p_valid": 0.99,
+    "p_rejected": 0.01
+  },
+  "party_result_data_list": [
+    {
+      "party_name": "Jathika Jana Balawegaya",
+      "party_code": "NPP",
+      "votes": 21222,
+      "p_votes": 0.48,
+      "seats": 17
+    },
+    {
+      "party_name": "Samagi Jana Balawegaya",
+      "party_code": "SJB",
+      "votes": 10503,
+      "p_votes": 0.24,
+      "seats": 7
+    },
+    {
+      "party_name": "Sri Lanka Podujana Peramuna",
+      "party_code": "SLPP",
+      "votes": 5579,
+      "p_votes": 0.13,
+      "seats": 4
+    },
+    {
+      "party_name": "Independent Group",
+      "party_code": "IND1",
+      "votes": 3650,
+      "p_votes": 0.08,
+      "seats": 3
+    },
+    {
+      "party_name": "United National Party",
+      "party_code": "UNP",
+      "votes": 1629,
+      "p_votes": 0.04,
+      "seats": 1
+    },
+    {
+      "party_name": "Sarvajana Balaya",
+      "party_code": "SB",
+      "votes": 1447,
+      "p_votes": 0.03,
+      "seats": 1
+    },
+    {
+      "party_name": "People's Struggle Alliance",
+      "party_code": "PSA",
+      "votes": 216,
+      "p_votes": 0.0,
+      "seats": 0
+    }
+  ]
+}

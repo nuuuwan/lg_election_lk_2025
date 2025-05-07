@@ -1,0 +1,54 @@
+{
+  "district_name": "Matara",
+  "lg_code": "124",
+  "lg_name": "Athuraliya Pradeshiya Sabha",
+  "url": "https://results.elections.gov.lk/?page=lg_result&district=MATARA&lg_code=124&lg_name=ATHURALIYA-PRADESHIYA-SABHA",
+  "time_str": "2025-05-07 06:11:00",
+  "time_ut": 1746578460.0,
+  "summary_data": {
+    "electors": 27628,
+    "polled": 16873,
+    "valid": 16534,
+    "rejected": 339,
+    "p_turnout": 0.61,
+    "p_valid": 0.98,
+    "p_rejected": 0.02
+  },
+  "party_result_data_list": [
+    {
+      "party_name": "Jathika Jana Balawegaya",
+      "party_code": "NPP",
+      "votes": 7981,
+      "p_votes": 0.48,
+      "seats": 9
+    },
+    {
+      "party_name": "Samagi Jana Balawegaya",
+      "party_code": "SJB",
+      "votes": 3691,
+      "p_votes": 0.22,
+      "seats": 4
+    },
+    {
+      "party_name": "Sri Lanka Podujana Peramuna",
+      "party_code": "SLPP",
+      "votes": 2506,
+      "p_votes": 0.15,
+      "seats": 2
+    },
+    {
+      "party_name": "Patriotic People's Power",
+      "party_code": "PPP",
+      "votes": 1978,
+      "p_votes": 0.12,
+      "seats": 2
+    },
+    {
+      "party_name": "United National Party",
+      "party_code": "UNP",
+      "votes": 378,
+      "p_votes": 0.02,
+      "seats": 0
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "district_name": "Gampaha",
+  "lg_code": "032",
+  "lg_name": "Kelaniya Pradeshiya Sabha",
+  "url": "https://results.elections.gov.lk/?page=lg_result&district=GAMPAHA&lg_code=032&lg_name=KELANIYA-PRADESHIYA-SABHA",
+  "time_str": "2025-05-07 06:10:00",
+  "time_ut": 1746578400.0,
+  "summary_data": {
+    "electors": 80336,
+    "polled": 46694,
+    "valid": 45800,
+    "rejected": 894,
+    "p_turnout": 0.58,
+    "p_valid": 0.98,
+    "p_rejected": 0.02
+  },
+  "party_result_data_list": [
+    {
+      "party_name": "Jathika Jana Balawegaya",
+      "party_code": "NPP",
+      "votes": 24022,
+      "p_votes": 0.52,
+      "seats": 24
+    },
+    {
+      "party_name": "Samagi Jana Balawegaya",
+      "party_code": "SJB",
+      "votes": 8143,
+      "p_votes": 0.18,
+      "seats": 7
+    },
+    {
+      "party_name": "Sri Lanka Podujana Peramuna",
+      "party_code": "SLPP",
+      "votes": 5204,
+      "p_votes": 0.11,
+      "seats": 5
+    },
+    {
+      "party_name": "Sarvajana Balaya",
+      "party_code": "SB",
+      "votes": 5110,
+      "p_votes": 0.11,
+      "seats": 4
+    },
+    {
+      "party_name": "United National Party",
+      "party_code": "UNP",
+      "votes": 1867,
+      "p_votes": 0.04,
+      "seats": 2
+    },
+    {
+      "party_name": "People's Alliance",
+      "party_code": "PA",
+      "votes": 1018,
+      "p_votes": 0.02,
+      "seats": 1
+    },
+    {
+      "party_name": "Sri Lanka Mahajana Pakshaya",
+      "party_code": "SLMP",
+      "votes": 436,
+      "p_votes": 0.01,
+      "seats": 0
+    }
+  ]
+}
