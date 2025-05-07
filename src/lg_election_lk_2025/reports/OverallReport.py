@@ -1,6 +1,7 @@
 from functools import cache
 import os
 from utils import File, Log, Time, TimeFormat, JSONFile
+from gig import Ent, EntType
 
 from utils_future import StringX
 
@@ -477,9 +478,40 @@ class OverallReport:
         return lg_type
 
     @property
+    def missing_results_lines(self):
+        lines = [
+            "## Missing Results",
+            "",
+        ]
+
+        released_lg_id_set = set()
+        for result in self.get_result_list():
+            lg_name = result["lg_name"]
+            lg_name_short = OverallReport.get_lg_short_name(lg_name)
+            ent_list = Ent.list_from_name_fuzzy(
+                name_fuzzy=lg_name_short,
+                filter_ent_type=EntType.LG,
+                min_fuzz_ratio=70,
+            )
+            if len(ent_list) > 0:
+                lg_ent = ent_list[0]
+                released_lg_id_set.add(lg_ent.id)
+
+        all_lg_id_set = set([ent.id for ent in Ent.list_from_type(EntType.LG)])
+        missing_lg_id_set = all_lg_id_set - released_lg_id_set
+
+        for lg_id in missing_lg_id_set:
+            lg_ent = Ent.from_id(lg_id)
+            lg_name = lg_ent.name
+            lines.append(f"- {lg_name} ({lg_id})")
+        lines.append("")
+        return lines
+
+    @property
     def lines(self):
         return (
             self.header_lines
+            + self.missing_results_lines
             + self.lk_summary_lines
             + self.lk_party_to_summary_lines
             + self.get_result_lines(10)
