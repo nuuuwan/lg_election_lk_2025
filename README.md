@@ -1,6 +1,6 @@
 # Sri Lankan Local Government Elections - 2025 🇱🇰
 
-As of 2025-05-07 11:41:44
+As of 2025-05-07 11:43:17
 
 *Scraped from [results.elections.gov.lk](https://results.elections.gov.lk)*
 
@@ -8,19 +8,19 @@ As of 2025-05-07 11:41:44
 
 | Results Released | % Released (By Votes) | % Turnout | % Rejected |
 |--:|--:|--:|--:|
-|335/339|98.1%|61.9%|1.98%|
+|336/339|98.9%|61.8%|1.98%|
 
 ## Islandwide (Top 10 by Seats)
 
 | Party |  *Seats* | *%* | Votes | %  | LG's with<br>Most Votes | **LGs with<br>>50% Seats** |
 |---|--:|--:|--:|--:|--:|--:|
-|🔴Jathika Jana Balawegaya|*3,888*|*45%*|4,455,847|43%|264|**119**|
-|🟢Samagi Jana Balawegaya|*1,746*|*20%*|2,231,230|22%|12||
-|🟣Sri Lanka Podujana Peramuna|*738*|*8%*|944,276|9%|||
-|🟩United National Party|*378*|*4%*|476,284|5%|||
+|🔴Jathika Jana Balawegaya|*3,912*|*45%*|4,496,737|43%|265|**120**|
+|🟢Samagi Jana Balawegaya|*1,752*|*20%*|2,243,230|22%|12||
+|🟣Sri Lanka Podujana Peramuna|*741*|*8%*|949,523|9%|||
+|🟩United National Party|*379*|*4%*|478,829|5%|||
 |🟡Ilankai Tamil Arasu Kadchi|*368*|*4%*|299,795|3%|36|**3**|
 |🟦People's Alliance|*296*|*3%*|365,139|4%|||
-|🔵Sarvajana Balaya|*223*|*3%*|269,519|3%|||
+|🔵Sarvajana Balaya|*225*|*3%*|273,752|3%|||
 |⚪Sri Lanka Muslim Congress|*110*|*1%*|133,894|1%|5|**1**|
 |⚪Democratic Tamil National Alliance|*101*|*1%*|84,145|1%|1||
 |⚪All Ceylon Tamil Congress|*97*|*1%*|63,271|1%|3||
@@ -45,7 +45,7 @@ As of 2025-05-07 11:41:44
 | | |  | | |
 |---|---|---|---|---|
 |MC|🔴JJB·*45%*<br>|🟢SJB·*18%*<br>|🟩UNP·*6%*<br>|Others·*31%*|
-|UC|🔴JJB·*41%*<br>|🟢SJB·*20%*<br>|🟩UNP·*6%*<br>|Others·*33%*|
+|UC|🔴JJB·*42%*<br>|🟢SJB·*20%*<br>|🟣SLPP·*6%*<br>|Others·*32%*|
 |PS|🔴JJB·*45%*<br>|🟢SJB·*20%*<br>|🟣SLPP·*9%*<br>|Others·*26%*|
 
 ## % Seats by Province
@@ -66,7 +66,7 @@ As of 2025-05-07 11:41:44
 
 | | |  | | |
 |---|---|---|---|---|
-|Colombo|🔴JJB·*51%*<br>|🟢SJB·*19%*<br>|🟣SLPP·*8%*<br>|Others·*22%*|
+|Colombo|🔴JJB·*51%*<br>|🟢SJB·*18%*<br>|🟣SLPP·*8%*<br>|Others·*23%*|
 |Gampaha|🔴JJB·*56%*<br>|🟢SJB·*20%*<br>|🟣SLPP·*9%*<br>|Others·*15%*|
 |Kalutara|🔴JJB·*43%*<br>|🟢SJB·*23%*<br>|🟣SLPP·*9%*<br>|Others·*25%*|
 |Kandy|🔴JJB·*47%*<br>|🟢SJB·*25%*<br>|🟣SLPP·*6%*<br>|Others·*22%*|
@@ -106,6 +106,7 @@ As of 2025-05-07 11:41:44
 | [006](https://results.elections.gov.lk/?page=lg_result&district=COLOMBO&lg_code=006&lg_name=KOLLONNAWA-URBAN-COUNCIL) | 🏢Kollonnawa UC·*19*|🔴JJB·*9*<br>|🟢SJB·*6*<br>|🟩UNP·*2*<br>|Others·*2*|
 | [007](https://results.elections.gov.lk/?page=lg_result&district=COLOMBO&lg_code=007&lg_name=SEETHAWAKAPURA-URBAN-COUNCIL) | 🏢Seethawakapura UC·*25*|🔴JJB·*11*<br>|🟢SJB·*6*<br>|⚫IG2-007·*4*<br>|Others·*4*|
 | [008](https://results.elections.gov.lk/?page=lg_result&district=COLOMBO&lg_code=008&lg_name=MAHARAGAMA--URBAN-COUNCIL) | 🏢Maharagama  UC·*43*|**🔴JJB·*24***<br>|🟢SJB·*6*<br>|⚫IG1-008·*3*<br>🟣SLPP·*3*<br>|Others·*7*|
+| [008](https://results.elections.gov.lk/?page=lg_result&district=COLOMBO&lg_code=008&lg_name=MAHARAGAMA-URBAN-COUNCIL) | 🏢Maharagama UC·*43*|**🔴JJB·*24***<br>|🟢SJB·*6*<br>|⚫IG1-008·*3*<br>🟣SLPP·*3*<br>|Others·*7*|
 | [009](https://results.elections.gov.lk/?page=lg_result&district=COLOMBO&lg_code=009&lg_name=KESBEWA-URBAN-COUNCIL) | 🏢Kesbewa UC·*34*|**🔴JJB·*20***<br>|🟢SJB·*5*<br>|🟣SLPP·*3*<br>|Others·*6*|
 | [010](https://results.elections.gov.lk/?page=lg_result&district=COLOMBO&lg_code=010&lg_name=BORALESGAMUWA-URBAN-COUNCIL) | 🏢Boralesgamuwa UC·*17*|**🔴JJB·*10***<br>|🟢SJB·*2*<br>|🟦PA·*1*<br>🟣SLPP·*1*<br>🔵SB·*1*<br>⚫IG-010·*1*<br>🟩UNP·*1*<br>||
 | [011](https://results.elections.gov.lk/?page=lg_result&district=COLOMBO&lg_code=011&lg_name=KOTIKAWATTA-MULLERIYAWA-PRADESHIYA-SABHA) | 🏡Kotikawatta Mulleriyawa PS·*39*|**🔴JJB·*22***<br>|🟢SJB·*7*<br>|🟣SLPP·*3*<br>|Others·*7*|
@@ -557,12 +558,11 @@ As of 2025-05-07 11:41:44
 ## Results Not Released
 
 All LGs: 341
-Released LGs: 334
-Missing LGs: 7
-- Koralai Pattu West PS (LG-51002)
-- Thalawa PS (LG-71015)
-- Kalmunai MC (LG-52009)
+Released LGs: 335
+Missing LGs: 6
 - Medawachchiya PS (LG-71003)
 - Elpitiya PS (LG-31004)
-- Maho PS (LG-61003)
+- Kalmunai MC (LG-52009)
 - Valikamam South-West PS (LG-41004)
+- Koralai Pattu West PS (LG-51002)
+- Thalawa PS (LG-71015)
