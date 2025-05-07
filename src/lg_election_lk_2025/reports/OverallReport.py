@@ -242,11 +242,10 @@ class OverallReport:
         )
         return lines
 
-    @property
-    def district_to_party_to_seats(self):
+    def get_x_to_party_to_seats(self, get_x):
         idx = {}
         for result in self.result_list:
-            district_name = result["district_name"]
+            x = get_x(result)
             for party_result_data in result["party_result_data_list"]:
                 party_name = OverallReport.get_party_name_annotated(
                     party_result_data["party_name"],
@@ -255,20 +254,19 @@ class OverallReport:
                 )
                 seats = party_result_data["seats"]
                 if seats > 0:
-                    if district_name not in idx:
-                        idx[district_name] = {}
-                    if party_name not in idx[district_name]:
-                        idx[district_name][party_name] = 0
-                    idx[district_name][party_name] += seats
+                    if x not in idx:
+                        idx[x] = {}
+                    if party_name not in idx[x]:
+                        idx[x][party_name] = 0
+                    idx[x][party_name] += seats
         return idx
 
-    @property
-    def district_summary_lines(self):
-        lines = ["## Seats by District", ""]
-        district_to_party_to_seats = self.district_to_party_to_seats
+    def get_x_summary_lines(self, get_x, x_label):
+        lines = [f"## Seats by {x_label}", ""]
+        x_to_party_to_seats = self.get_x_to_party_to_seats(get_x)
 
         lines.extend(["| | |  | | |", "|---|---|---|---|---|"])
-        for district_name, party_to_seats in district_to_party_to_seats.items():
+        for district_name, party_to_seats in x_to_party_to_seats.items():
             seats_to_party_list = {}
             for party_name, seats in party_to_seats.items():
                 if seats not in seats_to_party_list:
@@ -297,8 +295,7 @@ class OverallReport:
                 display_seats += seats
 
             total_seats = sum(
-                seats
-                for seats in district_to_party_to_seats[district_name].values()
+                seats for seats in x_to_party_to_seats[district_name].values()
             )
             other_seats = total_seats - display_seats
             if other_seats > 0:
@@ -415,13 +412,57 @@ class OverallReport:
         )
         return lines
 
+    @staticmethod
+    def get_province(result):
+        district_name = result["district_name"]
+        province_name = {
+            "Colombo": "Western",
+            "Gampaha": "Western",
+            "Kalutara": "Western",
+            "Kandy": "Central",
+            "Matale": "Central",
+            "Nuwaraeliya": "Central",
+            "Galle": "Southern",
+            "Matara": "Southern",
+            "Hambantota": "Southern",
+            "Jaffna": "Northern",
+            "Kilinochchi": "Northern",
+            "Mannar": "Northern",
+            "Vavuniya": "Northern",
+            "Mullaitivu": "Northern",
+            "Batticaloa": "Eastern",
+            "Ampara": "Eastern",
+            "Trincomalee": "Eastern",
+            "Kurunegala": "North Western",
+            "Puttalam": "North Western",
+            "Anuradhapura": "North Central",
+            "Polonnaruwa": "North Central",
+            "Badulla": "Uva",
+            "Monaragala": "Uva",
+            "Ratnapura": "Sabaragamuwa",
+            "Kegalle": "Sabaragamuwa",
+        }.get(district_name, None)
+        if not province_name:
+            raise ValueError(f"Unknown district: {district_name}")
+        return province_name
+
+    @staticmethod
+    def get_lg_type(result):
+        lg_name = result["lg_name"]
+        lg_type = "".join([x[0] for x in lg_name.split(" ")[-2:]])
+        return lg_type
+
     @property
     def lines(self):
         return (
             self.header_lines
             + self.lk_summary_lines
             + self.lk_party_to_summary_lines
-            + self.district_summary_lines
+            + self.get_x_summary_lines(
+                OverallReport.get_lg_type, "Local Authority Type"
+            )
+            + self.get_x_summary_lines(OverallReport.get_province, "Province")
+            + self.get_x_summary_lines(lambda x: x["district_name"], "District")
             + self.result_lines
         )
 

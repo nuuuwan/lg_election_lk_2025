@@ -1,6 +1,6 @@
 # Sri Lankan Local Government Elections - 2025 🇱🇰
 
-As of 2025-05-07 09:47:49
+As of 2025-05-07 09:52:36
 
 *Scraped from [results.elections.gov.lk](https://results.elections.gov.lk)*
 
@@ -24,6 +24,28 @@ As of 2025-05-07 09:47:49
 |⚪Sri Lanka Muslim Congress|107,550|1%|*92*|*1%*|4||
 |⚪Democratic Tamil National Alliance|81,793|1%|*99*|*1%*|1||
 |⚪All Ceylon Makkal Congress|62,510|1%|*53*|*1%*|3||
+
+## Seats by Local Authority Type
+
+| | |  | | |
+|---|---|---|---|---|
+|MC|🔴JJB·*347*<br>|🟢SJB·*129*<br>|🟩UNP·*42*<br>🟣SLPP·*42*<br>|Others·*251*|
+|UC|🔴JJB·*259*<br>|🟢SJB·*117*<br>|🟣SLPP·*35*<br>|Others·*185*|
+|PS|🔴JJB·*2782*<br>|🟢SJB·*1247*<br>|🟣SLPP·*583*<br>|Others·*1613*|
+
+## Seats by Province
+
+| | |  | | |
+|---|---|---|---|---|
+|Western|🔴JJB·*810*<br>|🟢SJB·*309*<br>|🟣SLPP·*150*<br>|Others·*292*|
+|Central|🔴JJB·*476*<br>|🟢SJB·*263*<br>|🟣SLPP·*76*<br>|Others·*247*|
+|Southern|🔴JJB·*553*<br>|🟢SJB·*226*<br>|🟣SLPP·*151*<br>|Others·*165*|
+|Northern|🟡ITAK·*221*<br>|🔴JJB·*141*<br>|⚪ACTC·*90*<br>|Others·*253*|
+|Eastern|🔴JJB·*193*<br>|🟡ITAK·*131*<br>|🟢SJB·*83*<br>|Others·*298*|
+|North Western|🔴JJB·*320*<br>|🟢SJB·*158*<br>|🟣SLPP·*75*<br>|Others·*115*|
+|North Central|🔴JJB·*241*<br>|🟢SJB·*99*<br>|🟣SLPP·*35*<br>|Others·*65*|
+|Uva|🔴JJB·*311*<br>|🟢SJB·*146*<br>|🟣SLPP·*56*<br>|Others·*130*|
+|Sabaragamuwa|🔴JJB·*343*<br>|🟢SJB·*164*<br>|🟣SLPP·*85*<br>|Others·*119*|
 
 ## Seats by District
 
