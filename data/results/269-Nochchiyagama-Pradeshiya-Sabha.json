@@ -1,0 +1,61 @@
+{
+  "district_name": "Anuradhapura",
+  "lg_code": "269",
+  "lg_name": "Nochchiyagama Pradeshiya Sabha",
+  "url": "https://results.elections.gov.lk/?page=lg_result&district=ANURADHAPURA&lg_code=269&lg_name=NOCHCHIYAGAMA-PRADESHIYA-SABHA",
+  "time_str": "2025-05-07 08:22:00",
+  "time_ut": 1746586320.0,
+  "summary_data": {
+    "electors": 43482,
+    "polled": 27358,
+    "valid": 26864,
+    "rejected": 494,
+    "p_turnout": 0.63,
+    "p_valid": 0.98,
+    "p_rejected": 0.02
+  },
+  "party_result_data_list": [
+    {
+      "party_name": "Jathika Jana Balawegaya",
+      "party_code": "NPP",
+      "votes": 13840,
+      "p_votes": 0.52,
+      "seats": 12
+    },
+    {
+      "party_name": "Samagi Jana Balawegaya",
+      "party_code": "SJB",
+      "votes": 6878,
+      "p_votes": 0.26,
+      "seats": 5
+    },
+    {
+      "party_name": "Sri Lanka Podujana Peramuna",
+      "party_code": "SLPP",
+      "votes": 3056,
+      "p_votes": 0.11,
+      "seats": 2
+    },
+    {
+      "party_name": "United National Party",
+      "party_code": "UNP",
+      "votes": 1515,
+      "p_votes": 0.06,
+      "seats": 1
+    },
+    {
+      "party_name": "Sarvajana Balaya",
+      "party_code": "SB",
+      "votes": 1110,
+      "p_votes": 0.04,
+      "seats": 1
+    },
+    {
+      "party_name": "People's Alliance",
+      "party_code": "PA",
+      "votes": 465,
+      "p_votes": 0.02,
+      "seats": 1
+    }
+  ]
+}

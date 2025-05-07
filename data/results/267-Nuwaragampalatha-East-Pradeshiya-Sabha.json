@@ -1,0 +1,75 @@
+{
+  "district_name": "Anuradhapura",
+  "lg_code": "267",
+  "lg_name": "Nuwaragampalatha East Pradeshiya Sabha",
+  "url": "https://results.elections.gov.lk/?page=lg_result&district=ANURADHAPURA&lg_code=267&lg_name=NUWARAGAMPALATHA-EAST-PRADESHIYA-SABHA",
+  "time_str": "2025-05-07 08:22:00",
+  "time_ut": 1746586320.0,
+  "summary_data": {
+    "electors": 47425,
+    "polled": 29363,
+    "valid": 28819,
+    "rejected": 544,
+    "p_turnout": 0.62,
+    "p_valid": 0.98,
+    "p_rejected": 0.02
+  },
+  "party_result_data_list": [
+    {
+      "party_name": "Jathika Jana Balawegaya",
+      "party_code": "NPP",
+      "votes": 17474,
+      "p_votes": 0.61,
+      "seats": 11
+    },
+    {
+      "party_name": "Samagi Jana Balawegaya",
+      "party_code": "SJB",
+      "votes": 6543,
+      "p_votes": 0.23,
+      "seats": 4
+    },
+    {
+      "party_name": "Sri Lanka Podujana Peramuna",
+      "party_code": "SLPP",
+      "votes": 2205,
+      "p_votes": 0.08,
+      "seats": 1
+    },
+    {
+      "party_name": "United National Party",
+      "party_code": "UNP",
+      "votes": 755,
+      "p_votes": 0.03,
+      "seats": 1
+    },
+    {
+      "party_name": "People's Alliance",
+      "party_code": "PA",
+      "votes": 694,
+      "p_votes": 0.02,
+      "seats": 1
+    },
+    {
+      "party_name": "Sarvajana Balaya",
+      "party_code": "SB",
+      "votes": 630,
+      "p_votes": 0.02,
+      "seats": 0
+    },
+    {
+      "party_name": "Jana Setha Peramuna",
+      "party_code": "JSP",
+      "votes": 418,
+      "p_votes": 0.01,
+      "seats": 0
+    },
+    {
+      "party_name": "People's Struggle Alliance",
+      "party_code": "PSA",
+      "votes": 100,
+      "p_votes": 0.0,
+      "seats": 0
+    }
+  ]
+}
