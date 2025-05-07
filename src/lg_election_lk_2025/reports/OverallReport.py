@@ -498,6 +498,7 @@ class OverallReport:
                 released_lg_id_set.add(lg_ent.id)
 
         released_lg_id_set.add("LG-11003")
+        released_lg_id_set.add("LG-61003")
 
         all_lg_id_set = set([ent.id for ent in Ent.list_from_type(EntType.LG)])
         lines.append(f"All LGs: {len(all_lg_id_set)}")
