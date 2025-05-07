@@ -1,6 +1,6 @@
 # Sri Lankan Local Government Elections - 2025 🇱🇰
 
-As of 2025-05-07 06:29:57
+As of 2025-05-07 06:32:17
 
 *Scraped from [results.elections.gov.lk](https://results.elections.gov.lk)*
 
@@ -8,21 +8,21 @@ As of 2025-05-07 06:29:57
 
 | Results Released | % Released (By Votes) |
 |--:|--:|
-|172/339|46.84%|
+|173/339|46.95%|
 
 ## Islandwide (Top 10 by Votes)
 
 | Party | Votes | %  | Seats | % | Wins | ≥½ ✔️ |
 |---|--:|--:|--:|--:|--:|--:|
-|🔴Jathika Jana Balawegaya|2,118,584|43%|1,879|44%|140|68|
-|🟢Samagi Jana Balawegaya|991,130|20%|791|19%|5||
+|🔴Jathika Jana Balawegaya|2,120,669|43%|1,882|44%|140|68|
+|🟢Samagi Jana Balawegaya|993,968|20%|795|19%|6||
 |🟣Sri Lanka Podujana Peramuna|489,546|10%|384|9%|||
 |🟩United National Party|237,082|5%|190|4%|1||
 |🟦People's Alliance|175,249|4%|149|3%|||
-|🟡Ilankai Tamil Arasu Kadchi|162,633|3%|222|5%|25|5|
+|🟡Ilankai Tamil Arasu Kadchi|164,590|3%|225|5%|25|5|
 |🔵Sarvajana Balaya|133,476|3%|106|2%|||
-|⚪Sri Lanka Muslim Congress|57,833|1%|51|1%|1||
-|⚪Democratic Tamil National Alliance|51,123|1%|62|1%|||
+|⚪Sri Lanka Muslim Congress|58,459|1%|52|1%|1||
+|⚪Democratic Tamil National Alliance|52,784|1%|64|1%|||
 |⚪All Ceylon Tamil Congress|36,204|1%|60|1%|3||
 
 ## Results by Local Authority
@@ -187,6 +187,7 @@ As of 2025-05-07 06:29:57
 |  |  |  |  |  |  |  |
 |---|---|---|---|---|---|---|
 | `172` | 🏡Vavuniya North PS (23) |🔴JJB (6)|🟡ITAK (5)|⚪ACTC (4)| Others (8) |[...](https://results.elections.gov.lk/?page=lg_result&district=VAVUNIYA&lg_code=172&lg_name=VAVUNIYA-NORTH-PRADESHIYA-SABHA)|
+| `173` | 🏡Vengalasettikulam PS (18) |🟢SJB (4)|🔴JJB (3)|🟡ITAK (3)| Others (8) |[...](https://results.elections.gov.lk/?page=lg_result&district=VAVUNIYA&lg_code=173&lg_name=VENGALASETTIKULAM-PRADESHIYA-SABHA)|
 
 ### Mullaitivu
 
