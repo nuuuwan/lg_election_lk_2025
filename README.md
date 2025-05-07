@@ -1,24 +1,8 @@
 # Sri Lankan Local Government Elections - 2025 🇱🇰
 
-As of 2025-05-07 11:14:16
+As of 2025-05-07 11:14:50
 
 *Scraped from [results.elections.gov.lk](https://results.elections.gov.lk)*
-
-## Missing Results
-
-- Kuliyapitiya UC (LG-61017)
-- Thalawa PS (LG-71015)
-- Medawachchiya PS (LG-71003)
-- Elpitiya PS (LG-31004)
-- Narammala PS (LG-61020)
-- Kalmunai MC (LG-52009)
-- Kinniya UC (LG-53010)
-- Valikamam South-West PS (LG-41004)
-- Polgahawela PS (LG-61015)
-- Pannala PS (LG-61019)
-- Maho PS (LG-61003)
-- Kotikawatta PS (LG-11003)
-- Koralai Pattu West PS (LG-51002)
 
 ## Progress
 
