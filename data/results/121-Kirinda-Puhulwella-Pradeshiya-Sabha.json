@@ -1,0 +1,47 @@
+{
+  "district_name": "Matara",
+  "lg_code": "121",
+  "lg_name": "Kirinda Puhulwella Pradeshiya Sabha",
+  "url": "https://results.elections.gov.lk/?page=lg_result&district=MATARA&lg_code=121&lg_name=KIRINDA-PUHULWELLA-PRADESHIYA-SABHA",
+  "time_str": "2025-05-07 08:44:00",
+  "time_ut": 1746587640.0,
+  "summary_data": {
+    "electors": 17712,
+    "polled": 11222,
+    "valid": 10992,
+    "rejected": 230,
+    "p_turnout": 0.63,
+    "p_valid": 0.98,
+    "p_rejected": 0.02
+  },
+  "party_result_data_list": [
+    {
+      "party_name": "Jathika Jana Balawegaya",
+      "party_code": "NPP",
+      "votes": 5933,
+      "p_votes": 0.54,
+      "seats": 6
+    },
+    {
+      "party_name": "Samagi Jana Balawegaya",
+      "party_code": "SJB",
+      "votes": 2850,
+      "p_votes": 0.26,
+      "seats": 3
+    },
+    {
+      "party_name": "Patriotic People's Power",
+      "party_code": "PPP",
+      "votes": 1296,
+      "p_votes": 0.12,
+      "seats": 1
+    },
+    {
+      "party_name": "Sri Lanka Podujana Peramuna",
+      "party_code": "SLPP",
+      "votes": 913,
+      "p_votes": 0.08,
+      "seats": 1
+    }
+  ]
+}
