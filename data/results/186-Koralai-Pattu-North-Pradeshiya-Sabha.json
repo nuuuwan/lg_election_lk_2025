@@ -1,0 +1,61 @@
+{
+  "district_name": "Batticaloa",
+  "lg_code": "186",
+  "lg_name": "Koralai Pattu North Pradeshiya Sabha",
+  "url": "https://results.elections.gov.lk/?page=lg_result&district=BATTICALOA&lg_code=186&lg_name=KORALAI-PATTU-NORTH-PRADESHIYA-SABHA",
+  "time_str": "2025-05-07 08:17:00",
+  "time_ut": 1746586020.0,
+  "summary_data": {
+    "electors": 20434,
+    "polled": 13753,
+    "valid": 13616,
+    "rejected": 137,
+    "p_turnout": 0.67,
+    "p_valid": 0.99,
+    "p_rejected": 0.01
+  },
+  "party_result_data_list": [
+    {
+      "party_name": "Thamil Makkal Viduthalai Pulikal",
+      "party_code": "TMVP",
+      "votes": 5157,
+      "p_votes": 0.38,
+      "seats": 7
+    },
+    {
+      "party_name": "Ilankai Tamil Arasu Kadchi",
+      "party_code": "ITAK",
+      "votes": 4318,
+      "p_votes": 0.32,
+      "seats": 6
+    },
+    {
+      "party_name": "Jathika Jana Balawegaya",
+      "party_code": "NPP",
+      "votes": 2050,
+      "p_votes": 0.15,
+      "seats": 3
+    },
+    {
+      "party_name": "Sri Lanka Muslim Congress",
+      "party_code": "SLMC",
+      "votes": 1142,
+      "p_votes": 0.08,
+      "seats": 2
+    },
+    {
+      "party_name": "Samagi Jana Balawegaya",
+      "party_code": "SJB",
+      "votes": 754,
+      "p_votes": 0.06,
+      "seats": 1
+    },
+    {
+      "party_name": "United National Party",
+      "party_code": "UNP",
+      "votes": 195,
+      "p_votes": 0.01,
+      "seats": 0
+    }
+  ]
+}

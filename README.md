@@ -1,6 +1,6 @@
 # Sri Lankan Local Government Elections - 2025 🇱🇰
 
-As of 2025-05-07 09:08:55
+As of 2025-05-07 09:10:37
 
 *Scraped from [results.elections.gov.lk](https://results.elections.gov.lk)*
 
@@ -8,20 +8,20 @@ As of 2025-05-07 09:08:55
 
 | Results Released | % Released (By Votes) | % Turnout | % Rejected |
 |--:|--:|--:|--:|
-|275/339|78.1%|61.7%|1.98%|
+|276/339|78.2%|61.7%|1.98%|
 
 ## Islandwide (Top 10 by Votes)
 
 | Party | Votes | %  | *Seats* | *%* | LG's with<br>Most Seats<br>(Incl. Ties) | **LGs with<br>≥50% Seats** |
 |---|--:|--:|--:|--:|--:|--:|
-|🔴Jathika Jana Balawegaya|3,567,936|44%|*3,132*|*45%*|226|**123**|
-|🟢Samagi Jana Balawegaya|1,729,367|21%|*1,366*|*20%*|12||
+|🔴Jathika Jana Balawegaya|3,569,986|44%|*3,135*|*45%*|226|**123**|
+|🟢Samagi Jana Balawegaya|1,730,121|21%|*1,367*|*20%*|12||
 |🟣Sri Lanka Podujana Peramuna|785,241|10%|*611*|*9%*|||
 |🟩United National Party|369,284|5%|*301*|*4%*|1||
 |🟦People's Alliance|296,798|4%|*244*|*3%*|||
-|🟡Ilankai Tamil Arasu Kadchi|237,271|3%|*311*|*4%*|33|**6**|
-|🔵Sarvajana Balaya|210,988|3%|*175*|*3%*|||
-|⚪Sri Lanka Muslim Congress|90,379|1%|*77*|*1%*|3||
+|🟡Ilankai Tamil Arasu Kadchi|241,589|3%|*317*|*5%*|33|**6**|
+|🔵Sarvajana Balaya|210,988|3%|*175*|*2%*|||
+|⚪Sri Lanka Muslim Congress|91,521|1%|*79*|*1%*|3||
 |⚪Democratic Tamil National Alliance|80,793|1%|*98*|*1%*|1||
 |⚪All Ceylon Tamil Congress|59,785|1%|*92*|*1%*|4||
 
@@ -261,6 +261,7 @@ As of 2025-05-07 09:08:55
 |---|---|---|---|---|---|---|
 | 181 | 🏢Eravur UC·*17*|⚪SLMC·*7*<br>|🟩UNP·*4*<br>|⚪TMVP·*2*<br>|Others·*4*|[...](https://results.elections.gov.lk/?page=lg_result&district=BATTICALOA&lg_code=181&lg_name=ERAVUR-URBAN-COUNCIL)|
 | 184 | 🏡Koralai Pattu PS·*26*|🟡ITAK·*10*<br>|🔴JJB·*4*<br>⚪TMVP·*4*<br>⚪SLMC·*4*<br>|🟢SJB·*3*<br>|Others·*1*|[...](https://results.elections.gov.lk/?page=lg_result&district=BATTICALOA&lg_code=184&lg_name=KORALAI-PATTU-PRADESHIYA-SABHA)|
+| 186 | 🏡Koralai Pattu North PS·*19*|⚪TMVP·*7*<br>|🟡ITAK·*6*<br>|🔴JJB·*3*<br>|Others·*3*|[...](https://results.elections.gov.lk/?page=lg_result&district=BATTICALOA&lg_code=186&lg_name=KORALAI-PATTU-NORTH-PRADESHIYA-SABHA)|
 | 188 | 🏡Manmunai Pattu PS·*17*|🟡ITAK·*6*<br>|🔴JJB·*4*<br>|🟢SJB·*1*<br>⚪UNA·*1*<br>⚪NFfGG·*1*<br>⚪DTNA·*1*<br>⚪TMVP·*1*<br>⚫IG2-188·*1*<br>⚫IG3-188·*1*<br>||[...](https://results.elections.gov.lk/?page=lg_result&district=BATTICALOA&lg_code=188&lg_name=MANMUNAI-PATTU-PRADESHIYA-SABHA)|
 | 189 | 🏡Manmunai West PS·*19*|**🟡ITAK·*10***<br>|⚪TMVP·*3*<br>🔴JJB·*3*<br>|⚪DTNA·*1*<br>⚪ACTC·*1*<br>🟢SJB·*1*<br>||[...](https://results.elections.gov.lk/?page=lg_result&district=BATTICALOA&lg_code=189&lg_name=MANMUNAI-WEST-PRADESHIYA-SABHA)|
 | 191 | 🏡Porthivu Pattu PS·*16*|**🟡ITAK·*8***<br>|⚪TMVP·*5*<br>|🔴JJB·*3*<br>||[...](https://results.elections.gov.lk/?page=lg_result&district=BATTICALOA&lg_code=191&lg_name=PORTHIVU-PATTU-PRADESHIYA-SABHA)|
