@@ -1,0 +1,54 @@
+{
+  "district_name": "Gampaha",
+  "lg_code": "030",
+  "lg_name": "Dompe Pradeshiya Sabha",
+  "url": "https://results.elections.gov.lk/?page=lg_result&district=GAMPAHA&lg_code=030&lg_name=DOMPE-PRADESHIYA-SABHA",
+  "time_str": "2025-05-07 06:27:00",
+  "time_ut": 1746579420.0,
+  "summary_data": {
+    "electors": 134385,
+    "polled": 81076,
+    "valid": 79731,
+    "rejected": 1345,
+    "p_turnout": 0.6,
+    "p_valid": 0.98,
+    "p_rejected": 0.02
+  },
+  "party_result_data_list": [
+    {
+      "party_name": "Jathika Jana Balawegaya",
+      "party_code": "NPP",
+      "votes": 43805,
+      "p_votes": 0.55,
+      "seats": 25
+    },
+    {
+      "party_name": "Samagi Jana Balawegaya",
+      "party_code": "SJB",
+      "votes": 20161,
+      "p_votes": 0.25,
+      "seats": 10
+    },
+    {
+      "party_name": "Sri Lanka Podujana Peramuna",
+      "party_code": "SLPP",
+      "votes": 13034,
+      "p_votes": 0.16,
+      "seats": 7
+    },
+    {
+      "party_name": "People's Alliance",
+      "party_code": "PA",
+      "votes": 2065,
+      "p_votes": 0.03,
+      "seats": 1
+    },
+    {
+      "party_name": "People's Struggle Alliance",
+      "party_code": "PSA",
+      "votes": 666,
+      "p_votes": 0.01,
+      "seats": 0
+    }
+  ]
+}

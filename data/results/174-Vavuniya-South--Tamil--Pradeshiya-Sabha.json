@@ -1,0 +1,117 @@
+{
+  "district_name": "Vavuniya",
+  "lg_code": "174",
+  "lg_name": "Vavuniya South  Tamil  Pradeshiya Sabha",
+  "url": "https://results.elections.gov.lk/?page=lg_result&district=VAVUNIYA&lg_code=174&lg_name=VAVUNIYA-SOUTH--TAMIL--PRADESHIYA-SABHA",
+  "time_str": "2025-05-07 05:57:00",
+  "time_ut": 1746577620.0,
+  "summary_data": {
+    "electors": 62635,
+    "polled": 36978,
+    "valid": 35994,
+    "rejected": 984,
+    "p_turnout": 0.59,
+    "p_valid": 0.97,
+    "p_rejected": 0.03
+  },
+  "party_result_data_list": [
+    {
+      "party_name": "Jathika Jana Balawegaya",
+      "party_code": "NPP",
+      "votes": 7260,
+      "p_votes": 0.2,
+      "seats": 6
+    },
+    {
+      "party_name": "Ilankai Tamil Arasu Kadchi",
+      "party_code": "ITAK",
+      "votes": 7033,
+      "p_votes": 0.2,
+      "seats": 5
+    },
+    {
+      "party_name": "Democratic Tamil National Alliance",
+      "party_code": "DTNA",
+      "votes": 3949,
+      "p_votes": 0.11,
+      "seats": 3
+    },
+    {
+      "party_name": "Samagi Jana Balawegaya",
+      "party_code": "SJB",
+      "votes": 3870,
+      "p_votes": 0.11,
+      "seats": 3
+    },
+    {
+      "party_name": "Sri Lanka Labour Party",
+      "party_code": "SLLP",
+      "votes": 3436,
+      "p_votes": 0.1,
+      "seats": 2
+    },
+    {
+      "party_name": "Democratic National Alliance",
+      "party_code": "DNA",
+      "votes": 2075,
+      "p_votes": 0.06,
+      "seats": 2
+    },
+    {
+      "party_name": "All Ceylon Tamil Congress",
+      "party_code": "ACTC",
+      "votes": 1901,
+      "p_votes": 0.05,
+      "seats": 1
+    },
+    {
+      "party_name": "Thamizh Makkal Koottani",
+      "party_code": "TMK",
+      "votes": 1482,
+      "p_votes": 0.04,
+      "seats": 1
+    },
+    {
+      "party_name": "Independent Group 2",
+      "party_code": "IND2",
+      "votes": 1285,
+      "p_votes": 0.04,
+      "seats": 1
+    },
+    {
+      "party_name": "Eelam People's Democratic Party",
+      "party_code": "EPDP",
+      "votes": 1173,
+      "p_votes": 0.03,
+      "seats": 1
+    },
+    {
+      "party_name": "Sarvajana Balaya",
+      "party_code": "SB",
+      "votes": 1123,
+      "p_votes": 0.03,
+      "seats": 1
+    },
+    {
+      "party_name": "Independent Group 3",
+      "party_code": "IND3",
+      "votes": 768,
+      "p_votes": 0.02,
+      "seats": 1
+    },
+    {
+      "party_name": "Independent Group 1",
+      "party_code": "IND1",
+      "votes": 456,
+      "p_votes": 0.01,
+      "seats": 0
+    },
+    {
+      "party_name": "People's Struggle Alliance",
+      "party_code": "PSA",
+      "votes": 183,
+      "p_votes": 0.01,
+      "seats": 0
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "district_name": "Gampaha",
+  "lg_code": "028",
+  "lg_name": "Ja Ela Pradeshiya Sabha",
+  "url": "https://results.elections.gov.lk/?page=lg_result&district=GAMPAHA&lg_code=028&lg_name=JA-ELA-PRADESHIYA-SABHA",
+  "time_str": "2025-05-07 06:30:00",
+  "time_ut": 1746579600.0,
+  "summary_data": {
+    "electors": 141170,
+    "polled": 79451,
+    "valid": 77778,
+    "rejected": 1673,
+    "p_turnout": 0.56,
+    "p_valid": 0.98,
+    "p_rejected": 0.02
+  },
+  "party_result_data_list": [
+    {
+      "party_name": "Jathika Jana Balawegaya",
+      "party_code": "NPP",
+      "votes": 48695,
+      "p_votes": 0.63,
+      "seats": 27
+    },
+    {
+      "party_name": "Samagi Jana Balawegaya",
+      "party_code": "SJB",
+      "votes": 14876,
+      "p_votes": 0.19,
+      "seats": 8
+    },
+    {
+      "party_name": "Sri Lanka Podujana Peramuna",
+      "party_code": "SLPP",
+      "votes": 7498,
+      "p_votes": 0.1,
+      "seats": 4
+    },
+    {
+      "party_name": "People's Alliance",
+      "party_code": "PA",
+      "votes": 3672,
+      "p_votes": 0.05,
+      "seats": 2
+    },
+    {
+      "party_name": "Sarvajana Balaya",
+      "party_code": "SB",
+      "votes": 2347,
+      "p_votes": 0.03,
+      "seats": 2
+    },
+    {
+      "party_name": "National Peoples Party",
+      "party_code": "NPPT",
+      "votes": 350,
+      "p_votes": 0.0,
+      "seats": 0
+    },
+    {
+      "party_name": "Independent Group",
+      "party_code": "IND1",
+      "votes": 340,
+      "p_votes": 0.0,
+      "seats": 0
+    }
+  ]
+}
