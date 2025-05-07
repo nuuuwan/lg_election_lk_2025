@@ -1,0 +1,61 @@
+{
+  "district_name": "Anuradhapura",
+  "lg_code": "270",
+  "lg_name": "Rajanganaya Pradeshiya Sabha",
+  "url": "https://results.elections.gov.lk/?page=lg_result&district=ANURADHAPURA&lg_code=270&lg_name=RAJANGANAYA-PRADESHIYA-SABHA",
+  "time_str": "2025-05-07 08:30:00",
+  "time_ut": 1746586800.0,
+  "summary_data": {
+    "electors": 29361,
+    "polled": 19361,
+    "valid": 19088,
+    "rejected": 273,
+    "p_turnout": 0.66,
+    "p_valid": 0.99,
+    "p_rejected": 0.01
+  },
+  "party_result_data_list": [
+    {
+      "party_name": "Jathika Jana Balawegaya",
+      "party_code": "NPP",
+      "votes": 9542,
+      "p_votes": 0.5,
+      "seats": 8
+    },
+    {
+      "party_name": "Samagi Jana Balawegaya",
+      "party_code": "SJB",
+      "votes": 3954,
+      "p_votes": 0.21,
+      "seats": 3
+    },
+    {
+      "party_name": "People's Alliance",
+      "party_code": "PA",
+      "votes": 2800,
+      "p_votes": 0.15,
+      "seats": 2
+    },
+    {
+      "party_name": "Sri Lanka Podujana Peramuna",
+      "party_code": "SLPP",
+      "votes": 1876,
+      "p_votes": 0.1,
+      "seats": 2
+    },
+    {
+      "party_name": "United National Party",
+      "party_code": "UNP",
+      "votes": 487,
+      "p_votes": 0.03,
+      "seats": 1
+    },
+    {
+      "party_name": "Sarvajana Balaya",
+      "party_code": "SB",
+      "votes": 429,
+      "p_votes": 0.02,
+      "seats": 0
+    }
+  ]
+}
