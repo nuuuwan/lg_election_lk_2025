@@ -288,7 +288,12 @@ class OverallReport:
 
                 cell = ""
                 for party_name in party_list:
-                    cell += f"{party_name}·{seats}<br>"
+                    cell += (
+                        OverallReport.get_party_name_annotated(
+                            party_name, "", use_short=True
+                        )
+                        + f"·{seats}<br>"
+                    )
                 line += cell + "|"
                 display_seats += seats
 
