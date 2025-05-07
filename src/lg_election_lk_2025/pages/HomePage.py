@@ -28,7 +28,6 @@ class HomePage(WebPage):
                 result_url = a_result.get_attribute("href")
 
                 results_url_list.append(result_url)
-                log.debug(f"{len(results_url_list)}) {result_url=}")
 
         # HACK
         results_url_list.extend(
