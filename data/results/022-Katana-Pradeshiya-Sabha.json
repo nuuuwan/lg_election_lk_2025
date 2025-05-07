@@ -1,0 +1,82 @@
+{
+  "district_name": "Gampaha",
+  "lg_code": "022",
+  "lg_name": "Katana Pradeshiya Sabha",
+  "url": "https://results.elections.gov.lk/?page=lg_result&district=GAMPAHA&lg_code=022&lg_name=KATANA-PRADESHIYA-SABHA",
+  "time_str": "2025-05-07 06:19:00",
+  "time_ut": 1746578940.0,
+  "summary_data": {
+    "electors": 140712,
+    "polled": 82027,
+    "valid": 80639,
+    "rejected": 1388,
+    "p_turnout": 0.58,
+    "p_valid": 0.98,
+    "p_rejected": 0.02
+  },
+  "party_result_data_list": [
+    {
+      "party_name": "Jathika Jana Balawegaya",
+      "party_code": "NPP",
+      "votes": 42299,
+      "p_votes": 0.52,
+      "seats": 22
+    },
+    {
+      "party_name": "Samagi Jana Balawegaya",
+      "party_code": "SJB",
+      "votes": 14399,
+      "p_votes": 0.18,
+      "seats": 7
+    },
+    {
+      "party_name": "Sri Lanka Podujana Peramuna",
+      "party_code": "SLPP",
+      "votes": 9936,
+      "p_votes": 0.12,
+      "seats": 5
+    },
+    {
+      "party_name": "People's Alliance",
+      "party_code": "PA",
+      "votes": 4281,
+      "p_votes": 0.05,
+      "seats": 2
+    },
+    {
+      "party_name": "Independent Group",
+      "party_code": "IND1",
+      "votes": 3483,
+      "p_votes": 0.04,
+      "seats": 2
+    },
+    {
+      "party_name": "Sarvajana Balaya",
+      "party_code": "SB",
+      "votes": 3410,
+      "p_votes": 0.04,
+      "seats": 2
+    },
+    {
+      "party_name": "United National Party",
+      "party_code": "UNP",
+      "votes": 2173,
+      "p_votes": 0.03,
+      "seats": 1
+    },
+    {
+      "party_name": "Sri Lanka Muslim Congress",
+      "party_code": "SLMC",
+      "votes": 509,
+      "p_votes": 0.01,
+      "seats": 0
+    },
+    {
+      "party_name": "People's Struggle Alliance",
+      "party_code": "PSA",
+      "votes": 149,
+      "p_votes": 0.0,
+      "seats": 0
+    }
+  ]
+}

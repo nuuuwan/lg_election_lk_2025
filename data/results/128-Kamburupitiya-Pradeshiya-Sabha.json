@@ -1,0 +1,54 @@
+{
+  "district_name": "Matara",
+  "lg_code": "128",
+  "lg_name": "Kamburupitiya Pradeshiya Sabha",
+  "url": "https://results.elections.gov.lk/?page=lg_result&district=MATARA&lg_code=128&lg_name=KAMBURUPITIYA-PRADESHIYA-SABHA",
+  "time_str": "2025-05-07 06:24:00",
+  "time_ut": 1746579240.0,
+  "summary_data": {
+    "electors": 35799,
+    "polled": 22521,
+    "valid": 22002,
+    "rejected": 519,
+    "p_turnout": 0.63,
+    "p_valid": 0.98,
+    "p_rejected": 0.02
+  },
+  "party_result_data_list": [
+    {
+      "party_name": "Jathika Jana Balawegaya",
+      "party_code": "NPP",
+      "votes": 10705,
+      "p_votes": 0.49,
+      "seats": 8
+    },
+    {
+      "party_name": "Samagi Jana Balawegaya",
+      "party_code": "SJB",
+      "votes": 6071,
+      "p_votes": 0.28,
+      "seats": 4
+    },
+    {
+      "party_name": "Sri Lanka Podujana Peramuna",
+      "party_code": "SLPP",
+      "votes": 2993,
+      "p_votes": 0.14,
+      "seats": 2
+    },
+    {
+      "party_name": "Patriotic People's Power",
+      "party_code": "PPP",
+      "votes": 2058,
+      "p_votes": 0.09,
+      "seats": 2
+    },
+    {
+      "party_name": "People's Alliance",
+      "party_code": "PA",
+      "votes": 175,
+      "p_votes": 0.01,
+      "seats": 0
+    }
+  ]
+}
