@@ -1,0 +1,61 @@
+{
+  "district_name": "Matale",
+  "lg_code": "077",
+  "lg_name": "Ambanganga Korale Pradeshiya Sabha",
+  "url": "https://results.elections.gov.lk/?page=lg_result&district=MATALE&lg_code=077&lg_name=AMBANGANGA-KORALE-PRADESHIYA-SABHA",
+  "time_str": "2025-05-07 07:54:00",
+  "time_ut": 1746584640.0,
+  "summary_data": {
+    "electors": 14124,
+    "polled": 9415,
+    "valid": 9122,
+    "rejected": 293,
+    "p_turnout": 0.67,
+    "p_valid": 0.97,
+    "p_rejected": 0.03
+  },
+  "party_result_data_list": [
+    {
+      "party_name": "Samagi Jana Balawegaya",
+      "party_code": "SJB",
+      "votes": 3622,
+      "p_votes": 0.4,
+      "seats": 8
+    },
+    {
+      "party_name": "Jathika Jana Balawegaya",
+      "party_code": "NPP",
+      "votes": 2889,
+      "p_votes": 0.32,
+      "seats": 5
+    },
+    {
+      "party_name": "Sri Lanka Podujana Peramuna",
+      "party_code": "SLPP",
+      "votes": 912,
+      "p_votes": 0.1,
+      "seats": 2
+    },
+    {
+      "party_name": "Ceylon Worker's Congress (P. Wing)",
+      "party_code": "CWC",
+      "votes": 858,
+      "p_votes": 0.09,
+      "seats": 1
+    },
+    {
+      "party_name": "Sarvajana Balaya",
+      "party_code": "SB",
+      "votes": 451,
+      "p_votes": 0.05,
+      "seats": 1
+    },
+    {
+      "party_name": "United National Party",
+      "party_code": "UNP",
+      "votes": 390,
+      "p_votes": 0.04,
+      "seats": 1
+    }
+  ]
+}
