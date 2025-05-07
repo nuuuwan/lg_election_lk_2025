@@ -1,0 +1,75 @@
+{
+  "district_name": "Kandy",
+  "lg_code": "056",
+  "lg_name": "Harispattuwa Pradeshiya Sabha",
+  "url": "https://results.elections.gov.lk/?page=lg_result&district=KANDY&lg_code=056&lg_name=HARISPATTUWA-PRADESHIYA-SABHA",
+  "time_str": "2025-05-07 07:41:00",
+  "time_ut": 1746583860.0,
+  "summary_data": {
+    "electors": 76540,
+    "polled": 46237,
+    "valid": 44944,
+    "rejected": 1293,
+    "p_turnout": 0.6,
+    "p_valid": 0.97,
+    "p_rejected": 0.03
+  },
+  "party_result_data_list": [
+    {
+      "party_name": "Jathika Jana Balawegaya",
+      "party_code": "NPP",
+      "votes": 23288,
+      "p_votes": 0.52,
+      "seats": 20
+    },
+    {
+      "party_name": "Samagi Jana Balawegaya",
+      "party_code": "SJB",
+      "votes": 10288,
+      "p_votes": 0.23,
+      "seats": 8
+    },
+    {
+      "party_name": "Sarvajana Balaya",
+      "party_code": "SB",
+      "votes": 3675,
+      "p_votes": 0.08,
+      "seats": 3
+    },
+    {
+      "party_name": "Sri Lanka Podujana Peramuna",
+      "party_code": "SLPP",
+      "votes": 3330,
+      "p_votes": 0.07,
+      "seats": 3
+    },
+    {
+      "party_name": "People's Alliance",
+      "party_code": "PA",
+      "votes": 1974,
+      "p_votes": 0.04,
+      "seats": 1
+    },
+    {
+      "party_name": "United Republican Front",
+      "party_code": "URF",
+      "votes": 1161,
+      "p_votes": 0.03,
+      "seats": 1
+    },
+    {
+      "party_name": "United National Alliance",
+      "party_code": "UNA",
+      "votes": 888,
+      "p_votes": 0.02,
+      "seats": 1
+    },
+    {
+      "party_name": "People's Struggle Alliance",
+      "party_code": "PSA",
+      "votes": 340,
+      "p_votes": 0.01,
+      "seats": 0
+    }
+  ]
+}

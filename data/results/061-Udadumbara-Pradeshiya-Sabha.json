@@ -1,0 +1,61 @@
+{
+  "district_name": "Kandy",
+  "lg_code": "061",
+  "lg_name": "Udadumbara Pradeshiya Sabha",
+  "url": "https://results.elections.gov.lk/?page=lg_result&district=KANDY&lg_code=061&lg_name=UDADUMBARA-PRADESHIYA-SABHA",
+  "time_str": "2025-05-07 07:37:00",
+  "time_ut": 1746583620.0,
+  "summary_data": {
+    "electors": 19794,
+    "polled": 13787,
+    "valid": 13486,
+    "rejected": 301,
+    "p_turnout": 0.7,
+    "p_valid": 0.98,
+    "p_rejected": 0.02
+  },
+  "party_result_data_list": [
+    {
+      "party_name": "Samagi Jana Balawegaya",
+      "party_code": "SJB",
+      "votes": 4945,
+      "p_votes": 0.37,
+      "seats": 6
+    },
+    {
+      "party_name": "Jathika Jana Balawegaya",
+      "party_code": "NPP",
+      "votes": 4925,
+      "p_votes": 0.37,
+      "seats": 6
+    },
+    {
+      "party_name": "Sarvajana Balaya",
+      "party_code": "SB",
+      "votes": 1320,
+      "p_votes": 0.1,
+      "seats": 1
+    },
+    {
+      "party_name": "Sri Lanka Podujana Peramuna",
+      "party_code": "SLPP",
+      "votes": 1002,
+      "p_votes": 0.07,
+      "seats": 1
+    },
+    {
+      "party_name": "Independent Group",
+      "party_code": "IND1",
+      "votes": 655,
+      "p_votes": 0.05,
+      "seats": 1
+    },
+    {
+      "party_name": "United National Party",
+      "party_code": "UNP",
+      "votes": 639,
+      "p_votes": 0.05,
+      "seats": 1
+    }
+  ]
+}

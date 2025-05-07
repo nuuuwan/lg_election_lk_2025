@@ -1,0 +1,75 @@
+{
+  "district_name": "Kandy",
+  "lg_code": "055",
+  "lg_name": "Thumpane Pradeshiya Sabha",
+  "url": "https://results.elections.gov.lk/?page=lg_result&district=KANDY&lg_code=055&lg_name=THUMPANE-PRADESHIYA-SABHA",
+  "time_str": "2025-05-07 07:42:00",
+  "time_ut": 1746583920.0,
+  "summary_data": {
+    "electors": 58890,
+    "polled": 36569,
+    "valid": 35669,
+    "rejected": 900,
+    "p_turnout": 0.62,
+    "p_valid": 0.98,
+    "p_rejected": 0.02
+  },
+  "party_result_data_list": [
+    {
+      "party_name": "Jathika Jana Balawegaya",
+      "party_code": "NPP",
+      "votes": 17530,
+      "p_votes": 0.49,
+      "seats": 17
+    },
+    {
+      "party_name": "Samagi Jana Balawegaya",
+      "party_code": "SJB",
+      "votes": 8361,
+      "p_votes": 0.23,
+      "seats": 7
+    },
+    {
+      "party_name": "Sri Lanka Podujana Peramuna",
+      "party_code": "SLPP",
+      "votes": 2994,
+      "p_votes": 0.08,
+      "seats": 2
+    },
+    {
+      "party_name": "Sarvajana Balaya",
+      "party_code": "SB",
+      "votes": 1883,
+      "p_votes": 0.05,
+      "seats": 2
+    },
+    {
+      "party_name": "United National Alliance",
+      "party_code": "UNA",
+      "votes": 1826,
+      "p_votes": 0.05,
+      "seats": 2
+    },
+    {
+      "party_name": "United National Party",
+      "party_code": "UNP",
+      "votes": 1419,
+      "p_votes": 0.04,
+      "seats": 1
+    },
+    {
+      "party_name": "People's Alliance",
+      "party_code": "PA",
+      "votes": 1054,
+      "p_votes": 0.03,
+      "seats": 1
+    },
+    {
+      "party_name": "Jathika Sangwardhena Peramuna",
+      "party_code": "JSWP",
+      "votes": 602,
+      "p_votes": 0.02,
+      "seats": 0
+    }
+  ]
+}
