@@ -317,19 +317,22 @@ class OverallReport:
         return lines
 
     @staticmethod
-    def get_lg_short_name(lg_name):
+    def get_lg_short_name(lg_name, no_emoji=False):
         lg_type = " ".join(lg_name.split(" ")[-2:])
         lg_type_short = "".join([x[0] for x in lg_type.split(" ")])
         lg_name_only = " ".join(lg_name.split(" ")[:-2])
 
-        emoji = {
-            "MC": "🏛️",
-            "UC": "🏢",
-            "PS": "🏡",
-        }.get(lg_type_short, None)
+        if not no_emoji:
+            emoji = {
+                "MC": "🏛️",
+                "UC": "🏢",
+                "PS": "🏡",
+            }.get(lg_type_short, None)
 
-        if emoji is None:
-            raise ValueError(f"Unknown LG type: {lg_type} in {lg_name}")
+            if emoji is None:
+                raise ValueError(f"Unknown LG type: {lg_type} in {lg_name}")
+        else:
+            emoji = ""
         return f"{emoji}{lg_name_only} {lg_type_short}"
 
     def get_result_lines(self, n_latest=None):
@@ -487,19 +490,20 @@ class OverallReport:
         released_lg_id_set = set()
         for result in self.get_result_list():
             lg_name = result["lg_name"]
-            lg_name_short = OverallReport.get_lg_short_name(lg_name)
+            lg_name_short = OverallReport.get_lg_short_name(
+                lg_name, no_emoji=True
+            )
             ent_list = Ent.list_from_name_fuzzy(
                 name_fuzzy=lg_name_short,
                 filter_ent_type=EntType.LG,
-                min_fuzz_ratio=70,
+                min_fuzz_ratio=80,
             )
             if len(ent_list) > 0:
                 lg_ent = ent_list[0]
                 released_lg_id_set.add(lg_ent.id)
+                lg_ent = ent_list[0]
             else:
-                log.warning(
-                    f"LG not found: {lg_name_short} ({result['lg_code']})"
-                )
+                log.warning(f"LG not found: {lg_name_short}")
         released_lg_id_set.add("LG-11003")
 
         all_lg_id_set = set([ent.id for ent in Ent.list_from_type(EntType.LG)])

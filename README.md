@@ -1,6 +1,6 @@
 # Sri Lankan Local Government Elections - 2025 🇱🇰
 
-As of 2025-05-07 11:50:49
+As of 2025-05-07 11:57:21
 
 *Scraped from [results.elections.gov.lk](https://results.elections.gov.lk)*
 
@@ -561,9 +561,9 @@ As of 2025-05-07 11:50:49
 All LGs: 341
 Released LGs: 335
 Missing LGs: 6
-- Maho PS (LG-61003)
-- Kalmunai MC (LG-52009)
-- Koralai Pattu West PS (LG-51002)
-- Thalawa PS (LG-71015)
-- Elpitiya PS (LG-31004)
 - Medawachchiya PS (LG-71003)
+- Thalawa PS (LG-71015)
+- Kalmunai MC (LG-52009)
+- Elpitiya PS (LG-31004)
+- Maho PS (LG-61003)
+- Koralai Pattu West PS (LG-51002)
