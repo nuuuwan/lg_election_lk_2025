@@ -1,0 +1,54 @@
+{
+  "district_name": "Matale",
+  "lg_code": "079",
+  "lg_name": "Laggala Pallegama Pradeshiya Sabha",
+  "url": "https://results.elections.gov.lk/?page=lg_result&district=MATALE&lg_code=079&lg_name=LAGGALA-PALLEGAMA-PRADESHIYA-SABHA",
+  "time_str": "2025-05-07 08:03:00",
+  "time_ut": 1746585180.0,
+  "summary_data": {
+    "electors": 13614,
+    "polled": 9104,
+    "valid": 8926,
+    "rejected": 178,
+    "p_turnout": 0.67,
+    "p_valid": 0.98,
+    "p_rejected": 0.02
+  },
+  "party_result_data_list": [
+    {
+      "party_name": "Samagi Jana Balawegaya",
+      "party_code": "SJB",
+      "votes": 3380,
+      "p_votes": 0.38,
+      "seats": 6
+    },
+    {
+      "party_name": "Jathika Jana Balawegaya",
+      "party_code": "NPP",
+      "votes": 3230,
+      "p_votes": 0.36,
+      "seats": 6
+    },
+    {
+      "party_name": "Sri Lanka Podujana Peramuna",
+      "party_code": "SLPP",
+      "votes": 1525,
+      "p_votes": 0.17,
+      "seats": 3
+    },
+    {
+      "party_name": "Sarvajana Balaya",
+      "party_code": "SB",
+      "votes": 446,
+      "p_votes": 0.05,
+      "seats": 1
+    },
+    {
+      "party_name": "United National Party",
+      "party_code": "UNP",
+      "votes": 345,
+      "p_votes": 0.04,
+      "seats": 0
+    }
+  ]
+}

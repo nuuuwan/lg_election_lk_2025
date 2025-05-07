@@ -1,0 +1,68 @@
+{
+  "district_name": "Kegalle",
+  "lg_code": "334",
+  "lg_name": "Rambukkana Pradeshiya Sabha",
+  "url": "https://results.elections.gov.lk/?page=lg_result&district=KEGALLE&lg_code=334&lg_name=RAMBUKKANA-PRADESHIYA-SABHA",
+  "time_str": "2025-05-07 08:04:00",
+  "time_ut": 1746585240.0,
+  "summary_data": {
+    "electors": 72628,
+    "polled": 44269,
+    "valid": 43365,
+    "rejected": 904,
+    "p_turnout": 0.61,
+    "p_valid": 0.98,
+    "p_rejected": 0.02
+  },
+  "party_result_data_list": [
+    {
+      "party_name": "Jathika Jana Balawegaya",
+      "party_code": "NPP",
+      "votes": 22723,
+      "p_votes": 0.52,
+      "seats": 21
+    },
+    {
+      "party_name": "Sri Lanka Podujana Peramuna",
+      "party_code": "SLPP",
+      "votes": 6334,
+      "p_votes": 0.15,
+      "seats": 5
+    },
+    {
+      "party_name": "Samagi Jana Balawegaya",
+      "party_code": "SJB",
+      "votes": 6286,
+      "p_votes": 0.14,
+      "seats": 5
+    },
+    {
+      "party_name": "United National Party",
+      "party_code": "UNP",
+      "votes": 4326,
+      "p_votes": 0.1,
+      "seats": 4
+    },
+    {
+      "party_name": "Sarvajana Balaya",
+      "party_code": "SB",
+      "votes": 2099,
+      "p_votes": 0.05,
+      "seats": 2
+    },
+    {
+      "party_name": "Independent Group",
+      "party_code": "IND1",
+      "votes": 1379,
+      "p_votes": 0.03,
+      "seats": 1
+    },
+    {
+      "party_name": "People's Struggle Alliance",
+      "party_code": "PSA",
+      "votes": 218,
+      "p_votes": 0.01,
+      "seats": 0
+    }
+  ]
+}
