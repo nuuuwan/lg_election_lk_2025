@@ -336,7 +336,7 @@ class OverallReport:
             (
                 "## Results by Local Authority"
                 if n_latest is None
-                else f"## Latest Results ({n_latest})"
+                else f"## {n_latest} Latest Results"
             ),
         ]
         show_district_headers = n_latest is None

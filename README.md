@@ -1,6 +1,6 @@
 # Sri Lankan Local Government Elections - 2025 🇱🇰
 
-As of 2025-05-07 10:31:35
+As of 2025-05-07 10:32:05
 
 *Scraped from [results.elections.gov.lk](https://results.elections.gov.lk)*
 
@@ -25,7 +25,7 @@ As of 2025-05-07 10:31:35
 |⚪Democratic Tamil National Alliance|*100*|*1%*|82,178|1%|1||
 |⚪All Ceylon Tamil Congress|*96*|*1%*|62,668|1%|3||
 
-## Latest Results (10)
+## 10 Latest Results
 
 |  |  |  |  |  |  |
 |---|---|---|---|---|---|
