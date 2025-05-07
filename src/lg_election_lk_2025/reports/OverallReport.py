@@ -511,7 +511,6 @@ class OverallReport:
     def lines(self):
         return (
             self.header_lines
-            + self.missing_results_lines
             + self.lk_summary_lines
             + self.lk_party_to_summary_lines
             + self.get_result_lines(10)
