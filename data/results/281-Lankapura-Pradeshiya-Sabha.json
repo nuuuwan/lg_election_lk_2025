@@ -1,0 +1,61 @@
+{
+  "district_name": "Polonnaruwa",
+  "lg_code": "281",
+  "lg_name": "Lankapura Pradeshiya Sabha",
+  "url": "https://results.elections.gov.lk/?page=lg_result&district=POLONNARUWA&lg_code=281&lg_name=LANKAPURA-PRADESHIYA-SABHA",
+  "time_str": "2025-05-07 08:08:00",
+  "time_ut": 1746585480.0,
+  "summary_data": {
+    "electors": 31130,
+    "polled": 20721,
+    "valid": 20389,
+    "rejected": 332,
+    "p_turnout": 0.67,
+    "p_valid": 0.98,
+    "p_rejected": 0.02
+  },
+  "party_result_data_list": [
+    {
+      "party_name": "Jathika Jana Balawegaya",
+      "party_code": "NPP",
+      "votes": 9808,
+      "p_votes": 0.48,
+      "seats": 12
+    },
+    {
+      "party_name": "Samagi Jana Balawegaya",
+      "party_code": "SJB",
+      "votes": 4614,
+      "p_votes": 0.23,
+      "seats": 5
+    },
+    {
+      "party_name": "Independent Group",
+      "party_code": "IND1",
+      "votes": 3139,
+      "p_votes": 0.15,
+      "seats": 4
+    },
+    {
+      "party_name": "Sarvajana Balaya",
+      "party_code": "SB",
+      "votes": 2097,
+      "p_votes": 0.1,
+      "seats": 2
+    },
+    {
+      "party_name": "Sri Lanka Podujana Peramuna",
+      "party_code": "SLPP",
+      "votes": 687,
+      "p_votes": 0.03,
+      "seats": 1
+    },
+    {
+      "party_name": "People's Alliance",
+      "party_code": "PA",
+      "votes": 44,
+      "p_votes": 0.0,
+      "seats": 0
+    }
+  ]
+}
