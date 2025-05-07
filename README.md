@@ -1,6 +1,6 @@
 # Sri Lankan Local Government Elections - 2025 🇱🇰
 
-As of 2025-05-07 08:53:01
+As of 2025-05-07 08:53:58
 
 *Scraped from [results.elections.gov.lk](https://results.elections.gov.lk)*
 
@@ -15,15 +15,15 @@ As of 2025-05-07 08:53:01
 | Party | Votes | %  | *Seats* | *%* | LG's with<br>Won | **LGs with<br>≥50% Seats** |
 |---|--:|--:|--:|--:|--:|--:|
 |🔴Jathika Jana Balawegaya|3,470,443|44%|*3,052*|*45%*|221|**121**|
-|🟢Samagi Jana Balawegaya|1,674,473|21%|*1,326*|*19%*|12|****|
-|🟣Sri Lanka Podujana Peramuna|763,680|10%|*596*|*9%*||****|
-|🟩United National Party|353,762|4%|*288*|*4%*|1|****|
-|🟦People's Alliance|288,461|4%|*238*|*3%*||****|
+|🟢Samagi Jana Balawegaya|1,674,473|21%|*1,326*|*19%*|12||
+|🟣Sri Lanka Podujana Peramuna|763,680|10%|*596*|*9%*|||
+|🟩United National Party|353,762|4%|*288*|*4%*|1||
+|🟦People's Alliance|288,461|4%|*238*|*3%*|||
 |🟡Ilankai Tamil Arasu Kadchi|236,731|3%|*310*|*5%*|33|**6**|
-|🔵Sarvajana Balaya|203,023|3%|*170*|*2%*||****|
-|⚪Sri Lanka Muslim Congress|83,926|1%|*70*|*1%*|2|****|
-|⚪Democratic Tamil National Alliance|80,258|1%|*97*|*1%*|1|****|
-|⚪All Ceylon Tamil Congress|59,785|1%|*92*|*1%*|4|****|
+|🔵Sarvajana Balaya|203,023|3%|*170*|*2%*|||
+|⚪Sri Lanka Muslim Congress|83,926|1%|*70*|*1%*|2||
+|⚪Democratic Tamil National Alliance|80,258|1%|*97*|*1%*|1||
+|⚪All Ceylon Tamil Congress|59,785|1%|*92*|*1%*|4||
 
 ## Results by Local Authority
 
