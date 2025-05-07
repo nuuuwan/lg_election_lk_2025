@@ -1,0 +1,75 @@
+{
+  "district_name": "Kandy",
+  "lg_code": "065",
+  "lg_name": "Pathahewaheta Pradeshiya Sabha",
+  "url": "https://results.elections.gov.lk/?page=lg_result&district=KANDY&lg_code=065&lg_name=PATHAHEWAHETA-PRADESHIYA-SABHA",
+  "time_str": "2025-05-07 08:20:00",
+  "time_ut": 1746586200.0,
+  "summary_data": {
+    "electors": 78805,
+    "polled": 50576,
+    "valid": 49088,
+    "rejected": 1488,
+    "p_turnout": 0.64,
+    "p_valid": 0.97,
+    "p_rejected": 0.03
+  },
+  "party_result_data_list": [
+    {
+      "party_name": "Jathika Jana Balawegaya",
+      "party_code": "NPP",
+      "votes": 19364,
+      "p_votes": 0.39,
+      "seats": 18
+    },
+    {
+      "party_name": "Samagi Jana Balawegaya",
+      "party_code": "SJB",
+      "votes": 14090,
+      "p_votes": 0.29,
+      "seats": 12
+    },
+    {
+      "party_name": "People's Alliance",
+      "party_code": "PA",
+      "votes": 4106,
+      "p_votes": 0.08,
+      "seats": 3
+    },
+    {
+      "party_name": "United National Party",
+      "party_code": "UNP",
+      "votes": 3524,
+      "p_votes": 0.07,
+      "seats": 3
+    },
+    {
+      "party_name": "Sri Lanka Podujana Peramuna",
+      "party_code": "SLPP",
+      "votes": 3231,
+      "p_votes": 0.07,
+      "seats": 3
+    },
+    {
+      "party_name": "Sarvajana Balaya",
+      "party_code": "SB",
+      "votes": 2404,
+      "p_votes": 0.05,
+      "seats": 2
+    },
+    {
+      "party_name": "United National Alliance",
+      "party_code": "UNA",
+      "votes": 1441,
+      "p_votes": 0.03,
+      "seats": 1
+    },
+    {
+      "party_name": "Ceylon Worker's Congress (P. Wing)",
+      "party_code": "CWC",
+      "votes": 928,
+      "p_votes": 0.02,
+      "seats": 1
+    }
+  ]
+}

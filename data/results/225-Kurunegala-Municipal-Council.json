@@ -1,0 +1,110 @@
+{
+  "district_name": "Kurunegala",
+  "lg_code": "225",
+  "lg_name": "Kurunegala Municipal Council",
+  "url": "https://results.elections.gov.lk/?page=lg_result&district=KURUNEGALA&lg_code=225&lg_name=KURUNEGALA-MUNICIPAL-COUNCIL",
+  "time_str": "2025-05-07 08:20:00",
+  "time_ut": 1746586200.0,
+  "summary_data": {
+    "electors": 21621,
+    "polled": 14172,
+    "valid": 13924,
+    "rejected": 248,
+    "p_turnout": 0.66,
+    "p_valid": 0.98,
+    "p_rejected": 0.02
+  },
+  "party_result_data_list": [
+    {
+      "party_name": "Jathika Jana Balawegaya",
+      "party_code": "NPP",
+      "votes": 5721,
+      "p_votes": 0.41,
+      "seats": 10
+    },
+    {
+      "party_name": "Samagi Jana Balawegaya",
+      "party_code": "SJB",
+      "votes": 3426,
+      "p_votes": 0.25,
+      "seats": 5
+    },
+    {
+      "party_name": "Sri Lanka Mahajana Pakshaya",
+      "party_code": "SLMP",
+      "votes": 1117,
+      "p_votes": 0.08,
+      "seats": 2
+    },
+    {
+      "party_name": "Sri Lanka Podujana Peramuna",
+      "party_code": "SLPP",
+      "votes": 729,
+      "p_votes": 0.05,
+      "seats": 1
+    },
+    {
+      "party_name": "United National Alliance",
+      "party_code": "UNA",
+      "votes": 558,
+      "p_votes": 0.04,
+      "seats": 1
+    },
+    {
+      "party_name": "United National Party",
+      "party_code": "UNP",
+      "votes": 508,
+      "p_votes": 0.04,
+      "seats": 1
+    },
+    {
+      "party_name": "All Ceylon Makkal Congress",
+      "party_code": "ACMC",
+      "votes": 417,
+      "p_votes": 0.03,
+      "seats": 1
+    },
+    {
+      "party_name": "People's Alliance",
+      "party_code": "PA",
+      "votes": 402,
+      "p_votes": 0.03,
+      "seats": 1
+    },
+    {
+      "party_name": "Ceylon Worker's Congress (P. Wing)",
+      "party_code": "CWC",
+      "votes": 323,
+      "p_votes": 0.02,
+      "seats": 0
+    },
+    {
+      "party_name": "Independent Group 2",
+      "party_code": "IND2",
+      "votes": 323,
+      "p_votes": 0.02,
+      "seats": 0
+    },
+    {
+      "party_name": "Independent Group 1",
+      "party_code": "IND1",
+      "votes": 280,
+      "p_votes": 0.02,
+      "seats": 0
+    },
+    {
+      "party_name": "Independent Group 4",
+      "party_code": "IND4",
+      "votes": 72,
+      "p_votes": 0.01,
+      "seats": 0
+    },
+    {
+      "party_name": "Independent Group 3",
+      "party_code": "IND3",
+      "votes": 48,
+      "p_votes": 0.0,
+      "seats": 0
+    }
+  ]
+}

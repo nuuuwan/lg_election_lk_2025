@@ -1,0 +1,68 @@
+{
+  "district_name": "Matale",
+  "lg_code": "081",
+  "lg_name": "Matale Pradeshiya Sabha",
+  "url": "https://results.elections.gov.lk/?page=lg_result&district=MATALE&lg_code=081&lg_name=MATALE-PRADESHIYA-SABHA",
+  "time_str": "2025-05-07 08:19:00",
+  "time_ut": 1746586140.0,
+  "summary_data": {
+    "electors": 37443,
+    "polled": 23354,
+    "valid": 22666,
+    "rejected": 688,
+    "p_turnout": 0.62,
+    "p_valid": 0.97,
+    "p_rejected": 0.03
+  },
+  "party_result_data_list": [
+    {
+      "party_name": "Jathika Jana Balawegaya",
+      "party_code": "NPP",
+      "votes": 10344,
+      "p_votes": 0.46,
+      "seats": 18
+    },
+    {
+      "party_name": "Samagi Jana Balawegaya",
+      "party_code": "SJB",
+      "votes": 5764,
+      "p_votes": 0.25,
+      "seats": 8
+    },
+    {
+      "party_name": "Sri Lanka Podujana Peramuna",
+      "party_code": "SLPP",
+      "votes": 2435,
+      "p_votes": 0.11,
+      "seats": 3
+    },
+    {
+      "party_name": "United National Party",
+      "party_code": "UNP",
+      "votes": 1859,
+      "p_votes": 0.08,
+      "seats": 2
+    },
+    {
+      "party_name": "National Freedom Front",
+      "party_code": "NFF",
+      "votes": 945,
+      "p_votes": 0.04,
+      "seats": 1
+    },
+    {
+      "party_name": "Ceylon Worker's Congress (P. Wing)",
+      "party_code": "CWC",
+      "votes": 715,
+      "p_votes": 0.03,
+      "seats": 1
+    },
+    {
+      "party_name": "Sarvajana Balaya",
+      "party_code": "SB",
+      "votes": 604,
+      "p_votes": 0.03,
+      "seats": 1
+    }
+  ]
+}
