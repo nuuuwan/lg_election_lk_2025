@@ -1,0 +1,68 @@
+{
+  "district_name": "Kandy",
+  "lg_code": "060",
+  "lg_name": "Panwila Pradeshiya Sabha",
+  "url": "https://results.elections.gov.lk/?page=lg_result&district=KANDY&lg_code=060&lg_name=PANWILA-PRADESHIYA-SABHA",
+  "time_str": "2025-05-07 10:05:00",
+  "time_ut": 1746592500.0,
+  "summary_data": {
+    "electors": 23087,
+    "polled": 14949,
+    "valid": 14380,
+    "rejected": 569,
+    "p_turnout": 0.65,
+    "p_valid": 0.96,
+    "p_rejected": 0.04
+  },
+  "party_result_data_list": [
+    {
+      "party_name": "Samagi Jana Balawegaya",
+      "party_code": "SJB",
+      "votes": 4931,
+      "p_votes": 0.34,
+      "seats": 6
+    },
+    {
+      "party_name": "Jathika Jana Balawegaya",
+      "party_code": "NPP",
+      "votes": 4679,
+      "p_votes": 0.33,
+      "seats": 5
+    },
+    {
+      "party_name": "Ceylon Worker's Congress (P. Wing)",
+      "party_code": "CWC",
+      "votes": 2108,
+      "p_votes": 0.15,
+      "seats": 2
+    },
+    {
+      "party_name": "Sri Lanka Podujana Peramuna",
+      "party_code": "SLPP",
+      "votes": 955,
+      "p_votes": 0.07,
+      "seats": 1
+    },
+    {
+      "party_name": "People's Alliance",
+      "party_code": "PA",
+      "votes": 852,
+      "p_votes": 0.06,
+      "seats": 1
+    },
+    {
+      "party_name": "Sarvajana Balaya",
+      "party_code": "SB",
+      "votes": 800,
+      "p_votes": 0.06,
+      "seats": 1
+    },
+    {
+      "party_name": "People's Struggle Alliance",
+      "party_code": "PSA",
+      "votes": 55,
+      "p_votes": 0.0,
+      "seats": 0
+    }
+  ]
+}

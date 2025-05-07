@@ -1,0 +1,96 @@
+{
+  "district_name": "Kegalle",
+  "lg_code": "335",
+  "lg_name": "Mawanella Pradeshiya Sabha",
+  "url": "https://results.elections.gov.lk/?page=lg_result&district=KEGALLE&lg_code=335&lg_name=MAWANELLA-PRADESHIYA-SABHA",
+  "time_str": "2025-05-07 10:06:00",
+  "time_ut": 1746592560.0,
+  "summary_data": {
+    "electors": 97582,
+    "polled": 61116,
+    "valid": 59782,
+    "rejected": 1334,
+    "p_turnout": 0.63,
+    "p_valid": 0.98,
+    "p_rejected": 0.02
+  },
+  "party_result_data_list": [
+    {
+      "party_name": "Jathika Jana Balawegaya",
+      "party_code": "NPP",
+      "votes": 25490,
+      "p_votes": 0.43,
+      "seats": 19
+    },
+    {
+      "party_name": "Samagi Jana Balawegaya",
+      "party_code": "SJB",
+      "votes": 16749,
+      "p_votes": 0.28,
+      "seats": 11
+    },
+    {
+      "party_name": "People's Alliance",
+      "party_code": "PA",
+      "votes": 4113,
+      "p_votes": 0.07,
+      "seats": 3
+    },
+    {
+      "party_name": "United National Party",
+      "party_code": "UNP",
+      "votes": 3857,
+      "p_votes": 0.06,
+      "seats": 3
+    },
+    {
+      "party_name": "Sri Lanka Podujana Peramuna",
+      "party_code": "SLPP",
+      "votes": 3679,
+      "p_votes": 0.06,
+      "seats": 3
+    },
+    {
+      "party_name": "Sarvajana Balaya",
+      "party_code": "SB",
+      "votes": 2297,
+      "p_votes": 0.04,
+      "seats": 2
+    },
+    {
+      "party_name": "United National Freedom Front",
+      "party_code": "UNFF",
+      "votes": 1432,
+      "p_votes": 0.02,
+      "seats": 1
+    },
+    {
+      "party_name": "People's Struggle Alliance",
+      "party_code": "PSA",
+      "votes": 624,
+      "p_votes": 0.01,
+      "seats": 0
+    },
+    {
+      "party_name": "Independent Group",
+      "party_code": "IND1",
+      "votes": 610,
+      "p_votes": 0.01,
+      "seats": 0
+    },
+    {
+      "party_name": "National Freedom Front",
+      "party_code": "NFF",
+      "votes": 528,
+      "p_votes": 0.01,
+      "seats": 0
+    },
+    {
+      "party_name": "Democratic Left Front",
+      "party_code": "DLF",
+      "votes": 403,
+      "p_votes": 0.01,
+      "seats": 0
+    }
+  ]
+}
