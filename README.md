@@ -1,6 +1,6 @@
 # Sri Lankan Local Government Elections - 2025 🇱🇰
 
-As of 2025-05-07 11:43:17
+As of 2025-05-07 11:44:58
 
 *Scraped from [results.elections.gov.lk](https://results.elections.gov.lk)*
 
@@ -560,9 +560,9 @@ As of 2025-05-07 11:43:17
 All LGs: 341
 Released LGs: 335
 Missing LGs: 6
+- Koralai Pattu West PS (LG-51002)
 - Medawachchiya PS (LG-71003)
+- Valikamam South-West PS (LG-41004)
+- Thalawa PS (LG-71015)
 - Elpitiya PS (LG-31004)
 - Kalmunai MC (LG-52009)
-- Valikamam South-West PS (LG-41004)
-- Koralai Pattu West PS (LG-51002)
-- Thalawa PS (LG-71015)
