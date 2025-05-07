@@ -318,7 +318,7 @@ class OverallReport:
                         OverallReport.get_party_name_annotated(
                             party_name, lg_code, use_short=True
                         )
-                        + f" ({seats})"
+                        + f" · *{seats}*"
                     )
                     if is_majority:
                         cell_inner = f"**{cell_inner}✔️**"
