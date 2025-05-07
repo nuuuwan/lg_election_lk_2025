@@ -1,6 +1,6 @@
 # Sri Lankan Local Government Elections - 2025 🇱🇰
 
-As of 2025-05-07 09:43:52
+As of 2025-05-07 09:44:42
 
 *Scraped from [results.elections.gov.lk](https://results.elections.gov.lk)*
 
@@ -25,7 +25,7 @@ As of 2025-05-07 09:43:52
 |⚪Democratic Tamil National Alliance|80,793|1%|*98*|*1%*|1||
 |⚪All Ceylon Makkal Congress|62,510|1%|*53*|*1%*|3||
 
-## Results by District
+## Seats by District
 
 | | |  | | |
 |---|---|---|---|---|
@@ -298,7 +298,7 @@ As of 2025-05-07 09:43:52
 | [181](https://results.elections.gov.lk/?page=lg_result&district=BATTICALOA&lg_code=181&lg_name=ERAVUR-URBAN-COUNCIL) | 🏢Eravur UC·*17*|⚪SLMC·*7*<br>|🟩UNP·*4*<br>|⚪TMVP·*2*<br>|Others·*4*|
 | [184](https://results.elections.gov.lk/?page=lg_result&district=BATTICALOA&lg_code=184&lg_name=KORALAI-PATTU-PRADESHIYA-SABHA) | 🏡Koralai Pattu PS·*26*|🟡ITAK·*10*<br>|🔴JJB·*4*<br>⚪TMVP·*4*<br>⚪SLMC·*4*<br>|🟢SJB·*3*<br>|Others·*1*|
 | [186](https://results.elections.gov.lk/?page=lg_result&district=BATTICALOA&lg_code=186&lg_name=KORALAI-PATTU-NORTH-PRADESHIYA-SABHA) | 🏡Koralai Pattu North PS·*19*|⚪TMVP·*7*<br>|🟡ITAK·*6*<br>|🔴JJB·*3*<br>|Others·*3*|
-| [188](https://results.elections.gov.lk/?page=lg_result&district=BATTICALOA&lg_code=188&lg_name=MANMUNAI-PATTU-PRADESHIYA-SABHA) | 🏡Manmunai Pattu PS·*17*|🟡ITAK·*6*<br>|🔴JJB·*4*<br>|🟢SJB·*1*<br>⚪UNA·*1*<br>⚪NFfGG·*1*<br>⚪DTNA·*1*<br>⚪TMVP·*1*<br>⚫IG2-188·*1*<br>⚫IG3-188·*1*<br>||
+| [188](https://results.elections.gov.lk/?page=lg_result&district=BATTICALOA&lg_code=188&lg_name=MANMUNAI-PATTU-PRADESHIYA-SABHA) | 🏡Manmunai Pattu PS·*17*|🟡ITAK·*6*<br>|🔴JJB·*4*<br>|🟢SJB·*1*<br>⚪UNA·*1*<br>⚪NFGG·*1*<br>⚪DTNA·*1*<br>⚪TMVP·*1*<br>⚫IG2-188·*1*<br>⚫IG3-188·*1*<br>||
 | [189](https://results.elections.gov.lk/?page=lg_result&district=BATTICALOA&lg_code=189&lg_name=MANMUNAI-WEST-PRADESHIYA-SABHA) | 🏡Manmunai West PS·*19*|**🟡ITAK·*10***<br>|⚪TMVP·*3*<br>🔴JJB·*3*<br>|⚪DTNA·*1*<br>⚪ACTC·*1*<br>🟢SJB·*1*<br>||
 | [191](https://results.elections.gov.lk/?page=lg_result&district=BATTICALOA&lg_code=191&lg_name=PORTHIVU-PATTU-PRADESHIYA-SABHA) | 🏡Porthivu Pattu PS·*16*|🟡ITAK·*8*<br>|⚪TMVP·*5*<br>|🔴JJB·*3*<br>||
 
@@ -362,7 +362,7 @@ As of 2025-05-07 09:43:52
 
 |  |  |  |  |  |  |
 |---|---|---|---|---|---|
-| [246](https://results.elections.gov.lk/?page=lg_result&district=PUTTALAM&lg_code=246&lg_name=PUTTALAM-MUNICIPAL-COUNCIL) | 🏛️Puttalam MC·*19*|🔴JJB·*7*<br>|🟢SJB·*4*<br>|⚪SLMC·*3*<br>⚪NFfGG·*3*<br>|Others·*2*|
+| [246](https://results.elections.gov.lk/?page=lg_result&district=PUTTALAM&lg_code=246&lg_name=PUTTALAM-MUNICIPAL-COUNCIL) | 🏛️Puttalam MC·*19*|🔴JJB·*7*<br>|🟢SJB·*4*<br>|⚪SLMC·*3*<br>⚪NFGG·*3*<br>|Others·*2*|
 | [247](https://results.elections.gov.lk/?page=lg_result&district=PUTTALAM&lg_code=247&lg_name=CHILAW-URBAN-COUNCIL) | 🏢Chilaw UC·*20*|🔴JJB·*9*<br>|⚫IG-247·*6*<br>|🟢SJB·*4*<br>|Others·*1*|
 | [248](https://results.elections.gov.lk/?page=lg_result&district=PUTTALAM&lg_code=248&lg_name=KALPITIYA-PRADESHIYA-SABHA) | 🏡Kalpitiya PS·*32*|🟢SJB·*10*<br>🔴JJB·*10*<br>|🟣SLPP·*3*<br>|⚪SLMC·*2*<br>🔵SB·*2*<br>🟦PA·*2*<br>|Others·*3*|
 | [249](https://results.elections.gov.lk/?page=lg_result&district=PUTTALAM&lg_code=249&lg_name=PUTTALAM-PRADESHIYA-SABHA) | 🏡Puttalam PS·*25*|🔴JJB·*8*<br>|🟢SJB·*4*<br>|⚪ACMC·*3*<br>⚪SLMC·*3*<br>|Others·*7*|
@@ -461,7 +461,7 @@ As of 2025-05-07 09:43:52
 | [322](https://results.elections.gov.lk/?page=lg_result&district=RATNAPURA&lg_code=322&lg_name=GODAKAWELA-PRADESHIYA-SABHA) | 🏡Godakawela PS·*32*|🔴JJB·*15*<br>|🟢SJB·*9*<br>|🟣SLPP·*3*<br>|Others·*5*|
 | [323](https://results.elections.gov.lk/?page=lg_result&district=RATNAPURA&lg_code=323&lg_name=KAHAWATTA-PRADESHIYA-SABHA) | 🏡Kahawatta PS·*16*|🔴JJB·*6*<br>|🟢SJB·*4*<br>|🟣SLPP·*2*<br>|Others·*4*|
 | [325](https://results.elections.gov.lk/?page=lg_result&district=RATNAPURA&lg_code=325&lg_name=NIWITIGALA-PRADESHIYA-SABHA) | 🏡Niwitigala PS·*24*|🔴JJB·*9*<br>|🟢SJB·*7*<br>|🟣SLPP·*4*<br>|Others·*4*|
-| [326](https://results.elections.gov.lk/?page=lg_result&district=RATNAPURA&lg_code=326&lg_name=AYAGAMA-PRADESHIYA-SABHA) | 🏡Ayagama PS·*16*|🔴JJB·*6*<br>|🟢SJB·*5*<br>|⚪CPoSL·*3*<br>|Others·*2*|
+| [326](https://results.elections.gov.lk/?page=lg_result&district=RATNAPURA&lg_code=326&lg_name=AYAGAMA-PRADESHIYA-SABHA) | 🏡Ayagama PS·*16*|🔴JJB·*6*<br>|🟢SJB·*5*<br>|⚪CPSL·*3*<br>|Others·*2*|
 | [327](https://results.elections.gov.lk/?page=lg_result&district=RATNAPURA&lg_code=327&lg_name=KALAWANA-PRADESHIYA-SABHA) | 🏡Kalawana PS·*19*|**🔴JJB·*10***<br>|🟢SJB·*3*<br>|🟣SLPP·*2*<br>|Others·*4*|
 | [328](https://results.elections.gov.lk/?page=lg_result&district=RATNAPURA&lg_code=328&lg_name=EMBILIPITIYA-PRADESHIYA-SABHA) | 🏡Embilipitiya PS·*32*|**🔴JJB·*17***<br>|🟢SJB·*6*<br>|🟣SLPP·*3*<br>|Others·*6*|
 | [329](https://results.elections.gov.lk/?page=lg_result&district=RATNAPURA&lg_code=329&lg_name=KOLONNA-PRADESHIYA-SABHA) | 🏡Kolonna PS·*19*|🔴JJB·*9*<br>|🟢SJB·*5*<br>|🟣SLPP·*3*<br>|Others·*2*|
