@@ -147,11 +147,20 @@ class ResultPage(WebPage):
             return
 
         result = self.get_result()
-        lg_name = result["lg_name"]
+
+        message = " ".join(
+            [
+                result["district_name"],
+                result["lg_code"],
+                result["lg_name"],
+            ]
+        )
         cmd = (
-            'powershell -c "Add-Type –AssemblyName System.Speech; '
-            + "(New-Object System.Speech.Synthesis.SpeechSynthesizer)"
-            + f".Speak('{lg_name}')\""
+            "powershell "
+            + '-c "Add-Type –AssemblyName System.Speech; '
+            + "$speak = New-Object System.Speech.Synthesis.SpeechSynthesizer; "
+            + "$speak.Rate = -2; $speak"
+            + f".Speak('{message}')\""
         )
         os.system(cmd)
 
