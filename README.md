@@ -1,6 +1,6 @@
 # Sri Lankan Local Government Elections - 2025 🇱🇰
 
-As of 2025-05-07 10:07:53
+As of 2025-05-07 10:15:58
 
 *Scraped from [results.elections.gov.lk](https://results.elections.gov.lk)*
 
@@ -25,57 +25,57 @@ As of 2025-05-07 10:07:53
 |⚪Democratic Tamil National Alliance|*100*|*1%*|82,178|1%|1||
 |⚪All Ceylon Tamil Congress|*96*|*1%*|62,668|1%|3||
 
-## Seats by Local Authority Type
+## % Seats by Local Authority Type
 
 | | |  | | |
 |---|---|---|---|---|
-|MC|🔴JJB·*347*<br>|🟢SJB·*129*<br>|🟩UNP·*42*<br>🟣SLPP·*42*<br>|Others·*251*|
-|UC|🔴JJB·*262*<br>|🟢SJB·*118*<br>|🟣SLPP·*35*<br>|Others·*199*|
-|PS|🔴JJB·*2866*<br>|🟢SJB·*1287*<br>|🟣SLPP·*598*<br>|Others·*1664*|
+|MC|🔴JJB·*45%*<br>|🟢SJB·*17%*<br>|🟩UNP·*5%*<br>🟣SLPP·*5%*<br>🟡ITAK·*5%*<br>|Others·*33%*|
+|UC|🔴JJB·*43%*<br>|🟢SJB·*19%*<br>|🟩UNP·*6%*<br>🟣SLPP·*6%*<br>|Others·*32%*|
+|PS|🔴JJB·*45%*<br>|🟢SJB·*20%*<br>|🟣SLPP·*9%*<br>|Others·*26%*|
 
-## Seats by Province
-
-| | |  | | |
-|---|---|---|---|---|
-|Western|🔴JJB·*810*<br>|🟢SJB·*309*<br>|🟣SLPP·*150*<br>|Others·*292*|
-|Central|🔴JJB·*505*<br>|🟢SJB·*276*<br>|🟣SLPP·*80*<br>|Others·*257*|
-|Southern|🔴JJB·*559*<br>|🟢SJB·*229*<br>|🟣SLPP·*152*<br>|Others·*166*|
-|Northern|🟡ITAK·*223*<br>|🔴JJB·*144*<br>|⚪ACTC·*93*<br>|Others·*258*|
-|Eastern|🔴JJB·*197*<br>|🟡ITAK·*137*<br>|🟢SJB·*84*<br>|Others·*321*|
-|North Western|🔴JJB·*365*<br>|🟢SJB·*182*<br>|🟣SLPP·*85*<br>|Others·*130*|
-|North Central|🔴JJB·*241*<br>|🟢SJB·*99*<br>|🟣SLPP·*35*<br>|Others·*65*|
-|Uva|🔴JJB·*311*<br>|🟢SJB·*146*<br>|🟣SLPP·*56*<br>|Others·*130*|
-|Sabaragamuwa|🔴JJB·*343*<br>|🟢SJB·*164*<br>|🟣SLPP·*85*<br>|Others·*119*|
-
-## Seats by District
+## % Seats by Province
 
 | | |  | | |
 |---|---|---|---|---|
-|Colombo|🔴JJB·*249*<br>|🟢SJB·*80*<br>|🟣SLPP·*39*<br>|Others·*96*|
-|Gampaha|🔴JJB·*369*<br>|🟢SJB·*131*<br>|🟣SLPP·*68*<br>|Others·*94*|
-|Kalutara|🔴JJB·*192*<br>|🟢SJB·*98*<br>|🟣SLPP·*43*<br>|Others·*102*|
-|Kandy|🔴JJB·*270*<br>|🟢SJB·*145*<br>|🟣SLPP·*36*<br>|Others·*124*|
-|Matale|🔴JJB·*126*<br>|🟢SJB·*66*<br>|🟣SLPP·*29*<br>|Others·*51*|
-|Nuwaraeliya|🔴JJB·*109*<br>|🟢SJB·*65*<br>|⚪CWCPW·*31*<br>|Others·*66*|
-|Galle|🔴JJB·*206*<br>|🟢SJB·*92*<br>|🟣SLPP·*59*<br>|Others·*71*|
-|Matara|🔴JJB·*207*<br>|🟢SJB·*82*<br>|🟣SLPP·*48*<br>|Others·*57*|
-|Hambantota|🔴JJB·*146*<br>|🟢SJB·*55*<br>|🟣SLPP·*45*<br>|Others·*38*|
-|Jaffna|🟡ITAK·*127*<br>|⚪ACTC·*75*<br>🔴JJB·*75*<br>|⚪DTNA·*41*<br>|Others·*138*|
-|Kilinochchi|🟡ITAK·*36*<br>|🔴JJB·*12*<br>|⚪DTNA·*10*<br>|Others·*12*|
-|Mannar|🔴JJB·*19*<br>|🟡ITAK·*18*<br>🟢SJB·*18*<br>|⚪DTNA·*13*<br>|Others·*42*|
-|Vavuniya|🔴JJB·*26*<br>|🟡ITAK·*16*<br>|🟢SJB·*15*<br>|Others·*49*|
-|Mullaitivu|🟡ITAK·*26*<br>|🔴JJB·*12*<br>|⚪DTNA·*10*<br>|Others·*21*|
-|Batticaloa|🟡ITAK·*76*<br>|🔴JJB·*36*<br>|⚪TMVP·*35*<br>|Others·*67*|
-|Ampara|🔴JJB·*95*<br>|🟢SJB·*41*<br>|⚪SLMC·*33*<br>|Others·*141*|
-|Trincomalee|🔴JJB·*66*<br>|🟡ITAK·*36*<br>|🟢SJB·*32*<br>|Others·*81*|
-|Kurunegala|🔴JJB·*221*<br>|🟢SJB·*110*<br>|🟣SLPP·*50*<br>|Others·*59*|
-|Puttalam|🔴JJB·*144*<br>|🟢SJB·*72*<br>|🟣SLPP·*35*<br>|Others·*71*|
-|Anuradhapura|🔴JJB·*144*<br>|🟢SJB·*59*<br>|🟣SLPP·*23*<br>|Others·*39*|
-|Polonnaruwa|🔴JJB·*97*<br>|🟢SJB·*40*<br>|🟣SLPP·*12*<br>|Others·*26*|
-|Badulla|🔴JJB·*203*<br>|🟢SJB·*93*<br>|🟦PA·*40*<br>|Others·*93*|
-|Monaragala|🔴JJB·*108*<br>|🟢SJB·*53*<br>|🟣SLPP·*24*<br>|Others·*29*|
-|Ratnapura|🔴JJB·*203*<br>|🟢SJB·*103*<br>|🟣SLPP·*54*<br>|Others·*75*|
-|Kegalle|🔴JJB·*140*<br>|🟢SJB·*61*<br>|🟣SLPP·*31*<br>|Others·*44*|
+|Western|🔴JJB·*52%*<br>|🟢SJB·*20%*<br>|🟣SLPP·*10%*<br>|Others·*18%*|
+|Central|🔴JJB·*45%*<br>|🟢SJB·*25%*<br>|🟣SLPP·*7%*<br>|Others·*23%*|
+|Southern|🔴JJB·*51%*<br>|🟢SJB·*21%*<br>|🟣SLPP·*14%*<br>|Others·*14%*|
+|Northern|🟡ITAK·*31%*<br>|🔴JJB·*20%*<br>|⚪ACTC·*13%*<br>|Others·*36%*|
+|Eastern|🔴JJB·*27%*<br>|🟡ITAK·*19%*<br>|🟢SJB·*11%*<br>|Others·*43%*|
+|North Western|🔴JJB·*48%*<br>|🟢SJB·*24%*<br>|🟣SLPP·*11%*<br>|Others·*17%*|
+|North Central|🔴JJB·*55%*<br>|🟢SJB·*23%*<br>|🟣SLPP·*8%*<br>|Others·*14%*|
+|Uva|🔴JJB·*48%*<br>|🟢SJB·*23%*<br>|🟣SLPP·*9%*<br>|Others·*20%*|
+|Sabaragamuwa|🔴JJB·*48%*<br>|🟢SJB·*23%*<br>|🟣SLPP·*12%*<br>|Others·*17%*|
+
+## % Seats by District
+
+| | |  | | |
+|---|---|---|---|---|
+|Colombo|🔴JJB·*54%*<br>|🟢SJB·*17%*<br>|🟣SLPP·*8%*<br>|Others·*21%*|
+|Gampaha|🔴JJB·*56%*<br>|🟢SJB·*20%*<br>|🟣SLPP·*10%*<br>|Others·*14%*|
+|Kalutara|🔴JJB·*44%*<br>|🟢SJB·*23%*<br>|🟣SLPP·*10%*<br>|Others·*23%*|
+|Kandy|🔴JJB·*47%*<br>|🟢SJB·*25%*<br>|🟣SLPP·*6%*<br>|Others·*22%*|
+|Matale|🔴JJB·*46%*<br>|🟢SJB·*24%*<br>|🟣SLPP·*11%*<br>|Others·*19%*|
+|Nuwaraeliya|🔴JJB·*40%*<br>|🟢SJB·*24%*<br>|⚪CWCPW·*11%*<br>|Others·*25%*|
+|Galle|🔴JJB·*48%*<br>|🟢SJB·*21%*<br>|🟣SLPP·*14%*<br>|Others·*17%*|
+|Matara|🔴JJB·*53%*<br>|🟢SJB·*21%*<br>|🟣SLPP·*12%*<br>|Others·*14%*|
+|Hambantota|🔴JJB·*51%*<br>|🟢SJB·*19%*<br>|🟣SLPP·*16%*<br>|Others·*14%*|
+|Jaffna|🟡ITAK·*33%*<br>|⚪ACTC·*20%*<br>🔴JJB·*20%*<br>|⚪DTNA·*11%*<br>|Others·*36%*|
+|Kilinochchi|🟡ITAK·*51%*<br>|🔴JJB·*17%*<br>|⚪DTNA·*14%*<br>|Others·*18%*|
+|Mannar|🔴JJB·*21%*<br>|🟡ITAK·*20%*<br>🟢SJB·*20%*<br>|⚪DTNA·*14%*<br>|Others·*45%*|
+|Vavuniya|🔴JJB·*25%*<br>|🟡ITAK·*15%*<br>|🟢SJB·*14%*<br>|Others·*46%*|
+|Mullaitivu|🟡ITAK·*38%*<br>|🔴JJB·*17%*<br>|⚪DTNA·*14%*<br>|Others·*31%*|
+|Batticaloa|🟡ITAK·*36%*<br>|🔴JJB·*17%*<br>|⚪TMVP·*16%*<br>|Others·*31%*|
+|Ampara|🔴JJB·*31%*<br>|🟢SJB·*13%*<br>|⚪SLMC·*11%*<br>|Others·*45%*|
+|Trincomalee|🔴JJB·*31%*<br>|🟡ITAK·*17%*<br>|🟢SJB·*15%*<br>|Others·*37%*|
+|Kurunegala|🔴JJB·*50%*<br>|🟢SJB·*25%*<br>|🟣SLPP·*11%*<br>|Others·*14%*|
+|Puttalam|🔴JJB·*45%*<br>|🟢SJB·*22%*<br>|🟣SLPP·*11%*<br>|Others·*22%*|
+|Anuradhapura|🔴JJB·*54%*<br>|🟢SJB·*22%*<br>|🟣SLPP·*9%*<br>|Others·*15%*|
+|Polonnaruwa|🔴JJB·*55%*<br>|🟢SJB·*23%*<br>|🟣SLPP·*7%*<br>|Others·*15%*|
+|Badulla|🔴JJB·*47%*<br>|🟢SJB·*22%*<br>|🟦PA·*9%*<br>|Others·*22%*|
+|Monaragala|🔴JJB·*50%*<br>|🟢SJB·*25%*<br>|🟣SLPP·*11%*<br>|Others·*14%*|
+|Ratnapura|🔴JJB·*47%*<br>|🟢SJB·*24%*<br>|🟣SLPP·*12%*<br>|Others·*17%*|
+|Kegalle|🔴JJB·*51%*<br>|🟢SJB·*22%*<br>|🟣SLPP·*11%*<br>|Others·*16%*|
 
 ## Results by Local Authority
 

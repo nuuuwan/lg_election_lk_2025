@@ -242,7 +242,7 @@ class OverallReport:
         )
         return lines
 
-    def get_x_to_party_to_seats(self, get_x):
+    def get_x_to_party_to_p_seats(self, get_x):
         idx = {}
         for result in self.result_list:
             x = get_x(result)
@@ -259,47 +259,54 @@ class OverallReport:
                     if party_name not in idx[x]:
                         idx[x][party_name] = 0
                     idx[x][party_name] += seats
-        return idx
+
+        idx_p = {}
+        for x, party_to_seats in idx.items():
+            total_seats = sum(party_to_seats.values())
+            party_to_p_seats = {
+                party_name: round(seats / total_seats, 2)
+                for party_name, seats in party_to_seats.items()
+            }
+            idx_p[x] = party_to_p_seats
+
+        return idx_p
 
     def get_x_summary_lines(self, get_x, x_label):
-        lines = [f"## Seats by {x_label}", ""]
-        x_to_party_to_seats = self.get_x_to_party_to_seats(get_x)
+        lines = [f"## % Seats by {x_label}", ""]
+        x_to_party_to_p_seats = self.get_x_to_party_to_p_seats(get_x)
 
         lines.extend(["| | |  | | |", "|---|---|---|---|---|"])
-        for district_name, party_to_seats in x_to_party_to_seats.items():
-            seats_to_party_list = {}
-            for party_name, seats in party_to_seats.items():
-                if seats not in seats_to_party_list:
-                    seats_to_party_list[seats] = []
-                seats_to_party_list[seats].append(party_name)
+        for district_name, party_to_p_seats in x_to_party_to_p_seats.items():
+            p_seats_to_party_list = {}
+            for party_name, p_seats in party_to_p_seats.items():
+                if p_seats not in p_seats_to_party_list:
+                    p_seats_to_party_list[p_seats] = []
+                p_seats_to_party_list[p_seats].append(party_name)
 
-            seats_and_party_list = sorted(
-                seats_to_party_list.items(),
+            p_seats_and_party_list = sorted(
+                p_seats_to_party_list.items(),
                 key=lambda item: (item[0],),
                 reverse=True,
             )
-            display_seats = 0
+            display_p_seats = 0
 
             line = f"|{district_name}|"
             for i in range(0, 3):
-                if len(seats_and_party_list) <= i:
+                if len(p_seats_and_party_list) <= i:
                     break
-                seats, party_list = seats_and_party_list[i]
-                if seats == 0:
+                p_seats, party_list = p_seats_and_party_list[i]
+                if p_seats == 0:
                     break
 
                 cell = ""
                 for party_name in party_list:
-                    cell += party_name + f"·*{seats}*<br>"
+                    cell += party_name + f"·*{p_seats:.0%}*<br>"
                 line += cell + "|"
-                display_seats += seats
+                display_p_seats += p_seats
 
-            total_seats = sum(
-                seats for seats in x_to_party_to_seats[district_name].values()
-            )
-            other_seats = total_seats - display_seats
-            if other_seats > 0:
-                line += f"Others·*{other_seats}*"
+            other_p_seats = 1 - display_p_seats
+            if other_p_seats > 0:
+                line += f"Others·*{other_p_seats:.0%}*"
             line += "|"
             lines.append(line)
         lines.append("")
