@@ -213,7 +213,7 @@ class OverallReport:
             f"## Islandwide (Top {N_TOP} by Votes)",
             "",
             "| Party | Votes | %  | *Seats* | *%* | LG's with<br>Won "
-            + "| LGs with<br>≥50% Seats (✔️) |",
+            + "| **LGs with<br>≥50% Seats** |",
             "|---|--:|--:|--:|--:|--:|--:|",
         ]
         lk_summary = self.lk_summary
@@ -321,7 +321,7 @@ class OverallReport:
                         + f" · *{seats}*"
                     )
                     if is_majority:
-                        cell_inner = f"**{cell_inner}✔️**"
+                        cell_inner = f"**{cell_inner}**"
 
                     cell += cell_inner + "<br>"
                 line += cell + "|"
