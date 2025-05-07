@@ -271,8 +271,8 @@ class OverallReport:
                         "",
                         f"### {district_name}",
                         "",
-                        "|  |  |  |  |  |  |  |",
-                        "|---|---|---|---|---|---|---|",
+                        "|  |  |  |  |  |  |",
+                        "|---|---|---|---|---|---|",
                     ]
                 )
                 prev_district_name = district_name
@@ -289,7 +289,7 @@ class OverallReport:
             )
 
             line = (
-                f"| {lg_code} | "
+                f"| [{lg_code}]({result['url']}) | "
                 + f"{OverallReport.get_lg_short_name(lg_name)}"
                 + f"·*{total_seats}*|"
             )
@@ -338,7 +338,7 @@ class OverallReport:
                 line += f"Others·*{other_seats}*|"
             else:
                 line += "|"
-            line += f"[...]({url})|"
+
             lines.append(line)
         lines.extend(
             [
