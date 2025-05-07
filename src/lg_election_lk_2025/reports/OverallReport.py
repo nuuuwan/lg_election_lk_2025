@@ -53,7 +53,9 @@ class OverallReport:
     @cache
     def party_name_short(party_name):
         party_name = party_name.replace("(", "")
-        inner = "".join([x[0] for x in party_name.split()])
+        inner = "".join(
+            [x[0] for x in party_name.split() if x[0] == x[0].upper()]
+        )
         return f"{inner}"
 
     @staticmethod
@@ -247,7 +249,9 @@ class OverallReport:
             district_name = result["district_name"]
             for party_result_data in result["party_result_data_list"]:
                 party_name = OverallReport.get_party_name_annotated(
-                    party_result_data["party_name"], result["lg_code"]
+                    party_result_data["party_name"],
+                    result["lg_code"],
+                    use_short=True,
                 )
                 seats = party_result_data["seats"]
                 if seats > 0:
@@ -260,7 +264,7 @@ class OverallReport:
 
     @property
     def district_summary_lines(self):
-        lines = ["## Results by District", ""]
+        lines = ["## Seats by District", ""]
         district_to_party_to_seats = self.district_to_party_to_seats
 
         lines.extend(["| | |  | | |", "|---|---|---|---|---|"])
@@ -288,12 +292,7 @@ class OverallReport:
 
                 cell = ""
                 for party_name in party_list:
-                    cell += (
-                        OverallReport.get_party_name_annotated(
-                            party_name, "", use_short=True
-                        )
-                        + f"·*{seats}*<br>"
-                    )
+                    cell += party_name + f"·*{seats}*<br>"
                 line += cell + "|"
                 display_seats += seats
 
