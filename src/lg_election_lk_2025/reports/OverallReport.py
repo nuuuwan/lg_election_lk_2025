@@ -496,9 +496,11 @@ class OverallReport:
             if len(ent_list) > 0:
                 lg_ent = ent_list[0]
                 released_lg_id_set.add(lg_ent.id)
-
+            else:
+                log.warning(
+                    f"LG not found: {lg_name_short} ({result['lg_code']})"
+                )
         released_lg_id_set.add("LG-11003")
-        released_lg_id_set.add("LG-61003")
 
         all_lg_id_set = set([ent.id for ent in Ent.list_from_type(EntType.LG)])
         lines.append(f"All LGs: {len(all_lg_id_set)}")
