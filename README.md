@@ -1,6 +1,6 @@
 # Sri Lankan Local Government Elections - 2025 🇱🇰
 
-As of 2025-05-07 08:13:19
+As of 2025-05-07 08:14:26
 
 *Scraped from [results.elections.gov.lk](https://results.elections.gov.lk)*
 
@@ -8,17 +8,17 @@ As of 2025-05-07 08:13:19
 
 | Results Released | % Released (By Votes) | % Turnout | % Rejected |
 |--:|--:|--:|--:|
-|246/339|70.3%|61.5%|1.99%|
+|248/339|70.9%|61.6%|1.99%|
 
 ## Islandwide (Top 10 by Votes)
 
 | Party | Votes | %  | Seats | % | Most Seats | ≥½ Seats (✔️) |
 |---|--:|--:|--:|--:|--:|--:|
-|🔴Jathika Jana Balawegaya|3,200,496|44%|2,789|45%|201|108|
-|🟢Samagi Jana Balawegaya|1,535,964|21%|1,202|19%|10||
-|🟣Sri Lanka Podujana Peramuna|703,677|10%|544|9%|||
-|🟩United National Party|315,090|4%|252|4%|1||
-|🟦People's Alliance|267,134|4%|220|4%|||
+|🔴Jathika Jana Balawegaya|3,234,087|44%|2,814|45%|203|109|
+|🟢Samagi Jana Balawegaya|1,553,159|21%|1,215|19%|10||
+|🟣Sri Lanka Podujana Peramuna|710,384|10%|549|9%|||
+|🟩United National Party|318,270|4%|255|4%|1||
+|🟦People's Alliance|271,399|4%|224|4%|||
 |🟡Ilankai Tamil Arasu Kadchi|226,443|3%|302|5%|32|5|
 |🔵Sarvajana Balaya|182,056|2%|147|2%|||
 |⚪Sri Lanka Muslim Congress|80,793|1%|67|1%|2||
@@ -327,6 +327,7 @@ As of 2025-05-07 08:13:19
 | 280 | 🏡Medirigiriya PS f({total_seats}) |**🔴JJB (19)✔️** |🟢SJB (8) |🟣SLPP (3) | Others (3) |[...](https://results.elections.gov.lk/?page=lg_result&district=POLONNARUWA&lg_code=280&lg_name=MEDIRIGIRIYA-PRADESHIYA-SABHA)|
 | 282 | 🏡Welikanda PS f({total_seats}) |🔴JJB (8) |🟢SJB (4) |🟣SLPP (2) 🟦PA (2) | Others (1) |[...](https://results.elections.gov.lk/?page=lg_result&district=POLONNARUWA&lg_code=282&lg_name=WELIKANDA-PRADESHIYA-SABHA)|
 | 283 | 🏡Dimbulagala PS f({total_seats}) |**🔴JJB (13)✔️** |🟢SJB (6) |🟦PA (2) | Others (2) |[...](https://results.elections.gov.lk/?page=lg_result&district=POLONNARUWA&lg_code=283&lg_name=DIMBULAGALA-PRADESHIYA-SABHA)|
+| 284 | 🏡Polonnaruwa PS f({total_seats}) |**🔴JJB (9)✔️** |🟢SJB (4) |🟩UNP (1) 🟣SLPP (1) 🟦PA (1) | Others (0) |[...](https://results.elections.gov.lk/?page=lg_result&district=POLONNARUWA&lg_code=284&lg_name=POLONNARUWA-PRADESHIYA-SABHA)|
 
 ### Badulla
 
@@ -362,6 +363,7 @@ As of 2025-05-07 08:13:19
 | 309 | 🏡Buttala PS f({total_seats}) |🔴JJB (8) |🟢SJB (6) |🟣SLPP (2) | Others (2) |[...](https://results.elections.gov.lk/?page=lg_result&district=MONARAGALA&lg_code=309&lg_name=BUTTALA-PRADESHIYA-SABHA)|
 | 310 | 🏡Kataragama PS f({total_seats}) |**🔴JJB (9)✔️** |🟢SJB (4) |🟣SLPP (2) | Others (1) |[...](https://results.elections.gov.lk/?page=lg_result&district=MONARAGALA&lg_code=310&lg_name=KATARAGAMA-PRADESHIYA-SABHA)|
 | 311 | 🏡Wellawaya PS f({total_seats}) |**🔴JJB (13)✔️** |🟢SJB (7) |🟣SLPP (3) | Others (3) |[...](https://results.elections.gov.lk/?page=lg_result&district=MONARAGALA&lg_code=311&lg_name=WELLAWAYA-PRADESHIYA-SABHA)|
+| 312 | 🏡Thanamalwila PS f({total_seats}) |🔴JJB (16) |🟢SJB (9) |🟣SLPP (4) | Others (5) |[...](https://results.elections.gov.lk/?page=lg_result&district=MONARAGALA&lg_code=312&lg_name=THANAMALWILA-PRADESHIYA-SABHA)|
 
 ### Ratnapura
 

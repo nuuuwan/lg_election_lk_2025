@@ -1,0 +1,61 @@
+{
+  "district_name": "Polonnaruwa",
+  "lg_code": "284",
+  "lg_name": "Polonnaruwa Pradeshiya Sabha",
+  "url": "https://results.elections.gov.lk/?page=lg_result&district=POLONNARUWA&lg_code=284&lg_name=POLONNARUWA-PRADESHIYA-SABHA",
+  "time_str": "2025-05-07 07:53:00",
+  "time_ut": 1746584580.0,
+  "summary_data": {
+    "electors": 42960,
+    "polled": 25758,
+    "valid": 25268,
+    "rejected": 490,
+    "p_turnout": 0.6,
+    "p_valid": 0.98,
+    "p_rejected": 0.02
+  },
+  "party_result_data_list": [
+    {
+      "party_name": "Jathika Jana Balawegaya",
+      "party_code": "NPP",
+      "votes": 15085,
+      "p_votes": 0.6,
+      "seats": 9
+    },
+    {
+      "party_name": "Samagi Jana Balawegaya",
+      "party_code": "SJB",
+      "votes": 6142,
+      "p_votes": 0.24,
+      "seats": 4
+    },
+    {
+      "party_name": "United National Party",
+      "party_code": "UNP",
+      "votes": 1224,
+      "p_votes": 0.05,
+      "seats": 1
+    },
+    {
+      "party_name": "Sri Lanka Podujana Peramuna",
+      "party_code": "SLPP",
+      "votes": 1207,
+      "p_votes": 0.05,
+      "seats": 1
+    },
+    {
+      "party_name": "People's Alliance",
+      "party_code": "PA",
+      "votes": 1148,
+      "p_votes": 0.05,
+      "seats": 1
+    },
+    {
+      "party_name": "People's Struggle Alliance",
+      "party_code": "PSA",
+      "votes": 462,
+      "p_votes": 0.02,
+      "seats": 0
+    }
+  ]
+}
