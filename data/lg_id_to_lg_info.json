@@ -1,0 +1,2030 @@
+{
+  "LG-11001": {
+    "lg_id": "LG-11001",
+    "district_id": "LK-11",
+    "lg_code": "001",
+    "lg_name": "Colombo MC"
+  },
+  "LG-11002": {
+    "lg_id": "LG-11002",
+    "district_id": "LK-11",
+    "lg_code": "002",
+    "lg_name": "Dehiwala Mount Lavinia MC"
+  },
+  "LG-11003": {
+    "lg_id": "LG-11003",
+    "district_id": "LK-11",
+    "lg_code": "003",
+    "lg_name": "Sri Jayawardenepura Kotte MC"
+  },
+  "LG-11004": {
+    "lg_id": "LG-11004",
+    "district_id": "LK-11",
+    "lg_code": "004",
+    "lg_name": "Moratuwa MC"
+  },
+  "LG-11005": {
+    "lg_id": "LG-11005",
+    "district_id": "LK-11",
+    "lg_code": "005",
+    "lg_name": "Kaduwela MC"
+  },
+  "LG-11006": {
+    "lg_id": "LG-11006",
+    "district_id": "LK-11",
+    "lg_code": "006",
+    "lg_name": "Kollonnawa UC"
+  },
+  "LG-11007": {
+    "lg_id": "LG-11007",
+    "district_id": "LK-11",
+    "lg_code": "007",
+    "lg_name": "Seethawakapura UC"
+  },
+  "LG-11008": {
+    "lg_id": "LG-11008",
+    "district_id": "LK-11",
+    "lg_code": "008",
+    "lg_name": "Maharagama UC"
+  },
+  "LG-11009": {
+    "lg_id": "LG-11009",
+    "district_id": "LK-11",
+    "lg_code": "009",
+    "lg_name": "Kesbewa UC"
+  },
+  "LG-11010": {
+    "lg_id": "LG-11010",
+    "district_id": "LK-11",
+    "lg_code": "010",
+    "lg_name": "Boralesgamuwa UC"
+  },
+  "LG-11011": {
+    "lg_id": "LG-11011",
+    "district_id": "LK-11",
+    "lg_code": "011",
+    "lg_name": "Kotikawatta Mulleriyawa PS"
+  },
+  "LG-11012": {
+    "lg_id": "LG-11012",
+    "district_id": "LK-11",
+    "lg_code": "012",
+    "lg_name": "Seethawaka PS"
+  },
+  "LG-11013": {
+    "lg_id": "LG-11013",
+    "district_id": "LK-11",
+    "lg_code": "013",
+    "lg_name": "Homagama PS"
+  },
+  "LG-12014": {
+    "lg_id": "LG-12014",
+    "district_id": "LK-12",
+    "lg_code": "014",
+    "lg_name": "Negombo MC"
+  },
+  "LG-12015": {
+    "lg_id": "LG-12015",
+    "district_id": "LK-12",
+    "lg_code": "015",
+    "lg_name": "Gampaha MC"
+  },
+  "LG-12016": {
+    "lg_id": "LG-12016",
+    "district_id": "LK-12",
+    "lg_code": "016",
+    "lg_name": "Wattala Mabola UC"
+  },
+  "LG-12017": {
+    "lg_id": "LG-12017",
+    "district_id": "LK-12",
+    "lg_code": "017",
+    "lg_name": "Katunayaka Seeduwa UC"
+  },
+  "LG-12018": {
+    "lg_id": "LG-12018",
+    "district_id": "LK-12",
+    "lg_code": "018",
+    "lg_name": "Minuwangoda UC"
+  },
+  "LG-12019": {
+    "lg_id": "LG-12019",
+    "district_id": "LK-12",
+    "lg_code": "019",
+    "lg_name": "Ja Ela UC"
+  },
+  "LG-12020": {
+    "lg_id": "LG-12020",
+    "district_id": "LK-12",
+    "lg_code": "020",
+    "lg_name": "Peliyagoda UC"
+  },
+  "LG-12021": {
+    "lg_id": "LG-12021",
+    "district_id": "LK-12",
+    "lg_code": "021",
+    "lg_name": "Wattala PS"
+  },
+  "LG-12022": {
+    "lg_id": "LG-12022",
+    "district_id": "LK-12",
+    "lg_code": "022",
+    "lg_name": "Katana PS"
+  },
+  "LG-12023": {
+    "lg_id": "LG-12023",
+    "district_id": "LK-12",
+    "lg_code": "023",
+    "lg_name": "Divulapitiya PS"
+  },
+  "LG-12024": {
+    "lg_id": "LG-12024",
+    "district_id": "LK-12",
+    "lg_code": "024",
+    "lg_name": "Mirigama PS"
+  },
+  "LG-12025": {
+    "lg_id": "LG-12025",
+    "district_id": "LK-12",
+    "lg_code": "025",
+    "lg_name": "Minuwangoda PS"
+  },
+  "LG-12026": {
+    "lg_id": "LG-12026",
+    "district_id": "LK-12",
+    "lg_code": "026",
+    "lg_name": "Attanagalla PS"
+  },
+  "LG-12027": {
+    "lg_id": "LG-12027",
+    "district_id": "LK-12",
+    "lg_code": "027",
+    "lg_name": "Gampaha PS"
+  },
+  "LG-12028": {
+    "lg_id": "LG-12028",
+    "district_id": "LK-12",
+    "lg_code": "028",
+    "lg_name": "Ja Ela PS"
+  },
+  "LG-12029": {
+    "lg_id": "LG-12029",
+    "district_id": "LK-12",
+    "lg_code": "029",
+    "lg_name": "Mahara PS"
+  },
+  "LG-12030": {
+    "lg_id": "LG-12030",
+    "district_id": "LK-12",
+    "lg_code": "030",
+    "lg_name": "Dompe PS"
+  },
+  "LG-12031": {
+    "lg_id": "LG-12031",
+    "district_id": "LK-12",
+    "lg_code": "031",
+    "lg_name": "Biyagama PS"
+  },
+  "LG-12032": {
+    "lg_id": "LG-12032",
+    "district_id": "LK-12",
+    "lg_code": "032",
+    "lg_name": "Kelaniya PS"
+  },
+  "LG-13033": {
+    "lg_id": "LG-13033",
+    "district_id": "LK-13",
+    "lg_code": "033",
+    "lg_name": "Panadura UC"
+  },
+  "LG-13034": {
+    "lg_id": "LG-13034",
+    "district_id": "LK-13",
+    "lg_code": "034",
+    "lg_name": "Horana UC"
+  },
+  "LG-13035": {
+    "lg_id": "LG-13035",
+    "district_id": "LK-13",
+    "lg_code": "035",
+    "lg_name": "Kalutara MC"
+  },
+  "LG-13036": {
+    "lg_id": "LG-13036",
+    "district_id": "LK-13",
+    "lg_code": "036",
+    "lg_name": "Beruwala UC"
+  },
+  "LG-13037": {
+    "lg_id": "LG-13037",
+    "district_id": "LK-13",
+    "lg_code": "037",
+    "lg_name": "Panadura PS"
+  },
+  "LG-13038": {
+    "lg_id": "LG-13038",
+    "district_id": "LK-13",
+    "lg_code": "038",
+    "lg_name": "Bandaragama PS"
+  },
+  "LG-13039": {
+    "lg_id": "LG-13039",
+    "district_id": "LK-13",
+    "lg_code": "039",
+    "lg_name": "Horana PS"
+  },
+  "LG-13040": {
+    "lg_id": "LG-13040",
+    "district_id": "LK-13",
+    "lg_code": "040",
+    "lg_name": "Madurawala PS"
+  },
+  "LG-13041": {
+    "lg_id": "LG-13041",
+    "district_id": "LK-13",
+    "lg_code": "041",
+    "lg_name": "Bulathsinhala PS"
+  },
+  "LG-13042": {
+    "lg_id": "LG-13042",
+    "district_id": "LK-13",
+    "lg_code": "042",
+    "lg_name": "Mathugama PS"
+  },
+  "LG-13043": {
+    "lg_id": "LG-13043",
+    "district_id": "LK-13",
+    "lg_code": "043",
+    "lg_name": "Dodangoda PS"
+  },
+  "LG-13044": {
+    "lg_id": "LG-13044",
+    "district_id": "LK-13",
+    "lg_code": "044",
+    "lg_name": "Kalutara PS"
+  },
+  "LG-13045": {
+    "lg_id": "LG-13045",
+    "district_id": "LK-13",
+    "lg_code": "045",
+    "lg_name": "Beruwala PS"
+  },
+  "LG-13046": {
+    "lg_id": "LG-13046",
+    "district_id": "LK-13",
+    "lg_code": "046",
+    "lg_name": "Palindanuwara PS"
+  },
+  "LG-13047": {
+    "lg_id": "LG-13047",
+    "district_id": "LK-13",
+    "lg_code": "047",
+    "lg_name": "Agalawaththa PS"
+  },
+  "LG-13048": {
+    "lg_id": "LG-13048",
+    "district_id": "LK-13",
+    "lg_code": "048",
+    "lg_name": "Millaniya PS"
+  },
+  "LG-13049": {
+    "lg_id": "LG-13049",
+    "district_id": "LK-13",
+    "lg_code": "049",
+    "lg_name": "Walallawita PS"
+  },
+  "LG-21050": {
+    "lg_id": "LG-21050",
+    "district_id": "LK-21",
+    "lg_code": "050",
+    "lg_name": "Kandy MC"
+  },
+  "LG-21051": {
+    "lg_id": "LG-21051",
+    "district_id": "LK-21",
+    "lg_code": "051",
+    "lg_name": "Wattegama UC"
+  },
+  "LG-21052": {
+    "lg_id": "LG-21052",
+    "district_id": "LK-21",
+    "lg_code": "052",
+    "lg_name": "Kadugannawa UC"
+  },
+  "LG-21053": {
+    "lg_id": "LG-21053",
+    "district_id": "LK-21",
+    "lg_code": "053",
+    "lg_name": "Gampola UC"
+  },
+  "LG-21054": {
+    "lg_id": "LG-21054",
+    "district_id": "LK-21",
+    "lg_code": "054",
+    "lg_name": "Nawalapitiya UC"
+  },
+  "LG-21055": {
+    "lg_id": "LG-21055",
+    "district_id": "LK-21",
+    "lg_code": "055",
+    "lg_name": "Thumpane PS"
+  },
+  "LG-21056": {
+    "lg_id": "LG-21056",
+    "district_id": "LK-21",
+    "lg_code": "056",
+    "lg_name": "Harispattuwa PS"
+  },
+  "LG-21057": {
+    "lg_id": "LG-21057",
+    "district_id": "LK-21",
+    "lg_code": "057",
+    "lg_name": "Akurana PS"
+  },
+  "LG-21058": {
+    "lg_id": "LG-21058",
+    "district_id": "LK-21",
+    "lg_code": "058",
+    "lg_name": "Poojapitiya PS"
+  },
+  "LG-21059": {
+    "lg_id": "LG-21059",
+    "district_id": "LK-21",
+    "lg_code": "059",
+    "lg_name": "Pathadumbara PS"
+  },
+  "LG-21060": {
+    "lg_id": "LG-21060",
+    "district_id": "LK-21",
+    "lg_code": "060",
+    "lg_name": "Panwila PS"
+  },
+  "LG-21061": {
+    "lg_id": "LG-21061",
+    "district_id": "LK-21",
+    "lg_code": "061",
+    "lg_name": "Udadumbara PS"
+  },
+  "LG-21062": {
+    "lg_id": "LG-21062",
+    "district_id": "LK-21",
+    "lg_code": "062",
+    "lg_name": "Minipe PS"
+  },
+  "LG-21063": {
+    "lg_id": "LG-21063",
+    "district_id": "LK-21",
+    "lg_code": "063",
+    "lg_name": "Medadumbara PS"
+  },
+  "LG-21064": {
+    "lg_id": "LG-21064",
+    "district_id": "LK-21",
+    "lg_code": "064",
+    "lg_name": "Kundasale PS"
+  },
+  "LG-21065": {
+    "lg_id": "LG-21065",
+    "district_id": "LK-21",
+    "lg_code": "065",
+    "lg_name": "Pathahewaheta PS"
+  },
+  "LG-21066": {
+    "lg_id": "LG-21066",
+    "district_id": "LK-21",
+    "lg_code": "066",
+    "lg_name": "Kandy Four Gravets And Gangawata Korale PS"
+  },
+  "LG-21067": {
+    "lg_id": "LG-21067",
+    "district_id": "LK-21",
+    "lg_code": "067",
+    "lg_name": "Yatinuwara PS"
+  },
+  "LG-21068": {
+    "lg_id": "LG-21068",
+    "district_id": "LK-21",
+    "lg_code": "068",
+    "lg_name": "Udunuwara PS"
+  },
+  "LG-21069": {
+    "lg_id": "LG-21069",
+    "district_id": "LK-21",
+    "lg_code": "069",
+    "lg_name": "Udapalatha PS"
+  },
+  "LG-21070": {
+    "lg_id": "LG-21070",
+    "district_id": "LK-21",
+    "lg_code": "070",
+    "lg_name": "Ganga Ihala Korale PS"
+  },
+  "LG-21071": {
+    "lg_id": "LG-21071",
+    "district_id": "LK-21",
+    "lg_code": "071",
+    "lg_name": "Pasbage Korale PS"
+  },
+  "LG-22072": {
+    "lg_id": "LG-22072",
+    "district_id": "LK-22",
+    "lg_code": "072",
+    "lg_name": "Dambulla MC"
+  },
+  "LG-22073": {
+    "lg_id": "LG-22073",
+    "district_id": "LK-22",
+    "lg_code": "073",
+    "lg_name": "Matale MC"
+  },
+  "LG-22074": {
+    "lg_id": "LG-22074",
+    "district_id": "LK-22",
+    "lg_code": "074",
+    "lg_name": "Pallepola PS"
+  },
+  "LG-22075": {
+    "lg_id": "LG-22075",
+    "district_id": "LK-22",
+    "lg_code": "075",
+    "lg_name": "Galewela PS"
+  },
+  "LG-22076": {
+    "lg_id": "LG-22076",
+    "district_id": "LK-22",
+    "lg_code": "076",
+    "lg_name": "Dambulla PS"
+  },
+  "LG-22077": {
+    "lg_id": "LG-22077",
+    "district_id": "LK-22",
+    "lg_code": "077",
+    "lg_name": "Ambanganga Korale PS"
+  },
+  "LG-22078": {
+    "lg_id": "LG-22078",
+    "district_id": "LK-22",
+    "lg_code": "078",
+    "lg_name": "Naula PS"
+  },
+  "LG-22079": {
+    "lg_id": "LG-22079",
+    "district_id": "LK-22",
+    "lg_code": "079",
+    "lg_name": "Laggala Pallegama PS"
+  },
+  "LG-22080": {
+    "lg_id": "LG-22080",
+    "district_id": "LK-22",
+    "lg_code": "080",
+    "lg_name": "Wilgamuwa PS"
+  },
+  "LG-22081": {
+    "lg_id": "LG-22081",
+    "district_id": "LK-22",
+    "lg_code": "081",
+    "lg_name": "Matale PS"
+  },
+  "LG-22082": {
+    "lg_id": "LG-22082",
+    "district_id": "LK-22",
+    "lg_code": "082",
+    "lg_name": "Yatawatta PS"
+  },
+  "LG-22083": {
+    "lg_id": "LG-22083",
+    "district_id": "LK-22",
+    "lg_code": "083",
+    "lg_name": "Ukuwela PS"
+  },
+  "LG-22084": {
+    "lg_id": "LG-22084",
+    "district_id": "LK-22",
+    "lg_code": "084",
+    "lg_name": "Rattota PS"
+  },
+  "LG-23085": {
+    "lg_id": "LG-23085",
+    "district_id": "LK-23",
+    "lg_code": "085",
+    "lg_name": "Nuwara Eliya MC"
+  },
+  "LG-23086": {
+    "lg_id": "LG-23086",
+    "district_id": "LK-23",
+    "lg_code": "086",
+    "lg_name": "Hatton Dickoya UC"
+  },
+  "LG-23087": {
+    "lg_id": "LG-23087",
+    "district_id": "LK-23",
+    "lg_code": "087",
+    "lg_name": "Thalawakele Lindula UC"
+  },
+  "LG-23088": {
+    "lg_id": "LG-23088",
+    "district_id": "LK-23",
+    "lg_code": "088",
+    "lg_name": "Maskeliya PS"
+  },
+  "LG-23089": {
+    "lg_id": "LG-23089",
+    "district_id": "LK-23",
+    "lg_code": "089",
+    "lg_name": "Norwood PS"
+  },
+  "LG-23090": {
+    "lg_id": "LG-23090",
+    "district_id": "LK-23",
+    "lg_code": "090",
+    "lg_name": "Ambagamuwa PS"
+  },
+  "LG-23091": {
+    "lg_id": "LG-23091",
+    "district_id": "LK-23",
+    "lg_code": "091",
+    "lg_name": "Agarapathana PS"
+  },
+  "LG-23092": {
+    "lg_id": "LG-23092",
+    "district_id": "LK-23",
+    "lg_code": "092",
+    "lg_name": "Kotagala PS"
+  },
+  "LG-23093": {
+    "lg_id": "LG-23093",
+    "district_id": "LK-23",
+    "lg_code": "093",
+    "lg_name": "Nuwaraeliya PS"
+  },
+  "LG-23094": {
+    "lg_id": "LG-23094",
+    "district_id": "LK-23",
+    "lg_code": "094",
+    "lg_name": "Kothmale PS"
+  },
+  "LG-23095": {
+    "lg_id": "LG-23095",
+    "district_id": "LK-23",
+    "lg_code": "095",
+    "lg_name": "Hanguranketha PS"
+  },
+  "LG-23096": {
+    "lg_id": "LG-23096",
+    "district_id": "LK-23",
+    "lg_code": "096",
+    "lg_name": "Walapane PS"
+  },
+  "LG-31097": {
+    "lg_id": "LG-31097",
+    "district_id": "LK-31",
+    "lg_code": "097",
+    "lg_name": "Galle MC"
+  },
+  "LG-31098": {
+    "lg_id": "LG-31098",
+    "district_id": "LK-31",
+    "lg_code": "098",
+    "lg_name": "Ambalangoda UC"
+  },
+  "LG-31099": {
+    "lg_id": "LG-31099",
+    "district_id": "LK-31",
+    "lg_code": "099",
+    "lg_name": "Hikkaduwa UC"
+  },
+  "LG-31100": {
+    "lg_id": "LG-31100",
+    "district_id": "LK-31",
+    "lg_code": "100",
+    "lg_name": "Balapitiya PS"
+  },
+  "LG-31101": {
+    "lg_id": "LG-31101",
+    "district_id": "LK-31",
+    "lg_code": "101",
+    "lg_name": "Ambalangoda PS"
+  },
+  "LG-31102": {
+    "lg_id": "LG-31102",
+    "district_id": "LK-31",
+    "lg_code": "102",
+    "lg_name": "Welivitiya Divithura PS"
+  },
+  "LG-31103": {
+    "lg_id": "LG-31103",
+    "district_id": "LK-31",
+    "lg_code": "103",
+    "lg_name": "Karandeniya PS"
+  },
+  "LG-31104": {
+    "lg_id": "LG-31104",
+    "district_id": "LK-31",
+    "lg_code": "104",
+    "lg_name": "Bentota PS"
+  },
+  "LG-31106": {
+    "lg_id": "LG-31106",
+    "district_id": "LK-31",
+    "lg_code": "106",
+    "lg_name": "Neluwa PS"
+  },
+  "LG-31107": {
+    "lg_id": "LG-31107",
+    "district_id": "LK-31",
+    "lg_code": "107",
+    "lg_name": "Thawalama PS"
+  },
+  "LG-31108": {
+    "lg_id": "LG-31108",
+    "district_id": "LK-31",
+    "lg_code": "108",
+    "lg_name": "Nagoda PS"
+  },
+  "LG-31109": {
+    "lg_id": "LG-31109",
+    "district_id": "LK-31",
+    "lg_code": "109",
+    "lg_name": "Niyagama PS"
+  },
+  "LG-31110": {
+    "lg_id": "LG-31110",
+    "district_id": "LK-31",
+    "lg_code": "110",
+    "lg_name": "Baddegama PS"
+  },
+  "LG-31111": {
+    "lg_id": "LG-31111",
+    "district_id": "LK-31",
+    "lg_code": "111",
+    "lg_name": "Yakkalamulla PS"
+  },
+  "LG-31112": {
+    "lg_id": "LG-31112",
+    "district_id": "LK-31",
+    "lg_code": "112",
+    "lg_name": "Rajgama PS"
+  },
+  "LG-31113": {
+    "lg_id": "LG-31113",
+    "district_id": "LK-31",
+    "lg_code": "113",
+    "lg_name": "Akmeemana PS"
+  },
+  "LG-31114": {
+    "lg_id": "LG-31114",
+    "district_id": "LK-31",
+    "lg_code": "114",
+    "lg_name": "Bope Poddala PS"
+  },
+  "LG-31115": {
+    "lg_id": "LG-31115",
+    "district_id": "LK-31",
+    "lg_code": "115",
+    "lg_name": "Imaduwa PS"
+  },
+  "LG-31116": {
+    "lg_id": "LG-31116",
+    "district_id": "LK-31",
+    "lg_code": "116",
+    "lg_name": "Habaraduwa PS"
+  },
+  "LG-32117": {
+    "lg_id": "LG-32117",
+    "district_id": "LK-32",
+    "lg_code": "117",
+    "lg_name": "Matara MC"
+  },
+  "LG-32118": {
+    "lg_id": "LG-32118",
+    "district_id": "LK-32",
+    "lg_code": "118",
+    "lg_name": "Weligama UC"
+  },
+  "LG-32119": {
+    "lg_id": "LG-32119",
+    "district_id": "LK-32",
+    "lg_code": "119",
+    "lg_name": "Pitabeddara PS"
+  },
+  "LG-32120": {
+    "lg_id": "LG-32120",
+    "district_id": "LK-32",
+    "lg_code": "120",
+    "lg_name": "Kotapola PS"
+  },
+  "LG-32121": {
+    "lg_id": "LG-32121",
+    "district_id": "LK-32",
+    "lg_code": "121",
+    "lg_name": "Kirinda Puhulwella PS"
+  },
+  "LG-32122": {
+    "lg_id": "LG-32122",
+    "district_id": "LK-32",
+    "lg_code": "122",
+    "lg_name": "Mulatiyana PS"
+  },
+  "LG-32123": {
+    "lg_id": "LG-32123",
+    "district_id": "LK-32",
+    "lg_code": "123",
+    "lg_name": "Pasgoda PS"
+  },
+  "LG-32124": {
+    "lg_id": "LG-32124",
+    "district_id": "LK-32",
+    "lg_code": "124",
+    "lg_name": "Athuraliya PS"
+  },
+  "LG-32125": {
+    "lg_id": "LG-32125",
+    "district_id": "LK-32",
+    "lg_code": "125",
+    "lg_name": "Akuressa PS"
+  },
+  "LG-32126": {
+    "lg_id": "LG-32126",
+    "district_id": "LK-32",
+    "lg_code": "126",
+    "lg_name": "Malimbada PS"
+  },
+  "LG-32127": {
+    "lg_id": "LG-32127",
+    "district_id": "LK-32",
+    "lg_code": "127",
+    "lg_name": "Hakmana PS"
+  },
+  "LG-32128": {
+    "lg_id": "LG-32128",
+    "district_id": "LK-32",
+    "lg_code": "128",
+    "lg_name": "Kamburupitiya PS"
+  },
+  "LG-32129": {
+    "lg_id": "LG-32129",
+    "district_id": "LK-32",
+    "lg_code": "129",
+    "lg_name": "Thihagoda PS"
+  },
+  "LG-32130": {
+    "lg_id": "LG-32130",
+    "district_id": "LK-32",
+    "lg_code": "130",
+    "lg_name": "Devinuwara PS"
+  },
+  "LG-32131": {
+    "lg_id": "LG-32131",
+    "district_id": "LK-32",
+    "lg_code": "131",
+    "lg_name": "Dickwella PS"
+  },
+  "LG-32132": {
+    "lg_id": "LG-32132",
+    "district_id": "LK-32",
+    "lg_code": "132",
+    "lg_name": "Matara PS"
+  },
+  "LG-32133": {
+    "lg_id": "LG-32133",
+    "district_id": "LK-32",
+    "lg_code": "133",
+    "lg_name": "Weligama PS"
+  },
+  "LG-33134": {
+    "lg_id": "LG-33134",
+    "district_id": "LK-33",
+    "lg_code": "134",
+    "lg_name": "Hambantota MC"
+  },
+  "LG-33135": {
+    "lg_id": "LG-33135",
+    "district_id": "LK-33",
+    "lg_code": "135",
+    "lg_name": "Tangalle UC"
+  },
+  "LG-33136": {
+    "lg_id": "LG-33136",
+    "district_id": "LK-33",
+    "lg_code": "136",
+    "lg_name": "Weeraketiya PS"
+  },
+  "LG-33137": {
+    "lg_id": "LG-33137",
+    "district_id": "LK-33",
+    "lg_code": "137",
+    "lg_name": "Katuwana PS"
+  },
+  "LG-33138": {
+    "lg_id": "LG-33138",
+    "district_id": "LK-33",
+    "lg_code": "138",
+    "lg_name": "Beliatta PS"
+  },
+  "LG-33139": {
+    "lg_id": "LG-33139",
+    "district_id": "LK-33",
+    "lg_code": "139",
+    "lg_name": "Tangalle PS"
+  },
+  "LG-33140": {
+    "lg_id": "LG-33140",
+    "district_id": "LK-33",
+    "lg_code": "140",
+    "lg_name": "Angunakolapelessa PS"
+  },
+  "LG-33141": {
+    "lg_id": "LG-33141",
+    "district_id": "LK-33",
+    "lg_code": "141",
+    "lg_name": "Ambalantota PS"
+  },
+  "LG-33142": {
+    "lg_id": "LG-33142",
+    "district_id": "LK-33",
+    "lg_code": "142",
+    "lg_name": "Thissamaharama PS"
+  },
+  "LG-33143": {
+    "lg_id": "LG-33143",
+    "district_id": "LK-33",
+    "lg_code": "143",
+    "lg_name": "Sooriyawewa PS"
+  },
+  "LG-33144": {
+    "lg_id": "LG-33144",
+    "district_id": "LK-33",
+    "lg_code": "144",
+    "lg_name": "Hambantota PS"
+  },
+  "LG-33145": {
+    "lg_id": "LG-33145",
+    "district_id": "LK-33",
+    "lg_code": "145",
+    "lg_name": "Lunugamwehera PS"
+  },
+  "LG-41146": {
+    "lg_id": "LG-41146",
+    "district_id": "LK-41",
+    "lg_code": "146",
+    "lg_name": "Jaffna MC"
+  },
+  "LG-41147": {
+    "lg_id": "LG-41147",
+    "district_id": "LK-41",
+    "lg_code": "147",
+    "lg_name": "Valvettithurai UC"
+  },
+  "LG-41148": {
+    "lg_id": "LG-41148",
+    "district_id": "LK-41",
+    "lg_code": "148",
+    "lg_name": "Point Pedro UC"
+  },
+  "LG-41149": {
+    "lg_id": "LG-41149",
+    "district_id": "LK-41",
+    "lg_code": "149",
+    "lg_name": "Chavakachcheri UC"
+  },
+  "LG-41150": {
+    "lg_id": "LG-41150",
+    "district_id": "LK-41",
+    "lg_code": "150",
+    "lg_name": "Karainagar PS"
+  },
+  "LG-41151": {
+    "lg_id": "LG-41151",
+    "district_id": "LK-41",
+    "lg_code": "151",
+    "lg_name": "Kayts PS"
+  },
+  "LG-41152": {
+    "lg_id": "LG-41152",
+    "district_id": "LK-41",
+    "lg_code": "152",
+    "lg_name": "Delft PS"
+  },
+  "LG-41153": {
+    "lg_id": "LG-41153",
+    "district_id": "LK-41",
+    "lg_code": "153",
+    "lg_name": "Velanai PS"
+  },
+  "LG-41154": {
+    "lg_id": "LG-41154",
+    "district_id": "LK-41",
+    "lg_code": "154",
+    "lg_name": "Valikamam West PS"
+  },
+  "LG-41155": {
+    "lg_id": "LG-41155",
+    "district_id": "LK-41",
+    "lg_code": "155",
+    "lg_name": "Walikamam North PS"
+  },
+  "LG-41156": {
+    "lg_id": "LG-41156",
+    "district_id": "LK-41",
+    "lg_code": "156",
+    "lg_name": "Walikamam South West PS"
+  },
+  "LG-41157": {
+    "lg_id": "LG-41157",
+    "district_id": "LK-41",
+    "lg_code": "157",
+    "lg_name": "Walikamam South PS"
+  },
+  "LG-41158": {
+    "lg_id": "LG-41158",
+    "district_id": "LK-41",
+    "lg_code": "158",
+    "lg_name": "Walikamam East PS"
+  },
+  "LG-41159": {
+    "lg_id": "LG-41159",
+    "district_id": "LK-41",
+    "lg_code": "159",
+    "lg_name": "Wadamarachchi South West PS"
+  },
+  "LG-41160": {
+    "lg_id": "LG-41160",
+    "district_id": "LK-41",
+    "lg_code": "160",
+    "lg_name": "Point Pedro PS"
+  },
+  "LG-41161": {
+    "lg_id": "LG-41161",
+    "district_id": "LK-41",
+    "lg_code": "161",
+    "lg_name": "Chawakachcheri PS"
+  },
+  "LG-41162": {
+    "lg_id": "LG-41162",
+    "district_id": "LK-41",
+    "lg_code": "162",
+    "lg_name": "Nallur PS"
+  },
+  "LG-45163": {
+    "lg_id": "LG-45163",
+    "district_id": "LK-45",
+    "lg_code": "163",
+    "lg_name": "Pachchilaippalli PS"
+  },
+  "LG-45164": {
+    "lg_id": "LG-45164",
+    "district_id": "LK-45",
+    "lg_code": "164",
+    "lg_name": "Karachchi PS"
+  },
+  "LG-45165": {
+    "lg_id": "LG-45165",
+    "district_id": "LK-45",
+    "lg_code": "165",
+    "lg_name": "Poonakary PS"
+  },
+  "LG-42166": {
+    "lg_id": "LG-42166",
+    "district_id": "LK-42",
+    "lg_code": "166",
+    "lg_name": "Mannar UC"
+  },
+  "LG-42167": {
+    "lg_id": "LG-42167",
+    "district_id": "LK-42",
+    "lg_code": "167",
+    "lg_name": "Mannar PS"
+  },
+  "LG-42168": {
+    "lg_id": "LG-42168",
+    "district_id": "LK-42",
+    "lg_code": "168",
+    "lg_name": "Nanattan PS"
+  },
+  "LG-42169": {
+    "lg_id": "LG-42169",
+    "district_id": "LK-42",
+    "lg_code": "169",
+    "lg_name": "Musali PS"
+  },
+  "LG-42170": {
+    "lg_id": "LG-42170",
+    "district_id": "LK-42",
+    "lg_code": "170",
+    "lg_name": "Manthai West PS"
+  },
+  "LG-43171": {
+    "lg_id": "LG-43171",
+    "district_id": "LK-43",
+    "lg_code": "171",
+    "lg_name": "Vavuniya MC"
+  },
+  "LG-43172": {
+    "lg_id": "LG-43172",
+    "district_id": "LK-43",
+    "lg_code": "172",
+    "lg_name": "Vavuniya North PS"
+  },
+  "LG-43173": {
+    "lg_id": "LG-43173",
+    "district_id": "LK-43",
+    "lg_code": "173",
+    "lg_name": "Vengalasettikulam PS"
+  },
+  "LG-43174": {
+    "lg_id": "LG-43174",
+    "district_id": "LK-43",
+    "lg_code": "174",
+    "lg_name": "Vavuniya South Tamil PS"
+  },
+  "LG-43175": {
+    "lg_id": "LG-43175",
+    "district_id": "LK-43",
+    "lg_code": "175",
+    "lg_name": "Vavuniya South Sinhala PS"
+  },
+  "LG-44176": {
+    "lg_id": "LG-44176",
+    "district_id": "LK-44",
+    "lg_code": "176",
+    "lg_name": "Manthai East PS"
+  },
+  "LG-44177": {
+    "lg_id": "LG-44177",
+    "district_id": "LK-44",
+    "lg_code": "177",
+    "lg_name": "Thunukkai PS"
+  },
+  "LG-44178": {
+    "lg_id": "LG-44178",
+    "district_id": "LK-44",
+    "lg_code": "178",
+    "lg_name": "Puthukkudiyiruppu PS"
+  },
+  "LG-44179": {
+    "lg_id": "LG-44179",
+    "district_id": "LK-44",
+    "lg_code": "179",
+    "lg_name": "Maritime Pattu PS"
+  },
+  "LG-51180": {
+    "lg_id": "LG-51180",
+    "district_id": "LK-51",
+    "lg_code": "180",
+    "lg_name": "Batticaloa MC"
+  },
+  "LG-51181": {
+    "lg_id": "LG-51181",
+    "district_id": "LK-51",
+    "lg_code": "181",
+    "lg_name": "Eravur UC"
+  },
+  "LG-51182": {
+    "lg_id": "LG-51182",
+    "district_id": "LK-51",
+    "lg_code": "182",
+    "lg_name": "Kaththankudi UC"
+  },
+  "LG-51183": {
+    "lg_id": "LG-51183",
+    "district_id": "LK-51",
+    "lg_code": "183",
+    "lg_name": "Eravur Pattu PS"
+  },
+  "LG-51184": {
+    "lg_id": "LG-51184",
+    "district_id": "LK-51",
+    "lg_code": "184",
+    "lg_name": "Koralai Pattu PS"
+  },
+  "LG-51186": {
+    "lg_id": "LG-51186",
+    "district_id": "LK-51",
+    "lg_code": "186",
+    "lg_name": "Koralai Pattu North PS"
+  },
+  "LG-51187": {
+    "lg_id": "LG-51187",
+    "district_id": "LK-51",
+    "lg_code": "187",
+    "lg_name": "Manmunai South And Eruvil Pattu PS"
+  },
+  "LG-51188": {
+    "lg_id": "LG-51188",
+    "district_id": "LK-51",
+    "lg_code": "188",
+    "lg_name": "Manmunai Pattu PS"
+  },
+  "LG-51189": {
+    "lg_id": "LG-51189",
+    "district_id": "LK-51",
+    "lg_code": "189",
+    "lg_name": "Manmunai West PS"
+  },
+  "LG-51190": {
+    "lg_id": "LG-51190",
+    "district_id": "LK-51",
+    "lg_code": "190",
+    "lg_name": "Mamunai South West PS"
+  },
+  "LG-51191": {
+    "lg_id": "LG-51191",
+    "district_id": "LK-51",
+    "lg_code": "191",
+    "lg_name": "Porthivu Pattu PS"
+  },
+  "LG-52193": {
+    "lg_id": "LG-52193",
+    "district_id": "LK-52",
+    "lg_code": "193",
+    "lg_name": "Akkaraipattu MC"
+  },
+  "LG-52194": {
+    "lg_id": "LG-52194",
+    "district_id": "LK-52",
+    "lg_code": "194",
+    "lg_name": "Ampara UC"
+  },
+  "LG-52195": {
+    "lg_id": "LG-52195",
+    "district_id": "LK-52",
+    "lg_code": "195",
+    "lg_name": "Dehiaththakandiya PS"
+  },
+  "LG-52196": {
+    "lg_id": "LG-52196",
+    "district_id": "LK-52",
+    "lg_code": "196",
+    "lg_name": "Damana PS"
+  },
+  "LG-52197": {
+    "lg_id": "LG-52197",
+    "district_id": "LK-52",
+    "lg_code": "197",
+    "lg_name": "Uhana PS"
+  },
+  "LG-52198": {
+    "lg_id": "LG-52198",
+    "district_id": "LK-52",
+    "lg_code": "198",
+    "lg_name": "Mahaoya PS"
+  },
+  "LG-52199": {
+    "lg_id": "LG-52199",
+    "district_id": "LK-52",
+    "lg_code": "199",
+    "lg_name": "Namaloya PS"
+  },
+  "LG-52200": {
+    "lg_id": "LG-52200",
+    "district_id": "LK-52",
+    "lg_code": "200",
+    "lg_name": "Padiyathalawa PS"
+  },
+  "LG-52201": {
+    "lg_id": "LG-52201",
+    "district_id": "LK-52",
+    "lg_code": "201",
+    "lg_name": "Navithanveli PS"
+  },
+  "LG-52202": {
+    "lg_id": "LG-52202",
+    "district_id": "LK-52",
+    "lg_code": "202",
+    "lg_name": "Sammanthurai PS"
+  },
+  "LG-52203": {
+    "lg_id": "LG-52203",
+    "district_id": "LK-52",
+    "lg_code": "203",
+    "lg_name": "Irakkamam PS"
+  },
+  "LG-52204": {
+    "lg_id": "LG-52204",
+    "district_id": "LK-52",
+    "lg_code": "204",
+    "lg_name": "Akkaraipattu PS"
+  },
+  "LG-52205": {
+    "lg_id": "LG-52205",
+    "district_id": "LK-52",
+    "lg_code": "205",
+    "lg_name": "Potuvil PS"
+  },
+  "LG-52206": {
+    "lg_id": "LG-52206",
+    "district_id": "LK-52",
+    "lg_code": "206",
+    "lg_name": "Addalachchenai PS"
+  },
+  "LG-52207": {
+    "lg_id": "LG-52207",
+    "district_id": "LK-52",
+    "lg_code": "207",
+    "lg_name": "Alayadiwembu PS"
+  },
+  "LG-52208": {
+    "lg_id": "LG-52208",
+    "district_id": "LK-52",
+    "lg_code": "208",
+    "lg_name": "Lahugala PS"
+  },
+  "LG-52209": {
+    "lg_id": "LG-52209",
+    "district_id": "LK-52",
+    "lg_code": "209",
+    "lg_name": "Karaitheevu PS"
+  },
+  "LG-52210": {
+    "lg_id": "LG-52210",
+    "district_id": "LK-52",
+    "lg_code": "210",
+    "lg_name": "Ninthavur PS"
+  },
+  "LG-52211": {
+    "lg_id": "LG-52211",
+    "district_id": "LK-52",
+    "lg_code": "211",
+    "lg_name": "Thirukkovil PS"
+  },
+  "LG-53212": {
+    "lg_id": "LG-53212",
+    "district_id": "LK-53",
+    "lg_code": "212",
+    "lg_name": "Trincomalee MC"
+  },
+  "LG-53213": {
+    "lg_id": "LG-53213",
+    "district_id": "LK-53",
+    "lg_code": "213",
+    "lg_name": "Kinniya UC"
+  },
+  "LG-53214": {
+    "lg_id": "LG-53214",
+    "district_id": "LK-53",
+    "lg_code": "214",
+    "lg_name": "Verugal PS"
+  },
+  "LG-53215": {
+    "lg_id": "LG-53215",
+    "district_id": "LK-53",
+    "lg_code": "215",
+    "lg_name": "Seruwila PS"
+  },
+  "LG-53216": {
+    "lg_id": "LG-53216",
+    "district_id": "LK-53",
+    "lg_code": "216",
+    "lg_name": "Kanthale PS"
+  },
+  "LG-53217": {
+    "lg_id": "LG-53217",
+    "district_id": "LK-53",
+    "lg_code": "217",
+    "lg_name": "Morawewa PS"
+  },
+  "LG-53218": {
+    "lg_id": "LG-53218",
+    "district_id": "LK-53",
+    "lg_code": "218",
+    "lg_name": "Gomarankadawala PS"
+  },
+  "LG-53219": {
+    "lg_id": "LG-53219",
+    "district_id": "LK-53",
+    "lg_code": "219",
+    "lg_name": "Padavi Sri Pura PS"
+  },
+  "LG-53220": {
+    "lg_id": "LG-53220",
+    "district_id": "LK-53",
+    "lg_code": "220",
+    "lg_name": "Trincomalee Town And Gravets PS"
+  },
+  "LG-53221": {
+    "lg_id": "LG-53221",
+    "district_id": "LK-53",
+    "lg_code": "221",
+    "lg_name": "Kuchchaveli PS"
+  },
+  "LG-53222": {
+    "lg_id": "LG-53222",
+    "district_id": "LK-53",
+    "lg_code": "222",
+    "lg_name": "Thambalagamuwa PS"
+  },
+  "LG-53223": {
+    "lg_id": "LG-53223",
+    "district_id": "LK-53",
+    "lg_code": "223",
+    "lg_name": "Muttur PS"
+  },
+  "LG-53224": {
+    "lg_id": "LG-53224",
+    "district_id": "LK-53",
+    "lg_code": "224",
+    "lg_name": "Kinniya PS"
+  },
+  "LG-61225": {
+    "lg_id": "LG-61225",
+    "district_id": "LK-61",
+    "lg_code": "225",
+    "lg_name": "Kurunegala MC"
+  },
+  "LG-61226": {
+    "lg_id": "LG-61226",
+    "district_id": "LK-61",
+    "lg_code": "226",
+    "lg_name": "Kuliyapitiya UC"
+  },
+  "LG-61227": {
+    "lg_id": "LG-61227",
+    "district_id": "LK-61",
+    "lg_code": "227",
+    "lg_name": "Giribawa PS"
+  },
+  "LG-61228": {
+    "lg_id": "LG-61228",
+    "district_id": "LK-61",
+    "lg_code": "228",
+    "lg_name": "Galgamuwa PS"
+  },
+  "LG-61229": {
+    "lg_id": "LG-61229",
+    "district_id": "LK-61",
+    "lg_code": "229",
+    "lg_name": "Polpithigama PS"
+  },
+  "LG-61230": {
+    "lg_id": "LG-61230",
+    "district_id": "LK-61",
+    "lg_code": "230",
+    "lg_name": "Nikaweratiya PS"
+  },
+  "LG-61231": {
+    "lg_id": "LG-61231",
+    "district_id": "LK-61",
+    "lg_code": "231",
+    "lg_name": "Kobeigane PS"
+  },
+  "LG-61232": {
+    "lg_id": "LG-61232",
+    "district_id": "LK-61",
+    "lg_code": "232",
+    "lg_name": "Mahawa PS"
+  },
+  "LG-61233": {
+    "lg_id": "LG-61233",
+    "district_id": "LK-61",
+    "lg_code": "233",
+    "lg_name": "Ibbagamuwa PS"
+  },
+  "LG-61234": {
+    "lg_id": "LG-61234",
+    "district_id": "LK-61",
+    "lg_code": "234",
+    "lg_name": "Wariyapola PS"
+  },
+  "LG-61235": {
+    "lg_id": "LG-61235",
+    "district_id": "LK-61",
+    "lg_code": "235",
+    "lg_name": "Panduwasnuwara PS"
+  },
+  "LG-61236": {
+    "lg_id": "LG-61236",
+    "district_id": "LK-61",
+    "lg_code": "236",
+    "lg_name": "Bingiriya PS"
+  },
+  "LG-61237": {
+    "lg_id": "LG-61237",
+    "district_id": "LK-61",
+    "lg_code": "237",
+    "lg_name": "Udubaddawa PS"
+  },
+  "LG-61238": {
+    "lg_id": "LG-61238",
+    "district_id": "LK-61",
+    "lg_code": "238",
+    "lg_name": "Pannala PS"
+  },
+  "LG-61239": {
+    "lg_id": "LG-61239",
+    "district_id": "LK-61",
+    "lg_code": "239",
+    "lg_name": "Kuliyapitiya PS"
+  },
+  "LG-61240": {
+    "lg_id": "LG-61240",
+    "district_id": "LK-61",
+    "lg_code": "240",
+    "lg_name": "Alawwa PS"
+  },
+  "LG-61241": {
+    "lg_id": "LG-61241",
+    "district_id": "LK-61",
+    "lg_code": "241",
+    "lg_name": "Narammala PS"
+  },
+  "LG-61242": {
+    "lg_id": "LG-61242",
+    "district_id": "LK-61",
+    "lg_code": "242",
+    "lg_name": "Polgahawela PS"
+  },
+  "LG-61243": {
+    "lg_id": "LG-61243",
+    "district_id": "LK-61",
+    "lg_code": "243",
+    "lg_name": "Kurunegala PS"
+  },
+  "LG-61244": {
+    "lg_id": "LG-61244",
+    "district_id": "LK-61",
+    "lg_code": "244",
+    "lg_name": "Mawathagama PS"
+  },
+  "LG-61245": {
+    "lg_id": "LG-61245",
+    "district_id": "LK-61",
+    "lg_code": "245",
+    "lg_name": "Rideegama PS"
+  },
+  "LG-62246": {
+    "lg_id": "LG-62246",
+    "district_id": "LK-62",
+    "lg_code": "246",
+    "lg_name": "Puttalam MC"
+  },
+  "LG-62247": {
+    "lg_id": "LG-62247",
+    "district_id": "LK-62",
+    "lg_code": "247",
+    "lg_name": "Chilaw UC"
+  },
+  "LG-62248": {
+    "lg_id": "LG-62248",
+    "district_id": "LK-62",
+    "lg_code": "248",
+    "lg_name": "Kalpitiya PS"
+  },
+  "LG-62249": {
+    "lg_id": "LG-62249",
+    "district_id": "LK-62",
+    "lg_code": "249",
+    "lg_name": "Puttalam PS"
+  },
+  "LG-62250": {
+    "lg_id": "LG-62250",
+    "district_id": "LK-62",
+    "lg_code": "250",
+    "lg_name": "Wanathawilluwa PS"
+  },
+  "LG-62251": {
+    "lg_id": "LG-62251",
+    "district_id": "LK-62",
+    "lg_code": "251",
+    "lg_name": "Karuwalagaswewa PS"
+  },
+  "LG-62252": {
+    "lg_id": "LG-62252",
+    "district_id": "LK-62",
+    "lg_code": "252",
+    "lg_name": "Nawagattegama PS"
+  },
+  "LG-62253": {
+    "lg_id": "LG-62253",
+    "district_id": "LK-62",
+    "lg_code": "253",
+    "lg_name": "Anamaduwa PS"
+  },
+  "LG-62254": {
+    "lg_id": "LG-62254",
+    "district_id": "LK-62",
+    "lg_code": "254",
+    "lg_name": "Arachchikattuwa PS"
+  },
+  "LG-62255": {
+    "lg_id": "LG-62255",
+    "district_id": "LK-62",
+    "lg_code": "255",
+    "lg_name": "Chilaw PS"
+  },
+  "LG-62256": {
+    "lg_id": "LG-62256",
+    "district_id": "LK-62",
+    "lg_code": "256",
+    "lg_name": "Nattandiya PS"
+  },
+  "LG-62257": {
+    "lg_id": "LG-62257",
+    "district_id": "LK-62",
+    "lg_code": "257",
+    "lg_name": "Wennappuwa PS"
+  },
+  "LG-71258": {
+    "lg_id": "LG-71258",
+    "district_id": "LK-71",
+    "lg_code": "258",
+    "lg_name": "Anuradhapura MC"
+  },
+  "LG-71259": {
+    "lg_id": "LG-71259",
+    "district_id": "LK-71",
+    "lg_code": "259",
+    "lg_name": "Medawachchiya PS"
+  },
+  "LG-71260": {
+    "lg_id": "LG-71260",
+    "district_id": "LK-71",
+    "lg_code": "260",
+    "lg_name": "Rambewa PS"
+  },
+  "LG-71261": {
+    "lg_id": "LG-71261",
+    "district_id": "LK-71",
+    "lg_code": "261",
+    "lg_name": "Kebithigollewa PS"
+  },
+  "LG-71262": {
+    "lg_id": "LG-71262",
+    "district_id": "LK-71",
+    "lg_code": "262",
+    "lg_name": "Padaviya PS"
+  },
+  "LG-71263": {
+    "lg_id": "LG-71263",
+    "district_id": "LK-71",
+    "lg_code": "263",
+    "lg_name": "Kahatagasdigiliya PS"
+  },
+  "LG-71264": {
+    "lg_id": "LG-71264",
+    "district_id": "LK-71",
+    "lg_code": "264",
+    "lg_name": "Horowpothana PS"
+  },
+  "LG-71265": {
+    "lg_id": "LG-71265",
+    "district_id": "LK-71",
+    "lg_code": "265",
+    "lg_name": "Galenbindunuweva PS"
+  },
+  "LG-71266": {
+    "lg_id": "LG-71266",
+    "district_id": "LK-71",
+    "lg_code": "266",
+    "lg_name": "Thalawa PS"
+  },
+  "LG-71267": {
+    "lg_id": "LG-71267",
+    "district_id": "LK-71",
+    "lg_code": "267",
+    "lg_name": "Nuwaragampalatha East PS"
+  },
+  "LG-71268": {
+    "lg_id": "LG-71268",
+    "district_id": "LK-71",
+    "lg_code": "268",
+    "lg_name": "Nuwaragampalatha Central PS"
+  },
+  "LG-71269": {
+    "lg_id": "LG-71269",
+    "district_id": "LK-71",
+    "lg_code": "269",
+    "lg_name": "Nochchiyagama PS"
+  },
+  "LG-71270": {
+    "lg_id": "LG-71270",
+    "district_id": "LK-71",
+    "lg_code": "270",
+    "lg_name": "Rajanganaya PS"
+  },
+  "LG-71271": {
+    "lg_id": "LG-71271",
+    "district_id": "LK-71",
+    "lg_code": "271",
+    "lg_name": "Galnewa PS"
+  },
+  "LG-71272": {
+    "lg_id": "LG-71272",
+    "district_id": "LK-71",
+    "lg_code": "272",
+    "lg_name": "Ipalogama PS"
+  },
+  "LG-71273": {
+    "lg_id": "LG-71273",
+    "district_id": "LK-71",
+    "lg_code": "273",
+    "lg_name": "Mihintale PS"
+  },
+  "LG-71274": {
+    "lg_id": "LG-71274",
+    "district_id": "LK-71",
+    "lg_code": "274",
+    "lg_name": "Thirappane PS"
+  },
+  "LG-71275": {
+    "lg_id": "LG-71275",
+    "district_id": "LK-71",
+    "lg_code": "275",
+    "lg_name": "Kekirawa PS"
+  },
+  "LG-71276": {
+    "lg_id": "LG-71276",
+    "district_id": "LK-71",
+    "lg_code": "276",
+    "lg_name": "Palagala PS"
+  },
+  "LG-72277": {
+    "lg_id": "LG-72277",
+    "district_id": "LK-72",
+    "lg_code": "277",
+    "lg_name": "Polonnaruwa MC"
+  },
+  "LG-72278": {
+    "lg_id": "LG-72278",
+    "district_id": "LK-72",
+    "lg_code": "278",
+    "lg_name": "Elahera PS"
+  },
+  "LG-72279": {
+    "lg_id": "LG-72279",
+    "district_id": "LK-72",
+    "lg_code": "279",
+    "lg_name": "Hingurakgoda PS"
+  },
+  "LG-72280": {
+    "lg_id": "LG-72280",
+    "district_id": "LK-72",
+    "lg_code": "280",
+    "lg_name": "Medirigiriya PS"
+  },
+  "LG-72281": {
+    "lg_id": "LG-72281",
+    "district_id": "LK-72",
+    "lg_code": "281",
+    "lg_name": "Lankapura PS"
+  },
+  "LG-72282": {
+    "lg_id": "LG-72282",
+    "district_id": "LK-72",
+    "lg_code": "282",
+    "lg_name": "Welikanda PS"
+  },
+  "LG-72283": {
+    "lg_id": "LG-72283",
+    "district_id": "LK-72",
+    "lg_code": "283",
+    "lg_name": "Dimbulagala PS"
+  },
+  "LG-72284": {
+    "lg_id": "LG-72284",
+    "district_id": "LK-72",
+    "lg_code": "284",
+    "lg_name": "Polonnaruwa PS"
+  },
+  "LG-81285": {
+    "lg_id": "LG-81285",
+    "district_id": "LK-81",
+    "lg_code": "285",
+    "lg_name": "Badulla MC"
+  },
+  "LG-81286": {
+    "lg_id": "LG-81286",
+    "district_id": "LK-81",
+    "lg_code": "286",
+    "lg_name": "Bandarawela MC"
+  },
+  "LG-81287": {
+    "lg_id": "LG-81287",
+    "district_id": "LK-81",
+    "lg_code": "287",
+    "lg_name": "Haputhale UC"
+  },
+  "LG-81288": {
+    "lg_id": "LG-81288",
+    "district_id": "LK-81",
+    "lg_code": "288",
+    "lg_name": "Mahiyangana PS"
+  },
+  "LG-81289": {
+    "lg_id": "LG-81289",
+    "district_id": "LK-81",
+    "lg_code": "289",
+    "lg_name": "Rideemaliyadda PS"
+  },
+  "LG-81290": {
+    "lg_id": "LG-81290",
+    "district_id": "LK-81",
+    "lg_code": "290",
+    "lg_name": "Soranathota PS"
+  },
+  "LG-81291": {
+    "lg_id": "LG-81291",
+    "district_id": "LK-81",
+    "lg_code": "291",
+    "lg_name": "Meegahakivula PS"
+  },
+  "LG-81292": {
+    "lg_id": "LG-81292",
+    "district_id": "LK-81",
+    "lg_code": "292",
+    "lg_name": "Kandaketiya PS"
+  },
+  "LG-81293": {
+    "lg_id": "LG-81293",
+    "district_id": "LK-81",
+    "lg_code": "293",
+    "lg_name": "Passara PS"
+  },
+  "LG-81294": {
+    "lg_id": "LG-81294",
+    "district_id": "LK-81",
+    "lg_code": "294",
+    "lg_name": "Lunugala PS"
+  },
+  "LG-81295": {
+    "lg_id": "LG-81295",
+    "district_id": "LK-81",
+    "lg_code": "295",
+    "lg_name": "Badulla PS"
+  },
+  "LG-81296": {
+    "lg_id": "LG-81296",
+    "district_id": "LK-81",
+    "lg_code": "296",
+    "lg_name": "Hali Ela PS"
+  },
+  "LG-81297": {
+    "lg_id": "LG-81297",
+    "district_id": "LK-81",
+    "lg_code": "297",
+    "lg_name": "Uva Paranagama PS"
+  },
+  "LG-81298": {
+    "lg_id": "LG-81298",
+    "district_id": "LK-81",
+    "lg_code": "298",
+    "lg_name": "Welimada PS"
+  },
+  "LG-81299": {
+    "lg_id": "LG-81299",
+    "district_id": "LK-81",
+    "lg_code": "299",
+    "lg_name": "Bandarawela PS"
+  },
+  "LG-81300": {
+    "lg_id": "LG-81300",
+    "district_id": "LK-81",
+    "lg_code": "300",
+    "lg_name": "Ella PS"
+  },
+  "LG-81301": {
+    "lg_id": "LG-81301",
+    "district_id": "LK-81",
+    "lg_code": "301",
+    "lg_name": "Haputale PS"
+  },
+  "LG-81302": {
+    "lg_id": "LG-81302",
+    "district_id": "LK-81",
+    "lg_code": "302",
+    "lg_name": "Haldummulla PS"
+  },
+  "LG-82303": {
+    "lg_id": "LG-82303",
+    "district_id": "LK-82",
+    "lg_code": "303",
+    "lg_name": "Bibila PS"
+  },
+  "LG-82304": {
+    "lg_id": "LG-82304",
+    "district_id": "LK-82",
+    "lg_code": "304",
+    "lg_name": "Medagama PS"
+  },
+  "LG-82305": {
+    "lg_id": "LG-82305",
+    "district_id": "LK-82",
+    "lg_code": "305",
+    "lg_name": "Madulla PS"
+  },
+  "LG-82306": {
+    "lg_id": "LG-82306",
+    "district_id": "LK-82",
+    "lg_code": "306",
+    "lg_name": "Siyabalanduwa PS"
+  },
+  "LG-82307": {
+    "lg_id": "LG-82307",
+    "district_id": "LK-82",
+    "lg_code": "307",
+    "lg_name": "Monaragala PS"
+  },
+  "LG-82308": {
+    "lg_id": "LG-82308",
+    "district_id": "LK-82",
+    "lg_code": "308",
+    "lg_name": "Badalkumbura PS"
+  },
+  "LG-82309": {
+    "lg_id": "LG-82309",
+    "district_id": "LK-82",
+    "lg_code": "309",
+    "lg_name": "Buttala PS"
+  },
+  "LG-82310": {
+    "lg_id": "LG-82310",
+    "district_id": "LK-82",
+    "lg_code": "310",
+    "lg_name": "Kataragama PS"
+  },
+  "LG-82311": {
+    "lg_id": "LG-82311",
+    "district_id": "LK-82",
+    "lg_code": "311",
+    "lg_name": "Wellawaya PS"
+  },
+  "LG-82312": {
+    "lg_id": "LG-82312",
+    "district_id": "LK-82",
+    "lg_code": "312",
+    "lg_name": "Thanamalwila PS"
+  },
+  "LG-91313": {
+    "lg_id": "LG-91313",
+    "district_id": "LK-91",
+    "lg_code": "313",
+    "lg_name": "Ratnapura MC"
+  },
+  "LG-91314": {
+    "lg_id": "LG-91314",
+    "district_id": "LK-91",
+    "lg_code": "314",
+    "lg_name": "Balangoda UC"
+  },
+  "LG-91315": {
+    "lg_id": "LG-91315",
+    "district_id": "LK-91",
+    "lg_code": "315",
+    "lg_name": "Embilipitiya UC"
+  },
+  "LG-91316": {
+    "lg_id": "LG-91316",
+    "district_id": "LK-91",
+    "lg_code": "316",
+    "lg_name": "Eheliyagoda PS"
+  },
+  "LG-91317": {
+    "lg_id": "LG-91317",
+    "district_id": "LK-91",
+    "lg_code": "317",
+    "lg_name": "Ratnapura PS"
+  },
+  "LG-91318": {
+    "lg_id": "LG-91318",
+    "district_id": "LK-91",
+    "lg_code": "318",
+    "lg_name": "Kuruwita PS"
+  },
+  "LG-91319": {
+    "lg_id": "LG-91319",
+    "district_id": "LK-91",
+    "lg_code": "319",
+    "lg_name": "Pelmadulla PS"
+  },
+  "LG-91320": {
+    "lg_id": "LG-91320",
+    "district_id": "LK-91",
+    "lg_code": "320",
+    "lg_name": "Balangoda PS"
+  },
+  "LG-91321": {
+    "lg_id": "LG-91321",
+    "district_id": "LK-91",
+    "lg_code": "321",
+    "lg_name": "Imbulpe PS"
+  },
+  "LG-91322": {
+    "lg_id": "LG-91322",
+    "district_id": "LK-91",
+    "lg_code": "322",
+    "lg_name": "Godakawela PS"
+  },
+  "LG-91323": {
+    "lg_id": "LG-91323",
+    "district_id": "LK-91",
+    "lg_code": "323",
+    "lg_name": "Kahawatta PS"
+  },
+  "LG-91324": {
+    "lg_id": "LG-91324",
+    "district_id": "LK-91",
+    "lg_code": "324",
+    "lg_name": "Weligepola PS"
+  },
+  "LG-91325": {
+    "lg_id": "LG-91325",
+    "district_id": "LK-91",
+    "lg_code": "325",
+    "lg_name": "Niwitigala PS"
+  },
+  "LG-91326": {
+    "lg_id": "LG-91326",
+    "district_id": "LK-91",
+    "lg_code": "326",
+    "lg_name": "Ayagama PS"
+  },
+  "LG-91327": {
+    "lg_id": "LG-91327",
+    "district_id": "LK-91",
+    "lg_code": "327",
+    "lg_name": "Kalawana PS"
+  },
+  "LG-91328": {
+    "lg_id": "LG-91328",
+    "district_id": "LK-91",
+    "lg_code": "328",
+    "lg_name": "Embilipitiya PS"
+  },
+  "LG-91329": {
+    "lg_id": "LG-91329",
+    "district_id": "LK-91",
+    "lg_code": "329",
+    "lg_name": "Kolonna PS"
+  },
+  "LG-92330": {
+    "lg_id": "LG-92330",
+    "district_id": "LK-92",
+    "lg_code": "330",
+    "lg_name": "Kegalle MC"
+  },
+  "LG-92331": {
+    "lg_id": "LG-92331",
+    "district_id": "LK-92",
+    "lg_code": "331",
+    "lg_name": "Warakapola PS"
+  },
+  "LG-92332": {
+    "lg_id": "LG-92332",
+    "district_id": "LK-92",
+    "lg_code": "332",
+    "lg_name": "Galigamuwa PS"
+  },
+  "LG-92333": {
+    "lg_id": "LG-92333",
+    "district_id": "LK-92",
+    "lg_code": "333",
+    "lg_name": "Kegalle PS"
+  },
+  "LG-92334": {
+    "lg_id": "LG-92334",
+    "district_id": "LK-92",
+    "lg_code": "334",
+    "lg_name": "Rambukkana PS"
+  },
+  "LG-92335": {
+    "lg_id": "LG-92335",
+    "district_id": "LK-92",
+    "lg_code": "335",
+    "lg_name": "Mawanella PS"
+  },
+  "LG-92336": {
+    "lg_id": "LG-92336",
+    "district_id": "LK-92",
+    "lg_code": "336",
+    "lg_name": "Aranayaka PS"
+  },
+  "LG-92337": {
+    "lg_id": "LG-92337",
+    "district_id": "LK-92",
+    "lg_code": "337",
+    "lg_name": "Yatiyantotoa PS"
+  },
+  "LG-92338": {
+    "lg_id": "LG-92338",
+    "district_id": "LK-92",
+    "lg_code": "338",
+    "lg_name": "Bulatkohupitiya PS"
+  },
+  "LG-92339": {
+    "lg_id": "LG-92339",
+    "district_id": "LK-92",
+    "lg_code": "339",
+    "lg_name": "Ruwanwella PS"
+  },
+  "LG-92340": {
+    "lg_id": "LG-92340",
+    "district_id": "LK-92",
+    "lg_code": "340",
+    "lg_name": "Deraniyagala PS"
+  },
+  "LG-92341": {
+    "lg_id": "LG-92341",
+    "district_id": "LK-92",
+    "lg_code": "341",
+    "lg_name": "Dehiowita PS"
+  }
+}
