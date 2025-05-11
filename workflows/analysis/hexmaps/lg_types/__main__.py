@@ -35,7 +35,7 @@ def get_color(legend_label):
     }.get(legend_label, "#888")
 
 
-def build_hexmap(title, get_legend_label, get_color):  # noqa
+def build_hexmap(title, get_legend_label, get_color, dir_output):  # noqa
     ents = Ent.list_from_type(EntType.LG)
     log.debug(f"Found {len(ents)} LGs")
     group_label_to_group = {
@@ -233,7 +233,7 @@ def build_hexmap(title, get_legend_label, get_color):  # noqa
         rendered_svg_custom=rendered_svg_custom,
     ).write(
         os.path.join(
-            os.path.dirname(__file__),
+            dir_output,
             "hexbin.svg",
         ),
         post_process,
@@ -241,4 +241,9 @@ def build_hexmap(title, get_legend_label, get_color):  # noqa
 
 
 if __name__ == "__main__":
-    build_hexmap("Types of Authorities", get_legend_label, get_color)
+    build_hexmap(
+        "Types of Authorities",
+        get_legend_label,
+        get_color,
+        os.path.dirname(__file__),
+    )

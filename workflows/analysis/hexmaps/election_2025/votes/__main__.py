@@ -1,6 +1,7 @@
 from workflows.analysis.common import get_code_to_result
 from workflows.analysis.hexmaps.lg_types.__main__ import build_hexmap
 from utils import Log
+import os
 
 NO_ABSOLUTE_MAJORITY = "No Majority"
 NO_ELECTION = "No Election"
@@ -62,4 +63,6 @@ def get_color(legend_label):
 
 
 if __name__ == "__main__":
-    build_hexmap("Most Votes", get_legend_label, get_color)
+    build_hexmap(
+        "Most Votes", get_legend_label, get_color, os.path.dirname(__file__)
+    )

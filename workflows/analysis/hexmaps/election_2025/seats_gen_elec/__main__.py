@@ -6,7 +6,7 @@ from workflows.analysis.hexmaps.election_2025.votes.__main__ import (
     get_color,
 )
 from utils import Log
-
+import os
 
 code_to_result = get_code_to_result()
 
@@ -32,4 +32,9 @@ def get_legend_label(ent):
 
 
 if __name__ == "__main__":
-    build_hexmap("Majority of Seats (G.E.)", get_legend_label, get_color)
+    build_hexmap(
+        "Majority of Seats (G.E.)",
+        get_legend_label,
+        get_color,
+        os.path.dirname(__file__),
+    )
