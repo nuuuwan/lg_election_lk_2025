@@ -28,11 +28,35 @@ def get_missing_lg_id_to_info():
 
 
 def main():
+
+    # for ent_old_lg in Ent.list_from_type(EntType.LG):
+    #     print(ent_old_lg.id, ent_old_lg.name)
+
     lg_id_to_lg_info = {}
     for result in get_result_list():
         lg_code = result["lg_code"]
-        district_name = result["district_name"]
+        lg_name_short = result["lg_name_short"]
 
+        search_name = {
+            "Kotikawatta Mulleriyawa PS": "Kotikawatta PS",
+            "Kegalle MC": "Kegalle UC",
+            "Dehiwala Mount Lavinia MC": "Dehiwala Mt.Lavinia MC",
+            "Ja Ela UC": "Ja-Ela UC",
+            "Ja Ela PS": "Ja-Ela PS",
+            "Poojapitiya PS": "Pujapitiya PS",
+            "Nuwaraeliya PS": "Nuwara Eliya PS",
+            "Rajgama PS": "Rathgama PS",  # LK-31
+            "Wadamarachchi South West PS": "Vadamaradchy South-West PS",  # LK-41
+            "Vengalasettikulam PS": "Vengalacheddikulam PS",  # LK-43
+            "Kaththankudi UC": "Kattankudy UC",  # LK-51
+            "Porthivu Pattu PS": "Poratheevu Pattu PS",  # LK-51
+            "Kanthale PS": "Kanthalai PS",  # LK-53
+            "Mahawa PS": "Maho PS",  # LK-61
+            "Bibila PS": "Bibile PS",  # LK-82
+            "Niwitigala PS": "Nivithigala PS",  # LK-91
+        }.get(lg_name_short, lg_name_short)
+
+        district_name = result["district_name"]
         ent_district = Ent.list_from_name_fuzzy(
             district_name, EntType.DISTRICT
         )[0]
@@ -40,12 +64,33 @@ def main():
         district_id_num_only = str(district_id).split("-")[-1]
         lg_id = f"LG-{district_id_num_only}{lg_code}"
 
-        lg_info = {
-            "lg_id": lg_id,
-            "district_id": district_id,
-            "lg_code": lg_code,
-            "lg_name": result["lg_name_short"],
-        }
+        ent_old_lg_list = Ent.list_from_name_fuzzy(
+            search_name, EntType.LG, min_fuzz_ratio=90
+        )
+        if len(ent_old_lg_list) == 0:
+
+            print(f'"{lg_name_short}" : "{lg_name_short}", # {district_id}')
+
+            continue
+
+        # if len(ent_old_lg_list) > 1:
+        #     old_lg_name_list = [x.name for x in ent_old_lg_list]
+        #     log.warning(
+        #         "Found multiple ent_old_lgs for "
+        #         + f'"{district_id} - {lg_name_short}":'
+        #         + f" {str(old_lg_name_list)}"
+        #     )
+
+        ent_old_lg = ent_old_lg_list[0]
+        old_lg_id = ent_old_lg.id
+
+        lg_info = dict(
+            lg_id=lg_id,
+            district_id=district_id,
+            lg_name=lg_name_short,
+            lg_code=lg_code,
+            old_lg_id=old_lg_id,
+        )
         lg_id_to_lg_info[lg_id] = lg_info
 
     lg_id_to_lg_info |= get_missing_lg_id_to_info()

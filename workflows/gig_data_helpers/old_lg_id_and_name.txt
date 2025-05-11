@@ -1,0 +1,341 @@
+LG-11001 Colombo MC
+LG-11002 Kolonnawa UC
+LG-11003 Kotikawatta PS
+LG-11004 Kaduwela MC
+LG-11005 Homagama PS
+LG-11006 Seethawaka PS
+LG-11007 Seethawakapura UC
+LG-11008 Maharagama UC
+LG-11009 Sri Jayawardenepura Kotte MC
+LG-11010 Dehiwala Mt.Lavinia MC
+LG-11011 Moratuwa MC
+LG-11012 Boralesgamuwa UC
+LG-11013 Kesbewa UC
+LG-12001 Negombo MC
+LG-12002 Katana PS
+LG-12003 Katunayaka-Seeduwa UC
+LG-12004 Divulapitiya PS
+LG-12005 Mirigama PS
+LG-12006 Minuwangoda PS
+LG-12007 Minuwangoda UC
+LG-12008 Wattala PS
+LG-12009 Wattala-Mabola UC
+LG-12010 Ja-Ela PS
+LG-12011 Ja-Ela UC
+LG-12012 Gampaha PS
+LG-12013 Gampaha MC
+LG-12014 Attanagalla PS
+LG-12015 Dompe PS
+LG-12016 Mahara PS
+LG-12017 Kelaniya PS
+LG-12018 Peliyagoda UC
+LG-12019 Biyagama PS
+LG-13001 Panadura PS
+LG-13002 Panadura UC
+LG-13003 Bandaragama PS
+LG-13004 Horana PS
+LG-13005 Horana UC
+LG-13006 Bulathsinhala PS
+LG-13007 Madurawala PS
+LG-13008 Millaniya PS
+LG-13009 Kalutara PS
+LG-13010 Kalutara UC
+LG-13011 Beruwala PS
+LG-13012 Beruwala UC
+LG-13013 Dodangoda PS
+LG-13014 Matugama PS
+LG-13015 Agalawatta PS
+LG-13016 Palindanuwara PS
+LG-13017 Walallawita PS
+LG-21001 Thumpane PS
+LG-21002 Pujapitiya PS
+LG-21003 Akurana PS
+LG-21004 Pathadumbara PS
+LG-21005 Wattegama UC
+LG-21006 Kandy MC
+LG-21007 Panvila PS
+LG-21008 Udadumbara PS
+LG-21009 Minipe PS
+LG-21010 Medadumbara PS
+LG-21011 Kundasale PS
+LG-21012 Kandy Four Gravets & Gangawata Korale PS
+LG-21013 Harispattuwa PS
+LG-21014 Yatinuwara PS
+LG-21015 Kadugannawa UC
+LG-21016 Udunuwara PS
+LG-21017 Udapalatha PS
+LG-21018 Pathahewaheta PS
+LG-21019 Gampola UC
+LG-21020 Ganga Ihala Korale PS
+LG-21021 Pasbage Korale PS
+LG-21022 Nawalapitiya UC
+LG-22001 Galewela PS
+LG-22002 Dambulla PS
+LG-22003 Dambulla MC
+LG-22004 Naula PS
+LG-22005 Pallepola PS
+LG-22006 Yatawatta PS
+LG-22007 Matale PS
+LG-22008 Matale MC
+LG-22009 Ambanganga Korale PS
+LG-22010 Laggala-Pallegama PS
+LG-22011 Wilgamuwa PS
+LG-22012 Rattota PS
+LG-22013 Ukuwela PS
+LG-23001 Kothmale PS
+LG-23002 Hanguranketha PS
+LG-23003 Walapone PS
+LG-23004 Kotagala PS
+LG-23005 Agarapatana PS
+LG-23006 Nuwara Eliya PS
+LG-23007 Thalawakele-Lindula UC
+LG-23008 Nuwara Eliya MC
+LG-23009 Ambagamuwa PS
+LG-23010 Maskeliya PS
+LG-23011 Hatton - Dickoya UC
+LG-23012 Norwood PS
+LG-31001 Bentota PS
+LG-31002 Balapitiya PS
+LG-31003 Karandeniya PS
+LG-31004 Elpitiya PS
+LG-31005 Niyagama PS
+LG-31006 Thawalama PS
+LG-31007 Neluwa PS
+LG-31008 Nagoda PS
+LG-31009 Baddegama PS
+LG-31010 Welivitiya-Divithura PS
+LG-31011 Ambalangoda MC
+LG-31012 Ambalangoda PS
+LG-31013 Rathgama PS
+LG-31014 Hikkaduwa UC
+LG-31015 Bope-Poddala PS
+LG-31016 Galle MC
+LG-31017 Akmeemana PS
+LG-31018 Yakkalamulla PS
+LG-31019 Imaduwa PS
+LG-31020 Habaraduwa PS
+LG-32001 Pitabeddara PS
+LG-32002 Kotapola PS
+LG-32003 Pasgoda PS
+LG-32004 Mulatiyana PS
+LG-32005 Athuraliya PS
+LG-32006 Akuressa PS
+LG-32007 Weligama PS
+LG-32008 Malimbada PS
+LG-32009 Kamburupitiya PS
+LG-32010 Hakmana PS
+LG-32011 Kirinda Puhulwella PS
+LG-32012 Thihagoda PS
+LG-32013 Weligama UC
+LG-32014 Matara PS
+LG-32015 Matara MC
+LG-32016 Devinuwara PS
+LG-32017 Dickwella PS
+LG-33001 Sooriyawewa PS
+LG-33002 Lunugamvehera PS
+LG-33003 Tissamaharama PS
+LG-33004 Hambantota PS
+LG-33005 Hambantota MC
+LG-33006 Ambalantota PS
+LG-33007 Angunakolapelessa PS
+LG-33008 Weeraketiya PS
+LG-33009 Katuwana PS
+LG-33010 Beliatta PS
+LG-33011 Tangalla PS
+LG-33012 Tangalla UC
+LG-41001 Kayts PS
+LG-41002 Karainagar PS
+LG-41003 Valikamam West PS
+LG-41004 Valikamam South-West PS
+LG-41005 Valikamam North PS
+LG-41006 Valikamam South PS
+LG-41007 Valikamam East PS
+LG-41008 Vadamaradchy South-West PS
+LG-41009 Valvettithurai UC
+LG-41010 Point Pedro PS
+LG-41011 Point Pedro UC
+LG-41012 Chavakachcheri PS
+LG-41013 Chavakachcheri UC
+LG-41014 Nallur PS
+LG-41015 Jaffna MC
+LG-41016 Velanai PS
+LG-41017 Delft PS
+LG-42001 Mannar PS
+LG-42002 Mannar UC
+LG-42003 Manthai West PS
+LG-42004 Nanattan PS
+LG-42005 Musali PS
+LG-43001 Vavuniya North PS
+LG-43002 Vavuniya South (Sinhala) PS
+LG-43003 Vavuniya South (Tamil) PS
+LG-43004 Vavuniya UC
+LG-43005 Vengalacheddikulam PS
+LG-44001 Thunukkai PS
+LG-44002 Manthai East PS
+LG-44003 Puthukudiyiruppu PS
+LG-44004 Maritimepattu PS
+LG-45001 Pachchilaipalli PS
+LG-45002 Karachchi PS
+LG-45003 Poonakary PS
+LG-51001 Koralai Pattu North PS
+LG-51002 Koralai Pattu West PS
+LG-51003 Koralai Pattu PS
+LG-51004 Eravur Pattu PS
+LG-51005 Eravur UC
+LG-51006 Batticaloa MC
+LG-51007 Manmunai West PS
+LG-51008 Kattankudy UC
+LG-51009 Manmunai Pattu PS
+LG-51010 Manmunai South-West PS
+LG-51011 Poratheevu Pattu PS
+LG-51012 Manmunai South & Eruvil pattu PS
+LG-52001 Dehiattakandiya PS
+LG-52002 Padiyathalawa PS
+LG-52003 Mahaoya PS
+LG-52004 Uhana PS
+LG-52005 Namaloya PS
+LG-52006 Ampara UC
+LG-52007 Navithanveli PS
+LG-52008 Sammanthurai PS
+LG-52009 Kalmunai MC
+LG-52010 Karaitheevu PS
+LG-52011 Ninthavur PS
+LG-52012 Addalachchenai PS
+LG-52013 Irakkamam PS
+LG-52014 Akkaraipattu PS
+LG-52015 Akkaraipattu MC
+LG-52016 Alayadiwembu PS
+LG-52017 Damana PS
+LG-52018 Thirukkovil PS
+LG-52019 Pottuvil PS
+LG-52020 Lahugala PS
+LG-53001 Padavi Sri Pura PS
+LG-53002 Kuchchaveli PS
+LG-53003 Gomarankadawala PS
+LG-53004 Morawewa PS
+LG-53005 Trincomalee Town and Gravets PS
+LG-53006 Trincomalee UC
+LG-53007 Thambalagamuwa PS
+LG-53008 Kanthalai PS
+LG-53009 Kinniya PS
+LG-53010 Kinniya UC
+LG-53011 Muttur PS
+LG-53012 Seruvila PS
+LG-53013 Verugal PS
+LG-61001 Giribawa PS
+LG-61002 Galgamuwa PS
+LG-61003 Maho PS
+LG-61004 Nikaweratiya PS
+LG-61005 Polpithigama PS
+LG-61006 Ibbagamuwa PS
+LG-61007 Wariyapola PS
+LG-61008 Kobeigane PS
+LG-61009 Bingiriya PS
+LG-61010 Paduwasnuwara PS
+LG-61011 Kurunegala PS
+LG-61012 Kurunegala MC
+LG-61013 Mawathagama PS
+LG-61014 Rideegama PS
+LG-61015 Polgahawela PS
+LG-61016 Kuliyapitiya PS
+LG-61017 Kuliyapitiya UC
+LG-61018 Udubaddawa PS
+LG-61019 Pannala PS
+LG-61020 Narammala PS
+LG-61021 Alawwa PS
+LG-62001 Kalpitiya PS
+LG-62002 Wanathavilluwa PS
+LG-62003 Karuwalagaswewa PS
+LG-62004 Nawagattegama PS
+LG-62005 Puttalam PS
+LG-62006 Puttalam UC
+LG-62007 Arachchikattuwa PS
+LG-62008 Anamaduwa PS
+LG-62009 Chilaw UC
+LG-62010 Chilaw PS
+LG-62011 Nattandiya PS
+LG-62012 Wennappuwa PS
+LG-71001 Padaviya PS
+LG-71002 Kebithigollewa PS
+LG-71003 Medawachchiya PS
+LG-71004 Nuwaragam Palatha Central PS
+LG-71005 Anuradhapura MC
+LG-71006 Rambewa PS
+LG-71007 Kahatagasdigiliya PS
+LG-71008 Horowpothana PS
+LG-71009 Galenbindunuwewa PS
+LG-71010 Mihinthale PS
+LG-71011 Nuwaragam Palatha East PS
+LG-71012 Thirappane PS
+LG-71013 Nochchiyagama PS
+LG-71014 Rajanganaya PS
+LG-71015 Thalawa PS
+LG-71016 Galnewa PS
+LG-71017 Kekirawa PS
+LG-71018 Ipalogama PS
+LG-71019 Palagala PS
+LG-72001 Hingurakgoda PS
+LG-72002 Medirigiriya PS
+LG-72003 Lankapura PS
+LG-72004 Welikanda PS
+LG-72005 Dimbulagala PS
+LG-72006 Polonnaruwa PS
+LG-72007 Polonnaruwa MC
+LG-72008 Elahera PS
+LG-81001 Mahiyanganaya PS
+LG-81002 Rideemaliyadda PS
+LG-81003 Meegahakivula PS
+LG-81004 Kandaketiya PS
+LG-81005 Soranathota PS
+LG-81006 Passara PS
+LG-81007 Lunugala PS
+LG-81008 Badulla MC
+LG-81009 Badulla PS
+LG-81010 Hali-Ela PS
+LG-81011 Uva Paranagama PS
+LG-81012 Welimada PS
+LG-81013 Bandarawela PS
+LG-81014 Bandarawela MC
+LG-81015 Ella PS
+LG-81016 Haputale PS
+LG-81017 Haputale UC
+LG-81018 Haldummulla PS
+LG-82001 Bibile PS
+LG-82002 Madulla PS
+LG-82003 Medagama PS
+LG-82004 Siyambalanduwa PS
+LG-82005 Moneragala PS
+LG-82006 Badalkumbura PS
+LG-82007 Wellawaya PS
+LG-82008 Buttala PS
+LG-82009 Katharagama PS
+LG-82010 Thanamalvila PS
+LG-91001 Eheliyagoda PS
+LG-91002 Kuruvita PS
+LG-91003 Ratnapura PS
+LG-91004 Ratnapura MC
+LG-91005 Imbulpe PS
+LG-91006 Balangoda UC
+LG-91007 Balangoda PS
+LG-91008 Weligepola PS
+LG-91009 Pelmadulla PS
+LG-91010 Nivithigala PS
+LG-91011 Ayagama PS
+LG-91012 Kalawana PS
+LG-91013 Kahawatta PS
+LG-91014 Godakawela PS
+LG-91015 Embilipitiya PS
+LG-91016 Embilipitiya UC
+LG-91017 Kolonna PS
+LG-92001 Rambukkana PS
+LG-92002 Mawanella PS
+LG-92003 Aranayaka PS
+LG-92004 Kegalle PS
+LG-92005 Kegalle UC
+LG-92006 Galigamuwa PS
+LG-92007 Warakapola PS
+LG-92008 Ruwanwella PS
+LG-92009 Bulathkohupitiya PS
+LG-92010 Yatiyanthota PS
+LG-92011 Dehiovita PS
+LG-92012 Deraniyagala PS
