@@ -17,7 +17,7 @@ def get_label_for_percentage(p_turnout):
     Q = 0.1
     p_lower = int(p_turnout / Q) * Q
     p_upper = p_lower + Q
-    return f"{p_lower:.0%}-{p_upper:.0%}"
+    return f"{p_lower:.0%} to {p_upper:.0%}"
 
 
 def get_legend_label(ent):
@@ -43,7 +43,7 @@ def get_color(legend_label):
 
 if __name__ == "__main__":
     build_hexmap(
-        "Turnout",
+        "% Turnout",
         get_legend_label,
         get_color,
         os.path.dirname(__file__),

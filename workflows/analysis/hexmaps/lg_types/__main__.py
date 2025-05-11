@@ -159,8 +159,19 @@ def build_hexmap(title, get_legend_label, get_color, dir_output):  # noqa
 
     n_labels = len(label_to_n)
     dim_legend = min(0.67, 6 / n_labels)
+    sort_i = 1
+    sort_reverse = True
+
+    if "%" in title:
+        sort_i = 0
+        sort_reverse = False
+
     for i, (label, n) in enumerate(
-        sorted(list(label_to_n.items()), key=lambda x: x[1], reverse=True)
+        sorted(
+            list(label_to_n.items()),
+            key=lambda x: x[sort_i],
+            reverse=sort_reverse,
+        )
     ):
         color = get_color(label)
         y = 3 + i * dim_legend + 0.25
