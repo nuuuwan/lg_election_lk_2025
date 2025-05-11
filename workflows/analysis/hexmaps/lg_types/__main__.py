@@ -1,26 +1,38 @@
-def main():  # noqa
-    import os
-    import sys
-    from gig import Ent, EntType
+import os
+import sys
+from gig import Ent, EntType
 
-    cac_path = os.path.join(
-        os.environ["DIR_PY2"], "continuous_area_cartograms", "src"
-    )
-    print(cac_path)
-    sys.path.insert(
-        0,
-        cac_path,
-    )
-    from cac import (
-        DCN1985,
-        DCN1985AlgoParams,
-        DCN1985RenderParams,
-        HexBinRenderer,
-    )
-    from utils import Log
+from utils import Log
 
-    log = Log("lk_lgs_in_units")
+cac_path = os.path.join(
+    os.environ["DIR_PY2"], "continuous_area_cartograms", "src"
+)
 
+sys.path.insert(
+    0,
+    cac_path,
+)
+from cac import (
+    DCN1985,
+    DCN1985AlgoParams,
+    DCN1985RenderParams,
+    HexBinRenderer,
+)
+
+
+log = Log("lk_lgs_in_units")
+
+
+def get_color(ent):
+    lg_type = ent.name.split(" ")[-1]
+    return {
+        "PS": "#0c4",
+        "UC": "#f80",
+        "MC": "#800",
+    }.get(lg_type, "#8884")
+
+
+def build_hexmap(get_color):  # noqa
     ents = Ent.list_from_type(EntType.LG)
     log.debug(f"Found {len(ents)} LGs")
     group_label_to_group = {
@@ -34,16 +46,10 @@ def main():  # noqa
         values.append(1)
         label = ent.name
         district_id = ent.district_id
-
         group_label_to_group["District"][label] = district_id
         group_label_to_group["Province"][label] = ent.province_id
 
-        lg_type = ent.name.split(" ")[-1]
-        color = {
-            "PS": "#0c4",
-            "UC": "#f80",
-            "MC": "#800",
-        }.get(lg_type, "#8884")
+        color = get_color(ent)
         colors.append(color)
 
     algo = DCN1985.from_ents(
@@ -156,4 +162,4 @@ def main():  # noqa
 
 
 if __name__ == "__main__":
-    main()
+    build_hexmap(get_color)

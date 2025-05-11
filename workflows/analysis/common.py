@@ -48,8 +48,6 @@ def get_gen_elec_party_result_data_list(result):
         party_code, rem = party_and_rem[i]
         party_to_seats[party_code] += 1
 
-    print(result["lg_name"], total_seats, party_to_seats)
-
     gen_elec_party_result_data_list = []
     for party_code, seats in party_to_seats.items():
         gen_elec_party_result_data_list.append(
