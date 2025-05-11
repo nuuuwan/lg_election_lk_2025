@@ -1097,6 +1097,12 @@
     "lg_code": "184",
     "lg_name": "Koralai Pattu PS"
   },
+  "LG-51185": {
+    "lg_id": "LG-51185",
+    "district_id": "LK-51",
+    "lg_code": "185",
+    "lg_name": "Koralai Pattu West PS"
+  },
   "LG-51186": {
     "lg_id": "LG-51186",
     "district_id": "LK-51",
@@ -2026,5 +2032,17 @@
     "district_id": "LK-92",
     "lg_code": "341",
     "lg_name": "Dehiowita PS"
+  },
+  "LG-31105": {
+    "lg_id": "LG-31105",
+    "district_id": "LK-31",
+    "lg_code": "105",
+    "lg_name": "Elpitiya PS"
+  },
+  "LG-52192": {
+    "lg_id": "LG-52192",
+    "district_id": "LK-52",
+    "lg_code": "192",
+    "lg_name": "Kalmunai MC"
   }
 }

@@ -6,6 +6,27 @@ from utils import JSONFile, Log
 log = Log("build_lg_id_to_lg_info")
 
 
+def get_missing_lg_id_to_info():
+    # LGs that did not contest the 2025 LG Election
+
+    return {
+        # Elpitiya PS - Election held in 2024
+        "LG-31105": {
+            "lg_id": "LG-31105",
+            "district_id": "LK-31",
+            "lg_code": "105",
+            "lg_name": "Elpitiya PS",
+        },
+        # Kalmunai MC - Ongoing Court of Appeal case
+        "LG-52192": {
+            "lg_id": "LG-52192",
+            "district_id": "LK-52",
+            "lg_code": "192",
+            "lg_name": "Kalmunai MC",
+        },
+    }
+
+
 def main():
     lg_id_to_lg_info = {}
     for result in get_result_list():
@@ -26,6 +47,8 @@ def main():
             "lg_name": result["lg_name_short"],
         }
         lg_id_to_lg_info[lg_id] = lg_info
+
+    lg_id_to_lg_info |= get_missing_lg_id_to_info()
 
     json_path = os.path.join("data", "lg_id_to_lg_info.json")
     JSONFile(json_path).write(lg_id_to_lg_info)
