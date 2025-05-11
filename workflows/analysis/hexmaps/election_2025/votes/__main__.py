@@ -62,7 +62,11 @@ def get_color(legend_label):
     return get_party_color(legend_label)
 
 
-if __name__ == "__main__":
+def main():
     build_hexmap(
         "Most Votes", get_legend_label, get_color, os.path.dirname(__file__)
     )
+
+
+if __name__ == "__main__":
+    main()

@@ -72,7 +72,7 @@ def build_hexmap(title, get_legend_label, get_color, dir_output):  # noqa
             title="Units",
         ),
     )
-    ____, dcn_list = algo.build(os.path.dirname(__file__))
+    ____, dcn_list = algo.build(dir_output)
     polygons = dcn_list[-1].polygons
     labels = dcn_list[-1].labels
     values = dcn_list[-1].values
@@ -85,8 +85,24 @@ def build_hexmap(title, get_legend_label, get_color, dir_output):  # noqa
             dx, dy = d
             idx[a][0] = [idx[a][0][0] + dx, idx[a][0][1] + dy]
 
+        def multi_swap(*a_list):
+            for a, b in zip(a_list[::2], a_list[1::2]):
+                idx[a][0], idx[b][0] = idx[b][0], idx[a][0]
+
+    def post_process(data):  # noqa: CFQ001
+
+        idx = data["idx"]
+
+        def move(a, d):
+            dx, dy = d
+            idx[a][0] = [idx[a][0][0] + dx, idx[a][0][1] + dy]
+
+        def multi_swap(*a_list):
+            for a, b in zip(a_list[::2], a_list[1::2]):
+                idx[a][0], idx[b][0] = idx[b][0], idx[a][0]
+
         def swap(a, b):
-            idx[a][0], idx[b][0] = idx[b][0], idx[a][0]
+            multi_swap(a, b)
 
         # Kandy & Badulla
         swap("Minipe PS", "Rideemaliyadda PS")
@@ -108,8 +124,13 @@ def build_hexmap(title, get_legend_label, get_color, dir_output):  # noqa
         # Mullaitivu & Trincomalee
         swap("Padavi Sri Pura PS", "Padaviya PS")
 
+        # Trincomalee
+        move("Muttur PS", (0, 1))
+        move("Seruwila PS", (0, 1))
+        move("Verugal PS", (1, 0.5))
+
         # Trincomalee & Polonnaruwa
-        swap("Kanthale PS", "Hingurakgoda PS")
+        swap("Kanthale PS", "Medirigiriya PS")
 
         # Polonnaruwa & Batticaloa
         swap("Dimbulagala PS", "Koralai Pattu West PS")
@@ -158,20 +179,32 @@ def build_hexmap(title, get_legend_label, get_color, dir_output):  # noqa
     rendered_svg_legend_inner_list = []
 
     n_labels = len(label_to_n)
-    dim_legend = min(0.33, 6 / n_labels)
+    dim_legend = min(0.5, 6 / n_labels)
     sort_i = 1
     sort_reverse = True
 
-    if "%" in title:
+    if "%" in title or "Ties" in title or "Size" in title:
         sort_i = 0
 
-    for i, (label, n) in enumerate(
-        sorted(
+    if "Majority" in title:
+
+        items = sorted(
+            list(label_to_n.items()),
+            key=lambda x: (
+                (2 if "than" in x[0] else 1) * int(x[0].split(" ")[-1])
+                if x[0] != "No Election"
+                else -100
+            ),
+            reverse=True,
+        )
+    else:
+        items = sorted(
             list(label_to_n.items()),
             key=lambda x: x[sort_i],
             reverse=sort_reverse,
         )
-    ):
+
+    for i, (label, n) in enumerate(items):
         color = get_color(label)
         y = 3 + i * dim_legend + 0.25
         rendered_svg_legend_inner_list.append(
@@ -232,7 +265,7 @@ def build_hexmap(title, get_legend_label, get_color, dir_output):  # noqa
         ),
         _("g", rendered_svg_legend_inner_list),
     ]
-
+    title_kebab = title.lower().replace(" ", "-")
     HexBinRenderer(
         polygons,
         labels,
@@ -244,16 +277,20 @@ def build_hexmap(title, get_legend_label, get_color, dir_output):  # noqa
     ).write(
         os.path.join(
             dir_output,
-            "hexbin.svg",
+            f"hexbin-{title_kebab}.svg",
         ),
         post_process,
     )
 
 
-if __name__ == "__main__":
+def main():
     build_hexmap(
         "Types of Authorities",
         get_legend_label,
         get_color,
         os.path.dirname(__file__),
     )
+
+
+if __name__ == "__main__":
+    main()

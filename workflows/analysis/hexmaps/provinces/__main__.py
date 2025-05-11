@@ -1,6 +1,6 @@
 import os
 import sys
-from gig import Ent
+from gig import Ent, EntType
 from workflows.analysis.hexmaps.lg_types.__main__ import build_hexmap
 from utils import Log
 
@@ -24,20 +24,23 @@ def get_legend_label(ent):
     return ent_province.name
 
 
-legend_label_to_color = {}
-
-
 def get_color(legend_label):
-    if legend_label not in legend_label_to_color:
-        color = Color.random()
-        legend_label_to_color[legend_label] = color
-    return legend_label_to_color[legend_label]
+    province_id = Ent.list_from_name_fuzzy(
+        legend_label, filter_ent_type=EntType.PROVINCE
+    )[0].id
+    province_id_int = int(province_id[-1])
+    h = 300 * (province_id_int - 1) / 8
+    return Color.from_hls(h, 75, 100).hex
 
 
-if __name__ == "__main__":
+def main():
     build_hexmap(
         "HexMap by Province",
         get_legend_label,
         get_color,
         os.path.dirname(__file__),
     )
+
+
+if __name__ == "__main__":
+    main()
