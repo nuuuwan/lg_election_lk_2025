@@ -164,7 +164,6 @@ def build_hexmap(title, get_legend_label, get_color, dir_output):  # noqa
 
     if "%" in title:
         sort_i = 0
-        sort_reverse = False
 
     for i, (label, n) in enumerate(
         sorted(
