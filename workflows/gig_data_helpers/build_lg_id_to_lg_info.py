@@ -12,17 +12,21 @@ def get_missing_lg_id_to_info():
     return {
         # Elpitiya PS - Election held in 2024
         "LG-31105": {
+            "id": "LG-31105",
             "lg_id": "LG-31105",
             "district_id": "LK-31",
-            "lg_code": "105",
             "lg_name": "Elpitiya PS",
+            "lg_code": "105",
+            "old_lg_id": "LG-31004",
         },
         # Kalmunai MC - Ongoing Court of Appeal case
         "LG-52192": {
+            "id": "LG-52192",
             "lg_id": "LG-52192",
             "district_id": "LK-52",
-            "lg_code": "192",
             "lg_name": "Kalmunai MC",
+            "lg_code": "192",
+            "old_lg_id": "LG-52009",
         },
     }
 
@@ -33,6 +37,7 @@ def main():
     #     print(ent_old_lg.id, ent_old_lg.name)
 
     lg_id_to_lg_info = {}
+
     for result in get_result_list():
         lg_code = result["lg_code"]
         lg_name_short = result["lg_name_short"]
@@ -85,6 +90,7 @@ def main():
         old_lg_id = ent_old_lg.id
 
         lg_info = dict(
+            id=lg_id,
             lg_id=lg_id,
             district_id=district_id,
             lg_name=lg_name_short,
@@ -98,6 +104,25 @@ def main():
     json_path = os.path.join("data", "lg_id_to_lg_info.json")
     JSONFile(json_path).write(lg_id_to_lg_info)
     log.info(f"Wrote {len(lg_id_to_lg_info)} LGs to {json_path}")
+
+    old_lg_id_to_lg_id = {}
+    for lg_id, lg_info in lg_id_to_lg_info.items():
+        old_lg_id = lg_info["old_lg_id"]
+        old_lg_id_to_lg_id[old_lg_id] = lg_id
+
+    ent_gnd_list = Ent.list_from_type(EntType.GND)
+    gnd_id_to_lg_id = {}
+    for ent_gnd in ent_gnd_list:
+        gnd_id = ent_gnd.id
+        old_lg_id = ent_gnd.lg_id
+        lg_id = old_lg_id_to_lg_id.get(old_lg_id)
+        if not lg_id:
+            raise Exception("Can't find new lg_id for: " + old_lg_id)
+        gnd_id_to_lg_id[gnd_id] = lg_id
+
+    json_path = os.path.join("data", "gnd_id_to_lg_id.json")
+    JSONFile(json_path).write(gnd_id_to_lg_id)
+    log.info(f"Wrote {len(gnd_id_to_lg_id)} LGs to {json_path}")
 
 
 if __name__ == "__main__":
