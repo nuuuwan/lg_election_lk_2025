@@ -158,7 +158,7 @@ def build_hexmap(title, get_legend_label, get_color, dir_output):  # noqa
     rendered_svg_legend_inner_list = []
 
     n_labels = len(label_to_n)
-    dim_legend = min(0.67, 6 / n_labels)
+    dim_legend = min(0.33, 6 / n_labels)
     sort_i = 1
     sort_reverse = True
 
