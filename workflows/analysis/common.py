@@ -74,7 +74,18 @@ def expand(result):
     lg_name_only = " ".join(name_parts[:-2])
     lg_name_short = lg_name_only + " " + lg_type
 
+    party_result_data_list = result["party_result_data_list"]
+    lg_code = result["lg_code"]
+    expanded_party_result_data_list = []
+    for party_result_data in party_result_data_list:
+        party_code = party_result_data["party_code"]
+        if party_code.startswith("IND"):
+            party_code += "-" + lg_code
+        party_result_data["party_code"] = party_code
+        expanded_party_result_data_list.append(party_result_data)
+
     result |= dict(
+        party_result_data_list=expanded_party_result_data_list,
         lg_name_only=lg_name_only,
         lg_name_short=lg_name_short,
         lg_type=lg_type,
