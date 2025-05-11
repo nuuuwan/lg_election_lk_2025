@@ -2,7 +2,7 @@ import os
 import sys
 from gig import Ent, EntType
 
-from utils import Log
+from utils import Log, _
 
 cac_path = os.path.join(
     os.environ["DIR_PY2"], "continuous_area_cartograms", "src"
@@ -23,16 +23,19 @@ from cac import (
 log = Log("lk_lgs_in_units")
 
 
-def get_color(ent):
-    lg_type = ent.name.split(" ")[-1]
+def get_legend_label(ent):
+    return ent.name.split(" ")[-1]
+
+
+def get_color(legend_label):
     return {
         "PS": "#0c4",
         "UC": "#f80",
         "MC": "#800",
-    }.get(lg_type, "#8884")
+    }.get(legend_label, "#888")
 
 
-def build_hexmap(get_color):  # noqa
+def build_hexmap(title, get_legend_label, get_color):  # noqa
     ents = Ent.list_from_type(EntType.LG)
     log.debug(f"Found {len(ents)} LGs")
     group_label_to_group = {
@@ -41,7 +44,7 @@ def build_hexmap(get_color):  # noqa
     }
     values = []
     colors = []
-
+    label_to_n = {}
     for ent in ents:
         values.append(1)
         label = ent.name
@@ -49,8 +52,13 @@ def build_hexmap(get_color):  # noqa
         group_label_to_group["District"][label] = district_id
         group_label_to_group["Province"][label] = ent.province_id
 
-        color = get_color(ent)
+        legend_label = get_legend_label(ent)
+        color = get_color(legend_label)
         colors.append(color)
+
+        if legend_label not in label_to_n:
+            label_to_n[legend_label] = 0
+        label_to_n[legend_label] += 1
 
     algo = DCN1985.from_ents(
         ents,
@@ -64,12 +72,12 @@ def build_hexmap(get_color):  # noqa
             title="Units",
         ),
     )
-    _, dcn_list = algo.build(os.path.dirname(__file__))
+    ____, dcn_list = algo.build(os.path.dirname(__file__))
     polygons = dcn_list[-1].polygons
     labels = dcn_list[-1].labels
     values = dcn_list[-1].values
 
-    def post_process(data):  # noqa: CFQ001
+    def post_process(data):
 
         idx = data["idx"]
 
@@ -145,6 +153,76 @@ def build_hexmap(get_color):  # noqa
 
         return data
 
+    mid_x = 14
+
+    rendered_svg_legend_inner_list = []
+
+    n_labels = len(label_to_n)
+    dim_legend = min(0.67, 6 / n_labels)
+    for i, (label, n) in enumerate(
+        sorted(list(label_to_n.items()), key=lambda x: x[1], reverse=True)
+    ):
+        color = get_color(label)
+        y = 3 + i * dim_legend + 0.25
+        rendered_svg_legend_inner_list.append(
+            _(
+                "g",
+                [
+                    _(
+                        "rect",
+                        None,
+                        dict(
+                            x=mid_x - dim_legend * 2,
+                            y=y - dim_legend * 0.5,
+                            width=dim_legend * 0.8,
+                            height=dim_legend * 0.8,
+                            fill=color,
+                        ),
+                    ),
+                    _(
+                        "text",
+                        f"{label} ({n})",
+                        dict(
+                            x=mid_x - dim_legend * 1,
+                            y=y,
+                            fill="#000",
+                            font_size=dim_legend,
+                            text_anchor="start",
+                            dominant_baseline="middle",
+                        ),
+                    ),
+                ],
+            )
+        )
+
+    rendered_svg_custom = [
+        _(
+            "text",
+            "2025 Sri Lankan Local Authority Elections",
+            dict(
+                x=mid_x,
+                y=1,
+                fill="#444",
+                font_size=0.5,
+                text_anchor="middle",
+                dominant_baseline="middle",
+            ),
+        ),
+        _(
+            "text",
+            title,
+            dict(
+                x=mid_x,
+                y=2,
+                fill="#444",
+                font_size=1,
+                text_anchor="middle",
+                dominant_baseline="middle",
+            ),
+        ),
+        _("g", rendered_svg_legend_inner_list),
+    ]
+
     HexBinRenderer(
         polygons,
         labels,
@@ -152,6 +230,7 @@ def build_hexmap(get_color):  # noqa
         colors,
         values,
         total_value=len(ents),
+        rendered_svg_custom=rendered_svg_custom,
     ).write(
         os.path.join(
             os.path.dirname(__file__),
@@ -162,4 +241,4 @@ def build_hexmap(get_color):  # noqa
 
 
 if __name__ == "__main__":
-    build_hexmap(get_color)
+    build_hexmap("Types of Authorities", get_legend_label, get_color)
