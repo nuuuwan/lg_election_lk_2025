@@ -306,7 +306,7 @@ def build_hexmap(title, get_legend_label, get_color, dir_output):  # noqa
 
 def main():
     build_hexmap(
-        "Types of Authorities",
+        "Types of Local Governments",
         get_legend_label,
         get_color,
         os.path.dirname(__file__),

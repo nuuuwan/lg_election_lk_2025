@@ -48,7 +48,7 @@ def get_color(legend_label):
 
 def main():
     build_hexmap(
-        "Seats vs. Votes",
+        "Most Seats vs. Most Votes",
         get_legend_label,
         get_color,
         os.path.dirname(__file__),

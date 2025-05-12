@@ -56,7 +56,7 @@ def get_color(legend_label):
 
 def main():
     build_hexmap(
-        "% Rejected",
+        "Rejected Votes %",
         get_legend_label,
         get_color,
         os.path.dirname(__file__),

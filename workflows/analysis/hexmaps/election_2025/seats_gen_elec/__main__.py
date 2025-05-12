@@ -33,7 +33,7 @@ def get_legend_label(ent):
 
 def main():
     build_hexmap(
-        "Majority of Seats (G.E.)",
+        "Most Seats (G.E. Rules)",
         get_legend_label,
         get_color,
         os.path.dirname(__file__),
