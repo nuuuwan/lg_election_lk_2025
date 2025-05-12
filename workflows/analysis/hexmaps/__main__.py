@@ -6,26 +6,6 @@ import random
 log = Log("hexmaps")
 
 
-def run():
-    dir_root = os.path.join("workflows", "analysis", "hexmaps")
-    exe_path_list = []
-    for dirpath, dirnames, filenames in os.walk(dir_root):
-        for filename in filenames:
-            file_path = os.path.join(dirpath, filename)
-            if filename == "__main__.py" and dirpath != dir_root:
-                exe_path_list.append(file_path)
-
-    log.info(f"Found {len(exe_path_list)} builders.")
-    random.shuffle(exe_path_list)
-
-    for file_path in exe_path_list:
-        cmd = f"python {file_path}"
-        print("-" * 60)
-        log.info(f"{cmd}")
-        os.system(cmd)
-        print("-" * 60)
-
-
 def clean_and_copy():
     dir_root = os.path.join("workflows", "analysis", "hexmaps")
     for dirpath, dirnames, filenames in os.walk(dir_root):
@@ -48,10 +28,30 @@ def clean_and_copy():
                 log.warning(f'Removed "{dir_path}"')
 
 
+def run():
+    dir_root = os.path.join("workflows", "analysis", "hexmaps")
+    exe_path_list = []
+    for dirpath, dirnames, filenames in os.walk(dir_root):
+        for filename in filenames:
+            file_path = os.path.join(dirpath, filename)
+            if filename == "__main__.py" and dirpath != dir_root:
+                exe_path_list.append(file_path)
+
+    log.info(f"Found {len(exe_path_list)} builders.")
+    random.shuffle(exe_path_list)
+
+    for file_path in exe_path_list:
+        cmd = f"python {file_path}"
+        print("-" * 60)
+        log.info(f"{cmd}")
+        os.system(cmd)
+        print("-" * 60)
+        clean_and_copy()
+
+
 def main():
-    clean_and_copy()
+
     run()
-    clean_and_copy()
 
 
 if __name__ == "__main__":
