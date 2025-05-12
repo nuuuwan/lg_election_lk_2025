@@ -181,14 +181,14 @@ def build_hexmap(title, get_legend_label, get_color, dir_output):  # noqa
     n_labels = len(label_to_n)
     dim_legend = min(0.5, 6 / n_labels)
 
-    if title == "NPP Seats - All Other Seats":
+    if title in ["NPP Seats - All Other Seats", "Total Electors per LG"]:
 
         def custom_sorter(label):
 
             if "[" in label or "]" in label:
                 lower, upper = label[1:-1].split(", ")
-                lower = float(lower)
-                upper = float(upper)
+                lower = float(lower.replace(",", "").strip())
+                upper = float(upper.replace(",", "").strip())
                 mid = (lower + upper) / 2.0
             else:
                 try:
