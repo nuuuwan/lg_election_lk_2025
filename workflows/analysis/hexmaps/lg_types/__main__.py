@@ -250,12 +250,12 @@ def build_hexmap(title, get_legend_label, get_color, dir_output):  # noqa
     rendered_svg_custom = [
         _(
             "text",
-            "2025 Sri Lankan Local Authority Elections",
+            "Sri Lankan Local Government Election 2025",
             dict(
                 x=mid_x,
                 y=0.75,
                 fill="#444",
-                font_size=0.5,
+                font_size=0.33,
                 text_anchor="middle",
                 dominant_baseline="middle",
             ),
