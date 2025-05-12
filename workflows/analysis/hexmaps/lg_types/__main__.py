@@ -181,7 +181,11 @@ def build_hexmap(title, get_legend_label, get_color, dir_output):  # noqa
     n_labels = len(label_to_n)
     dim_legend = min(0.5, 6 / n_labels)
 
-    if title in ["NPP Seats - All Other Seats", "Total Electors per LG"]:
+    if title in [
+        "NPP Seats - All Other Seats",
+        "Total Electors per LG",
+        "Total Electors per Seat",
+    ]:
 
         def custom_sorter(label):
 
