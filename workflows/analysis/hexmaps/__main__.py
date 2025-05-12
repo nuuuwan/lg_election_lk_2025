@@ -4,6 +4,7 @@ import shutil
 import random
 
 log = Log("hexmaps")
+VERSION = "Monday, May 12, 2025 7:50:47 PM"
 
 
 def clean_and_copy():
@@ -33,7 +34,6 @@ def clean_and_copy():
 
 def run_single(file_path):
     content = File(file_path).read()
-    VERSION = "v2"
     md5 = Hash.md5(content + VERSION)
 
     hash_json_file_path = file_path[:-3] + ".hash.json"

@@ -259,8 +259,8 @@ def build_hexmap(title, get_legend_label, get_color, dir_output):  # noqa
             dict(
                 x=mid_x,
                 y=0.75,
-                fill="#444",
-                font_size=0.33,
+                fill="black",
+                font_size=0.5,
                 text_anchor="middle",
                 dominant_baseline="middle",
             ),
@@ -271,7 +271,7 @@ def build_hexmap(title, get_legend_label, get_color, dir_output):  # noqa
             dict(
                 x=mid_x,
                 y=1.5,
-                fill="#444",
+                fill="black",
                 font_size=1,
                 text_anchor="middle",
                 dominant_baseline="middle",
@@ -283,7 +283,7 @@ def build_hexmap(title, get_legend_label, get_color, dir_output):  # noqa
             dict(
                 x=mid_x,
                 y=2.25,
-                fill="#444",
+                fill="black",
                 font_size=0.5,
                 text_anchor="middle",
                 dominant_baseline="middle",
