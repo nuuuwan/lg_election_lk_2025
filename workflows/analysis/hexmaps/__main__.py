@@ -40,19 +40,19 @@ from workflows.analysis.hexmaps.lg_types.__main__ import main as lg_types
 from workflows.analysis.hexmaps.provinces.__main__ import main as provinces
 
 
-# provinces()
-# lg_types()
-# votes()
-# votes_2nd()
+provinces()
+lg_types()
+votes()
+votes_2nd()
 
-# seats()
+seats()
 
-# p_turnout()
-# p_rejected()
+p_turnout()
+p_rejected()
 
-# seats_gen_elec()
-# seats_and_votes_odd()
-# seats_ties()
+seats_gen_elec()
+seats_and_votes_odd()
+seats_ties()
 
 p_npp()
 p_sjb()
