@@ -10,7 +10,7 @@ def main():
     for dirpath, dirnames, filenames in os.walk(dir_root):
         for filename in filenames:
             file_path = os.path.join(dirpath, filename)
-            if filename == "__main__.py" and dirpath == dir_root:
+            if filename == "__main__.py" and dirpath != dir_root:
                 cmd = f"python {file_path}"
                 print("-" * 60)
                 log.debug(f"{cmd}")
