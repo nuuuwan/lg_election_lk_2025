@@ -39,22 +39,52 @@ from workflows.analysis.hexmaps.election_2025.votes_2nd.__main__ import (
 from workflows.analysis.hexmaps.lg_types.__main__ import main as lg_types
 from workflows.analysis.hexmaps.provinces.__main__ import main as provinces
 
+import os
+from utils import Log
+import shutil
 
-provinces()
-lg_types()
-votes()
-votes_2nd()
+log = Log("hexmaps")
 
-seats()
 
-p_turnout()
-p_rejected()
+def copy_and_cleanup():
+    for dirpath, dirnames, filenames in os.walk(
+        os.path.join("workflows", "analysis", "hexmaps")
+    ):
+        for filename in filenames:
+            file_path = os.path.join(dirpath, filename)
+            if filename.endswith(".py"):
+                continue
+            if filename.startswith("hexbin-") and filename.endswith(".png"):
+                shutil.move(file_path, os.path.join("images", filename))
+                log.info(f'Moved "{file_path}" to images')
+                continue
+            os.remove(file_path)
+            log.warning(f'Removed "{file_path}"')
 
-seats_gen_elec()
-seats_and_votes_odd()
-seats_ties()
+        for dirname in dirnames:
+            dir_path = os.path.join(dirpath, dirname)
+            if dirname == "__pycache__":
+                shutil.rmtree(dir_path)
+                log.warning(f'Removed "{dir_path}"')
 
-p_npp()
-p_sjb()
 
-npp_seats()
+# provinces()
+# lg_types()
+# votes()
+# votes_2nd()
+
+# seats()
+
+# p_turnout()
+# p_rejected()
+
+# seats_gen_elec()
+# seats_and_votes_odd()
+# seats_ties()
+
+# p_npp()
+# p_sjb()
+
+# npp_seats()
+
+copy_and_cleanup()
