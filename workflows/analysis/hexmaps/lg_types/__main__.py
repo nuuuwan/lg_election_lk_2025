@@ -233,7 +233,7 @@ def build_hexmap(title, get_legend_label, get_color, dir_output):  # noqa
                     ),
                     _(
                         "text",
-                        f"{label} ({n})",
+                        f"{label}: {n}",
                         dict(
                             x=mid_x - dim_legend * 1,
                             y=y,
