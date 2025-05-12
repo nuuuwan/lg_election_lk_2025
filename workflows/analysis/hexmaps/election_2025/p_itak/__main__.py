@@ -48,14 +48,14 @@ def get_color(legend_label, display_party_hue):
         return "#000"
 
     if legend_label == DID_NOT_CONTEST:
-        return "#eee"
+        return "#ccc"
 
     p = get_mid_percentage_from_label(legend_label)
 
     hue = display_party_hue
     saturation = 100
-    MIN_LIGHTNESS = 10
-    MAX_LIGHTNESS = 90
+    MIN_LIGHTNESS = 0
+    MAX_LIGHTNESS = 100
     lightness = MIN_LIGHTNESS + (1 - p) * (MAX_LIGHTNESS - MIN_LIGHTNESS)
 
     return Color.from_hls(

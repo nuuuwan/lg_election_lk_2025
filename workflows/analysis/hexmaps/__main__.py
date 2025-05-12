@@ -5,7 +5,7 @@ import shutil
 log = Log("hexmaps")
 
 
-def main():
+def run():
     dir_root = os.path.join("workflows", "analysis", "hexmaps")
     for dirpath, dirnames, filenames in os.walk(dir_root):
         for filename in filenames:
@@ -13,9 +13,16 @@ def main():
             if filename == "__main__.py" and dirpath != dir_root:
                 cmd = f"python {file_path}"
                 print("-" * 60)
-                log.debug(f"{cmd}")
+                log.info(f"{cmd}")
                 os.system(cmd)
                 print("-" * 60)
+
+
+def clean_and_copy():
+    dir_root = os.path.join("workflows", "analysis", "hexmaps")
+    for dirpath, dirnames, filenames in os.walk(dir_root):
+        for filename in filenames:
+            file_path = os.path.join(dirpath, filename)
 
             if filename.endswith(".py"):
                 continue
@@ -31,6 +38,11 @@ def main():
             if dirname == "__pycache__":
                 shutil.rmtree(dir_path)
                 log.warning(f'Removed "{dir_path}"')
+
+
+def main():
+    run()
+    clean_and_copy()
 
 
 if __name__ == "__main__":
