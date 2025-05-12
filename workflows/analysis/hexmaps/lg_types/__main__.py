@@ -186,23 +186,11 @@ def build_hexmap(title, get_legend_label, get_color, dir_output):  # noqa
     if "%" in title or "Ties" in title or "Size" in title:
         sort_i = 0
 
-    if "Size of NPP Majority" in title:
-
-        items = sorted(
-            list(label_to_n.items()),
-            key=lambda x: (
-                (2 if "than" in x[0] else 1) * int(x[0].split(" ")[-1])
-                if x[0] != "No Election"
-                else -100
-            ),
-            reverse=True,
-        )
-    else:
-        items = sorted(
-            list(label_to_n.items()),
-            key=lambda x: x[sort_i],
-            reverse=sort_reverse,
-        )
+    items = sorted(
+        list(label_to_n.items()),
+        key=lambda x: x[sort_i],
+        reverse=sort_reverse,
+    )
 
     for i, (label, n) in enumerate(items):
         color = get_color(label)

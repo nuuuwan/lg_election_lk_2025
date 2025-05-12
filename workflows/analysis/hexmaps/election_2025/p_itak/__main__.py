@@ -18,13 +18,13 @@ def get_label_for_percentage(p_turnout):
     Q = 0.1
     p_lower = int(p_turnout / Q) * Q
     p_upper = p_lower + Q
-    return f"{p_lower:.0%} to {p_upper:.0%}"
+    return f"[{p_lower:.0%}, {p_upper:.0%})"
 
 
 def get_mid_percentage_from_label(label):
-    p_lower, p_upper = label.split(" to ")
-    p_lower = float(p_lower[:-1]) / 100.0
-    p_upper = float(p_upper[:-1]) / 100.0
+    p_lower, p_upper = label.split(", ")
+    p_lower = float(p_lower[1:-1]) / 100.0
+    p_upper = float(p_upper[:-2]) / 100.0
     return (p_lower + p_upper) / 2.0
 
 

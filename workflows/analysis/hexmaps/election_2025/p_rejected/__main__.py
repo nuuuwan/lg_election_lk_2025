@@ -18,7 +18,7 @@ Q = 0.005
 def get_label_for_percentage(p):
     p_lower = int(p / Q) * Q
     p_upper = p_lower + Q
-    label = f"{p_lower:.1%} to {p_upper:.1%}"
+    label = f"[{p_lower:.1%}, {p_upper:.1%})"
 
     return label
 
@@ -27,9 +27,9 @@ def get_mid_percentage_for_label(label):
     if label == NO_ELECTION:
         return 0.0
 
-    p_lower, p_upper = label.split(" to ")
-    p_lower = float(p_lower[:-1])
-    p_upper = float(p_upper[:-1])
+    p_lower, p_upper = label.split(", ")
+    p_lower = float(p_lower[1:-1])
+    p_upper = float(p_upper[:-2])
     return (p_lower + p_upper) / 2.0 / 100.0
 
 
