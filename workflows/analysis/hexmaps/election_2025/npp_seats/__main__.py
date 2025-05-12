@@ -98,7 +98,7 @@ def get_color(legend_label):
 
         log2_mid = math.log2(abs_mid)
         scaled_log2_mid = min(log2_mid, 4) / 4
-        lightness = 50 + (scaled_log2_mid) * 50
+        lightness = 50 + (scaled_log2_mid) * 40
 
     sat = 100
     return Color.from_hls(hue, lightness, sat).hex
