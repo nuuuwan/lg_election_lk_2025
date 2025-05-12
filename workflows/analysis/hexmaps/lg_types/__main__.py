@@ -185,6 +185,7 @@ def build_hexmap(title, get_legend_label, get_color, dir_output):  # noqa
         "NPP Seats - All Other Seats",
         "Total Electors per LG",
         "Total Electors per Seat",
+        "Parties with at least 1 seat",
     ]:
 
         def custom_sorter(label):
