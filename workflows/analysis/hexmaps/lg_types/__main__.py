@@ -180,17 +180,38 @@ def build_hexmap(title, get_legend_label, get_color, dir_output):  # noqa
 
     n_labels = len(label_to_n)
     dim_legend = min(0.5, 6 / n_labels)
-    sort_i = 1
-    sort_reverse = True
 
-    if "%" in title or "Ties" in title or "Size" in title:
-        sort_i = 0
+    if title == "NPP Seats - All Other Seats":
 
-    items = sorted(
-        list(label_to_n.items()),
-        key=lambda x: x[sort_i],
-        reverse=sort_reverse,
-    )
+        def custom_sorter(label):
+
+            if "[" in label or "]" in label:
+                lower, upper = label[1:-1].split(", ")
+                lower = float(lower)
+                upper = float(upper)
+                mid = (lower + upper) / 2.0
+            else:
+                try:
+                    mid = float(label)
+                except Exception as _:
+                    return -1000
+            return mid
+
+        items = sorted(
+            list(label_to_n.items()),
+            key=lambda x: custom_sorter(x[0]),
+            reverse=True,
+        )
+    else:
+        sort_i = 1
+        if "%" in title or "Ties" in title or "Size" in title:
+            sort_i = 0
+
+        items = sorted(
+            list(label_to_n.items()),
+            key=lambda x: x[sort_i],
+            reverse=True,
+        )
 
     for i, (label, n) in enumerate(items):
         color = get_color(label)
@@ -232,7 +253,7 @@ def build_hexmap(title, get_legend_label, get_color, dir_output):  # noqa
             "2025 Sri Lankan Local Authority Elections",
             dict(
                 x=mid_x,
-                y=1,
+                y=0.75,
                 fill="#444",
                 font_size=0.5,
                 text_anchor="middle",
@@ -244,9 +265,21 @@ def build_hexmap(title, get_legend_label, get_color, dir_output):  # noqa
             title,
             dict(
                 x=mid_x,
-                y=2,
+                y=1.5,
                 fill="#444",
                 font_size=1,
+                text_anchor="middle",
+                dominant_baseline="middle",
+            ),
+        ),
+        _(
+            "text",
+            "Data Source: elections.gov.lk",
+            dict(
+                x=mid_x,
+                y=2.25,
+                fill="#444",
+                font_size=0.5,
                 text_anchor="middle",
                 dominant_baseline="middle",
             ),

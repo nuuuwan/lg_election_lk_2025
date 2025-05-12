@@ -32,31 +32,35 @@ def get_label_for_percentage(p_turnout):
     return f"[{p_lower:.1%}, {p_upper:.1%})"
 
 
-def get_label_from_majority(majority):
-    if majority == 0:
+def get_label_from_diff(diff):
+    # case 0
+    if diff == 0:
         return "0"
-    abs_majority = abs(majority)
-    log2 = math.log2(abs_majority)
+
+    abs_diff = abs(diff)
+    log2 = math.log2(abs_diff)
     log2_lower = int(log2)
     log2_upper = log2_lower + 1
     lower = 2**log2_lower
     upper = 2**log2_upper - 1
-    sign = "-" if majority < 0 else "+"
+    sign = "-" if diff < 0 else "+"
     if lower == upper:
         return f"{sign}{lower}"
-    return f"[{sign}{lower}, {sign}{upper}]"
+    if sign == "+":
+        return f"[{sign}{lower}, {sign}{upper}]"
+    return f"[{sign}{upper}, {sign}{lower}]"
 
 
-def get_mid_majority_from_label(label):
-    if "[" not in label:
-        return int(label)
+def get_mid_diff_from_label(label):
+    if "[" not in label and "]" not in label:
+        return float(label)
 
     lower, upper = label[1:-1].split(", ")
-    lower = int(lower)
-    upper = int(upper)
+    lower = float(lower)
+    upper = float(upper)
 
     mid = (lower + upper) / 2
-    return int(mid)
+    return float(mid)
 
 
 def get_legend_label(ent):
@@ -73,8 +77,8 @@ def get_legend_label(ent):
         if party_code == "NPP":
             npp_seats = party_result["seats"]
             break
-    majority = npp_seats - (total_seats // 2 + 1)
-    label = get_label_from_majority(majority)
+    diff = npp_seats - (total_seats - npp_seats)
+    label = get_label_from_diff(diff)
 
     return label
 
@@ -83,7 +87,7 @@ def get_color(legend_label):
     if legend_label == NO_ELECTION:
         return "#000"
 
-    mid = get_mid_majority_from_label(legend_label)
+    mid = get_mid_diff_from_label(legend_label)
     if mid == 0:
         hue = 105
         lightness = 50
@@ -93,7 +97,7 @@ def get_color(legend_label):
         hue = 0 if mid > 0 else 210
 
         log2_mid = math.log2(abs_mid)
-        scaled_log2_mid = min(log2_mid, 3) / 3
+        scaled_log2_mid = min(log2_mid, 4) / 4
         lightness = 50 + (scaled_log2_mid) * 50
 
     sat = 100
@@ -102,7 +106,7 @@ def get_color(legend_label):
 
 def main():
     build_hexmap(
-        "NPP Majority",
+        "NPP Seats - All Other Seats",
         get_legend_label,
         get_color,
         os.path.dirname(__file__),
