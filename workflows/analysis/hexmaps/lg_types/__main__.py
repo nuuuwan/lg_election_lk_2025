@@ -186,7 +186,7 @@ def build_hexmap(title, get_legend_label, get_color, dir_output):  # noqa
     if "%" in title or "Ties" in title or "Size" in title:
         sort_i = 0
 
-    if "Majority" in title:
+    if "Size of NPP Majority" in title:
 
         items = sorted(
             list(label_to_n.items()),

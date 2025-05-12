@@ -31,10 +31,14 @@ def get_legend_label(ent):
     return winning_party_code
 
 
-if __name__ == "__main__":
+def main():
     build_hexmap(
         "Majority of Seats (G.E.)",
         get_legend_label,
         get_color,
         os.path.dirname(__file__),
     )
+
+
+if __name__ == "__main__":
+    main()

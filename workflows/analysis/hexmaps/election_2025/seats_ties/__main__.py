@@ -44,10 +44,14 @@ def get_color(legend_label):
     }.get(legend_label, "#fff")
 
 
-if __name__ == "__main__":
+def main():
     build_hexmap(
         "Ties",
         get_legend_label,
         get_color,
         os.path.dirname(__file__),
     )
+
+
+if __name__ == "__main__":
+    main()
