@@ -6,6 +6,7 @@ import tempfile
 
 log = Log("hexmaps")
 VERSION = "Monday, May 12, 2025 7:50:47 PM"
+FORCE_CREATE = True
 
 
 def clean_and_copy():
@@ -46,7 +47,7 @@ def run_single(file_path):
         data = hash_json_file.read()
         current_py_content_md5 = data["md5"]
 
-    if current_py_content_md5 == py_content_md5:
+    if current_py_content_md5 == py_content_md5 and not FORCE_CREATE:
         log.info(f"Not running {file_path}")
         return
 
@@ -79,7 +80,7 @@ def run():
 
 def main():
 
-    # run()
+    run()
     clean_and_copy()
 
 

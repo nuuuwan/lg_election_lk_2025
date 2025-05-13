@@ -56,9 +56,12 @@ def build_hexmap(title, get_legend_label, get_color, dir_output):  # noqa
         color = get_color(legend_label)
         colors.append(color)
 
-        if legend_label not in label_to_n:
-            label_to_n[legend_label] = 0
-        label_to_n[legend_label] += 1
+        if legend_label not in ["No Election"]:
+
+            if legend_label not in label_to_n:
+                label_to_n[legend_label] = 0
+
+            label_to_n[legend_label] += 1
 
     algo = DCN1985.from_ents(
         ents,
@@ -174,12 +177,7 @@ def build_hexmap(title, get_legend_label, get_color, dir_output):  # noqa
 
         return data
 
-    mid_x = 14
-
     rendered_svg_legend_inner_list = []
-
-    n_labels = len(label_to_n)
-    dim_legend = min(0.5, 6 / n_labels)
 
     if title in [
         "NPP Seats - All Other Seats",
@@ -198,9 +196,9 @@ def build_hexmap(title, get_legend_label, get_color, dir_output):  # noqa
             else:
                 try:
                     mid = float(label)
+                    return mid
                 except Exception as _:
                     return -1000
-            return mid
 
         items = sorted(
             list(label_to_n.items()),
@@ -214,38 +212,54 @@ def build_hexmap(title, get_legend_label, get_color, dir_output):  # noqa
 
         items = sorted(
             list(label_to_n.items()),
-            key=lambda x: x[sort_i],
+            key=lambda x: (x[sort_i]),
             reverse=True,
         )
 
+    n_labels = len(label_to_n)
+    dim_legend = 10 / max(10, n_labels)
+
+    end_x = 27
     for i, (label, n) in enumerate(items):
         color = get_color(label)
-        y = 3 + i * dim_legend + 0.25
+        y = 4 + i * dim_legend + 0.25
         rendered_svg_legend_inner_list.append(
             _(
                 "g",
                 [
                     _(
-                        "rect",
-                        None,
+                        "text",
+                        f"{label}",
                         dict(
-                            x=mid_x - dim_legend * 2,
-                            y=y - dim_legend * 0.5,
-                            width=dim_legend * 0.8,
-                            height=dim_legend * 0.8,
-                            fill=color,
+                            x=end_x - dim_legend * 4,
+                            y=y,
+                            fill="#000",
+                            font_size=dim_legend,
+                            text_anchor="end",
+                            dominant_baseline="middle",
                         ),
                     ),
                     _(
                         "text",
-                        f"{label}: {n}",
+                        f"({n})",
                         dict(
-                            x=mid_x - dim_legend * 1,
+                            x=end_x,
                             y=y,
                             fill="#000",
-                            font_size=dim_legend,
-                            text_anchor="start",
+                            font_size=dim_legend * 0.67,
+                            text_anchor="end",
                             dominant_baseline="middle",
+                        ),
+                    ),
+                    _(
+                        "rect",
+                        None,
+                        dict(
+                            x=end_x - dim_legend * 3,
+                            y=y - dim_legend * 0.4,
+                            width=dim_legend * 0.8,
+                            height=dim_legend * 0.8,
+                            fill=color,
                         ),
                     ),
                 ],
@@ -255,37 +269,51 @@ def build_hexmap(title, get_legend_label, get_color, dir_output):  # noqa
     rendered_svg_custom = [
         _(
             "text",
-            "Sri Lankan Local Government Election 2025",
+            title,
             dict(
-                x=mid_x,
-                y=0.75,
+                x=end_x,
+                y=1,
                 fill="black",
-                font_size=0.5,
-                text_anchor="middle",
+                font_size=45 / max(20, len(title)),
+                font_weight="bold",
+                text_anchor="end",
                 dominant_baseline="middle",
             ),
         ),
         _(
             "text",
-            title,
+            "Sri Lankan Local Government Election 2025",
             dict(
-                x=mid_x,
-                y=1.5,
-                fill="black",
-                font_size=1,
+                x=-6,
+                y=17,
+                fill="gray",
+                font_size=2,
                 text_anchor="middle",
                 dominant_baseline="middle",
+                transform="rotate(270,-6,17)",
             ),
         ),
         _(
             "text",
             "Data Source: elections.gov.lk",
             dict(
-                x=mid_x,
-                y=2.25,
+                x=end_x,
+                y=32.5,
+                fill="gray",
+                font_size=1,
+                text_anchor="end",
+                dominant_baseline="middle",
+            ),
+        ),
+        _(
+            "text",
+            "Visualization: @nuuuwan",
+            dict(
+                x=end_x,
+                y=33.5,
                 fill="black",
-                font_size=0.5,
-                text_anchor="middle",
+                font_size=1,
+                text_anchor="end",
                 dominant_baseline="middle",
             ),
         ),
