@@ -193,12 +193,13 @@ def build_hexmap(title, get_legend_label, get_color, dir_output):  # noqa
                 lower = float(lower.replace(",", "").strip())
                 upper = float(upper.replace(",", "").strip())
                 mid = (lower + upper) / 2.0
-            else:
-                try:
-                    mid = float(label)
-                    return mid
-                except Exception as _:
-                    return -1000
+                return mid
+
+            try:
+                mid = float(label)
+                return mid
+            except Exception as _:
+                return -1000
 
         items = sorted(
             list(label_to_n.items()),

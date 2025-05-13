@@ -5,7 +5,7 @@ import random
 import tempfile
 
 log = Log("hexmaps")
-VERSION = "Monday, May 12, 2025 7:50:47 PM"
+VERSION = "Tuesday, May 13, 2025 2:16:39 PM"
 FORCE_CREATE = True
 
 
