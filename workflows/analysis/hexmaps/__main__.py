@@ -2,6 +2,7 @@ import os
 from utils import Log, File, Hash, JSONFile
 import shutil
 import random
+import tempfile
 
 log = Log("hexmaps")
 VERSION = "Monday, May 12, 2025 7:50:47 PM"
@@ -14,8 +15,7 @@ def clean_and_copy():
             file_path = os.path.join(dirpath, filename)
             if filename.endswith(".py"):
                 continue
-            if filename.endswith(".hash.json"):
-                continue
+
             if filename.startswith("hexbin-") and filename.endswith(".png"):
                 image_path = os.path.join("images", filename)
                 shutil.move(file_path, image_path)
@@ -33,17 +33,20 @@ def clean_and_copy():
 
 
 def run_single(file_path):
+    py_file_name_md5 = Hash.md5(file_path)
     content = File(file_path).read()
-    md5 = Hash.md5(content + VERSION)
+    py_content_md5 = Hash.md5(content + VERSION)
 
-    hash_json_file_path = file_path[:-3] + ".hash.json"
+    hash_json_file_path = os.path.join(
+        tempfile.gettempdir(), f"file_info.{py_file_name_md5}.json"
+    )
     hash_json_file = JSONFile(hash_json_file_path)
-    current_md5 = None
+    current_py_content_md5 = None
     if os.path.exists(hash_json_file_path):
         data = hash_json_file.read()
-        current_md5 = data["md5"]
+        current_py_content_md5 = data["md5"]
 
-    if current_md5 == md5:
+    if current_py_content_md5 == py_content_md5:
         log.info(f"Not running {file_path}")
         return
 
@@ -53,7 +56,7 @@ def run_single(file_path):
     os.system(cmd)
     print("-" * 60)
 
-    hash_json_file.write(dict(md5=md5))
+    hash_json_file.write(dict(md5=py_content_md5))
 
     clean_and_copy()
 
@@ -76,7 +79,7 @@ def run():
 
 def main():
 
-    run()
+    # run()
     clean_and_copy()
 
 
