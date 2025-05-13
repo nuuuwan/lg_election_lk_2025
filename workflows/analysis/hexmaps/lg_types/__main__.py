@@ -222,7 +222,7 @@ def build_hexmap(title, get_legend_label, get_color, dir_output):  # noqa
     end_x = 27
     for i, (label, n) in enumerate(items):
         color = get_color(label)
-        y = 4 + i * dim_legend + 0.25
+        y = 3.5 + i * dim_legend + 0.25
         rendered_svg_legend_inner_list.append(
             _(
                 "g",
@@ -274,7 +274,7 @@ def build_hexmap(title, get_legend_label, get_color, dir_output):  # noqa
                 x=end_x,
                 y=1,
                 fill="black",
-                font_size=45 / max(20, len(title)),
+                font_size=44 / max(15, len(title)),
                 font_weight="bold",
                 text_anchor="end",
                 dominant_baseline="middle",
@@ -298,8 +298,8 @@ def build_hexmap(title, get_legend_label, get_color, dir_output):  # noqa
             "Data Source: elections.gov.lk",
             dict(
                 x=end_x,
-                y=32.5,
-                fill="gray",
+                y=32.25,
+                fill="darkgray",
                 font_size=1,
                 text_anchor="end",
                 dominant_baseline="middle",

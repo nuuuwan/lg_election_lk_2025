@@ -21,7 +21,7 @@ def clean_and_copy():
                 image_path = os.path.join("images", filename)
                 shutil.move(file_path, image_path)
                 log.info(f'Moved "{file_path}" to images')
-                os.startfile(image_path)
+                # os.startfile(image_path)
                 continue
             os.remove(file_path)
             log.warning(f'Removed "{file_path}"')
