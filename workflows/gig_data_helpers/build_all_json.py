@@ -155,8 +155,12 @@ def get_result_list():
 
 def main():
     result_list = get_result_list()
+
+    election_type = "local-government"
+    year = 2025
     all_file_path = os.path.join(
-        "data", "government-elections-local-government.regions-ec.2025.json"
+        "data",
+        f"{election_type}_election_{year}.json",
     )
     all_file = JSONFile(all_file_path)
     all_file.write(result_list)
