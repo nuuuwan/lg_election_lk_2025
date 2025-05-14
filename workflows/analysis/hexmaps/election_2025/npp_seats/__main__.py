@@ -107,7 +107,7 @@ def get_color(legend_label):
 
 def main():
     build_hexmap(
-        "NPP Seats - All Other Seats",
+        "NPP - All Others (Seats)",
         get_legend_label,
         get_color,
         os.path.dirname(__file__),

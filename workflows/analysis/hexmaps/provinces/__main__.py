@@ -35,7 +35,7 @@ def get_color(legend_label):
 
 def main():
     build_hexmap(
-        "Local Government by Province",
+        "LGs by Province",
         get_legend_label,
         get_color,
         os.path.dirname(__file__),

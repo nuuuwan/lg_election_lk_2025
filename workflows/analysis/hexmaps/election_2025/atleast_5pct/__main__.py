@@ -48,7 +48,7 @@ def get_color(legend_label):
 
 def main():
     build_hexmap(
-        "Parties with at least 5% votes",
+        "Parties > 5% votes",
         get_legend_label,
         get_color,
         os.path.dirname(__file__),

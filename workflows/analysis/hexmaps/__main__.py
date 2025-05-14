@@ -5,8 +5,8 @@ import random
 import tempfile
 
 log = Log("hexmaps")
-VERSION = "Tuesday, May 13, 2025 2:16:39 PM"
-FORCE_CREATE = True
+VERSION = "Tuesday, May 13, 2025 2:43:17 PM"
+FORCE_CREATE = False
 
 
 def clean_and_copy():

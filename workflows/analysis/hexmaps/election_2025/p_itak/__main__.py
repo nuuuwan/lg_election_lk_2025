@@ -67,7 +67,7 @@ def get_color(legend_label, display_party_hue):
 
 def build_hexmap_for_party(display_party_code, display_party_hue):
     build_hexmap(
-        f"Votes % for {display_party_code}",
+        f"Vote % for {display_party_code}",
         lambda ent: get_legend_label(ent, display_party_code),
         lambda label: get_color(label, display_party_hue),
         os.path.dirname(__file__),

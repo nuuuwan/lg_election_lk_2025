@@ -183,7 +183,7 @@ def build_hexmap(title, get_legend_label, get_color, dir_output):  # noqa
         "NPP Seats - All Other Seats",
         "Total Electors per LG",
         "Total Electors per Seat",
-        "Parties with at least 1 seat",
+        "Parties ≥ 1 seat",
     ]:
 
         def custom_sorter(label):
@@ -275,7 +275,7 @@ def build_hexmap(title, get_legend_label, get_color, dir_output):  # noqa
                 x=end_x,
                 y=1,
                 fill="black",
-                font_size=44 / max(15, len(title)),
+                font_size=40 / max(15, len(title)),
                 font_weight="bold",
                 text_anchor="end",
                 dominant_baseline="middle",
@@ -340,7 +340,7 @@ def build_hexmap(title, get_legend_label, get_color, dir_output):  # noqa
 
 def main():
     build_hexmap(
-        "Types of Local Governments",
+        "Types of LGs",
         get_legend_label,
         get_color,
         os.path.dirname(__file__),
