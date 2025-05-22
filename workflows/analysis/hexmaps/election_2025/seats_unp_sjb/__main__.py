@@ -10,7 +10,27 @@ import os
 
 code_to_result = get_code_to_result()
 
-log = Log("seats")
+log = Log("seats_unp_sjb")
+
+
+def hack_results(party_results):
+    seats_sjb_unp = 0
+    hacked_party_results = []
+    for party_result in party_results:
+        if party_result["party_code"] in ["SJB", "UNP"]:
+            seats_sjb_unp += party_result["seats"]
+            continue
+        hacked_party_results.append(party_result)
+
+    if seats_sjb_unp > 0:
+        hacked_party_results.append(
+            {
+                "party_code": "SJB_UNP",
+                "seats": seats_sjb_unp,
+            }
+        )
+
+    return hacked_party_results
 
 
 def get_legend_label(ent):
@@ -18,25 +38,16 @@ def get_legend_label(ent):
     if result is None:
         return NO_ELECTION
     party_results = result["party_result_data_list"]
+    party_results = hack_results(party_results)
     total_seats = sum([result["seats"] for result in party_results])
     party_results.sort(key=lambda x: x["seats"], reverse=True)
     winning_party_result = party_results[0]
     winning_party_code = winning_party_result["party_code"]
     winning_party_seats = winning_party_result["seats"]
     is_absolute_majority = winning_party_seats * 2 > total_seats
-    electors = result["summary_data"]["electors"]
+
     if not is_absolute_majority:
-        print(
-            ",".join(
-                [
-                    ent.name,
-                    winning_party_code,
-                    str(electors),
-                    str(winning_party_seats),
-                    str(total_seats),
-                ]
-            )
-        )
+
         return NO_ABSOLUTE_MAJORITY
 
     return winning_party_code
@@ -44,7 +55,7 @@ def get_legend_label(ent):
 
 def main():
     build_hexmap(
-        "Majority",
+        "Majority (SJB+UNP)",
         get_legend_label,
         get_color,
         os.path.dirname(__file__),
